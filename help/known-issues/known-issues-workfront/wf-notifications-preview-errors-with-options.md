@@ -2,10 +2,10 @@
 title: "Notificaciones: Errores al acceder a la configuración de notificación de correo electrónico"
 description: '"Cuando un usuario intenta cambiar la configuración de las notificaciones por correo electrónico, puede que vea un error".'
 hidefromtoc: true
-source-git-commit: 7b08d32dbdc06d224a30cde787a05276efc782dd
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 8%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Este problema solo existe en el entorno de Vista previa.
+>Este problema existe tanto en los entornos de producción como de vista previa.
 
 Cuando un usuario intenta cambiar la configuración de las notificaciones por correo electrónico, puede que vea uno de los siguientes errores:
 
