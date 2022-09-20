@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69fbacd0de7751bf9d9b597e6862fe3406a49fde
+source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
 workflow-type: tm+mt
-source-wordcount: '13283'
+source-wordcount: '13341'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,16 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones de septiembre de 2022
+
++++**Actualización de mantenimiento el 22 de septiembre de 2022**
+
+**No se puede cerrar la tarjeta de usuario en el flujo de actualización**
+
+*Actualizaciones*
+
+Cuando un usuario está viendo actualizaciones y pasa el ratón por encima de un nombre, se abre una tarjeta con detalles sobre el usuario cuyo nombre se abre y no se cierra automáticamente. La página no responde hasta que la tarjeta se cierre manualmente haciendo clic en la X en la esquina superior derecha.
+
++++
 
 +++**Actualización de mantenimiento el 15 de septiembre de 2022**
 
