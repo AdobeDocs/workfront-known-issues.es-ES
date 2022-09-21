@@ -3,14 +3,14 @@ title: '''Tareas: No se puede seleccionar el tiempo transcurrido al editar en l�
 description: Cuando un usuario está viendo una lista de tareas e intenta editar la duración de la tarea, las unidades de duración transcurridas no están disponibles.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 12%
 
 ---
 
-# Tareas: No se puede seleccionar el tiempo transcurrido al editar en línea Duración de la tarea
+# Tareas: No se puede seleccionar [!UICONTROL Tiempo transcurrido] al editar en línea Duración de la tarea
 
 >[!NOTE]
 >
