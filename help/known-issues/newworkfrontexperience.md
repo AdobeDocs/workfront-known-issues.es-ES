@@ -3,10 +3,10 @@ title: Problemas conocidos en las nuevas [!DNL Adobe Workfront] Experiencia
 description: Se han notificado problemas conocidos para [!DNL Adobe Workfront] Experiencia
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
+source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '473'
+ht-degree: 1%
 
 ---
 
@@ -38,7 +38,6 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 | **Problema** | **Última modificación** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Pruebas: No se puede abrir la prueba en [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 de septiembre de 2022 |
-| [Actualizaciones: No se puede cerrar la tarjeta de usuario en el flujo de actualización](known-issues-workfront/wf-updates-cant-close-user-card.md) | 20 de septiembre de 2022 |
 | [Formularios personalizados: Elementos superpuestos en el panel izquierdo](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 de septiembre de 2022 |
 | [Hojas de tiempo: Las horas no se guardan al utilizar [!UICONTROL Tabulación] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 de septiembre de 2022 |
 | [Pruebas: [!UICONTROL Etapas de prueba activas] el campo está en blanco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
