@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos en [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Páginas en blanco al ver una prueba con varias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Pruebas: Error al añadir la prueba a [!DNL Workfront] from [!DNL Workfront] Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Error al cargar un archivo en un comentario](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: Las vistas de carpetas no muestran pruebas](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [Nueva etapa creada porque la fecha límite no puede coincidir con la fecha límite de la etapa existente](known-issues-workfront-proof/new-stage-created.md)
       + [Se muestra una fecha límite de aprobación de pruebas inexacta en la lista de trabajo en el hogar](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [No se puede agregar un usuario a la prueba etiquetándolo en un comentario](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [No se puede crear una nueva versión de una prueba](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL Responder en la prueba] el comportamiento del botón es incoherente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [El acceso automático a las pruebas se retrasa](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL Aprobación de prueba] informe no puede determinar plazos con precisión](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Problemas resueltos en [!DNL Workfront Fusion] {#fusion-resolved}
       + [Error 401 en [!DNL Workfront] módulos](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [No se puede desplazar para ver todas las ejecuciones de escenario](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [Los datos de los formularios personalizados no están disponibles en [!DNL Workfront Fusion] [!DNL Workfront] módulos](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Objetivos de Adobe Workfront] {#goals}
