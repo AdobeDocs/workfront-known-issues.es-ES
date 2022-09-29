@@ -2,15 +2,19 @@
 title: "Pruebas: El usuario no vuelve a la página anterior al cerrar la prueba"
 description: "Cuando un usuario que está viendo una prueba dentro de [!DNL Workfront] cierra la prueba, no devuelve la página en la que se encontraba antes de abrirla. En su lugar, se les redirige a otra página de [!DNL Workfront]. "
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 
 # Pruebas: El usuario no vuelve a la página anterior al cerrar la prueba
+
+>[!NOTE]
+>
+>Este problema se corrigió el 29 de septiembre de 2022.
 
 <!--This is on the WF page as well as the WFP page-->
 

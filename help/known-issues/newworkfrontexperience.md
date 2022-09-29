@@ -3,9 +3,9 @@ title: Problemas conocidos en las nuevas [!DNL Adobe Workfront] Experiencia
 description: Se han notificado problemas conocidos para [!DNL Adobe Workfront] Experiencia
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '445'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,6 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 | **Problema** | **Última modificación** |
 |---|---|
 | [Tareas: Las horas no se guardan al introducir horas en la tarea [!UICONTROL Panel de resumen]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 19 de septiembre de 2022 |
-| [Pruebas: El usuario no vuelve a la página anterior al cerrar la prueba](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 19 de septiembre de 2022 |
 | [Notificaciones: Errores al acceder a la configuración de notificación por correo electrónico](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 de septiembre de 2022 |
 | [Tareas y problemas: Salida involuntaria al crear tareas o problemas](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 de septiembre de 2022 |
 | [Informes: Problemas al crear y editar informes en [!UICONTROL Creador de informes]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 de septiembre de 2022 |
@@ -37,9 +36,7 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 
 | **Problema** | **Última modificación** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Pruebas: No se puede abrir la prueba en [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 de septiembre de 2022 |
 | [Formularios personalizados: Elementos superpuestos en el panel izquierdo](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 de septiembre de 2022 |
-| [Hojas de tiempo: Las horas no se guardan al utilizar [!UICONTROL Tabulación] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 de septiembre de 2022 |
 | [Pruebas: [!UICONTROL Etapas de prueba activas] el campo está en blanco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [Integraciones: Error al enviar la solicitud desde [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
 | [[!DNL Workfront Proof]: Los correos electrónicos de resumen diario no incluyen &quot;[!UICONTROL Ver detalles]&quot;, botón](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 de agosto de 2022 |

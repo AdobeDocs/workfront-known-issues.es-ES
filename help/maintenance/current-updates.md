@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '13341'
+source-wordcount: '13519'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,36 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones de septiembre de 2022
+
++++**Actualización de mantenimiento el 29 de septiembre de 2022**
+
+**El usuario no vuelve a la página anterior al cerrar la prueba**
+
+*Pruebas*
+
+Cuando un usuario que está viendo una prueba en [!DNL Workfront] cierra la prueba, no devuelve la página en la que se encontraba antes de abrirla. En su lugar, se les redirige a otra página de [!DNL Workfront].
+
+**No se puede abrir la prueba en[!DNL Workfront]**
+
+*Pruebas*
+
+Cuando un usuario está viendo un documento en [!DNL Workfront] e intenta abrir la prueba, la prueba no se abre y el usuario vuelve al [!UICONTROL Detalles del documento] página.
+
+**Las horas no se guardan al utilizar [!UICONTROL Tabulación] key**
+
+*Hojas de horas*
+
+Cuando un usuario rellena una hoja de tiempo y navega entre celdas con la variable [!UICONTROL Tabulación] , las horas no se guardan. La variable [!UICONTROL Guardar automáticamente] la notificación no aparece en la parte inferior de la pantalla y, si el usuario actualiza la página, puede ver las horas que no se guardaron.
+
+**Páginas en blanco al ver una prueba con varias páginas**
+
+*[!DNL Workfront Proof]*
+
+Cuando un usuario ve una prueba con varias páginas, puede ver miniaturas de las páginas, pero estas no se abren en el visor principal.
+
+
+
++++
 
 +++**Actualización de mantenimiento el 22 de septiembre de 2022**
 
@@ -72,6 +102,8 @@ Para reflejar la nueva funcionalidad de poder asignar tareas y problemas de form
 *[!DNL Workfront Scenario Planner]*
 
 Ahora, cuando comparte un filtro de proyecto con un grupo que tiene subgrupos adicionales, el filtro es visible para todos los miembros de grupo y subgrupo que ven proyectos en la variable [!UICONTROL Importar proyectos] en la [!DNL Scenario Planner].
+
++++
 
 +++**Actualización de mantenimiento el 8 de septiembre de 2022**
 
