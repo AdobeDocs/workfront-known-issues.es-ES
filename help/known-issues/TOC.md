@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: e1d537f182d5c86f6f06d39b806b29f225143e3f
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1230'
 ht-degree: 0%
 
 ---
@@ -147,6 +147,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos en Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extraer texto] módulo no produce texto](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: Error &quot;Error al verificar la conexión&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo no se carga al crear o editar un escenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] devuelve el error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
