@@ -2,15 +2,19 @@
 title: "Hojas de hora: Errores al agregar comentarios a un parte de horas"
 description: '"Cuando un usuario intenta agregar un comentario a un parte de horas mientras agrega horas, las horas se guardan, pero el comentario no. El usuario también ve mensajes de error".'
 hidefromtoc: true
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 14%
+source-wordcount: '112'
+ht-degree: 13%
 
 ---
 
 
 # Hojas de tiempo: Errores al agregar comentarios a un parte de horas
+
+>[!NOTE]
+>
+>Este problema se corrigió el 29 de septiembre de 2022.
 
 Cuando un usuario intenta agregar un comentario a un parte de horas mientras agrega horas, las horas se guardan, pero el comentario no. El usuario también ve los siguientes mensajes de error:
 

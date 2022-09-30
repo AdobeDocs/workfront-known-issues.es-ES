@@ -2,15 +2,20 @@
 title: "Informes: Problemas al crear y editar informes en Report Builder"
 description: '"Se han notificado varios problemas al crear y editar informes en el Creador de informes".'
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Informes: Problemas al crear y editar informes en el Creador de informes
+
+>[!NOTE]
+>
+>Este problema se ha resuelto.
+
 
 Se han notificado los siguientes problemas al crear y editar informes en el Creador de informes:
 
