@@ -3,10 +3,10 @@ title: Problemas conocidos en las nuevas [!DNL Adobe Workfront] Experiencia
 description: Se han notificado problemas conocidos para [!DNL Adobe Workfront] Experiencia
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,6 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 | **Problema** | **Última modificación** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Tareas: Las horas no se guardan al introducir horas en la tarea [!UICONTROL Panel de resumen]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 de septiembre de 2022 |
-| [Hojas de tiempo: Errores al agregar comentarios a un parte de horas](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 29 de septiembre de 2022 |
 | [Formularios personalizados: Elementos superpuestos en el panel izquierdo](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 de septiembre de 2022 |
 | [Pruebas: [!UICONTROL Etapas de prueba activas] el campo está en blanco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [Integraciones: Error al enviar la solicitud desde [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
