@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
+source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
 workflow-type: tm+mt
-source-wordcount: '13581'
+source-wordcount: '13746'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,41 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones de octubre de 2022
+
++++**(Planificado) Actualización de mantenimiento el 6 de octubre de 2022**
+
+**Elementos superpuestos en el panel izquierdo**
+
+*Formularios personalizados de mi grupo*
+
+Cuando un usuario trabaja en el generador de formularios y el formulario tiene más de 100 campos, el mensaje que notifica al usuario sobre el límite de campos hace que los elementos del panel izquierdo se superpongan.
+
+**El selector de fechas se abre automáticamente en el enfoque**
+
+*Exploración*
+
+Ahora, al navegar por el teclado, los selectores de fechas ya no se abren y activan automáticamente al recibir el foco del teclado.
+
+&quot;[!UICONTROL Los cambios recientes no se guardaron]&quot; error al guardar automáticamente cambios en un parte de horas
+
+*Hojas de horas*
+
+Cuando un usuario intenta editar un parte de horas de forma que se pueda almacenar en déclencheur y automáticamente, los cambios no se guardan y el usuario ve el siguiente mensaje:
+
+&quot;[!UICONTROL Los cambios recientes no se guardaron. Actualice la página para verla.]&quot;
+
+Esto se ha informado al editar lo siguiente:
+
+* Horas
+* Tareas
+
+Las notificaciones por correo electrónico se retrasan
+
+*Revisión de Workfront*
+
+Cuando se produce un evento en [!DNL Workfront Proof] que déclencheur una notificación por correo electrónico, el usuario no recibe la notificación inmediatamente. La notificación puede retrasarse varias horas.
+
++++
 
 +++**Actualización de mantenimiento el 3 de octubre de 2022**
 
