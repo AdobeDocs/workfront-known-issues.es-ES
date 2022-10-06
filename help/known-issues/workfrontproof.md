@@ -3,7 +3,7 @@ title: Problemas conocidos en [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -30,7 +30,7 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 
 | **Problema** | **Última modificación** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: Las notificaciones por correo electrónico se retrasan](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 de septiembre de 2022 |
+| [Pruebas: No se pueden comparar automáticamente las pruebas](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 de octubre de 2022 |
 | [Pruebas: [!UICONTROL Etapas de prueba activas] el campo está en blanco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [[!DNL Workfront Proof]: Los solicitantes y revisores se contabilizan en el recuento de licencias de una organización](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 de agosto de 2022 |
 | [Pruebas: La fecha límite de aprobación de pruebas inexacta se muestra en [!UICONTROL Lista de trabajo en el hogar]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 de abril de 2022 |

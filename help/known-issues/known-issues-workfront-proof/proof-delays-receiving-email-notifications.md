@@ -2,15 +2,19 @@
 title: "Prueba de Workfront: Las notificaciones por correo electrónico se retrasan"
 description: '"Cuando se produce un evento en [!DNL Workfront] Prueba de que déclencheur una notificación por correo electrónico; el usuario no recibe la notificación inmediatamente. La notificación puede retrasarse varias horas".'
 hidefromtoc: true
-source-git-commit: 69fbacd0de7751bf9d9b597e6862fe3406a49fde
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Proof]: Las notificaciones por correo electrónico se retrasan
+
+>[!NOTE]
+>
+>Este problema se corrigió el 6 de octubre de 2022.
 
 Cuando se produce un evento en [!DNL Workfront Proof] que déclencheur una notificación por correo electrónico, el usuario no recibe la notificación inmediatamente. La notificación puede retrasarse varias horas.
 

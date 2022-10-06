@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '13746'
+source-wordcount: '13805'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 
 ## Actualizaciones de octubre de 2022
 
-+++**(Planificado) Actualización de mantenimiento el 6 de octubre de 2022**
++++**Actualización de mantenimiento el 6 de octubre de 2022**
 
 **Elementos superpuestos en el panel izquierdo**
 
@@ -45,7 +45,17 @@ Cuando un usuario trabaja en el generador de formularios y el formulario tiene m
 
 Ahora, al navegar por el teclado, los selectores de fechas ya no se abren y activan automáticamente al recibir el foco del teclado.
 
-&quot;[!UICONTROL Los cambios recientes no se guardaron]&quot; error al guardar automáticamente cambios en un parte de horas
+**Asignar varios resultados de equipos en un solo equipo asignado**
+
+*Equipos*
+
+>[!NOTE]
+>
+>Este problema solo existe en el entorno de Vista previa.
+
+Cuando un usuario asigna varios equipos a una tarea o problema, solo aparece un equipo en la lista de asignaciones. Este problema también afecta a la creación de informes. Los informes que muestran asignaciones de equipo son inexactos porque solo aparece un equipo como asignado a la tarea o al problema.
+
+**&quot;[!UICONTROL Los cambios recientes no se guardaron]&quot; error al guardar automáticamente cambios en un parte de horas**
 
 *Hojas de horas*
 
@@ -58,7 +68,7 @@ Esto se ha informado al editar lo siguiente:
 * Horas
 * Tareas
 
-Las notificaciones por correo electrónico se retrasan
+**Las notificaciones por correo electrónico se retrasan**
 
 *Revisión de Workfront*
 
