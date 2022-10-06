@@ -3,10 +3,10 @@ title: Problemas conocidos en [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
+source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 
 ## Nuevo
 
-Estas cuestiones de las que se ha informado recientemente se están examinando actualmente
+Actualmente se están examinando estas cuestiones de las que se ha informado recientemente.
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |

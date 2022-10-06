@@ -3,10 +3,10 @@ title: Problemas conocidos en [!DNL Adobe Workfront Fusion]
 description: Problemas conocidos notificados para [!DNL Adobe Workfront Fusion]
 keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
+source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 
 ## Nuevo
 
-Estas cuestiones de las que se ha informado recientemente se están examinando actualmente
+Actualmente se están examinando estas cuestiones de las que se ha informado recientemente.
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
