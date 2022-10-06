@@ -2,7 +2,7 @@
 title: "Integraciones: Error al abrir Workfront para [!DNL Jira] en Jira"
 description: '"Cuando un usuario está trabajando en [!DNL Jira] e intenta añadir o abrir el [!DNL Workfront for Jira] complemento, el complemento no se abre y el usuario ve un mensaje de error".'
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 2%
@@ -11,8 +11,6 @@ ht-degree: 2%
 
 
 # Integraciones: Error al abrir [!DNL Workfront for Jira] en [!DNL Jira]
-
-<!--Becky recheck DNL-->
 
 >[!NOTE]
 >
