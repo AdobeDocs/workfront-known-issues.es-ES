@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
+source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
 workflow-type: tm+mt
-source-wordcount: '13831'
+source-wordcount: '13915'
 ht-degree: 3%
 
 ---
@@ -45,11 +45,13 @@ El tipo de modelo &quot;Tablero&quot; se ha agregado al catálogo de modelos. An
 
 Cuando un usuario trabaja en el generador de formularios y el formulario tiene más de 100 campos, el mensaje que notifica al usuario sobre el límite de campos hace que los elementos del panel izquierdo se superpongan.
 
-**El selector de fechas se abre automáticamente en el enfoque**
+**El selector de fechas ya no se abre automáticamente al activar o hacer clic en la entrada**
 
 *Exploración*
 
-Ahora, al navegar por el teclado, los selectores de fechas ya no se abren y activan automáticamente al recibir el foco del teclado.
+Cuando un usuario navega mediante el teclado, los selectores de fechas ya no se abren automáticamente cuando la entrada de fecha recibe el foco del teclado. En su lugar, los usuarios del teclado deben tabular al icono del selector de fechas y pulsar Intro para abrir el selector de fechas. Cuando un usuario navega por el ratón, los selectores de fechas ya no se abren automáticamente al hacer clic en la fecha. En su lugar, los usuarios del teclado deben hacer clic en el icono del selector de fechas para abrir el selector de fechas.
+
+Este cambio se realizó para ajustarse mejor a los patrones de experiencia de usuario del selector de fechas estándar y para crear una experiencia más accesible para los usuarios del teclado y del lector de pantalla.
 
 **Asignar varios resultados de equipos en un solo equipo asignado**
 
