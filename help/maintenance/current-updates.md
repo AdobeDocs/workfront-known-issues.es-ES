@@ -2,7 +2,7 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
+source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
 workflow-type: tm+mt
 source-wordcount: '13915'
 ht-degree: 3%
@@ -49,7 +49,7 @@ Cuando un usuario trabaja en el generador de formularios y el formulario tiene m
 
 *Exploración*
 
-Cuando un usuario navega mediante el teclado, los selectores de fechas ya no se abren automáticamente cuando la entrada de fecha recibe el foco del teclado. En su lugar, los usuarios del teclado deben tabular al icono del selector de fechas y pulsar Intro para abrir el selector de fechas. Cuando un usuario navega por el ratón, los selectores de fechas ya no se abren automáticamente al hacer clic en la fecha. En su lugar, los usuarios del teclado deben hacer clic en el icono del selector de fechas para abrir el selector de fechas.
+Cuando un usuario navega mediante el teclado, los selectores de fechas ya no se abren automáticamente cuando la entrada de fecha recibe el foco del teclado. En su lugar, los usuarios del teclado deben tabular al icono del selector de fechas y pulsar Intro para abrir el selector de fechas. Cuando un usuario navega por el ratón, los selectores de fechas ya no se abren automáticamente al hacer clic en la fecha. En su lugar, los usuarios del ratón deben hacer clic en el icono del selector de fechas para abrir el selector de fechas.
 
 Este cambio se realizó para ajustarse mejor a los patrones de experiencia de usuario del selector de fechas estándar y para crear una experiencia más accesible para los usuarios del teclado y del lector de pantalla.
 
