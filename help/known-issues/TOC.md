@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '1284'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos en [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas: [!UICONTROL Predecesor] no se encuentra el icono en el encabezado de la tarea](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
+      + [Pruebas: Al agregar un grupo a una prueba, no se agregan todos los miembros del grupo](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [Tareas y problemas: No se puede editar el nombre o el porcentaje completado de una tarea o problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
       + [Plantillas de diseño: Error al personalizar listas en una plantilla de diseño](known-issues-workfront/wf-layout-templates-error-lists-users.md)
       + [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [Pruebas: No se pueden comparar automáticamente las pruebas](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
