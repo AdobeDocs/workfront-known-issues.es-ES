@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
+source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
 workflow-type: tm+mt
-source-wordcount: '13915'
+source-wordcount: '14291'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,56 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones de octubre de 2022
+
++++**(Planificado) Actualización de mantenimiento el 13 de octubre de 2022**
+
+**No se puede volver a anclar una página después de que se haya eliminado su pin**
+
+*Exploración*
+
+>[!NOTE]
+>
+>Este problema se solucionará en Vista previa el 13 de octubre de 2022. Se fijará en Producción el 27 de octubre de 2022.
+
+Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
+
+Si un usuario intenta volver a fijar la página visitando la página y fijándola, no se creará el pin y el usuario no podrá fijar la página.
+
+**No se pueden asignar nombres ni guardar los filtros recién creados**
+
+*[!UICONTROL Planificador de recursos]*
+
+Cuando un usuario intenta nombrar un nuevo filtro en la [!UICONTROL Planificador de recursos], el cuadro nombre permanece en blanco. Además, si el usuario ha presionado la barra espaciadora, [!UICONTROL Guardar] se desactiva.
+
+**No se puede editar el nombre o el porcentaje completado de una tarea o problema**
+
+*Tareas y problemas*
+
+Usuarios con [!UICONTROL Contribute] el acceso a una tarea o problema no puede editar el nombre de la tarea o problema en el encabezado. Además, los usuarios con [!UICONTROL Contribute] access no puede editar el porcentaje completado de una tarea o problema.
+
+**Los solicitantes y revisores se contabilizan en el recuento de licencias de una organización**
+
+*[!DNL Workfront Proof]*
+
+Cuando un usuario se agrega a una prueba como revisor o solicitante, obtiene un &quot;[!UICONTROL Visitante]&quot; perfil de permisos, que no debería usar un [!DNL Workfront Proof] licencia. Sin embargo, cuando se añade el usuario, el recuento de [!DNL Workfront Proof] las licencias aumentan.
+
++++
+
++++**Actualización de mantenimiento el 11 de octubre de 2022
+
+**No se puede volver a anclar una página después de que se haya eliminado su pin**
+
+*Exploración*
+
+>[!NOTE]
+>
+>Este problema se corrigió en Vista previa el 13 de octubre de 2022. Se fijará en Producción el 27 de octubre de 2022.
+
+Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
+
+Si un usuario intenta volver a fijar la página visitando la página y fijándola, no se creará el pin y el usuario no podrá fijar la página.
+
++++
 
 +++**Actualización de mantenimiento el 6 de octubre de 2022**
 
@@ -759,7 +809,7 @@ Cuando un usuario va al [!UICONTROL Equilibrador de carga de trabajo] a través 
 
 * [!UICONTROL Hoy]
 * Flechas atrás y adelante
-* [!UICONTROL semanas]
+* [!UICONTROL Semanas]
 * Icono de calendario (selector de fechas)
 
 +++
