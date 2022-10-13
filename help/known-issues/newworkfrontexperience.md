@@ -3,9 +3,9 @@ title: Problemas conocidos en las nuevas [!DNL Adobe Workfront] Experiencia
 description: Se han notificado problemas conocidos para [!DNL Adobe Workfront] Experiencia
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '487'
 ht-degree: 2%
 
 ---
@@ -24,10 +24,6 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Hojas de tiempo: No se pueden introducir horas en [!UICONTROL Hora general]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 12 de octubre de 2022 |
-| [Asignaciones: Error al asignar un equipo de forma masiva](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 de octubre de 2022 |
-| [Pruebas: Al agregar un grupo a una prueba, no se agregan todos los miembros del grupo](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 de octubre de 2022 |
-| [Plantillas de diseño: Error al personalizar listas en una plantilla de diseño](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 de octubre de 2022 |
 | [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de octubre de 2022 |
 | [Documentos: &quot;[!UICONTROL No se pudo cargar el archivo]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de octubre de 2022 |
 | [Notificaciones: Usuarios no notificados cuando se mencionan o se incluyen en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 de septiembre de 2022 |
@@ -42,11 +38,11 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Asignaciones: Error al asignar un equipo de forma masiva](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 13 de octubre de 2022 |
+| [Plantillas de diseño: Error al personalizar listas en una plantilla de diseño](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 13 de octubre de 2022 |
 | [Listas: [!UICONTROL Filtro rápido] no devuelve resultados al buscar equipos](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 de octubre de 2022 |
 | [Navegación: No se puede volver a anclar una página después de que se haya eliminado su pin](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 de octubre de 2022 |
 | [Tareas: [!UICONTROL Predecesor] no se encuentra el icono en el encabezado de la tarea](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 de octubre de 2022 |
-| [Tareas y problemas: No se puede editar el nombre o el porcentaje completado de una tarea o problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 de octubre de 2022 |
-| [Pruebas: No se pueden comparar automáticamente las pruebas](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 de octubre de 2022 |
 | [Tareas: Las horas no se guardan al introducir horas en la tarea [!UICONTROL Panel de resumen]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 de septiembre de 2022 |
 | [Integraciones: Error al enviar la solicitud desde [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en el Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |

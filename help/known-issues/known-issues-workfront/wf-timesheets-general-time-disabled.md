@@ -2,15 +2,19 @@
 title: "Hojas de hora: No se pueden introducir horas en Hora general"
 description: '"Cuando un usuario intenta registrar horas en la sección Hora general de su parte de horas, no hay casillas en las que introducir horas. Si el usuario pasa el ratón por encima del área donde ingresaría horas, verá el mensaje Seleccione un puesto para registrar horas".'
 hidefromtoc: true
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 
 # Hojas de tiempo: No se pueden introducir horas en [!UICONTROL Hora general]
+
+>[!NOTE]
+>
+>Este problema se corrigió el 13 de octubre de 2022.
 
 Cuando un usuario intenta iniciar sesión durante las horas siguientes a la [!UICONTROL Hora general] de su parte de horas, no hay casillas en las que puedan introducir horas. Si el usuario pasa el ratón por encima del área donde ingresaría horas, verá el mensaje &quot;[!UICONTROL Seleccione un puesto de trabajo para registrar horas.]&quot;
 

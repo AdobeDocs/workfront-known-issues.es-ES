@@ -3,10 +3,10 @@ title: Problemas conocidos en [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: '191'
+ht-degree: 6%
 
 ---
 
@@ -24,7 +24,6 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: Al agregar un grupo a una prueba, no se agregan todos los miembros del grupo](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 de octubre de 2022 |
 | [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de octubre de 2022 |
 | [Documentos: &quot;[!UICONTROL No se pudo cargar el archivo]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de octubre de 2022 |
 
@@ -36,8 +35,7 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: No se pueden comparar automáticamente las pruebas](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 de octubre de 2022 |
-| [[!DNL Workfront Proof]: Los solicitantes y revisores se contabilizan en el recuento de licencias de una organización](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 de agosto de 2022 |
+| Ninguno |  |
 
 {style=&quot;table-layout:auto&quot;}
 
