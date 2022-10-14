@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
+source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
 workflow-type: tm+mt
-source-wordcount: '1372'
+source-wordcount: '1391'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos en [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: La opción &quot;Mover a&quot; no está disponible en los informes de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
+      + [Problemas: El recuento de problemas en la navegación izquierda de la tarea es incorrecto](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
       + [Águila: Problemas con tareas agregadas a una iteración](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
       + [Formularios personalizados: Error &quot;Whoops&quot; al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Hojas de tiempo: No se pueden introducir horas en [!UICONTROL Hora general]](known-issues-workfront/wf-timesheets-general-time-disabled.md)

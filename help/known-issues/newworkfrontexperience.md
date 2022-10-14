@@ -3,9 +3,9 @@ title: Problemas conocidos en las nuevas [!DNL Adobe Workfront] Experiencia
 description: Se han notificado problemas conocidos para [!DNL Adobe Workfront] Experiencia
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
+source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '517'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Problemas: El recuento de problemas en la navegación izquierda de la tarea es incorrecto](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 de octubre de 2022 |
 | [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de octubre de 2022 |
 | [Documentos: &quot;[!UICONTROL No se pudo cargar el archivo]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de octubre de 2022 |
 | [Notificaciones: Usuarios no notificados cuando se mencionan o se incluyen en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 de septiembre de 2022 |
@@ -38,10 +39,10 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Informes: La opción &quot;Mover a&quot; no está disponible en los informes de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 de octubre de 2022 |
 | [Águila: Problemas con tareas agregadas a una iteración](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 de octubre de 2022 |
 | [Formularios personalizados: Error &quot;Whoops&quot; al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 de octubre de 2022 |
 | [Asignaciones: Error al asignar un equipo de forma masiva](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 13 de octubre de 2022 |
-| [Plantillas de diseño: Error al personalizar listas en una plantilla de diseño](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 13 de octubre de 2022 |
 | [Listas: [!UICONTROL Filtro rápido] no devuelve resultados al buscar equipos](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 de octubre de 2022 |
 | [Navegación: No se puede volver a anclar una página después de que se haya eliminado su pin](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 de octubre de 2022 |
 | [Tareas: [!UICONTROL Predecesor] no se encuentra el icono en el encabezado de la tarea](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 de octubre de 2022 |
