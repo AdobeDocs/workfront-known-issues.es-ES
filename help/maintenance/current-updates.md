@@ -2,7 +2,7 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
 workflow-type: tm+mt
 source-wordcount: '14290'
 ht-degree: 3%
@@ -65,7 +65,7 @@ Cuando un usuario se agrega a una prueba como revisor o solicitante, obtiene un 
 
 +++
 
-+++**Actualización de mantenimiento el 11 de octubre de 2022
++++**Actualización de mantenimiento el 11 de octubre de 2022**
 
 **No se puede volver a anclar una página después de que se haya eliminado su pin**
 
