@@ -3,9 +3,9 @@ title: Problemas conocidos en [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '213'
 ht-degree: 6%
 
 ---
@@ -24,6 +24,7 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 de octubre de 2022 |
 | [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de octubre de 2022 |
 | [Documentos: &quot;[!UICONTROL No se pudo cargar el archivo]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de octubre de 2022 |
 
@@ -45,6 +46,7 @@ Las correcciones para estos problemas no están actualmente en la hoja de ruta. 
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de septiembre de 2022 |
 | [Pruebas: [!UICONTROL Etapas de prueba activas] el campo está en blanco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [[!DNL Workfront Proof]: No se puede agregar un usuario a la prueba etiquetándolo en un comentario](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 de marzo de 2022 |
 | [[!UICONTROL Página principal]: [!UICONTROL Responder en la prueba] el comportamiento del botón es incoherente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 de junio de 2021 |

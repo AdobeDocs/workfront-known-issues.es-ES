@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '1398'
+source-wordcount: '1424'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos en [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Tableros]: [!UICONTROL Tableros] la página no se carga](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [Programas: Problemas al asignar una [!UICONTROL Propietario del programa]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [Informes: La opción &quot;Mover a&quot; no está disponible en los informes de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Problemas: El recuento de problemas en la navegación izquierda de la tarea es incorrecto](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -131,6 +133,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos en [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Páginas en blanco al ver una prueba con varias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Pruebas: Error al añadir la prueba a [!DNL Workfront] from [!DNL Workfront] Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Error al cargar un archivo en un comentario](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)

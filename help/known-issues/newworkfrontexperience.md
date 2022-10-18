@@ -3,9 +3,9 @@ title: Problemas conocidos en las nuevas [!DNL Adobe Workfront] Experiencia
 description: Se han notificado problemas conocidos para [!DNL Adobe Workfront] Experiencia
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '554'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Tableros]: [!UICONTROL Tableros] la página no se carga](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 de octubre de 2022 |
+| [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 de octubre de 2022 |
 | [Problemas: El recuento de problemas en la navegación izquierda de la tarea es incorrecto](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 de octubre de 2022 |
 | [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de octubre de 2022 |
 | [Documentos: &quot;[!UICONTROL No se pudo cargar el archivo]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de octubre de 2022 |
@@ -59,6 +61,7 @@ Las correcciones para estos problemas no están actualmente en la hoja de ruta. 
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de septiembre de 2022 |
 | [Pruebas: [!UICONTROL Etapas de prueba activas] el campo está en blanco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [Tableros: Los gráficos de informes que se ven en un tablero utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 de agosto de 2022 |
 | [[!UICONTROL Página principal]: La terminología personalizada no se aplica al área de inicio](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 de junio de 2022 |
