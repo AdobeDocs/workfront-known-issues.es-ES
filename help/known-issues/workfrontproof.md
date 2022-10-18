@@ -3,10 +3,10 @@ title: Problemas conocidos en [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 6%
+source-wordcount: '212'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,6 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 de octubre de 2022 |
-| [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de octubre de 2022 |
 | [Documentos: &quot;[!UICONTROL No se pudo cargar el archivo]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de octubre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -36,7 +35,7 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| Ninguno |  |
+| [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 de octubre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

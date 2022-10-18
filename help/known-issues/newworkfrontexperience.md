@@ -3,7 +3,7 @@ title: Problemas conocidos en las nuevas [!DNL Adobe Workfront] Experiencia
 description: Se han notificado problemas conocidos para [!DNL Adobe Workfront] Experiencia
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 2%
@@ -27,7 +27,6 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 | [[!UICONTROL Tableros]: [!UICONTROL Tableros] la página no se carga](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 de octubre de 2022 |
 | [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 de octubre de 2022 |
 | [Problemas: El recuento de problemas en la navegación izquierda de la tarea es incorrecto](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 de octubre de 2022 |
-| [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de octubre de 2022 |
 | [Documentos: &quot;[!UICONTROL No se pudo cargar el archivo]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de octubre de 2022 |
 | [Notificaciones: Usuarios no notificados cuando se mencionan o se incluyen en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 de septiembre de 2022 |
 | [Notificaciones: Errores al acceder a la configuración de notificación por correo electrónico](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 de septiembre de 2022 |
@@ -41,6 +40,7 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 de octubre de 2022 |
 | [Programas: Problemas al asignar una [!UICONTROL Propietario del programa]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 de octubre de 2022 |
 | [Informes: La opción &quot;Mover a&quot; no está disponible en los informes de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 de octubre de 2022 |
 | [Águila: Problemas con tareas agregadas a una iteración](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 de octubre de 2022 |
