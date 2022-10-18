@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '14290'
+source-wordcount: '14458'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,39 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones de octubre de 2022
+
++++**Actualización de mantenimiento el 20 de octubre de 2022**
+
+**Error al asignar un equipo de forma masiva**
+
+*Asignaciones*
+
+Cuando un usuario edita por lotes tareas o problemas y asigna un equipo después de asignar un individuo, las asignaciones no se guardan y el usuario ve el siguiente error:
+
+&quot;[!UICONTROL Intentémoslo de nuevo: se produjo el siguiente error: teamAspings debe ser una lista de objetos o una lista de ID]&quot;
+
+**[!UICONTROL No se pudo cargar el archivo]&quot; error**
+
+*Documentos*
+
+Cuando un usuario intenta cargar un archivo en la variable [!UICONTROL Documentos] , el archivo no se carga y el usuario ve el error[!UICONTROL No se pudo cargar el archivo].&quot;
+
+Esto se ha notificado al intentar cargar archivos MP4.
+
+**El recuento de problemas en la navegación izquierda de la tarea es incorrecto**
+
+*Problemas*
+
+Cuando un usuario está viendo una tarea, el número que se muestra en la variable [!UICONTROL Problemas] de la navegación izquierda no representa con precisión el número real de problemas asociados a la tarea.
+
+
+**[!UICONTROL Predecesor] no se encuentra el icono en el encabezado de la tarea**
+
+*Tareas*
+
+Cuando un usuario está viendo una tarea, el icono del predecesor de la tarea no aparece en el encabezado.
+
++++
 
 +++**Actualización de mantenimiento el 13 de octubre de 2022**
 
