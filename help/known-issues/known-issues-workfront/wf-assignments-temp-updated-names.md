@@ -1,26 +1,26 @@
 ---
-title: "Campos Asignaciones: Se han actualizado temporalmente los nombres de los campos de asignación de usuarios y funciones"
-description: "El 1 de septiembre, un cambio temporal de nombre para dos [!DNL Workfront] los campos de asignación se introdujeron en Producción."
+title: "Campos de asignaciones: Se han actualizado temporalmente los nombres de los campos de asignación de usuarios y asignación de funciones"
+description: "El 1 de septiembre se introdujo un cambio temporal de nombre para dos campos de asignación de [!DNL Workfront] en el entorno de producción."
 hidefromtoc: true
 source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Campos Asignaciones: Nombres actualizados temporalmente para los campos de asignación de usuarios y funciones
+# Campos de asignación: nombres actualizados temporalmente para los campos de asignación de usuarios y roles
 
 >[!NOTE]
 >
 >Este problema se resolvió el 8 de septiembre de 2022.
 
-El 1 de septiembre, un cambio de nombre temporal para dos [!DNL Workfront] los campos de asignación se introdujeron en Producción:
+El 1 de septiembre se introdujo un cambio temporal de nombre para dos campos de asignación de [!DNL Workfront] en el entorno de producción:
 
-* **[!UICONTROL Usuarios de asignación]** es temporal **[!UICONTROL Usuarios asignados]**.
-* **[!UICONTROL Funciones de asignación]** es temporal **[!UICONTROL Funciones asignadas]**.
+* **[!UICONTROL Asignación usuarios]** cambia temporalmente a **[!UICONTROL Usuarios asignados]**.
+* **[!UICONTROL Asignación funciones]** cambia temporalmente a **[!UICONTROL Funciones asignadas]**.
 
-Ambos campos volverán a sus etiquetas originales en Producción la próxima semana.
+Ambos campos volverán a sus etiquetas originales en el entorno de producción la próxima semana.
 
-Se ha añadido una nota temporal al [Glosario de [!DNL Adobe Workfront] terminología](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html).
+Se ha añadido una nota temporal al [Glosario de terminología de [!DNL Adobe Workfront] ](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=es).
