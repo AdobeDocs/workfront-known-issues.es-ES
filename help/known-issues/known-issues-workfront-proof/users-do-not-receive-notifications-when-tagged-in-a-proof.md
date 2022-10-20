@@ -1,12 +1,12 @@
 ---
-title: Los usuarios no reciben notificaciones cuando están etiquetados en una prueba
-description: Cuando un usuario ve la variable [!DNL Workfront] Panel de pruebas, el [!UICONTROL Pruebas que se van a administrar] y [!UICONTROL Pruebas en espera de informes de decisión] mostrar 0 informes en las distintas categorías (total, a tiempo, etc.).
+title: Los usuarios no reciben notificaciones cuando se les etiqueta en una prueba
+description: Cuando un usuario ve el panel de  [!DNL Workfront] Proof, las ventanas de [!UICONTROL Pruebas que se van a administrar] y [!UICONTROL Pruebas pendientes de informes de decisión] muestran 0 informes en las distintas categorías (total, a tiempo, etc.).
 exl-id: 0f378fef-4d0d-414d-a51f-a5c3beda2f46
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
@@ -16,6 +16,6 @@ ht-degree: 0%
 >
 >Este problema se corrigió el 16 de agosto de 2022.
 
-Cuando un usuario está etiquetado en un comentario de prueba, no recibe una notificación por correo electrónico sobre el comentario.
+Un usuario que está etiquetado en un comentario de una prueba no recibe la notificación por correo electrónico sobre el comentario.
 
-**Informe por primera vez el 28 de abril de 2022.**
+**Informado por primera vez el 28 de abril de 2022.**
