@@ -1,27 +1,27 @@
 ---
-title: '"Aprobaciones: La delegación de aprobación está configurada para el número incorrecto de días'''
-description: Cuando un usuario programa el Tiempo de espera personal desactivado y delega sus aprobaciones para ese momento, la delegación de aprobación puede incluir días antes o después de la hora de espera programada.
+title: "Aprobaciones: la delegación de aprobaciones está fijada para un número incorrecto de días"
+description: Cuando un usuario programa tiempo libre personal y delega sus aprobaciones para ese tiempo, la delegación puede incluir días anteriores o posteriores al tiempo libre programado.
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 hidefromtoc: true
 source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Aprobaciones: La delegación de aprobación está establecida para el número incorrecto de días
+# Aprobaciones: la delegación de aprobaciones está fijada para un número incorrecto de días
 
 >[!NOTE]
 >
 >Este problema se ha cerrado porque no es un problema.
 
-Cuando un usuario programa su tiempo libre personal y delega sus aprobaciones para ese momento, la delegación de aprobación puede incluir días antes o después de la hora de descanso programada.
+Cuando un usuario programa tiempo libre personal y delega sus aprobaciones para ese tiempo, la delegación puede incluir días anteriores o posteriores al tiempo libre programado.
 
 **Solución alternativa**
 
-Esta discrepancia se debe a una diferencia entre la zona horaria del perfil de un usuario y la zona horaria de la programación asignada al usuario.
+Esta discrepancia se debe a una discrepancia entre la zona horaria del perfil de un usuario y la del horario asignado al usuario.
 
-Se recomienda crear una programación única para cada zona horaria desde la que trabajan los usuarios y asignar cada usuario a la programación que coincida con la zona horaria de su perfil de usuario.
+Se recomienda crear un horario único para cada zona horaria desde la que trabajen los usuarios, y asignar a cada uno el horario que coincida con la zona horaria de su perfil de usuario.
 
-_Informe por primera vez el 24 de marzo de 2022._
+_Informado por primera vez el 24 de marzo de 2022._
