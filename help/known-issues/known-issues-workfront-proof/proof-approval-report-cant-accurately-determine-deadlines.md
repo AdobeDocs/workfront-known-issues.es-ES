@@ -1,19 +1,19 @@
 ---
-title: "Pruebas: El informe de aprobación de prueba no puede determinar los plazos con precisión"
-description: Cuando un usuario crea un [!UICONTROL Aprobación de prueba] informe que contiene fechas límite de prueba, las fechas que se muestran en el informe son incorrectas, lo que provoca errores en los informes e información inexacta en los resultados.
+title: "Pruebas: el informe de aprobación de pruebas no puede determinar los plazos con precisión"
+description: Cuando un usuario crea un informe de [!UICONTROL Aprobación de pruebas] con fechas límite de pruebas, las fechas que se muestran en el informe son incorrectas, lo que lleva a cálculos erróneos de informes e información inexacta en los resultados.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Pruebas: [!UICONTROL Aprobación de prueba] informe no puede determinar plazos con precisión
+# &quot;Pruebas: el informe de [!UICONTROL aprobación de pruebas] no puede determinar los plazos con precisión&quot;
 
-NOTA: El equipo de producto está evaluando actualmente esta resolución de problemas, que puede requerir mejoras del producto. Las mejoras del producto se comunican en los anuncios del producto y no en las actualizaciones de mantenimiento.
+NOTA: el equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
-Cuando un usuario crea un [!UICONTROL Aprobación de prueba] informe que contiene fechas límite de prueba, las fechas que se muestran en el informe son incorrectas, lo que provoca errores en los informes e información inexacta en los resultados.
+Cuando un usuario crea un informe de [!UICONTROL Aprobación de pruebas] con fechas límite de pruebas, las fechas que se muestran en el informe son incorrectas, lo que lleva a cálculos erróneos de informes e información inexacta en los resultados.
 
-Primer informe el 21 de diciembre de 2020
+Informado por primera vez el 21 de diciembre de 2020
