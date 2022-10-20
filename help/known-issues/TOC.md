@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1467'
 ht-degree: 79%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Águila: Las tareas asignadas mediante la edición masiva no aparecen en el trabajo pendiente del equipo](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Informes: La información de uso del informe no se actualiza](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navegación: No se pueden fijar objetos](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Tableros]: [!UICONTROL Tableros] la página no se carga](known-issues-workfront/wf-boards-boards-do-not-load.md)

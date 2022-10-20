@@ -3,10 +3,10 @@ title: Problemas conocidos de [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 56%
+source-wordcount: '216'
+ht-degree: 57%
 
 ---
 
@@ -25,8 +25,6 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Pruebas: Imprimir resumen no muestra todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de octubre de 2022 |
-| [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 de octubre de 2022 |
-| [Documentos: &quot;[!UICONTROL No se pudo cargar el archivo]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de octubre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -36,6 +34,7 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de octubre de 2022 |
 | [Pruebas: El cuadro de texto &quot;Nuevos destinatarios de prueba&quot; es demasiado pequeño](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 de octubre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}

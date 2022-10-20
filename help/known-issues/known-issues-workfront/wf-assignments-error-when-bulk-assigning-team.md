@@ -2,15 +2,19 @@
 title: "Asignaciones: Error al asignar de forma masiva un equipo"
 description: "Cuando un usuario edita tareas o problemas de forma masiva y asigna un equipo después de asignar un individuo, las asignaciones no se guardan y el usuario ve un error."
 hidefromtoc: true
-source-git-commit: f16da861a5138c57722eea15a130e0b50cc167d0
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
 
 # Asignaciones: Error al asignar un equipo de forma masiva
+
+>[!NOTE]
+>
+>Este problema se corrigió el 20 de octubre de 2022.
 
 Cuando un usuario edita por lotes tareas o problemas y asigna un equipo después de asignar un individuo, las asignaciones no se guardan y el usuario ve el siguiente error:
 
@@ -20,5 +24,5 @@ Cuando un usuario edita por lotes tareas o problemas y asigna un equipo después
 
 Asigne primero el equipo, seguido por las personas.
 
-_Informe por primera vez el 7 de octubre de 2022._
+_Informado por primera vez el 7 de octubre de 2022._
 

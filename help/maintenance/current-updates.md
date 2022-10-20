@@ -2,7 +2,7 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
 source-wordcount: '14458'
 ht-degree: 94%
@@ -41,7 +41,7 @@ Cuando un usuario edita por lotes tareas o problemas y asigna un equipo después
 
 &quot;[!UICONTROL Intentémoslo de nuevo: se produjo el siguiente error: teamAspings debe ser una lista de objetos o una lista de ID]&quot;
 
-**[!UICONTROL No se pudo cargar el archivo]&quot; error**
+**&quot;[!UICONTROL No se pudo cargar el archivo]&quot; error**
 
 *Documentos*
 
