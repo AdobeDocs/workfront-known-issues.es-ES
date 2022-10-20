@@ -1,16 +1,16 @@
 ---
-title: '"Informes: Los informes programados no se envían a todos los destinatarios'
-description: Cuando se envía un informe programado, no se envía a todos los usuarios del [!UICONTROL Enviar a] para obtener más información. Los usuarios omitidos son aleatorios y pueden variar cada vez que se envía el informe.
+title: "Informes: Los informes programados no se envían a todos los destinatarios"
+description: Cuando se envía un informe programado, no se envía a todos los usuarios en la sección [!UICONTROL Enviar a]. Los usuarios omitidos son aleatorios y pueden variar cada vez que se envía el informe.
 exl-id: b96ceb30-2e57-48cb-a813-3a1fc49d65a5
 hidefromtoc: true
 source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Informes: Los informes programados no se envían a todos los destinatarios
+# Informes: los informes programados no se envían a todos los destinatarios
 
 >[!NOTE]
 >
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Cuando se envía un informe programado, no se envía a todos los usuarios en la sección &quot;[!UICONTROL Enviar a]&quot;. Los usuarios omitidos son aleatorios y pueden variar cada vez que se envía el informe.
 
-_Informe por primera vez el 9 de diciembre de 2021._
+_Informado por primera vez el 9 de diciembre de 2021._
