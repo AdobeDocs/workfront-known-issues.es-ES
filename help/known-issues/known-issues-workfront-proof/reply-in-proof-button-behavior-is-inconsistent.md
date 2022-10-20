@@ -1,23 +1,23 @@
 ---
-title: '"Inicio: El comportamiento del botón de prueba no es coherente'''
-description: Cuando un usuario está en el nuevo [!DNL Adobe Workfront] experience está viendo una prueba en el panel derecho de [!UICONTROL Página principal], haga clic en [!UICONTROL Responder en la prueba] en un comentario, aparece un cuadro de texto donde pueden dejar una actualización en la [!UICONTROL actualizaciones de documentos] en lugar de ser dirigido al visor de pruebas según lo previsto.
+title: "Inicio: el comportamiento del botón de respuesta en prueba es inconsistente"
+description: Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] está viendo una prueba en el panel derecho de [!UICONTROL Inicio] y hace clic en [!UICONTROL Responder en prueba] sobre un comentario, se muestra un cuadro de texto donde puede dejar una actualización en el área de [!UICONTROL Actualizaciones del documento] en lugar de que se le dirija al Visor de pruebas como estaba previsto.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Página principal]: [!UICONTROL Responder en la prueba] el comportamiento del botón es incoherente
+# [!UICONTROL Inicio]: el comportamiento del botón de [!UICONTROL respuesta en prueba] es inconsistente
 
 >[!NOTE]
 >
->El equipo de producto está evaluando actualmente esta resolución de problemas, que puede requerir mejoras del producto. Las mejoras del producto se comunican en los anuncios del producto y no en las actualizaciones de mantenimiento.
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
-Cuando un usuario está en el nuevo [!DNL Adobe Workfront] experience está viendo una prueba en el panel derecho de [!UICONTROL Página principal], haga clic en [!UICONTROL Responder en la prueba] en un comentario, aparece un cuadro de texto donde pueden dejar una actualización en el documento [!UICONTROL Actualizaciones] en lugar de ser dirigido a la función [!UICONTROL Visor de pruebas] según lo previsto.
+Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] está viendo una prueba en el panel derecho de [!UICONTROL Inicio] y hace clic en [!UICONTROL Responder en prueba] sobre un comentario, se muestra un cuadro de texto donde puede dejar una actualización en el área de [!UICONTROL Actualizaciones] del documento en lugar de que se le dirija al [!UICONTROL Visor de pruebas] como estaba previsto.
 
-**Solución alternativa**: Abra la prueba en una pestaña nueva y haga clic en [!UICONTROL Responder en la prueba] para abrir el [!UICONTROL Visor de pruebas] del documento [!UICONTROL Actualizaciones] .
+**Solución alternativa**: abra la prueba en una nueva pestaña y, a continuación, haga clic en [!UICONTROL Responder en prueba] para abrir el [!UICONTROL Visor de pruebas] desde el área de [!UICONTROL Actualizaciones] del documento.
 
-Primer informe del 10 de junio de 2021
+Informado por primera vez el 10 de junio de 2021
