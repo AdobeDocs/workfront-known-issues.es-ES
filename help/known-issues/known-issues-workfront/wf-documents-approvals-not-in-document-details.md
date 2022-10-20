@@ -1,26 +1,26 @@
 ---
-title: "Documentos: Las aprobaciones de documento no están disponibles en la página Detalles del documento"
-description: '"Cuando un usuario intenta aprobar un documento desde la página Detalles del documento, la variable [!UICONTROL Aprobar], [!UICONTROL Aprobar con cambios]y [!UICONTROL Rechazar] los botones no están disponibles y el usuario no puede tomar una decisión sobre el documento".'
+title: "Documentos: las aprobaciones de documentos no están disponibles en la página de detalles del documento"
+description: '"Cuando un usuario intenta aprobar un documento desde su página de detalles, los botones [!UICONTROL Aprobar], [!UICONTROL Aprobar con cambios] y [!UICONTROL Rechazar] no están disponibles, y el usuario no puede tomar una decisión sobre el documento".'
 hidefromtoc: true
 source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Documentos: Las aprobaciones de documento no están disponibles en [!UICONTROL Detalles del documento] página
+# Documentos: las aprobaciones de documentos no están disponibles en la página de [!UICONTROL detalles del documento]
 
 >[!NOTE]
 >
 >Este problema se corrigió el 7 de septiembre de 2022.
 
-Cuando un usuario intenta aprobar un documento del [!UICONTROL Detalles] página, la variable [!UICONTROL Aprobar], [!UICONTROL Aprobar con cambios]y [!UICONTROL Rechazar] los botones no están disponibles y el usuario no puede tomar una decisión sobre el documento.
+Cuando un usuario intenta aprobar un documento desde su página de [!UICONTROL detalles], los botones [!UICONTROL Aprobar], [!UICONTROL Aprobar con cambios] y [!UICONTROL Rechazar] no están disponibles, y el usuario no puede tomar una decisión sobre el documento.
 
 **Solución alternativa**
 
-Haga clic en el documento en la [!UICONTROL Documentos] lista de un elemento de trabajo. La variable [!UICONTROL Aprobar], [!UICONTROL Aprobar con cambios]y [!UICONTROL Rechazar] Los botones de [!UICONTROL Resumen del documento] .
+Haga clic en el documento en la lista de [!UICONTROL documentos] de un elemento de trabajo. Los botones [!UICONTROL Aprobar], [!UICONTROL Aprobar con cambios] y [!UICONTROL Rechazar] están disponibles en el área de [!UICONTROL Resumen del documento].
 
-_Informe por primera vez el 2 de septiembre de 2022._
+_Informado por primera vez el 2 de septiembre de 2022._
 
