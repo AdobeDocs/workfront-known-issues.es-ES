@@ -1,25 +1,25 @@
 ---
-title: '''Águila: No se pueden editar campos de formularios personalizados en tarjetas'
-description: Cuando un campo de una tarjeta del panel Kanban extrae de un formulario personalizado, los usuarios no pueden editar ese campo directamente desde la tarjeta.
+title: "Agile: no se pueden editar campos de formularios personalizados en tarjetas"
+description: Cuando un campo de una tarjeta de la tabla Kanban se extrae de un formulario personalizado, los usuarios no pueden editarlo directamente desde la tarjeta.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 hidefromtoc: true
 source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Águila: No se pueden editar campos de formularios personalizados en tarjetas
+# Agile: no se pueden editar campos de formularios personalizados en tarjetas
 
 >[!NOTE]
 >
->El equipo de producto está evaluando actualmente esta resolución de problemas, que puede requerir mejoras del producto. Las mejoras del producto se comunican en los anuncios del producto y no en las actualizaciones de mantenimiento.
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
-Cuando un campo de una tarjeta del panel Kanban extrae de un formulario personalizado, los usuarios no pueden editar ese campo directamente desde la tarjeta.
+Cuando un campo de una tarjeta de la tabla Kanban se extrae de un formulario personalizado, los usuarios no pueden editarlo directamente desde la tarjeta.
 
 **Solución alternativa**
 
-Abra la tarea y edite el campo desde el [!UICONTROL Editar tarea] ventana.
+Abra la tarea y edite el campo desde la ventana [!UICONTROL Editar tarea].
 
-_Informe por primera vez el 12 de abril de 2022._
+_Informado por primera vez el 12 de abril de 2022._
