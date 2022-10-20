@@ -1,17 +1,17 @@
 ---
-title: '"Actualizaciones: El nombre del equipo no aparece en @mention'''
-description: Cuando un usuario está en el nuevo [!DNL Adobe Workfront] la experiencia intenta etiquetar un equipo en una actualización y el nombre del equipo es de varias palabras (por ejemplo, "Nombre del equipo"), no se notifican y no aparecen en el campo A. Si el nombre del equipo se introduce en la variable [!UICONTROL Notificar] , se les notifica según lo esperado, pero solo parte del nombre se hipervincula en la actualización.
+title: "Actualizaciones: el nombre del equipo no aparece en @mención"
+description: Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] intenta etiquetar a un equipo en una actualización y el nombre tiene varias palabras (por ejemplo, "Nombre del equipo"), no se le notifica y no aparece en el campo Para. Si se introduce el nombre del equipo en el campo [!UICONTROL Notificar], se les notifica como es debido, pero solo una parte del nombre se enlaza en la actualización.
 exl-id: 3e06e1aa-f98d-45dd-b467-ac30dbfa4ede
 hidefromtoc: true
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Actualizaciones: El nombre del equipo no aparece en @mention
+# Actualizaciones: el nombre del equipo no aparece en @mención
 
-Cuando un usuario está en el nuevo [!DNL Adobe Workfront] la experiencia intenta etiquetar un equipo en una actualización y el nombre del equipo es de varias palabras (por ejemplo, &quot;Nombre del equipo&quot;), no se notifican y no aparecen en el campo A. Si el nombre del equipo se introduce en la variable [!UICONTROL Notificar] , se les notifica según lo esperado, pero solo parte del nombre se hipervincula en la actualización.
+Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] intenta etiquetar un equipo en una actualización y el nombre tiene varias palabras (por ejemplo, &quot;Nombre del equipo&quot;), no se le notifica y no aparecen en el campo Para. Si se introduce el nombre del equipo en el campo [!UICONTROL Notificar], se les notifica como es debido, pero solo una parte del nombre se enlaza en la actualización.
 
-_Informe por primera vez el 3 de junio de 2021._
+_Informado por primera vez el 3 de junio de 2021._
