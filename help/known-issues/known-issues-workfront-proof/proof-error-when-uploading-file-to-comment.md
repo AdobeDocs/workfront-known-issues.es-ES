@@ -1,24 +1,24 @@
 ---
-title: "Prueba de Workfront: Error al cargar un archivo en un comentario"
-description: '"Cuando un usuario intenta cargar un archivo en un comentario en [!DNL Workfront] Prueba, el archivo no se carga y el usuario ve un mensaje de error".'
+title: "Workfront Proof: Error al cargar un archivo en un comentario"
+description: "Cuando un usuario intenta cargar un archivo en un comentario en [!DNL Workfront] Proof, el archivo no se carga y el usuario ve un mensaje de error."
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: Error al cargar un archivo en un comentario
+# [!DNL Workfront Proof]: error al cargar un archivo en un comentario
 
 >[!NOTE]
 >
 >Este problema se corrigió el 25 de agosto de 2022.
 
-Cuando un usuario intenta cargar un archivo en un comentario en [!DNL Workfront Proof], el archivo no se carga y el usuario ve el siguiente mensaje de error:
+Cuando un usuario intenta cargar un archivo en un comentario en [!DNL Workfront Proof], el adjunto no se carga y el usuario ve el siguiente mensaje de error:
 
-[!UICONTROL Dificultades técnicas: No se pueden cargar 1 archivo. Vuelva a intentarlo o póngase en contacto con el servicio de atención al cliente para obtener ayuda.]
+[!UICONTROL Dificultades técnicas: No es posible cargar 1 archivo/s. Vuelva a intentarlo o póngase en contacto con la asistencia al cliente para recibir ayuda.]
 
-_Informe por primera vez el 4 de agosto de 2022._
+_Informado por primera vez el 4 de agosto de 2022._
 
