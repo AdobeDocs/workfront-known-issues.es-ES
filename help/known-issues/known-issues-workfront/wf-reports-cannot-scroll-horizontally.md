@@ -1,21 +1,21 @@
 ---
-title: '"Informes: No se puede desplazar el informe horizontalmente al ver en el tablero'''
-description: Si un usuario está viendo un informe en un tablero e intenta desplazar el informe horizontalmente, el informe no se desplaza o los encabezados de columna quedan rezagados respecto a las columnas reales. Si el informe tiene un gran número de columnas, desplazarse horizontalmente puede bloquear la página.
+title: "Informes: no se puede desplazar el informe horizontalmente cuando se ve en el panel"
+description: Si un usuario está viendo un informe en un panel e intenta desplazarlo horizontalmente, o bien el informe no se desplaza, o bien las cabeceras de las columnas quedan por detrás de las columnas reales. Si el informe tiene un gran número de columnas, la página puede bloquearse si se desplaza horizontalmente.
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
 source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Informes: No se puede desplazar el informe horizontalmente al verlo en el tablero
+# Informes: no se puede desplazar el informe horizontalmente cuando se ve en el panel
 
 >[!NOTE]
 >
->El equipo de producto está evaluando actualmente esta resolución de problemas, que puede requerir mejoras del producto. Las mejoras del producto se comunican en los anuncios del producto y no en las actualizaciones de mantenimiento.
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
-Si un usuario está viendo un informe en un tablero e intenta desplazar el informe horizontalmente, el informe no se desplaza o los encabezados de columna quedan rezagados respecto a las columnas reales. Si el informe tiene un gran número de columnas, desplazarse horizontalmente puede bloquear la página.
+Si un usuario está viendo un informe en un panel e intenta desplazarlo horizontalmente, o bien el informe no se desplaza, o bien las cabeceras de las columnas quedan por detrás de las columnas reales. Si el informe tiene un gran número de columnas, la página puede bloquearse si se desplaza horizontalmente.
 
-_Informe por primera vez el 24 de febrero de 2021._
+_Informado por primera vez el 24 de febrero de 2021._
