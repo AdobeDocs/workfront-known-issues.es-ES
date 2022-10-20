@@ -1,26 +1,26 @@
 ---
-title: '"Informes: El calendario toma como valor predeterminado las fechas antiguas'
+title: "Informes: El calendario toma fechas antiguas como valor predeterminado"
 description: Cuando un usuario navega a un calendario, el calendario carga un intervalo de fechas aleatorio en el pasado (por ejemplo, una semana del año 1800).
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
 hidefromtoc: true
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Informes: El calendario establece de forma predeterminada fechas antiguas
+# Informes: el calendario se ajusta por defecto a fechas antiguas
 
 >[!NOTE]
 >
->El equipo de producto está evaluando actualmente esta resolución de problemas. Cuando se resuelva este problema, se comunicará en los Anuncios del producto y no con las Actualizaciones de mantenimiento.
+>El equipo de productos está evaluando actualmente la resolución de este problema. Cuando se resuelva, no se comunicará en las actualizaciones de mantenimiento, sino en los anuncios de productos.
 
 Cuando un usuario navega a un calendario, el calendario carga un intervalo de fechas aleatorio en el pasado (por ejemplo, una semana del año 1800).
 
 **Solución alternativa**
 
-Hacer clic **[!UICONTROL Hoy]** carga la semana correcta en el calendario.
+Al hacer clic en **[!UICONTROL Hoy]** se carga la semana correcta en el calendario.
 
 
-_Informe por primera vez el 7 de abril de 2020._
+_Informado por primera vez el 7 de abril de 2020._
