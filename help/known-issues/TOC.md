@@ -3,8 +3,8 @@ user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
 source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
 workflow-type: tm+mt
-source-wordcount: '1438'
-ht-degree: 80%
+source-wordcount: '1455'
+ht-degree: 79%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: La información de uso del informe no se actualiza](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navegación: No se pueden fijar objetos](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Tableros]: [!UICONTROL Tableros] la página no se carga](known-issues-workfront/wf-boards-boards-do-not-load.md)
       + [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
@@ -134,6 +135,7 @@ ht-degree: 80%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [Pruebas: Imprimir resumen no muestra todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Páginas en blanco al ver una prueba con varias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Pruebas: error al añadir una prueba a [!DNL Workfront] desde [!DNL Workfront] Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
