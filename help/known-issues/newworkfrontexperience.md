@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 62%
+source-wordcount: '567'
+ht-degree: 61%
 
 ---
 
@@ -38,6 +38,7 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formularios personalizados: [!UICONTROL HORA] función en campos calculados utiliza UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 24 de octubre de 2022 |
 | [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de octubre de 2022 |
 | [[!UICONTROL Tableros]: [!UICONTROL Tableros] la página no se carga](known-issues-workfront/wf-boards-boards-do-not-load.md) | 20 de octubre de 2022 |
 | [Informes: La información de uso del informe no se actualiza](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 de octubre de 2022 |
