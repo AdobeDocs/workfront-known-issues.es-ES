@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
 workflow-type: tm+mt
-source-wordcount: '14458'
-ht-degree: 94%
+source-wordcount: '14607'
+ht-degree: 93%
 
 ---
 
@@ -30,6 +30,28 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en octubre de 2022
+
++++**(Planificado) Actualización de mantenimiento el 27 de octubre de 2022**
+
+**[!UICONTROL HORA] función en campos calculados utiliza UTC**
+
+*Formularios personalizados*
+
+Cuando un campo calculado incluye la variable [!UICONTROL HORA] , la función devuelve valores basados en UTC en lugar del huso horario esperado. Por lo tanto, cualquier cálculo basado en el valor HOUR es incorrecto.
+
+**[!UICONTROL Filtro rápido] no devuelve resultados al buscar equipos**
+
+*Listas*
+
+Cuando un usuario intenta usar la variable [!UICONTROL Filtro rápido] en una lista para buscar un equipo, al escribir el nombre del equipo no se obtendrán resultados, aunque el equipo esté visible en la lista (como en la [!UICONTROL Asignado a] ). Buscando la palabra &quot;[!UICONTROL equipo]&quot; tampoco devuelve ningún resultado.
+
+**Todos los usuarios enumerados en [!UICONTROL Equilibrador de carga de trabajo] al utilizar un vínculo que se puede compartir en [!DNL Safari] explorador**
+
+*[!UICONTROL Distribuidor de cargas de trabajo]*
+
+Cuando un usuario sigue un vínculo que se puede compartir con el [!UICONTROL Equilibrador de carga de trabajo] mientras utiliza un [!DNL Safari] , verán todos los usuarios, no solo los miembros del equipo que aparecen en la lista.
+
++++
 
 +++**Actualización de mantenimiento el 20 de octubre de 2022**
 
