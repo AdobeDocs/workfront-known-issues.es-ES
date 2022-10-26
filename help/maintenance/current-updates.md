@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
+source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
 workflow-type: tm+mt
-source-wordcount: '14607'
-ht-degree: 93%
+source-wordcount: '14720'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,18 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 ## Actualizaciones en octubre de 2022
 
 +++**(Planificado) Actualización de mantenimiento el 27 de octubre de 2022**
+
+**No se puede volver a anclar una página después de que se haya eliminado su pin**
+
+*Exploración*
+
+>[!NOTE]
+>
+>Este problema se corrigió en Vista previa el 13 de octubre de 2022. Se fijará en Producción el 27 de octubre de 2022.
+
+Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
+
+Si un usuario intenta volver a fijar la página visitando la página y fijándola, no se creará el pin y el usuario no podrá fijar la página.
 
 **[!UICONTROL HORA] función en campos calculados utiliza UTC**
 
