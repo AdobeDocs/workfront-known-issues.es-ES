@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '14720'
+source-wordcount: '14719'
 ht-degree: 92%
 
 ---
@@ -31,19 +31,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 
 ## Actualizaciones en octubre de 2022
 
-+++**(Planificado) Actualización de mantenimiento el 27 de octubre de 2022**
-
-**No se puede volver a anclar una página después de que se haya eliminado su pin**
-
-*Exploración*
-
->[!NOTE]
->
->Este problema se corrigió en Vista previa el 13 de octubre de 2022. Se fijará en Producción el 27 de octubre de 2022.
-
-Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
-
-Si un usuario intenta volver a fijar la página visitando la página y fijándola, no se creará el pin y el usuario no podrá fijar la página.
++++**Actualización de mantenimiento el 27 de octubre de 2022**
 
 **[!UICONTROL HORA] función en campos calculados utiliza UTC**
 
@@ -56,6 +44,18 @@ Cuando un campo calculado incluye la variable [!UICONTROL HORA] , la función de
 *Listas*
 
 Cuando un usuario intenta usar la variable [!UICONTROL Filtro rápido] en una lista para buscar un equipo, al escribir el nombre del equipo no se obtendrán resultados, aunque el equipo esté visible en la lista (como en la [!UICONTROL Asignado a] ). Buscando la palabra &quot;[!UICONTROL equipo]&quot; tampoco devuelve ningún resultado.
+
+**No se puede volver a anclar una página después de que se haya eliminado su pin**
+
+*Exploración*
+
+>[!NOTE]
+>
+>Este problema se corrigió en Vista previa el 13 de octubre de 2022. Se fijará en Producción el 27 de octubre de 2022.
+
+Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
+
+Si un usuario intenta volver a fijar la página visitando la página y fijándola, no se creará el pin y el usuario no podrá fijar la página.
 
 **Todos los usuarios enumerados en [!UICONTROL Equilibrador de carga de trabajo] al utilizar un vínculo que se puede compartir en [!DNL Safari] explorador**
 

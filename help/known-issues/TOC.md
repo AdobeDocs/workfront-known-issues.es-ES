@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 77%
+source-wordcount: '1513'
+ht-degree: 75%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 77%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [Solicitudes: No se pueden ver más de 100 temas de cola en una página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [Problemas: La navegación de la izquierda muestra los problemas &quot;(0)&quot; cuando hay problemas](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Solicitudes: [!UICONTROL Configuración de cola de correo electrónico] no disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL Tableros]: [!UICONTROL Admisión] la búsqueda de columnas no es efectiva](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL Configuración]: Las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Formularios personalizados: [!UICONTROL HORA] función en campos calculados utiliza UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
