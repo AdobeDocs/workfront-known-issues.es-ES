@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '14719'
+source-wordcount: '14718'
 ht-degree: 92%
 
 ---
@@ -51,7 +51,7 @@ Cuando un usuario intenta usar la variable [!UICONTROL Filtro rápido] en una li
 
 >[!NOTE]
 >
->Este problema se corrigió en Vista previa el 13 de octubre de 2022. Se fijará en Producción el 27 de octubre de 2022.
+>Este problema se corrigió en Vista previa el 13 de octubre de 2022. Se corrigió en Producción el 27 de octubre de 2022.
 
 Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
 

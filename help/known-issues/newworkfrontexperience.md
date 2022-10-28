@@ -3,9 +3,9 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '608'
 ht-degree: 57%
 
 ---
@@ -29,7 +29,6 @@ Actualmente se están examinando estas cuestiones de las que se ha informado rec
 | [Problemas: La navegación de la izquierda muestra los problemas &quot;(0)&quot; cuando hay problemas](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 27 de octubre de 2022 |
 | [Solicitudes: [!UICONTROL Configuración de cola de correo electrónico] no disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 de octubre de 2022 |
 | [[!UICONTROL Tableros]: [!UICONTROL Admisión] la búsqueda de columnas no es efectiva](known-issues-workfront/wf-boards-search-returns-no-results.md) | 26 de octubre de 2022 |
-| [[!UICONTROL Configuración]: Las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 24 de octubre de 2022 |
 | [Águila: Las tareas asignadas mediante la edición masiva no aparecen en el trabajo pendiente del equipo](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 de octubre de 2022 |
 | [Pruebas: Imprimir resumen no muestra todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de octubre de 2022 |
 | [Notificaciones: Usuarios no notificados cuando se mencionan o se incluyen en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 de septiembre de 2022 |
@@ -44,6 +43,7 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formularios personalizados: [!UICONTROL HORA] función en campos calculados utiliza UTC](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 28 de octubre de 2022 |
 | [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de octubre de 2022 |
 | [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de octubre de 2022 |
 | [[!UICONTROL Tableros]: [!UICONTROL Tableros] la página no se carga](known-issues-workfront/wf-boards-boards-do-not-load.md) | 20 de octubre de 2022 |
@@ -54,7 +54,6 @@ Las correcciones para estos problemas están actualmente en curso o están progr
 | [Informes: La opción &quot;Mover a&quot; no está disponible en los informes de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 de octubre de 2022 |
 | [Águila: Problemas con tareas agregadas a una iteración](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 de octubre de 2022 |
 | [Formularios personalizados: Error &quot;Whoops&quot; al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 de octubre de 2022 |
-| [Navegación: No se puede volver a anclar una página después de que se haya eliminado su pin](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 de octubre de 2022 |
 | [Tareas: Las horas no se guardan al introducir horas en la tarea [!UICONTROL Panel de resumen]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 de septiembre de 2022 |
 | [Integraciones: error al enviar la solicitud desde [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
@@ -67,6 +66,7 @@ Las correcciones para estos problemas no están actualmente en la hoja de ruta. 
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Configuración]: Las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 de octubre de 2022 |
 | [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de septiembre de 2022 |
 | [Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [Paneles: los gráficos de informes que se ven en un panel utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 de agosto de 2022 |
