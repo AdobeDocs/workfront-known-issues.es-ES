@@ -2,8 +2,8 @@
 title: Actualizaciones de mantenimiento de Workfront para 2021
 description: Historial de actualizaciones de mantenimiento de 2021 para [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
-workflow-type: ht
+source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -271,13 +271,13 @@ Cuando un usuario crea una nueva tarea con el botón &quot;[!UICONTROL Nueva Tar
 
 **Los campos no se muestran en las tarjetas de Agile Story**
 
-_Agile_
+_Águila_
 
 Cuando un usuario ve un guion gráfico de Agile, las tarjetas solo muestran los campos [!UICONTROL Descripción] y [!UICONTROL Estado]. No se muestra ningún otro campo, incluidos los campos personalizados.
 
 **Las tarjetas vuelven a la columna original antes de pasar a la nueva columna**
 
-_Agile_
+_Águila_
 
 Cuando un usuario arrastra una tarjeta a una nueva columna del guion gráfico, puede ver la tarjeta arrastrada. Sin embargo, cuando el usuario suelta la tarjeta en la nueva columna, esta aparece brevemente en la columna original antes de aparecer en la nueva.
 
@@ -374,13 +374,13 @@ Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] intenta añ
 
 **El panel de exploración de Agile no muestra las historias**
 
-_Agile_
+_Águila_
 
 Cuando un usuario intenta ver el guion gráfico de Scrum en una iteración del equipo, se muestra en blanco.
 
 **El guion gráfico de Scrum está en blanco cuando se usan filtros**
 
-_Agile_
+_Águila_
 
 Cuando un usuario intenta ver un guion gráfico de Scrum usando cualquier filtro excepto el de &quot;[!UICONTROL Todo el equipo]&quot;, aparece una pantalla en blanco. El usuario no puede volver a cambiar al filtro &quot;[!UICONTROL Todo el equipo]&quot;.
 
@@ -428,7 +428,7 @@ Cuando un usuario de la nueva experiencia [!DNL Workfront] está creando una sol
 
 **El guion gráfico de Scrum está en blanco cuando se usan filtros**
 
-_Agile_
+_Águila_
 
 Cuando un usuario intenta ver un guion gráfico de Scrum usando cualquier filtro excepto el de &quot;[!UICONTROL Todo el equipo]&quot;, aparece una pantalla en blanco. El usuario no puede volver a cambiar al filtro &quot;[!UICONTROL Todo el equipo]&quot;.
 
@@ -715,7 +715,7 @@ Cuando un usuario en [!DNL Adobe Workfront Classic] selecciona un problema de la
 
 **No se puede personalizar la vista Agile en el proyecto**
 
-_Agile_
+_Águila_
 
 Cuando un usuario intenta personalizar una vista Agile preexistente en un proyecto, la ventana se cierra y el usuario no puede editar la vista.
 
@@ -779,7 +779,7 @@ Cuando un usuario crea una nueva prueba e intenta cambiar su configuración, vue
 
 **[!UICONTROL El guion gráfico] no se carga correctamente**
 
-_Agile_
+_Águila_
 
 Cuando un usuario en la nueva experiencia [!DNL Adobe Workfront] navega a un [!UICONTROL guion gráfico], puede tardar hasta 10 segundos en cargarse. El retraso en la carga se debe a que el sistema carga todas las tarjetas cuando solo debería cargarlas de 50 en 50.
 
@@ -958,7 +958,7 @@ En el futuro, esta marca se mostrará en otros tipos de correos electrónicos de
 
 **No se puede editar un equipo**
 
-_Agile_
+_Águila_
 
 Cuando un usuario en la nueva experiencia [!DNL Adobe Workfront] hace clic en [!UICONTROL Editar] para abrir la página [!DNL Edit] de Equipo para un equipo ágil, la página se carga inicialmente, pero los ajustes desaparecen y se queda en blanco.
 
@@ -1393,7 +1393,7 @@ Cuando un usuario usa un término de la API [!DNL Workfront] para seleccionar un
 
 **Ahora, los ajustes de las plantillas de proyectos se aplican a los proyectos creados a través de [!DNL Workfront Fusion] 2.0**
 
-_[!DNL Workfront Fusion]2.0_
+_[!DNL Workfront Fusion]2,0_
 
 Al crear un proyecto a partir de una plantilla mediante [!DNL Workfront Fusion] 2.0, los ajustes de la plantilla se aplican al nuevo proyecto. Este comportamiento es el mismo cuando se crea un proyecto a partir de una plantilla en la aplicación [!DNL Workfront].
 
