@@ -1,12 +1,12 @@
 ---
-title: Problemas conocidos de [!DNL Adobe Workfront] Mobile App
-description: Problemas conocidos notificados para [!DNL Adobe Workfront] Mobile App
+title: Problemas conocidos de  [!DNL Adobe Workfront]  Mobile App
+description: Problemas conocidos notificados para  [!DNL Adobe Workfront]  Mobile App
 keywords: nuevo archivo, añadir archivo
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
