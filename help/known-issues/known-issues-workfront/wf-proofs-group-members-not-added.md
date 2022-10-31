@@ -1,11 +1,11 @@
 ---
-title: "Pruebas: Añadir un grupo a una prueba no agrega todos los miembros del grupo"
-description: "Cuando un usuario crea una prueba y utiliza un grupo para agregar usuarios a una etapa, no todos los usuarios de ese grupo se agregan a la etapa."
+title: '“Pruebas: Al agregar un grupo a una prueba, no se agregan todos los miembros del grupo”'
+description: “Cuando un usuario crea una prueba y utiliza un grupo para agregar usuarios a una fase, no todos los usuarios de ese grupo se agregan a la fase.”
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >Este problema se ha cerrado porque no es un problema.
 
-Cuando un usuario crea una prueba y utiliza un grupo para agregar usuarios a una etapa, no todos los usuarios de ese grupo se agregan a la etapa.
+Cuando un usuario crea una prueba y utiliza un grupo para agregar usuarios a una fase, no todos los usuarios de ese grupo se agregan a la fase.
 
 **Solución alternativa**
 
-Cada usuario puede añadirse individualmente al escenario.
+Cada usuario puede añadirse individualmente a la fase.
 
-_Informe por primera vez el 28 de septiembre de 2022._
+_Notificado por primera vez el 28 de septiembre de 2022._
 
