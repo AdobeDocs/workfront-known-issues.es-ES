@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
 source-wordcount: '14718'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -43,19 +43,19 @@ Cuando un campo calculado incluye la variable [!UICONTROL HORA] , la función de
 
 *Listas*
 
-Cuando un usuario intenta usar la variable [!UICONTROL Filtro rápido] en una lista para buscar un equipo, al escribir el nombre del equipo no se obtendrán resultados, aunque el equipo esté visible en la lista (como en la [!UICONTROL Asignado a] ). Buscando la palabra &quot;[!UICONTROL equipo]&quot; tampoco devuelve ningún resultado.
+Cuando un usuario intenta utilizar el [!UICONTROL Filtro rápido] en una lista para buscar un equipo, al introducir el nombre del equipo no se obtienen resultados, aunque el equipo esté visible en la lista (como en el campo [!UICONTROL Asignado a]). Al buscar la palabra “[!UICONTROL equipo]”, tampoco se obtienen resultados.
 
-**No se puede volver a anclar una página después de que se haya eliminado su pin**
+**No se puede volver a anclar una página tras haber eliminado su fijador**
 
 *Exploración*
 
 >[!NOTE]
 >
->Este problema se corrigió en Vista previa el 13 de octubre de 2022. Se corrigió en Producción el 27 de octubre de 2022.
+>Este problema se solucionó en la versión de vista previa del 13 de octubre de 2022. Se corrigió en Producción el 27 de octubre de 2022.
 
-Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
+Cuando un usuario selecciona la opción “[!UICONTROL Eliminar fijador]” en un fijador, recibe un mensaje sobre la eliminación e intenta reemplazar el fijador haciendo clic en “[!UICONTROL Deshacer]” en el mensaje, el fijador no se reemplaza en la barra de navegación superior, ni se añade a la lista de fijadores de la sección [!UICONTROL Más fijadores] (el menú de tres puntos del área [!UICONTROL Fijadores]).
 
-Si un usuario intenta volver a fijar la página visitando la página y fijándola, no se creará el pin y el usuario no podrá fijar la página.
+Si un usuario intenta volver a anclar la página accediendo a ella y anclándola, no se creará el fijador y el usuario no podrá anclar la página.
 
 **Todos los usuarios enumerados en [!UICONTROL Equilibrador de carga de trabajo] al utilizar un vínculo que se puede compartir en [!DNL Safari] explorador**
 
@@ -67,19 +67,19 @@ Cuando un usuario sigue un vínculo que se puede compartir con el [!UICONTROL Eq
 
 +++**Actualización de mantenimiento el 20 de octubre de 2022**
 
-**Error al asignar un equipo de forma masiva**
+**Error al asignar un equipo por lotes**
 
 *Asignaciones*
 
-Cuando un usuario edita por lotes tareas o problemas y asigna un equipo después de asignar un individuo, las asignaciones no se guardan y el usuario ve el siguiente error:
+Cuando un usuario edita por lotes tareas o problemas y asigna un equipo después de asignar un individuo, las asignaciones no se guardan y el usuario recibe el siguiente error:
 
-&quot;[!UICONTROL Intentémoslo de nuevo: se produjo el siguiente error: teamAspings debe ser una lista de objetos o una lista de ID]&quot;
+“[!UICONTROL Intentémoslo de nuevo - Se produjo el siguiente error: teamAssignments debe ser una lista de objetos o una lista de ID]”
 
 **&quot;[!UICONTROL No se pudo cargar el archivo]&quot; error**
 
 *Documentos*
 
-Cuando un usuario intenta cargar un archivo en la variable [!UICONTROL Documentos] , el archivo no se carga y el usuario ve el error[!UICONTROL No se pudo cargar el archivo].&quot;
+Cuando un usuario intenta cargar un archivo en el área [!UICONTROL Documentos], el archivo no se carga y el usuario recibe el error “[!UICONTROL No se pudo cargar el archivo]”.
 
 Esto se ha notificado al intentar cargar archivos MP4.
 
@@ -87,10 +87,10 @@ Esto se ha notificado al intentar cargar archivos MP4.
 
 *Problemas*
 
-Cuando un usuario está viendo una tarea, el número que se muestra en la variable [!UICONTROL Problemas] de la navegación izquierda no representa con precisión el número real de problemas asociados a la tarea.
+Cuando un usuario está viendo una tarea, el número que se muestra en la sección [!UICONTROL Problemas] de la navegación izquierda no representa con precisión el número real de problemas asociados a la tarea.
 
 
-**[!UICONTROL Predecesor] no se encuentra el icono en el encabezado de la tarea**
+El icono **[!UICONTROL Predecesor] no se encuentra en el encabezado de la tarea**
 
 *Tareas*
 
@@ -100,51 +100,51 @@ Cuando un usuario está viendo una tarea, el icono del predecesor de la tarea no
 
 +++**Actualización de mantenimiento el 13 de octubre de 2022**
 
-**No se puede volver a anclar una página después de que se haya eliminado su pin**
+**No se puede volver a anclar una página tras haber eliminado su fijador**
 
 *Exploración*
 
 >[!NOTE]
 >
->Este problema se solucionará en Vista previa el 13 de octubre de 2022. Se fijará en Producción el 27 de octubre de 2022.
+>Este problema se solucionará en la versión de vista previa del 13 de octubre de 2022. Se solucionará en el entorno de producción el 27 de octubre de 2022.
 
-Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
+Cuando un usuario selecciona la opción “[!UICONTROL Eliminar fijador]” en un fijador, recibe un mensaje sobre la eliminación e intenta reemplazar el fijador haciendo clic en “[!UICONTROL Deshacer]” en el mensaje, el fijador no se reemplaza en la barra de navegación superior, ni se añade a la lista de fijadores de la sección [!UICONTROL Más fijadores] (el menú de tres puntos del área [!UICONTROL Fijadores]).
 
-Si un usuario intenta volver a fijar la página visitando la página y fijándola, no se creará el pin y el usuario no podrá fijar la página.
+Si un usuario intenta volver a anclar la página accediendo a ella y anclándola, no se creará el fijador y el usuario no podrá anclar la página.
 
 **No se pueden asignar nombres ni guardar los filtros recién creados**
 
 *[!UICONTROL Planificador de recursos]*
 
-Cuando un usuario intenta nombrar un nuevo filtro en la [!UICONTROL Planificador de recursos], el cuadro nombre permanece en blanco. Además, si el usuario ha presionado la barra espaciadora, [!UICONTROL Guardar] se desactiva.
+Cuando un usuario intenta dar un nombre a un nuevo filtro en la [!UICONTROL Planificador de recursos], el cuadro del nombre permanece en blanco. Además, si el usuario ha presionado la barra espaciadora, el botón [!UICONTROL Guardar] se desactiva.
 
-**No se puede editar el nombre o el porcentaje completado de una tarea o problema**
+**No se puede editar el nombre o el porcentaje completado de una tarea o un problema**
 
 *Tareas y problemas*
 
-Usuarios con [!UICONTROL Contribute] el acceso a una tarea o problema no puede editar el nombre de la tarea o problema en el encabezado. Además, los usuarios con [!UICONTROL Contribute] access no puede editar el porcentaje completado de una tarea o problema.
+Los usuarios con acceso de tipo [!UICONTROL Contribuir] a una tarea o un problema no pueden editar el nombre de la tarea o el problema en el encabezado. Además, los usuarios con acceso de tipo [!UICONTROL Contribuir] no pueden editar el porcentaje completado de una tarea o problema.
 
-**los solicitantes y revisores se contabilizan en el recuento de licencias de una organización**
+**Los solicitantes y revisores se contabilizan en el recuento de licencias de una organización**
 
 *[!DNL Workfront Proof]*
 
-Cuando un usuario se agrega a una prueba como revisor o solicitante, obtiene un perfil de permisos como &quot;[!UICONTROL Visitante]&quot; que no debería utilizar una licencia de [!DNL Workfront Proof]. Sin embargo, cuando se añade el usuario, se incrementa el recuento de licencias de [!DNL Workfront Proof] utilizadas.
+Cuando un usuario se agrega a una prueba como revisor o solicitante, obtiene un perfil de permisos como “[!UICONTROL Visitante]” que no debería utilizar una licencia de [!DNL Workfront Proof]. Sin embargo, cuando se añade el usuario, se incrementa el recuento de licencias de [!DNL Workfront Proof] utilizadas.
 
 +++
 
 +++**Actualización de mantenimiento el 11 de octubre de 2022**
 
-**No se puede volver a anclar una página después de que se haya eliminado su pin**
+**No se puede volver a anclar una página tras haber eliminado su fijador**
 
 *Exploración*
 
 >[!NOTE]
 >
->Este problema se corrigió en Vista previa el 13 de octubre de 2022. Se fijará en Producción el 27 de octubre de 2022.
+>Este problema se solucionó en la versión de vista previa del 13 de octubre de 2022. Se solucionará en el entorno de producción el 27 de octubre de 2022.
 
-Cuando un usuario selecciona el &quot;[!UICONTROL Quitar pin]&quot; en un pin, recibe un mensaje sobre la eliminación e intenta reemplazar el pin haciendo clic en &quot;[!UICONTROL Deshacer]&quot; en el mensaje, el pin no se reemplaza en la barra de navegación superior, ni se añade a la lista de pines en la sección [!UICONTROL Más pines] (el menú de tres puntos de la [!UICONTROL Pines] ).
+Cuando un usuario selecciona la opción “[!UICONTROL Eliminar fijador]” en un fijador, recibe un mensaje sobre la eliminación e intenta reemplazar el fijador haciendo clic en “[!UICONTROL Deshacer]” en el mensaje, el fijador no se reemplaza en la barra de navegación superior, ni se añade a la lista de fijadores de la sección [!UICONTROL Más fijadores] (el menú de tres puntos del área [!UICONTROL Fijadores]).
 
-Si un usuario intenta volver a fijar la página visitando la página y fijándola, no se creará el pin y el usuario no podrá fijar la página.
+Si un usuario intenta volver a anclar la página accediendo a ella y anclándola, no se creará el fijador y el usuario no podrá anclar la página.
 
 +++
 
@@ -154,7 +154,7 @@ Si un usuario intenta volver a fijar la página visitando la página y fijándol
 
 *Modelos*
 
-El tipo de modelo &quot;Tablero&quot; se ha agregado al catálogo de modelos. Anteriormente, solo estaban disponibles los modelos Plantilla del proyecto y Estructura organizativa.
+El tipo de modelo “Tablero” se ha agregado al catálogo de modelos. Anteriormente, solo estaban disponibles los modelos Plantilla de proyecto y Estructura organizativa.
 
 **Elementos superpuestos en el panel izquierdo**
 
@@ -162,15 +162,15 @@ El tipo de modelo &quot;Tablero&quot; se ha agregado al catálogo de modelos. An
 
 Cuando un usuario trabaja en el generador de formularios y el formulario tiene más de 100 campos, el mensaje que notifica al usuario sobre el límite de campos hace que los elementos del panel izquierdo se superpongan.
 
-**El selector de fechas ya no se abre automáticamente al activar o hacer clic en la entrada**
+**El selector de fechas ya no se abre automáticamente al focalizar la entrada o hacer clic en ella**
 
 *Exploración*
 
-Cuando un usuario navega mediante el teclado, los selectores de fechas ya no se abren automáticamente cuando la entrada de fecha recibe el foco del teclado. En su lugar, los usuarios del teclado deben tabular al icono del selector de fechas y pulsar Intro para abrir el selector de fechas. Cuando un usuario navega por el ratón, los selectores de fechas ya no se abren automáticamente al hacer clic en la fecha. En su lugar, los usuarios del ratón deben hacer clic en el icono del selector de fechas para abrir el selector de fechas.
+Cuando un usuario navega mediante el teclado, los selectores de fechas ya no se abren automáticamente cuando el teclado se focaliza en la entrada de fecha. Alternativamente, los usuarios del teclado deben pulsar el tabulador hasta llegar el icono del selector de fechas y pulsar Intro para abrir el selector de fechas. Cuando un usuario navega mediante el ratón, los selectores de fechas ya no se abren automáticamente hasta que se hace clic en la entrada de fecha. Alternativamente, los usuarios del ratón deben hacer clic en el icono del selector de fechas para abrir el selector de fechas.
 
 Este cambio se realizó para ajustarse mejor a los patrones de experiencia de usuario del selector de fechas estándar y para crear una experiencia más accesible para los usuarios del teclado y del lector de pantalla.
 
-**Asignar varios resultados de equipos en un solo equipo asignado**
+**Asignar varios resultados de equipos solo genera un equipo asignado**
 
 *Equipos*
 
@@ -180,20 +180,20 @@ Este cambio se realizó para ajustarse mejor a los patrones de experiencia de us
 
 Cuando un usuario asigna varios equipos a una tarea o problema, solo aparece un equipo en la lista de asignaciones. Este problema también afecta a la creación de informes. Los informes que muestran asignaciones de equipo son inexactos porque solo aparece un equipo como asignado a la tarea o al problema.
 
-**&quot;[!UICONTROL Los cambios recientes no se guardaron]&quot; error al guardar automáticamente cambios en un parte de horas**
+Error de tipo **“[!UICONTROL Los cambios recientes no se han guardado]” al guardar automáticamente los cambios en una plantilla de horas**
 
 *Hojas de horas*
 
 Cuando un usuario intenta editar una plantilla de horas de forma que se active un guardado automático, los cambios no se guardan y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL Los cambios recientes no se guardaron. Actualice la página para verla.]&quot;
+“[!UICONTROL No se han guardado sus cambios recientes. Actualice la página para verlos.]”
 
 Se ha informado de esto al editar lo siguiente:
 
 * Horas
 * Tareas
 
-**las notificaciones por correo electrónico se retrasan**
+**Las notificaciones por correo electrónico se retrasan**
 
 *Revisión de Workfront*
 
@@ -203,11 +203,11 @@ Cuando se produce un evento en [!DNL Workfront Proof] que desencadena una notifi
 
 +++**Actualización de mantenimiento el 3 de octubre de 2022**
 
-**Guarde manualmente su parte de horas cuando las funciones de trabajo anteriores hayan cambiado**
+**Guarde manualmente su plantilla de horas cuando las funciones de trabajo anteriores hayan cambiado**
 
 *Hojas de horas*
 
-Si la función de trabajo para la que ha registrado ha cambiado y la variable [!UICONTROL Asignar roles de trabajo a las entradas de hora manualmente] se ha desactivado, debe guardar manualmente las entradas de tiempo hasta que no se registren las horas para la función de trabajo que ha cambiado.
+Si la función de trabajo para la que ha registrado tiempo ha cambiado y la opción [!UICONTROL Asignar roles de trabajo a las entradas de hora manualmente] se ha desactivado, debe guardar manualmente las entradas de tiempo hasta que no se registren las horas para la función de trabajo que ha cambiado.
 
 +++
 
@@ -219,15 +219,15 @@ Si la función de trabajo para la que ha registrado ha cambiado y la variable [!
 
 *Pruebas*
 
-Cuando un usuario que está viendo una prueba en [!DNL Workfront] cierra la prueba, no devuelve la página en la que se encontraba antes de abrirla. En su lugar, se les redirige a otra página de [!DNL Workfront].
+Cuando un usuario que está viendo una prueba en [!DNL Workfront] cierra la prueba, no se devuelve la página en la que se encontraba antes de abrirla. Alternativamente, se le redirige a otra página de [!DNL Workfront].
 
 **No se puede abrir la prueba en[!DNL Workfront]**
 
 *Pruebas*
 
-Cuando un usuario está viendo un documento en [!DNL Workfront] e intenta abrir la prueba, la prueba no se abre y el usuario vuelve al [!UICONTROL Detalles del documento] página.
+Cuando un usuario está viendo un documento en [!DNL Workfront] e intenta abrir la prueba, la prueba no se abre y el usuario vuelve a la página [!UICONTROL Detalles del documento].
 
-**Las horas no se guardan al utilizar [!UICONTROL Tabulación] key**
+**Las horas no se guardan al utilizar el [!UICONTROL tabulador]**
 
 *Hojas de horas*
 
@@ -255,13 +255,13 @@ Cuando un usuario está viendo las actualizaciones y pasa el ratón por encima d
 
 +++**Actualización de mantenimiento el 15 de septiembre de 2022**
 
-**Aparece el error &quot;[!UICONTROL Alguien más intentó guardar este proyecto]&quot; al introducir horas**
+**Aparece el error “[!UICONTROL Alguien más intentó guardar este proyecto]” al introducir horas**
 
 *Hojas de horas*
 
 Cuando un usuario intenta registrar horas en una tarea de su plantilla de horas, las horas no se guardan automáticamente y ve el siguiente error:
 
-&quot;[!UICONTROL Lo lamentamos, no se pudo guardar debido a que otro usuario intentó guardar el proyecto al mismo tiempo. Intente guardar de nuevo.]&quot;
+“[!UICONTROL Lo lamentamos, no se pudo guardar debido a que otro usuario intentó guardar el proyecto al mismo tiempo. Intente guardar de nuevo.]”
 
 **No se puede cerrar la tarjeta de usuario en el flujo de actualización del estado**
 
@@ -269,11 +269,11 @@ Cuando un usuario intenta registrar horas en una tarea de su plantilla de horas,
 
 Cuando un usuario está viendo las actualizaciones y pasa el ratón por encima de un nombre, se abre una tarjeta con detalles sobre el usuario del que se trata y no se cierra automáticamente. La página no responde hasta que se cierra manualmente la tarjeta haciendo clic en la X de la esquina superior derecha.
 
-**El nombre del campo &quot;[!UICONTROL Asignación de funciones de tarea]&quot; se ha cambiado a &quot;[!UICONTROL Asignación de funciones]&quot; al asignar trabajo de forma masiva mediante el [!UICONTROL Distribuidor de cargas de trabajo]**
+**El nombre del campo “[!UICONTROL Asignación de funciones de tarea]” se ha cambiado a “[!UICONTROL Asignación de funciones]” al asignar trabajo por lotes mediante el [!UICONTROL Distribuidor de cargas de trabajo]**
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 
-Para reflejar la nueva funcionalidad de poder asignar tareas y problemas de forma masiva desde el área de [!UICONTROL Trabajo no asignado], se ha cambiado el nombre del campo de &quot;[!UICONTROL Asignación de funciones de tarea]&quot; a &quot;[!UICONTROL Asignación de funciones]&quot; en el [!UICONTROL Distribuidor de cargas de trabajo]. El campo hace referencia a las funciones que se han asignado a tareas o problemas y se muestra al asignar usuarios a elementos en la ventana de [!UICONTROL Asignaciones masivas].
+Para reflejar la nueva funcionalidad de poder asignar tareas y problemas por lotes desde el área de [!UICONTROL Trabajo no asignado], se ha cambiado el nombre del campo “[!UICONTROL Asignación de funciones de tarea]” a “[!UICONTROL Asignación de funciones]” en el [!UICONTROL Distribuidor de cargas de trabajo]. El campo hace referencia a las funciones que se han asignado a tareas o problemas y se muestra al asignar usuarios a elementos en la ventana [!UICONTROL Asignaciones por lotes].
 
 +++
 
@@ -283,7 +283,7 @@ Para reflejar la nueva funcionalidad de poder asignar tareas y problemas de form
 
 *[!DNL Workfront Scenario Planner]*
 
-Ahora, cuando comparte un filtro de proyecto con un grupo que tiene subgrupos adicionales, el filtro es visible para todos los miembros de grupo y del subgrupo que ven proyectos en la ventana de [!UICONTROL Importar proyectos] de un plan en el [!DNL Scenario Planner].
+Ahora, cuando comparte un filtro de proyecto con un grupo que tiene subgrupos adicionales, el filtro es visible para todos los miembros de grupo y del subgrupo que ven proyectos en la ventana [!UICONTROL Importar proyectos] de un plan en el [!DNL Scenario Planner].
 
 +++
 
@@ -302,15 +302,15 @@ Los campos de asignación cuyos nombres se cambiaron temporalmente la semana pas
 
 *Proyectos*
 
-Cuando un usuario intenta eliminar un [!UICONTROL Propietario del proyecto] del encabezado de un proyecto, la variable [!UICONTROL Propietario del proyecto] no se elimina y el usuario ve el siguiente mensaje de error:
+Cuando un usuario intenta eliminar un [!UICONTROL Propietario del proyecto] del encabezado de un proyecto, el [!UICONTROL Propietario del proyecto] no se elimina y el usuario ve el siguiente mensaje de error:
 
 `422: Invalid Parameter: ownerID value "null" /attask/api-internal/PROJ/<project ID>`
 
-**La ventana de [!UICONTROL Descripción] cuyo tamaño se modificó vuelve a su tamaño original**
+**La ventana [!UICONTROL Descripción] cuyo tamaño se modificó vuelve a su tamaño original**
 
 *Proyectos, tareas y problemas*
 
-Cuando un usuario cambia el tamaño de la ventana de [!UICONTROL Descripción] en el área de detalles de un elemento de trabajo para agrandarla y a continuación empieza a escribir en la ventana, esta vuelve a su tamaño original. El usuario puede seguir escribiendo en la ventana y el contenido se guardará según lo esperado
+Cuando un usuario cambia el tamaño de la ventana [!UICONTROL Descripción] en el área de detalles de un elemento de trabajo para agrandarla y a continuación empieza a escribir en la ventana, esta vuelve a su tamaño original. El usuario puede seguir escribiendo en la ventana y el contenido se guardará según lo esperado
 
 **Salida involuntaria al crear tareas o problemas**
 
@@ -346,7 +346,7 @@ Cuando selecciona más de 50 elementos para agregarlos a una plantilla de horas,
 
 +++**Actualización de mantenimiento el 2 de septiembre de 2022**
 
-Agregue el campo de [!UICONTROL Integraciones] al encabezado del proyecto personalizado
+Agregue el campo [!UICONTROL Integraciones] al encabezado del proyecto personalizado
 
 *Integraciones*
 
@@ -384,7 +384,7 @@ Cuando un usuario intenta aprobar o rechazar horas en la pestaña [!UICONTROL Ho
 
 *Problemas*
 
-Cuando se convierte un problema en un proyecto mediante una plantilla y se produce un error, se muestra al usuario una página con el mensaje &quot;[!UICONTROL El proyecto ya no existe]&quot; en lugar del mensaje de error correcto que explica la causa de la conversión fallida.
+Cuando se convierte un problema en un proyecto mediante una plantilla y se produce un error, se muestra al usuario una página con el mensaje “[!UICONTROL El proyecto ya no existe]” en lugar del mensaje de error correcto que explica la causa de la conversión fallida.
 
 **No se puede crear la prueba para archivos de más de 1,5 GB**
 
@@ -404,7 +404,7 @@ Al crear una prueba nueva, si un usuario carga un archivo de más de 1,5 GB, el
 
 Los vínculos compartibles del Distribuidor de cargas de trabajo se muestran incorrectamente cuando se añaden a un panel como una página externa. En lugar de utilizar la vista o los filtros únicos asociados al vínculo, el panel utiliza la vista o los filtros aplicados más recientemente al Distribuidor de cargas de trabajo.
 
-**Agregue el campo de [!UICONTROL Integraciones] al encabezado del proyecto personalizado**
+**Agregue el campo [!UICONTROL Integraciones] al encabezado del proyecto personalizado**
 
 *Proyectos*
 
@@ -420,13 +420,13 @@ Ahora puede agregar el campo [!UICONTROL Integraciones] al encabezado personaliz
 
 Cuando un usuario convierte un problema en un proyecto en blanco (sin plantilla), los datos de los campos calculados no se transfieren al nuevo proyecto.
 
-**Error de &quot;Modo de planificación de la cronología&quot; al cambiar una fecha de un proyecto**
+**Error de “Modo de planificación de la cronología” al cambiar una fecha de un proyecto**
 
 *Proyectos*
 
 Cuando un usuario intenta cambiar una fecha en un proyecto que tiene el [!UICONTROL modo de planificación] establecido en [!UICONTROL Guardar de forma manual] > [!UICONTROL Planificación de cronología], la fecha no cambia y el usuario ve un error.
 
-&quot;[!UICONTROL El modo de planificación de la cronología solo está disponible cuando timelineDate está cargado. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo]&quot;.
+“[!UICONTROL El modo de planificación de la cronología solo está disponible cuando timelineDate está cargado. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo.]”
 
 **Coherencia al abrir el Distribuidor de cargas de trabajo mediante la vista Mes**
 
@@ -439,11 +439,11 @@ Ahora el Distribuidor de cargas de trabajo muestra los elementos asignados de lo
 
 +++**Actualización de mantenimiento el 18 de agosto de 2022**
 
-**Las opciones &quot;[!UICONTROL Agregar a iteración]&quot; y &quot;[!UICONTROL Agregar a panel Kanban]&quot; no están disponibles cuando se editan en línea tareas en un informe**
+**Las opciones “[!UICONTROL Agregar a iteración]” y “[!UICONTROL Agregar a panel Kanban]” no están disponibles cuando se editan en línea tareas en un informe**
 
 *Informes*
 
-Cuando un usuario está viendo una lista de tareas en un informe y abre el menú [!UICONTROL Más] (tres puntos), las opciones &quot;[!UICONTROL Añadir a la iteración]&quot; y &quot;[!UICONTROL Añadir al panel Kanban]&quot; no están disponibles en el desplegable. Si el informe se visualiza en un panel, las opciones &quot;[!UICONTROL Añadir a la iteración]&quot; y &quot;[!UICONTROL Añadir al panel Kanban]&quot; están disponibles en el desplegable.
+Cuando un usuario está viendo una lista de tareas en un informe y abre el menú [!UICONTROL Más] (tres puntos), las opciones “[!UICONTROL Añadir a la iteración]” y “[!UICONTROL Añadir al panel Kanban]” no están disponibles en el desplegable. Si el informe se visualiza en un panel, las opciones “[!UICONTROL Añadir a la iteración]” y “[!UICONTROL Añadir al panel Kanban]” están disponibles en el desplegable.
 
 **Los informes de matriz se muestran de forma incorrecta al desplazarse**
 
@@ -469,7 +469,7 @@ Cuando un usuario está viendo una prueba interactiva y hace clic en un vínculo
 
 En la página [!DNL New Proof] no se muestran muchos campos de texto (incluidas etiquetas de campo, opciones desplegables y nombres de las casillas de verificación).
 
-**Los usuarios no reciben notificaciones cuando están etiquetados en una prueba**
+**Los usuarios no reciben notificaciones cuando se les etiqueta en una prueba**
 
 *[!DNL Workfront Proof]*
 
@@ -495,7 +495,7 @@ Cuando se agrega un nuevo campo a un encabezado personalizable, el campo ahora s
 
 Cuando un usuario intenta editar un formulario personalizado con un campo de [!UICONTROL texto descriptivo] con más de 512 caracteres, el usuario no puede guardar las ediciones en el formulario personalizado y ve el siguiente error:
 
-&quot;Los campos siguientes no son válidos: (Campo) es demasiado largo, máximo 512&quot;
+“Los campos siguientes no son válidos: (Campo) es demasiado largo, máximo 512”
 
 Esto afecta a los campos de [!UICONTROL texto descriptivo] que anteriormente funcionaban correctamente a pesar de tener más de 512 caracteres.
 
@@ -515,7 +515,7 @@ Cuando un usuario está convirtiendo una solicitud en un proyecto, y la solicitu
 
 *Formularios personalizados*
 
-Cuando un usuario intenta editar un formulario personalizado que incluye un campo de Texto descriptivo, la etiqueta del campo no se rellena. El usuario ve el error &quot;[!UICONTROL Este campo es obligatorio]&quot; bajo el campo de la etiqueta y no puede editar el formulario personalizado debido a este error.
+Cuando un usuario intenta editar un formulario personalizado que incluye un campo Texto descriptivo, la etiqueta del campo no se rellena. El usuario ve el error “[!UICONTROL Este campo es obligatorio]” bajo el campo de la etiqueta y no puede editar el formulario personalizado debido a este error.
 
 **No se pueden quitar instrucciones de un campo personalizado en el generador de formularios personalizados**
 
@@ -555,25 +555,25 @@ Estos problemas se solucionaron solo en la nueva experiencia de [!DNL Workfront]
 
 Toda la funcionalidad de [!DNL Workfront Classic] se eliminó el 14 de julio de 2022.
 
-**Error al abrir un elemento desde la [!UICONTROL Lista de trabajoss en Inicio]**
+**Error al abrir un elemento desde la [!UICONTROL Lista de trabajos en Inicio]**
 
 *[!UICONTROL Página de inicio]*
 
-Cuando un usuario intenta abrir un elemento en su [!UICONTROL Lista de trabajoss en Inicio], el elemento no se abre y el usuario ve el siguiente mensaje:
+Cuando un usuario intenta abrir un elemento en su [!UICONTROL Lista de trabajos en Inicio], el elemento no se abre y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando actualizar esta página de explorador.]&quot;
+“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando actualizar esta página de explorador.]”
 
-**Las tareas y los problemas delegados a un usuario no aparecen en la Lista de trabajoss en Inicio del usuario**
+**Las tareas y los problemas delegados a un usuario no aparecen en la Lista de trabajos en Inicio del usuario**
 
 *[!UICONTROL Página de inicio]*
 
-Cuando el usuario ve sus [!UICONTROL Lista de trabajoss en Inicio], las tareas o problemas delegados al usuario no aparecen en la lista y es posible que el usuario no tenga conocimiento de las delegaciones.
+Cuando el usuario ve sus [!UICONTROL Lista de trabajos en Inicio], las tareas o problemas delegados al usuario no aparecen en la lista y es posible que el usuario no tenga conocimiento de las delegaciones.
 
 **Los informes programados no se envían a todos los destinatarios**
 
 *Informes*
 
-Cuando se envía un informe programado, no se envía a todos los usuarios en la sección &quot;[!UICONTROL Enviar a]&quot;. Los usuarios omitidos son aleatorios y pueden variar cada vez que se envía el informe.
+Cuando se envía un informe programado, no se envía a todos los usuarios en la sección “[!UICONTROL Enviar a]”. Los usuarios omitidos son aleatorios y pueden variar cada vez que se envía el informe.
 
 **[!UICONTROL No se puede anular la selección de tareas al adjuntar una plantilla]**
 
@@ -581,14 +581,14 @@ Cuando se envía un informe programado, no se envía a todos los usuarios en la 
 
 Cuando un usuario adjunta y personaliza una plantilla, se le pide que anule la selección de tareas que no desee incluir. Sin embargo, ninguna de las tareas se muestra como seleccionadas y el usuario no puede anular la selección.
 
-**Los campos &quot;Configuración regional&quot; ahora tienen etiquetas más específicas**
+**Los campos “Configuración regional” ahora tienen etiquetas más específicas**
 
 *Terminología*
 
-Para que la función de los campos de la &quot;[!UICONTROL Configuración regional]&quot; sea más clara, hemos actualizado sus etiquetas.
+Para que la función de los campos de la “[!UICONTROL Configuración regional]” sea más clara, hemos actualizado sus etiquetas.
 
-* El campo de &quot;[!UICONTROL Configuración regional]&quot; en el perfil de usuario ahora se denomina &quot;[!UICONTROL Configuración regional de correo electrónico]&quot;
-* El campo de &quot;[!UICONTROL Configuración regional]&quot; encontrado en la zona de [!UICONTROL Configuración] > [!UICONTROL Sistema] > [!UICONTROL Información del cliente] ahora está etiquetada como &quot;[!UICONTROL Configuración regional de correo electrónico predeterminada]&quot;
+* El campo “[!UICONTROL Configuración regional]” en el perfil de usuario ahora se denomina “[!UICONTROL Configuración regional de correo electrónico]”
+* El campo “[!UICONTROL Configuración regional]” encontrado en la zona de [!UICONTROL Configuración] > [!UICONTROL Sistema] > [!UICONTROL Información del cliente] ahora está etiquetada como “[!UICONTROL Configuración regional de correo electrónico predeterminada]”
 
 La funcionalidad de estos campos no ha cambiado.
 
@@ -598,7 +598,7 @@ La funcionalidad de estos campos no ha cambiado.
 
 Se han comunicado los siguientes problemas con respecto a la creación de plantillas de horas:
 
-* Cuando un usuario intenta crear una plantilla de horas para una función, la plantilla no se crea y el usuario ve el error &quot;[!UICONTROL No se encuentra el usuario con valores de clave principal &quot;XXXXXXXXXXX&quot;.]&quot;
+* Cuando un usuario intenta crear una plantilla de horas para una función, la plantilla no se crea y el usuario ve el error “[!UICONTROL No se encuentra el usuario con valores de clave principal ‘XXXXXXXXXXX’]”.
 * Cuando un usuario intenta crear una plantilla de horas para un equipo, el campo de [!UICONTROL escritura anticipada] no se rellena con los equipos y el botón [!UICONTROL Crear plantilla de horas] está desactivado.
 
 
@@ -647,7 +647,7 @@ Toda la funcionalidad de [!DNL Workfront Classic] se eliminó el 14 de julio de 
 
 *Rutas de aprobación*
 
-Si selecciona un estado asociado a un proceso de aprobación como estado de rechazo de una ruta de aprobación, el objeto rechazado pasa al estado seleccionado y se marcará como &quot;[!UICONTROL Pendiente de aprobación]&quot;. Por ejemplo, si selecciona [!UICONTROL En espera] para el estado de rechazo y el estado de [!UICONTROL En espera] está asociado a un proceso de aprobación, el objeto rechazado se coloca en el estado de &quot;[!UICONTROL En espera: pendiente de aprobación]&quot;, que requiere la aprobación.
+Si selecciona un estado asociado a un proceso de aprobación como estado de rechazo de una ruta de aprobación, el objeto rechazado pasa al estado seleccionado y se marcará como “[!UICONTROL Pendiente de aprobación]”. Por ejemplo, si selecciona [!UICONTROL En espera] para el estado de rechazo y el estado de [!UICONTROL En espera] está asociado a un proceso de aprobación, el objeto rechazado se coloca en el estado de “[!UICONTROL En espera: pendiente de aprobación]”, que requiere la aprobación.
 
 Antes de esta actualización, el objeto omitió el proceso de aprobación para el estado de rechazo y se colocó en el estado de [!UICONTROL En espera].
 
@@ -676,11 +676,11 @@ La página de **[!UICONTROL Mis actualizaciones] está en blanco**
 
 Cuando un usuario intenta ver su página de [!UICONTROL Mis actualizaciones], la página no se carga. El usuario solo puede ver el encabezado de navegación de [!DNL Workfront].
 
-**Falta la configuración de &quot;[!UICONTROL Permitir solo la autenticación SAML 2.0]&quot; al copiar un usuario**
+**Falta la configuración de “[!UICONTROL Permitir solo la autenticación SAML 2.0]” al copiar un usuario**
 
 *Usuarios*
 
-Cuando un administrador de grupo copia un usuario y anula la selección de la opción de &quot;[!UICONTROL Enviar un correo electrónico de invitación a esta persona]&quot;, la casilla de &quot;[!UICONTROL Permitir solo la autenticación SAML 2.0]&quot; no aparece como según lo esperado. Esto puede ocurrir incluso aunque se cumplan todos los requisitos de acceso y permiso para esta acción.
+Cuando un administrador de grupo copia un usuario y anula la selección de la opción de “[!UICONTROL Enviar un correo electrónico de invitación a esta persona]”, la casilla de “[!UICONTROL Permitir solo la autenticación SAML 2.0]” no aparece como según lo esperado. Esto puede ocurrir incluso aunque se cumplan todos los requisitos de acceso y permiso para esta acción.
 
 +++
 
@@ -706,7 +706,7 @@ Cuando un usuario con acceso limitado a un informe intenta solicitar más acceso
 
 *Solicitudes*
 
-Cuando se descarta un borrador de solicitud, en el mensaje de confirmación que aparece después de hacer clic en &quot;[!UICONTROL Descartar borrador]&quot; se muestra lo siguiente:
+Cuando se descarta un borrador de solicitud, en el mensaje de confirmación que aparece después de hacer clic en “[!UICONTROL Descartar borrador]” se muestra lo siguiente:
 
 * [!UICONTROL Borrador descartado] (se trata de una notificación para informarle de que su borrador se descartó)
 * [!UICONTROL Deshacer] (se trata de un vínculo en el que puede hacer clic para revertir la acción de eliminar el borrador. Esto conservará el borrador en lugar de eliminarlo).
@@ -767,17 +767,17 @@ Como resultado, le recomendamos que realice las siguientes acciones si aún no l
 
 Cuando un usuario agrega un usuario a una Plantilla de flujo de trabajo, puede configurar opciones. Sin embargo, una vez completada la configuración inicial, el usuario ya no puede modificar lo siguiente:
 
-* Capacidad de &quot;[!UICONTROL Resolver comentarios y aplicar acciones]&quot;
-* Capacidad de [!UICONTROL &quot;Compartir la prueba mediante etiquetado]&quot;
+* Capacidad de “[!UICONTROL Resolver comentarios y aplicar acciones]”
+* Capacidad de [!UICONTROL “Compartir la prueba mediante etiquetado]”
 * Función de prueba ([!UICONTROL Revisor], [!UICONTROL Aprobador], etc.)
 
-**El filtro de &quot;[!UICONTROL Elementos de trabajo de este proyecto]&quot; se ha restaurado en el proyecto [!UICONTROL Distribuidor de cargas de trabajo]**
+**El filtro de “[!UICONTROL Elementos de trabajo de este proyecto]” se ha restaurado en el proyecto [!UICONTROL Distribuidor de cargas de trabajo]**
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 
-Hemos restaurado el filtro de &quot;Elementos de trabajo de este proyecto&quot; en el área [!UICONTROL Asignada] al acceder al [!UICONTROL Distribuidor de cargas de trabajo] de un proyecto.
+Hemos restaurado el filtro de “Elementos de trabajo de este proyecto” en el área [!UICONTROL Asignada] al acceder al [!UICONTROL Distribuidor de cargas de trabajo] de un proyecto.
 
-Este filtro ahora aparece en la sección de &quot;[!UICONTROL Sugeridos]&quot; de los filtros para el área de [!UICONTROL Trabajo asignado] del [!UICONTROL Distribuidor de cargas de trabajo] de un proyecto.
+Este filtro ahora aparece en la sección “[!UICONTROL Sugeridos]” de los filtros para el área de [!UICONTROL Trabajo asignado] del [!UICONTROL Distribuidor de cargas de trabajo] de un proyecto.
 
 +++
 
@@ -846,15 +846,15 @@ Cuando un usuario está viendo el [!UICONTROL Flujo de trabajo de prueba] de una
 
 Cuando un usuario está viendo un panel en un proyecto e intenta agregar una nueva solicitud haciendo clic en el botón [!UICONTROL +Nueva solicitud], el botón no responde y el usuario no puede agregar una solicitud nueva.
 
-**Error al ver elementos en la Lista de trabajoss de Inicio**
+**Error al ver elementos en la Lista de trabajos de Inicio**
 
 *[!UICONTROL Página de inicio]*
 
-Cuando un usuario está viendo su [!UICONTROL Lista de trabajoss en Inicio] y hace clic en un elemento de la sección [!UICONTROL Aprobaciones enviadas], la página muestra el siguiente error:
+Cuando un usuario está viendo su [!UICONTROL Lista de trabajos en Inicio] y hace clic en un elemento de la sección [!UICONTROL Aprobaciones enviadas], la página muestra el siguiente error:
 
-&quot;[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]&quot;
+“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
 
-Si el usuario actualiza la página y luego hace clic en cualquier elemento de la sección [!UICONTROL Lista de trabajoss], aparece el error. El problema ya no afecta solo a los elementos de la sección [!UICONTROL Aprobaciones enviadas].
+Si el usuario actualiza la página y luego hace clic en cualquier elemento de la sección [!UICONTROL Lista de trabajos], aparece el error. El problema ya no afecta solo a los elementos de la sección [!UICONTROL Aprobaciones enviadas].
 
 **La sección personalizada sobre un objeto incluye resultados que no están en ese objeto**
 
@@ -903,13 +903,13 @@ Cuando un administrador de grupo intenta agregar un usuario a un grupo, la lista
 
 Cuando un usuario crea un filtro y filtra por un campo de fecha, la lista desplegable de operadores disponibles para el campo de fecha no incluye ningún trimestre personalizado agregado recientemente.
 
-**Error &quot;¡Uy!&quot; al convertir un problema en un proyecto mediante una plantilla**
+**Error “¡Uy!” al convertir un problema en un proyecto mediante una plantilla**
 
 *Proyectos*
 
 Cuando un usuario intenta convertir un problema en un proyecto a través de una plantilla y el problema tiene un formulario personalizado que contiene una sección de solo administración, el problema no se convierte y el usuario ve el siguiente error:
 
-&quot;[!UICONTROL Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo]&quot;.
+“[!UICONTROL Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo.]”
 
 **Las solicitudes se envían sin haber rellenado los campos obligatorios**
 
@@ -941,19 +941,19 @@ Cuando un usuario intenta abrir el área de [!UICONTROL Solicitudes de trabajo] 
 
 *Portafolios*
 
-Cuando un usuario está en el [!UICONTROL Optimizador de portafolios] y visualiza la ficha de los [!UICONTROL Filtros del proyecto] en el área de [!UICONTROL Preferencias], las casillas de verificación situadas junto a los objetos no están presentes. El usuario no puede marcar ni desmarcar casillas y, por lo tanto, no puede seleccionar objetos que filtrar.
+Cuando un usuario está en el [!UICONTROL Optimizador de portafolios] y visualiza la pestaña de los [!UICONTROL Filtros del proyecto] en el área de [!UICONTROL Preferencias], las casillas de verificación situadas junto a los objetos no están presentes. El usuario no puede marcar ni desmarcar casillas y, por lo tanto, no puede seleccionar objetos que filtrar.
 
-**No se puede cambiar la [!UICONTROL Fecha planificada de inicio] o la [!UICONTROL Fecha planificada de finalización] cuando &quot;[!UICONTROL Programar desde]&quot; no está marcado**
+**No se puede cambiar la [!UICONTROL Fecha planificada de inicio] o la [!UICONTROL Fecha planificada de finalización] cuando “[!UICONTROL Programar desde]” no está marcado**
 
 *Proyectos*
 
-Cuando un usuario intenta editar la [!UICONTROL Fecha planificada de inicio] o [!UICONTROL Fecha planificada de finalización] de un proyecto y la opción de &quot;[!UICONTROL Programar desde]&quot; para ese proyecto no está activada, las áreas de [!UICONTROL Fecha planificada de inicio] y [!UICONTROL Fecha planificada de finalización] están deshabilitadas y el usuario no puede editar esas fechas.
+Cuando un usuario intenta editar la [!UICONTROL Fecha planificada de inicio] o [!UICONTROL Fecha planificada de finalización] de un proyecto y la opción de “[!UICONTROL Programar desde]” para ese proyecto no está activada, las áreas de [!UICONTROL Fecha planificada de inicio] y [!UICONTROL Fecha planificada de finalización] están deshabilitadas y el usuario no puede editar esas fechas.
 
 **No se puede editar el nivel de acceso de los usuarios**
 
 *Usuarios*
 
-Cuando un usuario con acceso de Planificador que incluye el acceso de Administración de usuarios (Usuarios del grupo) intenta editar a los usuarios del grupo para el que son administradores, se muestra el campo de [!UICONTROL Nivel de acceso] desactivado y el usuario no puede editar el nivel de acceso.
+Cuando un usuario con acceso de Planificador que incluye el acceso de Administración de usuarios (Usuarios del grupo) intenta editar a los usuarios del grupo para el que son administradores, se muestra el campo [!UICONTROL Nivel de acceso] desactivado y el usuario no puede editar el nivel de acceso.
 
 +++
 
@@ -1011,7 +1011,7 @@ Cuando un usuario intenta editar las [!UICONTROL Condiciones] en el área de [!U
 >
 >Esta actualización solo se aplica al entorno de vista previa.
 
-Para mejorar el rendimiento del área de Actualizaciones del estado, hemos introducido un nuevo límite en el número de caracteres que puede introducir en una actualización o en una respuesta a una actualización existente. El nuevo límite es de 15 000 caracteres. Esta actualización no cambió el número de caracteres permitidos al utilizar la API. El límite de caracteres de la API para las actualizaciones es de 4000. Actualizaciones 
+Para mejorar el rendimiento del área de Actualizaciones, se ha introducido un nuevo límite en el número de caracteres que se pueden introducir en una actualización o en una respuesta a una actualización existente. El nuevo límite es de 15 000 caracteres. Esta actualización no cambió el número de caracteres permitidos al utilizar la API. El límite de caracteres de la API para las actualizaciones es de 4000. Actualizaciones
 Compatibilidad con campos personalizados de tipo Escritura anticipada en los filtros del Distribuidor de cargas de trabajo
 
 Ahora se admiten filtros basados en los campos personalizados de tipo [!UICONTROL Escritura anticipada] en el Distribuidor de cargas de trabajo. Antes de este parche, el filtrado para este tipo de campos personalizados no era posible en el Distribuidor de cargas de trabajo.
@@ -1020,7 +1020,7 @@ Ahora se admiten filtros basados en los campos personalizados de tipo [!UICONTRO
 
 *[!DNL Workfront Proof]*
 
-Cuando un usuario intenta editar los permisos de &quot;[!UICONTROL Resolver comentarios y aplicar acciones]&quot; o &quot;[!UICONTROL Compartir una prueba mediante el etiquetado]&quot; en la función de un usuario en [!DNL Workfront Proof], los cambios no se guardan. El usuario recibe una notificación de que la plantilla se ha actualizado, pero si el usuario vuelve a abrir los permisos de funciones, puede ver que los cambios no se guardaron.
+Cuando un usuario intenta editar los permisos de “[!UICONTROL Resolver comentarios y aplicar acciones]” o “[!UICONTROL Compartir una prueba mediante el etiquetado]” en la función de un usuario en [!DNL Workfront Proof], los cambios no se guardan. El usuario recibe una notificación de que la plantilla se ha actualizado, pero si el usuario vuelve a abrir los permisos de funciones, puede ver que los cambios no se guardaron.
 
 +++
 
@@ -1053,7 +1053,7 @@ Cuando un usuario intenta editar un formulario personalizado que tiene un salto 
 
 *Paneles*
 
-Se han notificado los siguientes problemas al imprimir un panel en un PDF: 
+Se han notificado los siguientes problemas al imprimir un panel en un PDF:
 El PDF no imprime todas las filas del informe. Cuando faltan líneas, solo se muestra espacio en blanco.
 El PDF incluye espacios en blanco entre los encabezados de columna y la primera fila del informe.
 
@@ -1073,7 +1073,7 @@ Cuando un usuario intenta editar los formularios personalizados en una plantilla
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 
-Cuando un usuario ve el [!UICONTROL Distribuidor de cargas de trabajo] mediante un vínculo compartido, el [!DNL Workload Balancer] incluye [!UICONTROL Trabajo asignado] en la sección de [!UICONTROL Trabajo no asignado]. [!UICONTROL Trabajo asignado] no tiene una sección aparte. Cuando el usuario ve el [!UICONTROL Distribuidor de cargas de trabajo] sin usar el vínculo compartido, el [!UICONTROL Trabajo asignado] se muestra según lo esperado.
+Cuando un usuario ve el [!UICONTROL Distribuidor de cargas de trabajo] mediante un vínculo compartido, el [!DNL Workload Balancer] incluye [!UICONTROL Trabajo asignado] en la sección [!UICONTROL Trabajo no asignado]. [!UICONTROL Trabajo asignado] no tiene una sección aparte. Cuando el usuario ve el [!UICONTROL Distribuidor de cargas de trabajo] sin usar el vínculo compartido, el [!UICONTROL Trabajo asignado] se muestra según lo esperado.
 
 +++
 
@@ -1117,7 +1117,7 @@ Si un usuario está viendo una página de [!UICONTROL Grupo] e intenta agregar o
 
 Cuando un usuario está viendo una lista con una vista que se extiende más allá de la pantalla, la barra de desplazamiento horizontal impide la vista del usuario del último elemento de la lista.
 
-**&quot;[!UICONTROL Error inesperado]&quot; al convertir un problema en un proyecto mediante una plantilla**
+**“[!UICONTROL Error inesperado]” al convertir un problema en un proyecto mediante una plantilla**
 
 *Listas*
 
@@ -1125,11 +1125,11 @@ Cuando un usuario intenta convertir un problema en un proyecto mediante una plan
 
 [!UICONTROL Se produjo un error inesperado]
 
-**El campo de [!UICONTROL Estado] en una vista de plantilla de horas es ahora de solo lectura**
+**El campo [!UICONTROL Estado] en una vista de plantilla de horas es ahora de solo lectura**
 
 *Hojas de horas*
 
-Hemos cambiado el campo de [!UICONTROL Estado] en una vista de plantilla de horas como de solo lectura. Antes de este cambio, los usuarios podían editar en línea el estado de una plantilla de horas, lo que les permitía anular la decisión de los aprobadores de las plantillas de horas.
+Hemos cambiado el campo [!UICONTROL Estado] en una vista de plantilla de horas como de solo lectura. Antes de este cambio, los usuarios podían editar en línea el estado de una plantilla de horas, lo que les permitía anular la decisión de los aprobadores de las plantillas de horas.
 
 +++
 
@@ -1139,13 +1139,13 @@ Hemos cambiado el campo de [!UICONTROL Estado] en una vista de plantilla de hora
 
 *Proyectos*
 
-Cuando un usuario está editando un proyecto e intenta guardarlo, observa que el botón [!UICONTROL Guardar] muestra la palabra &quot;[!UICONTROL Cargando].&quot; Si el usuario hace clic en este botón para guardar los cambios en el proyecto, el botón no responde y los cambios no se guardan.
+Cuando un usuario está editando un proyecto e intenta guardarlo, observa que el botón [!UICONTROL Guardar] muestra la palabra “[!UICONTROL Cargando].” Si el usuario hace clic en este botón para guardar los cambios en el proyecto, el botón no responde y los cambios no se guardan.
 
 **Las etiquetas de campo no aparecen al ver un objeto en [!UICONTROL Inicio]**
 
 *Página de inicio*
 
-Cuando el usuario selecciona un objeto de su [!UICONTROL Lista de trabajoss en Inicio], el área a la derecha de la [!UICONTROL Lista de trabajoss en Inicio] que muestra el objeto no incluye etiquetas de campo. Los valores de campo están presentes.
+Cuando el usuario selecciona un objeto de su [!UICONTROL Lista de trabajos en Inicio], el área a la derecha de la [!UICONTROL Lista de trabajos en Inicio] que muestra el objeto no incluye etiquetas de campo. Los valores de campo están presentes.
 
 **El filtro rápido no se centra automáticamente en la barra de búsqueda**
 
@@ -1179,13 +1179,13 @@ Cuando un usuario intenta crear una prueba, el texto no está visible para las o
 
 Cuando un usuario está en el área de [!UICONTROL Registros de facturación] de un proyecto y está usando la vista de [!UICONTROL Nuevo registro de facturación], si el usuario intenta agregar un nuevo registro de facturación, los campos de un nuevo registro de facturación no aparecen y no se puede crear el registro.
 
-**Error al realizar una asignación masiva en el [!UICONTROL Distribuidor de cargas de trabajo]**
+**Error al realizar una asignación por lotes en el [!UICONTROL Distribuidor de cargas de trabajo]**
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 
 Cuando un usuario intenta realizar asignaciones en el [!DNL Workload Balancer] de un proyecto, se redirige al usuario a una página con el siguiente mensaje:
 
-&quot;[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]&quot;
+“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
 
 El usuario no puede salir de esta página hasta que actualice la página.
 
@@ -1199,9 +1199,9 @@ Ahora solo tiene que hacer clic en una tarea o en la barra de problemas del [!UI
 
 *Usuarios*
 
-Cuando un usuario asignado a un nivel de acceso que incluya la variable [!UICONTROL Administración de usuarios (usuarios del grupo)] la configuración de acceso intenta ver los detalles de un usuario en su grupo y aparece el siguiente error:
+Cuando un usuario asignado a un nivel de acceso que incluya la configuración de acceso a [!UICONTROL Administración de usuarios (usuarios del grupo)] intenta ver los detalles de un usuario en su grupo y aparece el siguiente error:
 
-&quot;[!UICONTROL Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo]&quot;.
+“[!UICONTROL Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo.]”
 
 **No se puede eliminar el estado del grupo personalizado**
 
@@ -1221,7 +1221,7 @@ La configuración de alertas de correo electrónico que se muestra en la secció
 
 Cuando un usuario realiza un comentario sobre una prueba e intenta abrir la herramienta [!UICONTROL Texto], esta no se abre y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL Los datos de texto de esta página se siguen descargando. Por favor, espere.]&quot;
+“[!UICONTROL Los datos de texto de esta página se siguen descargando. Por favor, espere.]”
 
 **Los correos electrónicos de prueba irán al correo electrónico principal del usuario**
 
@@ -1277,7 +1277,7 @@ Cuando un usuario agrega una tarea debajo de una tarea existente en una lista, l
 
 Si se agrega un usuario a un escenario en el flujo de trabajo de una prueba, este no se agrega al uso compartido de documentos y no obtiene permisos para el elemento de trabajo de la prueba en [!DNL Workfront]. Cuando el usuario se encuentra en [!DNL Workfront] e intenta abrir el elemento de trabajo al que está adjunta la prueba, verá el siguiente mensaje:
 
-&quot;[!UICONTROL No cuenta con acceso suficiente para ver este (objeto)]&quot;
+“[!UICONTROL No cuenta con acceso suficiente para ver este (objeto)]”
 
 Este problema es específico de las pruebas ya creadas y de los usuarios que se agregan después del hecho. Agregar usuarios al flujo de trabajo antes de la creación de la prueba funciona según lo esperado.
 
@@ -1287,17 +1287,17 @@ Este problema es específico de las pruebas ya creadas y de los usuarios que se 
 
 Cuando un usuario intenta enviar un correo electrónico de restablecimiento de contraseña desde una lista de usuarios en [!DNL Workfront], la opción para enviar el correo electrónico no está disponible.
 
-**El botón muestra &quot;[!UICONTROL Iniciar problema]&quot; en lugar de &quot;[!UICONTROL Iniciar solicitud]&quot;**
+**El botón muestra “[!UICONTROL Iniciar problema]” en lugar de “[!UICONTROL Iniciar solicitud]”**
 
 *Solicitudes*
 
-Cuando un usuario ve una solicitud asignada a su equipo, ve un &quot;[!UICONTROL Iniciar problema]&quot; en el encabezado en lugar de &quot;[!UICONTROL Iniciar solicitud]&quot;.
+Cuando un usuario ve una solicitud asignada a su equipo, ve un “[!UICONTROL Iniciar problema]” en el encabezado en lugar de “[!UICONTROL Iniciar solicitud]”.
 
-**&quot;[!UICONTROL Deshacer comentario]&quot; elimina los usuarios etiquetados**
+**“[!UICONTROL Deshacer comentario]” elimina los usuarios etiquetados**
 
 *Actualizaciones*
 
-Cuando un usuario etiqueta a otro usuario en un comentario, publica el comentario y, a continuación, selecciona la opción &quot;[!UICONTROL Deshacer comentario]&quot;, el comentario aparece en un cuadro de actualización como de costumbre, pero el usuario etiquetado no está en el [!UICONTROL Usuarios etiquetados] en la ventana
+Cuando un usuario etiqueta a otro usuario en un comentario, publica el comentario y, a continuación, selecciona la opción “[!UICONTROL Deshacer comentario]”, el comentario aparece en un cuadro de actualización como de costumbre, pero el usuario etiquetado no está en el [!UICONTROL Usuarios etiquetados] en la ventana
 
 **No se puede desplazar al usar la vista de [!UICONTROL Hito] en un informe**
 
@@ -1315,7 +1315,7 @@ Cuando un usuario ve un informe en un panel, la moneda utilizada en el informe e
 
 *[!UICONTROL Página de inicio]*
 
-Cuando un usuario ve su [!UICONTROL Lista de trabajoss en Inicio] con el filtro de [!UICONTROL Completados] seleccionado, los elementos de trabajo completados no se muestran en la lista. Cuando el filtro de [!UICONTROL Todo] está seleccionado, los elementos completados se incluyen en la lista, lo que muestra que existen elementos completados.
+Cuando un usuario ve su [!UICONTROL Lista de trabajos en Inicio] con el filtro de [!UICONTROL Completados] seleccionado, los elementos de trabajo completados no se muestran en la lista. Cuando el filtro de [!UICONTROL Todo] está seleccionado, los elementos completados se incluyen en la lista, lo que muestra que existen elementos completados.
 
 **[!DNL Workfront]no se carga**
 
@@ -1353,13 +1353,13 @@ Cuando un usuario que está viendo un informe selecciona la vista de [!UICONTROL
 
 Cuando un usuario está viendo actualizaciones y desplaza la pantalla para ver actualizaciones más abajo, la pantalla se queda en blanco y el usuario no puede ver ninguna actualización.
 
-**Error al asignar de forma masiva al usuario a una tarea que no está asignada a la función del usuario**
+**Error al asignar por lotes al usuario a una tarea que no está asignada a la función del usuario**
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 
-Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] intenta asignar tareas a un usuario cuya función de trabajo no coincide con la función de trabajo asignada a las tareas, el usuario ve un mensaje que indica que la tarea se asignará mediante la función de trabajo principal del usuario asignado. Sin embargo, cuando el usuario hace clic en &quot;[!UICONTROL Asignar],&quot; las tareas no están asignadas y el usuario ve el siguiente error:
+Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] intenta asignar tareas a un usuario cuya función de trabajo no coincide con la función de trabajo asignada a las tareas, el usuario ve un mensaje que indica que la tarea se asignará mediante la función de trabajo principal del usuario asignado. Sin embargo, cuando el usuario hace clic en “[!UICONTROL Asignar]”, las tareas no están asignadas y el usuario ve el siguiente error:
 
-&quot;[!UICONTROL Error. El servidor ha encontrado un error desconocido.]&quot;
+“[!UICONTROL Error. El servidor ha encontrado un error desconocido.]”
 
 +++
 
@@ -1369,7 +1369,7 @@ Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] intenta asi
 
 *Pruebas*
 
-Cuando un usuario agrega otro usuario a una prueba, la función de ese usuario en la prueba se establece como de &quot;[!UICONTROL Solo lectura]&quot; a pesar de la función de prueba real del usuario.
+Cuando un usuario agrega otro usuario a una prueba, la función de ese usuario en la prueba se establece como de “[!UICONTROL Solo lectura]” a pesar de la función de prueba real del usuario.
 
 **No se puede enviar el correo electrónico de restablecimiento de contraseña al usuario**
 
@@ -1389,11 +1389,11 @@ Cuando un usuario está viendo el área de [!UICONTROL Personas] de un proyecto 
 
 Cuando un usuario está viendo un flujo de actualización que sería más de una página impresa e intenta imprimir la página, la pantalla de impresión muestra que el número de páginas es muy superior al número real de páginas necesarias para imprimir las actualizaciones. Si el usuario intenta imprimir en el PDF, se producirá un error en la creación del PDF.
 
-**Los usuarios no pueden ver la lista completa de entidades compartidas con un informe cuando la opción &quot;[!UICONTROL Visible en todo el sistema]&quot; está activada**
+**Los usuarios no pueden ver la lista completa de entidades compartidas con un informe cuando la opción “[!UICONTROL Visible en todo el sistema]” está activada**
 
 *Informes*
 
-Al compartir informes con varias entidades que se muestran en la ventana de [!UICONTROL Acceso a informes], los usuarios no pueden desplazarse hasta la parte inferior de la lista para ver la lista completa cuando la configuración de &quot;[!UICONTROL Visible en todo el sistema]&quot; está activada.
+Al compartir informes con varias entidades que se muestran en la ventana [!UICONTROL Acceso a informes], los usuarios no pueden desplazarse hasta la parte inferior de la lista para ver la lista completa cuando la configuración de “[!UICONTROL Visible en todo el sistema]” está activada.
 
 **Moneda incorrecta usada en los informes**
 
@@ -1412,11 +1412,11 @@ Cuando un usuario está viendo un informe que muestra información relativa a la
 * [!UICONTROL Últimos visualizadores X]
 * [!UICONTROL Vistas este mes/trimestre/año]
 
-**Tareas completadas que se muestran en [!UICONTROL Lista de trabajoss en Inicio]**
+**Tareas completadas que se muestran en [!UICONTROL Lista de trabajos en Inicio]**
 
 *[!UICONTROL Página de inicio]*
 
-Cuando un usuario está viendo su [!UICONTROL Lista de trabajoss en Inicio], verá Tareas completadas en la lista, incluso cuando la opción para mostrar Tareas completadas no esté seleccionada.
+Cuando un usuario está viendo su [!UICONTROL Lista de trabajos en Inicio], verá Tareas completadas en la lista, incluso cuando la opción para mostrar Tareas completadas no esté seleccionada.
 
 **El botón Programar no está visible para programar la actualización de la zona protegida**
 
@@ -1442,7 +1442,7 @@ Cuando un usuario trabaja con campos calculados en el generador de formularios p
 
 Cuando un usuario intenta rechazar una aprobación, el botón [!UICONTROL Rechazar] no responde y la aprobación no se rechaza.
 
-**[!UICONTROL La pestaña Proyectos] tiene el valor predeterminado de la sección de Todos los proyectos a pesar de la selección anterior**
+**[!UICONTROL La pestaña Proyectos] tiene el valor predeterminado de la sección Todos los proyectos a pesar de la selección anterior**
 
 *Proyectos*
 
@@ -1489,11 +1489,11 @@ Cuando un usuario intenta agregar un formulario personalizado de objetos cruzado
 
 Cuando un usuario intenta asignar otro usuario a una tarea de la [!UICONTROL Distribuidor de cargas de trabajo], y la tarea se asigna a una función de trabajo que no sea la función de trabajo principal del usuario asignado, el usuario se asigna a la tarea por su función de trabajo principal y se muestra el siguiente mensaje:
 
-&quot;\&lt;Name\> no coincide con la función de \&lt;Task role assignment\>. 1 elemento de trabajo asignado actualmente a la función &lt;\Task role assignment\> se asignará a \&lt;Name\> en la función de \&lt;Primary job role\>.&quot;
+“\&lt;Name\> no coincide con la función de \&lt;Task role assignment\>. 1 elemento de trabajo asignado actualmente a la función &lt;\Task role assignment\> se asignará a \&lt;Name\> en la función de \&lt;Primary job role\>.”
 
 Esto ocurre incluso si el usuario tiene la función de trabajo de la asignación de funciones de tarea como rol secundario.
 
-**Problema con la barra del panel de exploración &quot;Mostrar más elementos de trabajo&quot;**&#x200B;
+**Problema con la barra del panel de exploración “Mostrar más elementos de trabajo”**&#x200B;
 
 *Agile*
 
@@ -1539,7 +1539,8 @@ Cuando el perfil de un usuario está establecido en una zona horaria específica
 
 *Proyectos*
 
-Al adjuntar una plantilla con campos personalizados requeridos a un proyecto en el que el campo ya existe y está rellenado, los usuarios ven el siguiente error: &quot;[!UICONTROL Hay campos incompletos. Introduzca valores para los campos obligatorios antes de continuar.]Hacer clic en &quot;[!UICONTROL Llévame allí]&quot; les permite ver que los campos están rellenados y que pueden adjuntar la plantilla correctamente.
+Al adjuntar una plantilla con campos personalizados requeridos a un proyecto en el que el campo ya existe y está rellenado, los usuarios ven el siguiente error: “[!UICONTROL Hay campos incompletos. Introduzca valores para los campos obligatorios antes de continuar.]”
+Hacer clic en “[!UICONTROL Llévame allí]” les permite ver que los campos están rellenados y que pueden adjuntar la plantilla correctamente.
 
 **El [!UICONTROL Distribuidor de cargas de trabajo] parpadea al alternar entre fechas**
 
@@ -1555,7 +1556,7 @@ La actualización del filtro parece restablecer la visualización. Sin embargo, 
 
 Los usuarios informan de que, cuando el administrador de [!DNL Workfront] personaliza la terminología de algunos objetos mediante una plantilla de diseño, el nuevo nombre de objeto aparece de forma incoherente en la interfaz.
 
-Por ejemplo, en la página de [!UICONTROL Proyectos], todavía puede ver el título de la página como &quot;[!UICONTROL Proyectos]&quot;, aunque el administrador de [!DNL Workfront] haya cambiado el nombre de &quot;[!UICONTROL Proyectos]&quot; por otra cosa.
+Por ejemplo, en la página de [!UICONTROL Proyectos], todavía puede ver el título de la página como “[!UICONTROL Proyectos]”, aunque el administrador de [!DNL Workfront] haya cambiado el nombre de “[!UICONTROL Proyectos]” por otra cosa.
 
 Esto causa confusión para los usuarios finales.
 
@@ -1563,17 +1564,17 @@ Esto causa confusión para los usuarios finales.
 
 +++**Actualización de mantenimiento el 17 de marzo de 2022**
 
-**Las miniaturas y las imágenes principales están en blanco al ver archivos de varias páginas mediante el explorador [!DNL Safari]**
+**Las miniaturas y las imágenes principales están en blanco al ver archivos de varias páginas mediante el [!DNL Safari] explorador**
 
 *[!DNL Workfront Proof]*
 
 Cuando un usuario intenta ver un archivo con varias páginas en el explorador [!DNL Safari], las imágenes de página en miniatura están en blanco. En ocasiones, la imagen principal también puede estar en blanco.
 
-**Lista de usuarios incorrecta al realizar asignaciones masivas en el [!UICONTROL Distribuidor de cargas de trabajo]**
+**Lista de usuarios incorrecta al realizar asignaciones por lotes en el [!UICONTROL Distribuidor de cargas de trabajo]**
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 
-Cuando un usuario realiza una asignación masiva en la [!UICONTROL Distribuidor de cargas de trabajo] y selecciona un proyecto y una función de trabajo, la lista de usuarios disponibles es incorrecta. Puede mostrar usuarios sin la función de trabajo o los permisos del proyecto, y los usuarios con la función de trabajo y los permisos del proyecto no aparecen en la lista.
+Cuando un usuario realiza una asignación por lotes en la [!UICONTROL Distribuidor de cargas de trabajo] y selecciona un proyecto y una función de trabajo, la lista de usuarios disponibles es incorrecta. Puede mostrar usuarios sin la función de trabajo o los permisos del proyecto, y los usuarios con la función de trabajo y los permisos del proyecto no aparecen en la lista.
 
 **[!UICONTROL La ordenación no funciona en los informes]**
 
@@ -1581,13 +1582,13 @@ Cuando un usuario realiza una asignación masiva en la [!UICONTROL Distribuidor 
 
 Cuando un usuario hace clic en una columna para ordenarla, la clasificación parece funcionar, pero instantáneamente los resultados vuelven a la clasificación original tal como se muestra antes de hacer clic en la columna. No se conserva la ordenación de ninguna columna.
 
-**Seleccionar &quot;[!UICONTROL Nada]&quot; revierte a la agrupación de [!UICONTROL Informe predeterminado]**
+**Seleccionar “[!UICONTROL Nada]” revierte a la agrupación de [!UICONTROL Informe predeterminado]**
 
 *Informes*
 
-Cuando un informe tiene una agrupación integrada y el usuario intenta seleccionar &quot;[!UICONTROL Nada]&quot; en el menú desplegable de [!UICONTROL Agrupación], el informe se muestra en breve sin agrupar y, a continuación, revierte a la agrupación de [!UICONTROL Informe predeterminado].
+Cuando un informe tiene una agrupación integrada y el usuario intenta seleccionar “[!UICONTROL Nada]” en el menú desplegable de [!UICONTROL Agrupación], el informe se muestra en breve sin agrupar y, a continuación, revierte a la agrupación de [!UICONTROL Informe predeterminado].
 
-**Se ha eliminado la pestaña &quot;[!UICONTROL Acceso a modelos]&quot; de las preferencias de modelos**
+**Se ha eliminado la pestaña “[!UICONTROL Acceso a modelos]” de las preferencias de modelos**
 
 *Modelos*
 
@@ -1609,7 +1610,7 @@ La vista de **[!UICONTROL Hito] en el informe de proyecto causa un error**
 
 *Informes*
 
-Al mostrar un informe de proyecto con la vista de [!UICONTROL Hito], los usuarios reciben un error de &quot;[!UICONTROL APIModel INTERNAL no admite namedQuery TILE:milestone-view (UIVW)]&quot;.
+Al mostrar un informe de proyecto con la vista de [!UICONTROL Hito], los usuarios reciben un error de “[!UICONTROL APIModel INTERNAL no admite namedQuery TILE:milestone-view (UIVW)]”.
 
 **La terminología personalizada no es coherente**
 
@@ -1617,7 +1618,7 @@ Al mostrar un informe de proyecto con la vista de [!UICONTROL Hito], los usuario
 
 Los usuarios informan de que, cuando el administrador de [!DNL Workfront] personaliza la terminología de algunos objetos mediante una plantilla de diseño, el nuevo nombre de objeto aparece de forma incoherente en la interfaz.
 
-Por ejemplo, en la página de [!UICONTROL Proyectos], todavía puede ver el título de la página como &quot;[!UICONTROL Proyectos]&quot;, aunque el administrador de [!DNL Workfront] haya cambiado el nombre de &quot;[!UICONTROL Proyectos]&quot; por otra cosa.
+Por ejemplo, en la página de [!UICONTROL Proyectos], todavía puede ver el título de la página como “[!UICONTROL Proyectos]”, aunque el administrador de [!DNL Workfront] haya cambiado el nombre de “[!UICONTROL Proyectos]” por otra cosa.
 
 Esto causa confusión para los usuarios finales.
 
@@ -1635,7 +1636,7 @@ Si crea un campo calculado con una expresión determinada y la guarda, cada vez 
 
 Los usuarios no pueden restablecer sus contraseñas en ningún entorno. Cuando escriben su correo electrónico e intentan continuar, ven un error.
 
-[!UICONTROL Error: Parámetro no válido: Valor del parámetro de búsqueda &quot;domain&quot;].
+[!UICONTROL Error: Parámetro no válido: Valor del parámetro de búsqueda “domain”].
 
 +++
 
@@ -1649,7 +1650,7 @@ Se han notificado los siguientes problemas con el inicio de sesión en el entorn
 
 Cuando un usuario intenta iniciar sesión en el entorno de vista previa, aparece un mensaje que indica que ha introducido el ID o la contraseña incorrectos.
 
-Cuando un usuario intenta restablecer su contraseña, aparece el error &quot;[!UICONTROL Se encontraron varios usuarios con la dirección de correo electrónico <example@example.com>]&quot;
+Cuando un usuario intenta restablecer su contraseña, aparece el error “[!UICONTROL Se encontraron varios usuarios con la dirección de correo electrónico <example@example.com>]”
 
 **Los formularios personalizados se cargan lentamente en el área de [!UICONTROL Detalles del proyecto]**
 
@@ -1661,7 +1662,7 @@ Cuando un usuario intenta ver el área de [!UICONTROL Detalles del proyecto], lo
 
 *Documentos*
 
-Cuando un usuario actualiza los campos de formulario personalizados en el panel de resumen del documento y uno o más de ellos es un campo de tipo &quot;delante&quot;, y luego guarda los cambios y se desplaza fuera del panel de resumen, las actualizaciones no se guardan. Esto solo se produce cuando se edita un campo typeforward, aunque todos los campos se ven afectados.
+Cuando un usuario actualiza los campos de formulario personalizados en el panel de resumen del documento y uno o más de ellos es un campo de tipo “delante”, y luego guarda los cambios y se desplaza fuera del panel de resumen, las actualizaciones no se guardan. Esto solo se produce cuando se edita un campo typeforward, aunque todos los campos se ven afectados.
 
 **Datos que no se conservan al convertir plantillas debido a niveles de acceso de uso compartido de plantillas**
 
@@ -1675,13 +1676,13 @@ Cuando un usuario que tiene acceso a Vista en una plantilla compartida intenta c
 
 Cuando un usuario intenta cargar una nueva versión de un documento desde la lista de documentos, el documento no se carga y el usuario ve el siguiente error:
 
-[!UICONTROL Error de No se puede invocar &quot;com.attask.boz.Document.getCurrentVersion()&quot; porque &quot;documento&quot; es nulo]
+[!UICONTROL Error de No se puede invocar “com.attask.boz.Document.getCurrentVersion()” porque “documento” es nulo]
 
 **No se pueden editar las tasas de facturación**
 
 *Proyectos*
 
-Cuando un usuario intenta editar una tasa de facturación en la pestaña [!UICONTROL Tasas de facturación] de un proyecto, al hacer clic en el botón [!UICONTROL Editar] se abre la ventana de [!UICONTROL Editar] brevemente antes de que el usuario pueda editar la tasa de facturación. Al volver a hacer clic en el botón, no se abre la ventana de edición.
+Cuando un usuario intenta editar una tasa de facturación en la pestaña [!UICONTROL Tasas de facturación] de un proyecto, al hacer clic en el botón [!UICONTROL Editar] se abre la ventana [!UICONTROL Editar] brevemente antes de que el usuario pueda editar la tasa de facturación. Al volver a hacer clic en el botón, no se abre la ventana de edición.
 
 **El vínculo público para el documento lleva a una página en blanco**
 
@@ -1707,7 +1708,7 @@ Si se cambia el estado de un proyecto, tarea o problema y se empieza inmediatame
 
 *Pruebas*
 
-Cuando un usuario agrega otro usuario a una prueba, la función de ese usuario en la prueba se establece como de &quot;[!UICONTROL Solo lectura]&quot; a pesar de la función de prueba real del usuario.
+Cuando un usuario agrega otro usuario a una prueba, la función de ese usuario en la prueba se establece como de “[!UICONTROL Solo lectura]” a pesar de la función de prueba real del usuario.
 
 Solución alternativa: Establezca la función de prueba del usuario en su perfil en algo distinto y, a continuación, restablezca la función correcta.
 
@@ -1717,7 +1718,7 @@ Solución alternativa: Establezca la función de prueba del usuario en su perfil
 
 Cuando un usuario intenta convertir un problema en un proyecto mediante una plantilla, es posible que uno o más de los formularios personalizados adjuntos a la plantilla no se carguen. Cuando el usuario configura la plantilla para el nuevo proyecto, en lugar de los formularios personalizados, ve el siguiente mensaje:
 
-&quot;[!UICONTROL Se ha producido un error, no se pudo cargar el formulario].&quot;
+“[!UICONTROL Se ha producido un error, no se pudo cargar el formulario].”
 
 **El usuario no puede agregar problemas en línea con el campo desplegable personalizado que se muestra en la vista**
 
@@ -1761,7 +1762,7 @@ Cuando un usuario intenta agregar un documento desde [!DNL Google Drive], la sel
 
 *Actualizaciones*
 
-Cuando se etiqueta a un usuario en una actualización, no se muestra en el área de &quot;[!UICONTROL Para]&quot; de la actualización o de sus respuestas.
+Cuando se etiqueta a un usuario en una actualización, no se muestra en el área de “[!UICONTROL Para]” de la actualización o de sus respuestas.
 
 **El usuario de prueba tiene dos cuentas de prueba independientes**
 
@@ -1775,7 +1776,7 @@ Una dirección de correo electrónico del usuario en [!DNL Workfront Proof] pued
 
 Cuando un usuario ve un informe, aparece el siguiente error en el encabezado del informe:
 
-&quot;[!UICONTROL Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo]&quot;.
+“[!UICONTROL Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo.]”
 
 Si el usuario está viendo un panel, el error puede aparecer en el encabezado de todos los informes del panel.
 
@@ -1846,13 +1847,13 @@ Cuando un usuario intenta copiar una solicitud, el botón [!UICONTROL Copiar sol
 
 Cuando un usuario rellena un formulario personalizado como parte de la conversión de un problema a un proyecto, rellenar un campo personalizado puede hacer que desaparezcan los datos de otro campo personalizado. Si el usuario vuelve a introducir los datos que faltan, cuando intenta crear el proyecto, verá el siguiente mensaje de error:
 
-&quot;[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]&quot;
+“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]
 
-**Falta el campo de &quot;[!UICONTROL Este proceso de aprobación lo puede utilizar... ]&quot;**
+**Falta el campo “[!UICONTROL Este proceso de aprobación lo puede utilizar…]”**
 
 *Rutas de aprobación*
 
-Cuando un usuario está creando o editando un proceso de aprobación en el área de [!UICONTROL Configuración], el campo de &quot;[!UICONTROL Este proceso de aprobación lo puede utilizar...]&quot;. Esto puede ocurrir al crear un proceso de aprobación o al editar uno existente.
+Cuando un usuario está creando o editando un proceso de aprobación en el área de [!UICONTROL Configuración], el campo “[!UICONTROL Este proceso de aprobación lo puede utilizar…]”. Esto puede ocurrir al crear un proceso de aprobación o al editar uno existente.
 
 **El administrador del sistema no puede reasignar usuarios al eliminar un grupo**
 
@@ -1934,20 +1935,20 @@ Cuando un usuario intenta abrir la página de [!UICONTROL Usuarios], la página 
 
 Cuando un usuario ve un informe en un panel, ve que el icono de agrupación y la etiqueta se superponen con los vínculos a [!UICONTROL Detalles] y [!UICONTROL Resumen].
 
-**Problemas con el menú de &quot;[!UICONTROL Más]&quot; para documentos y pruebas**
+**Problemas con el menú de “[!UICONTROL Más]” para documentos y pruebas**
 
 *Documentos*
 
-Cuando un usuario selecciona un documento o una prueba en una lista de documentos de [!DNL Workfront Classic]y, a continuación, hace clic en &quot;[!UICONTROL Más],&quot; pueden ver uno de los siguientes problemas: El botón no responde 
-Todas las opciones bajo el botón están etiquetadas como &quot;[!UICONTROL objeto Objeto]&quot; y no se pueden usar.
+Cuando un usuario selecciona un documento o una prueba en una lista de documentos de [!DNL Workfront Classic]y, a continuación, hace clic en “[!UICONTROL Más],” pueden ver uno de los siguientes problemas: El botón no responde
+Todas las opciones bajo el botón están etiquetadas como “[!UICONTROL objeto Objeto]” y no se pueden usar.
 
-**Error de &quot;Debe ser administrador del sistema&quot; al crear un proyecto**
+**Error de “Debe ser administrador del sistema” al crear un proyecto**
 
 *Proyectos*
 
 Cuando un usuario que no es administrador intenta crear un proyecto y adjunta un formulario personalizado que tiene una sección disponible solo para los administradores, no puede crear el proyecto y verá el siguiente error:
 
-&quot;Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado&quot;
+“Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado”
 
 **Los datos de la sección de solo administración del formulario personalizado no se conservan al convertir problemas en proyectos**
 
@@ -1959,13 +1960,13 @@ Cuando un usuario convierte un problema en un proyecto mediante una plantilla qu
 
 +++**Actualización de mantenimiento el 10 de febrero de 2022**
 
-**Error de &quot;[!UICONTROL Debe ser administrador del sistema]&quot; al crear un proyecto**
+**Error de “[!UICONTROL Debe ser administrador del sistema]” al crear un proyecto**
 
 *Proyectos*
 
 Cuando un usuario que no es administrador intenta crear un proyecto y adjunta un formulario personalizado que tiene una sección disponible solo para los administradores, no puede crear el proyecto y verá el siguiente error:
 
-&quot;[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]&quot;
+“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]
 
 **Los usuarios desactivados y reactivados no aparecen en los [!UICONTROL contactos de Proof]**
 
@@ -1973,21 +1974,21 @@ Cuando un usuario que no es administrador intenta crear un proyecto y adjunta un
 
 Cuando un usuario ve su lista de contactos en [!DNL Workfront Proof], los usuarios desactivados y reactivados no aparecen en la lista.
 
-**Mensaje &quot;Se ha producido un error&quot; al convertir un problema en un proyecto mediante una plantilla**
+**Mensaje “Se ha producido un error” al convertir un problema en un proyecto mediante una plantilla**
 
 *Proyectos*
 
 Cuando un usuario que no es administrador intenta convertir un problema en un proyecto mediante una plantilla, los campos de formulario personalizados que solo son visibles para los administradores muestran el siguiente mensaje:
 
-&quot;[!UICONTROL Se ha producido un error, no se pudo cargar el formulario]&quot;
+“[!UICONTROL Se ha producido un error, no se pudo cargar el formulario]”
 
-**Error de &quot;No se puede cargar el contenido de la página&quot; al ver las preferencias del proyecto**
+**Error de “No se puede cargar el contenido de la página” al ver las preferencias del proyecto**
 
 *Configurar*
 
 Cuando un usuario administrador intenta ver proyectos, tareas o problemas en [!UICONTROL Preferencias de proyecto] en el área de [!UICONTROL Configuración], la página no se carga y el usuario ve el siguiente error:
 
-&quot;[!UICONTROL No se puede cargar el contenido de la página. Pruebe a actualizar la página.]&quot;
+“[!UICONTROL No se puede cargar el contenido de la página. Pruebe a actualizar la página.]”
 
 +++
 
@@ -1999,7 +2000,7 @@ Cuando un usuario administrador intenta ver proyectos, tareas o problemas en [!U
 
 Cuando un usuario intenta iniciar sesión en [!DNL Workfront], el inicio de sesión no se ha realizado correctamente y aparece el siguiente mensaje:
 
-&quot;[!UICONTROL Intentémoslo de nuevo. Error de base de datos: Error de validación en BizContext.]&quot;
+“[!UICONTROL Intentémoslo de nuevo. Error de base de datos: Error de BizContext.commit.]”
 
 Se ha informado de este problema en el entorno de vista previa.
 
@@ -2016,7 +2017,7 @@ Cuando un usuario hace clic en el cuadro [!UICONTROL Nueva actualización] en el
 Cuando un usuario intenta crear una nueva versión de un documento, esta no se genera y el usuario ve uno de los siguientes mensajes:
 
 * [!UICONTROL documentID no puede ser nulo]
-* [!UICONTROL Error: Parámetro no válido: valor &quot;indefinido&quot; de documentID]
+* [!UICONTROL Error: Parámetro no válido: valor “indefinido” de documentID]
 
 **El vínculo público para el documento lleva a una página en blanco**
 
@@ -2030,13 +2031,13 @@ Cuando un usuario intenta abrir un documento mediante un vínculo público, el v
 
 Cuando un usuario está viendo un informe en un panel e intenta cambiar el filtro, la agrupación o la vista del informe, el filtro, la agrupación o la vista no cambian.
 
-**Error de &quot;[!UICONTROL Debe ser administrador del sistema]&quot; al crear un proyecto**
+**Error de “[!UICONTROL Debe ser administrador del sistema]” al crear un proyecto**
 
 *Proyectos*
 
 Cuando un usuario que no es administrador intenta crear un proyecto y adjunta un formulario personalizado que tiene una sección disponible solo para los administradores, no puede crear el proyecto y verá el siguiente error:
 
-&quot;[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]&quot;
+“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]
 
 **Los datos personalizados no se conservan al convertir un problema en un proyecto**
 
@@ -2050,7 +2051,7 @@ Cuando un usuario convierte un problema en un proyecto mediante una plantilla, l
 
 Cuando un usuario intenta convertir un problema en un proyecto, el problema no se convierte y ve el siguiente error:
 
-&quot;[!UICONTROL Se produjo un error inesperado]&quot;
+“[!UICONTROL Se produjo un error inesperado]”
 
 +++
 
@@ -2075,7 +2076,7 @@ Cuando un usuario ve la lista de usuarios en un panel ágil, los usuarios no se 
 
 *Problemas*
 
-En el entorno de vista previa, los vínculos para copiar y mover problemas se han actualizado a &quot;[!UICONTROL Copiar en]&quot; y &quot;[!UICONTROL Mover a]&quot; tanto en la página de problemas como en una lista de problemas.
+En el entorno de vista previa, los vínculos para copiar y mover problemas se han actualizado a “[!UICONTROL Copiar en]” y “[!UICONTROL Mover a]” tanto en la página de problemas como en una lista de problemas.
 
 **Añada hasta 45 direcciones IP a su lista de permitidos de [!DNL Workfront]**
 
@@ -2087,13 +2088,13 @@ El límite de direcciones IP agregadas a su lista de permitidos de [!DNL Workfro
 
 +++**Actualización de mantenimiento el 20 de enero de 2022**
 
-**Error de &quot;[!UICONTROL Parámetro no válido]&quot; al crear el proyecto a partir de la plantilla**
+**Error de “[!UICONTROL Parámetro no válido]” al crear el proyecto a partir de la plantilla**
 
 *Proyectos*
 
-Cuando un usuario intenta crear un proyecto a partir de una plantilla y quita un formulario personalizado de la plantilla al crear el proyecto, el proyecto no se crea y el usuario ve un &quot;[!UICONTROL Parámetro no válido]&quot; mensaje de error que menciona un campo obligatorio en el formulario personalizado eliminado.
+Cuando un usuario intenta crear un proyecto a partir de una plantilla y quita un formulario personalizado de la plantilla al crear el proyecto, el proyecto no se crea y el usuario ve un “[!UICONTROL Parámetro no válido]” mensaje de error que menciona un campo obligatorio en el formulario personalizado eliminado.
 
-**La lista de usuarios no se carga en el explorador [!DNL Safari]**
+**La lista de usuarios no se carga en el [!DNL Safari] explorador**
 
 *Usuarios*
 
@@ -2147,17 +2148,17 @@ Cuando un usuario ve su lista [!UICONTROL Mi trabajo] y la plantilla de diseño 
 
 *Águila*
 
-Cuando el usuario selecciona &quot;[!UICONTROL Mostrar más elementos de trabajo]&quot; en el panel de Agile y, posteriormente, intenta cambiar el [!UICONTROL Porcentaje completado] o [!UICONTROL Horas de finalización] en uno de los elementos de trabajo recién cargados, no pueden cambiar el porcentaje completado o la hora de finalización. El botón [!UICONTROL Porcentaje completado] también está en gris, lo que indica que está inactivo.
+Cuando el usuario selecciona “[!UICONTROL Mostrar más elementos de trabajo]” en el panel de Agile y, posteriormente, intenta cambiar el [!UICONTROL Porcentaje completado] o [!UICONTROL Horas de finalización] en uno de los elementos de trabajo recién cargados, no pueden cambiar el porcentaje completado o la hora de finalización. El botón [!UICONTROL Porcentaje completado] también está en gris, lo que indica que está inactivo.
 
 +++
 
 +++**Actualización de mantenimiento el 6 de enero de 2022**
 
-**Error de &quot;[!UICONTROL Parámetro no válido]&quot; al adjuntar plantillas o formularios personalizados a proyectos**
+**Error de “[!UICONTROL Parámetro no válido]” al adjuntar plantillas o formularios personalizados a proyectos**
 
 *Proyectos*
 
-Cuando un usuario intenta adjuntar un formulario personalizado o una plantilla a un proyecto existente, rellena los campos obligatorios en el formulario o plantilla personalizados y guarda los cambios en el proyecto, los cambios no se guardan y el usuario ve un error de &quot;[!UICONTROL Parámetro no válido]&quot; en la parte superior de la página de detalles del proyecto.
+Cuando un usuario intenta adjuntar un formulario personalizado o una plantilla a un proyecto existente, rellena los campos obligatorios en el formulario o plantilla personalizados y guarda los cambios en el proyecto, los cambios no se guardan y el usuario ve un error de “[!UICONTROL Parámetro no válido]” en la parte superior de la página de detalles del proyecto.
 
 **Los comentarios de prueba no se muestran en las actualizaciones de documentos**
 
@@ -2165,11 +2166,11 @@ Cuando un usuario intenta adjuntar un formulario personalizado o una plantilla a
 
 Cuando un usuario ve una prueba en el área de [!UICONTROL Documentos], los comentarios realizados en la prueba no se muestran en el área de [!UICONTROL actualizaciones] del documento.
 
-**[!UICONTROL Distribuidor de cargas de trabajo]: &quot;[!UICONTROL ?[Objeto Objeto]?]&quot; aparece en la información de sobreasignación**
+**[!UICONTROL Distribuidor de cargas de trabajo]: “[!UICONTROL ?[objeto Objeto]?]” aparece en la información de sobreasignación**
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 
-Si un usuario se muestra como sobreasignado en el [!UICONTROL Distribuidor de cargas de trabajo] debido a que una tarea se superpone con el tiempo de espera del usuario y otro usuario ve su sobreasignación, el área de &quot;[!UICONTROL Capacidad]&quot; de la información de sobreasignación muestra &quot;[!UICONTROL ?[Objeto Objeto]?]&quot; en lugar de la capacidad real del usuario.
+Si un usuario se muestra como sobreasignado en el [!UICONTROL Distribuidor de cargas de trabajo] debido a que una tarea se superpone con el tiempo de espera del usuario y otro usuario ve su sobreasignación, el área de “[!UICONTROL Capacidad]” de la información de sobreasignación muestra “[!UICONTROL ?[objeto Objeto]?]” en lugar de la capacidad real del usuario.
 
 +++
 
