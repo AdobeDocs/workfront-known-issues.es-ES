@@ -1,16 +1,16 @@
 ---
-title: "Inicio: Problemas en el resumen del Inicio al usar navegadores distintos de Chrome"
+title: '“Inicio: Problemas en el resumen del Inicio al usar navegadores distintos de Chrome”'
 description: Cuando un usuario está viendo su página de inicio y utiliza un explorador que no sea Chrome, puede que vea los distintos problemas.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
-# [!UICONTROL Inicio]: problemas con el resumen de [!UICONTROL Inicio] cuando se usan navegadores distintos a [!DNL Chrome]
+# [!UICONTROL Inicio]: Problemas en el resumen del [!UICONTROL Inicio] al usar navegadores distintos de [!DNL Chrome]
 
 >[!NOTE]
 >
@@ -28,4 +28,4 @@ Estos problemas se han registrado con los siguientes exploradores:
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
 
-_Informado por primera vez el 23 de noviembre de 2021._
+_Notificado por primera vez el 23 de noviembre de 2021._
