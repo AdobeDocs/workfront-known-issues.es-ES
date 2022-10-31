@@ -1,22 +1,22 @@
 ---
-title: "Workfront Fusion: Adobe PDF Services > Extracción de texto no produce texto"
-description: "El módulo Servicios de Adobe PDF > Extraer texto no muestra el texto del archivo de PDF procesado. En su lugar, solo genera metadatos vacíos. "
+title: '“El módulo Workfront Fusion: Adobe PDF Services > Extraer texto no produce texto”'
+description: “El módulo Adobe PDF Services > Extraer texto no muestra el texto del archivo PDF procesado. Alternativamente, solo genera metadatos vacíos. ”
 hidefromtoc: true
 source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extraer texto] módulo no produce texto
+# [!DNL Workfront Fusion]: El módulo [!DNL Adobe PDF Services] > [!UICONTROL Extraer texto] no produce texto
 
 >[!NOTE]
 >
 >Este problema se corrigió el 3 de octubre de 2022.
 
-La variable [!DNL Adobe PDF Services] > [!UICONTROL Extraer texto] no muestra el texto del archivo PDF procesado. En su lugar, solo genera metadatos vacíos.
+El módulo [!DNL Adobe PDF Services] > [!UICONTROL Extraer texto] no muestra el texto del archivo PDF procesado. Alternativamente, solo genera metadatos vacíos.
 
-_Informe por primera vez el 21 de septiembre de 2022._
+_Notificado por primera vez el 21 de septiembre de 2022._
 
