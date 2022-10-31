@@ -1,26 +1,26 @@
 ---
-title: "Hojas de hora: Las horas no se guardan al utilizar la tecla de tabulación"
-description: "Cuando un usuario rellena una hoja de tiempo y navega entre celdas con la tecla de tabulación, las horas no se guardan. La notificación de guardado automático no aparece en la parte inferior de la pantalla y, si el usuario actualiza la página, puede ver que no se guardaron las horas."
+title: '“Plantillas de horas: Las horas no se guardan al utilizar el tabulador”'
+description: “Cuando un usuario está rellenando una plantilla de horas y navega entre celdas con el tabulador, las horas no se guardan. La notificación de guardado automático no aparece en la parte inferior de la pantalla, y si el usuario actualiza la página, puede ver que las horas no se han guardado.”
 hidefromtoc: true
 source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Hojas de tiempo: Las horas no se guardan al utilizar [!UICONTROL Tabulación] key
+# Plantillas de horas: Las horas no se guardan al utilizar el [!UICONTROL tabulador]
 
 >[!NOTE]
 >
 >Este problema se corrigió el 29 de septiembre de 2022.
 
-Cuando un usuario rellena una hoja de tiempo y navega entre celdas con la variable [!UICONTROL Tabulación] , las horas no se guardan. La variable [!UICONTROL Guardar automáticamente] la notificación no aparece en la parte inferior de la pantalla y, si el usuario actualiza la página, puede ver las horas que no se guardaron.
+Cuando un usuario está rellenando una plantilla de horas y navega entre celdas con el [!UICONTROL tabulador], las horas no se guardan. La notificación de [!UICONTROL guardado automático] no aparece en la parte inferior de la pantalla, y si el usuario actualiza la página, puede ver que las horas no se han guardado.
 
 **Solución alternativa**
 
-Desplácese entre las celdas utilizando el ratón o las teclas de flecha.
+Navegue entre las celdas con el ratón o las teclas de dirección.
 
-_Informe por primera vez el 8 de septiembre de 2022._
+_Notificado por primera vez el 8 de septiembre de 2022._
 
