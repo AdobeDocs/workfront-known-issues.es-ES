@@ -1,12 +1,12 @@
 ---
-title: Problemas conocidos de [!DNL Adobe Workfront Scenario Planner]
-description: Problemas conocidos notificados para [!DNL Adobe Workfront Scenario Planner]
+title: Problemas conocidos de  [!DNL Adobe Workfront Scenario Planner]
+description: Problemas conocidos notificados para  [!DNL Adobe Workfront Scenario Planner]
 keywords: nuevo archivo, añadir archivo
 exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
 source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
