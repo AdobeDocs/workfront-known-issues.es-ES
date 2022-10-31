@@ -1,11 +1,11 @@
 ---
-title: "Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba"
-description: "Cuando una prueba llega a una fase de un flujo de trabajo al que se ha agregado un usuario al crear la prueba, esta no se comparte con el usuario y este no puede acceder a la prueba."
+title: '“Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba”'
+description: “Cuando una prueba llega a una fase de un flujo de trabajo al que se ha agregado un usuario al crear la prueba, esta no se comparte con el usuario y este no puede acceder a la prueba.”
 hidefromtoc: true
 source-git-commit: 4addd191c4d14a2661dfc670a65edd72fe3ed146
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '113'
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Este problema se ha cerrado porque no se pudo reproducir.
+>Este problema se ha cerrado porque no se ha podido reproducir.
 
 Cuando una prueba llega a una fase de un flujo de trabajo al que se ha agregado un usuario al crear la prueba, esta no se comparte con el usuario y este no puede acceder a la prueba.
 
@@ -24,5 +24,5 @@ Cuando una prueba llega a una fase de un flujo de trabajo al que se ha agregado 
 
 Compartir manualmente el documento con el usuario.
 
-_Informe por primera vez el 1 de septiembre de 2022._
+_Notificado por primera vez el 1 de septiembre de 2022._
 
