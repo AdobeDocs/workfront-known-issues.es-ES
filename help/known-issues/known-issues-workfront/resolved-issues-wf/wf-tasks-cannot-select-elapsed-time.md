@@ -1,16 +1,16 @@
 ---
-title: "Tareas: No se puede seleccionar el tiempo transcurrido al editar en línea la Duración de la tarea"
+title: '“Tareas: No se puede seleccionar el tiempo transcurrido al editar en línea la Duración de la tarea”'
 description: Cuando un usuario está viendo una lista de tareas e intenta editar la Duración de la tarea, no están disponibles las unidades de tiempo.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
 ---
 
-# Tareas: no se puede seleccionar el tiempo transcurrido cuando se edita en línea la duración de la tarea
+# Tareas: No se puede seleccionar el [!UICONTROL tiempo transcurrido] al editar en línea la Duración de la tarea
 
 >[!NOTE]
 >
@@ -24,4 +24,4 @@ Cuando un usuario está viendo una lista de tareas e intenta editar la [!UICONTR
 * [!UICONTROL Semanas transcurridas]
 * [!UICONTROL Meses transcurridos]
 
-_Informado por primera vez el 1 de julio de 2022._
+_Notificado por primera vez el 1 de julio de 2022._
