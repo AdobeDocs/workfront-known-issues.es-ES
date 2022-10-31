@@ -4,13 +4,13 @@ description: Cuando un usuario ve el panel de  [!DNL Workfront] Proof, las venta
 exl-id: 0f378fef-4d0d-414d-a51f-a5c3beda2f46
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Proof]: Los usuarios no reciben notificaciones cuando están etiquetados en una prueba
+# [!DNL Workfront Proof]: Los usuarios no reciben notificaciones cuando se les etiqueta en una prueba
 
 >[!NOTE]
 >
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Un usuario que está etiquetado en un comentario de una prueba no recibe la notificación por correo electrónico sobre el comentario.
 
-**Informado por primera vez el 28 de abril de 2022.**
+**Notificado por primera vez el 28 de abril de 2022.**
