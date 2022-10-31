@@ -1,12 +1,12 @@
 ---
-title: Problemas conocidos de [!DNL Adobe Workfront Library]
-description: Problemas conocidos notificados para [!DNL Adobe Workfront Library]
+title: Problemas conocidos de  [!DNL Adobe Workfront Library]
+description: Problemas conocidos notificados para  [!DNL Adobe Workfront Library]
 keywords: nuevo archivo, añadir archivo
 exl-id: 48f73098-903e-441e-a9ea-d5f3e6f996c1
 source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
