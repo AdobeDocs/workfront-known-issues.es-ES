@@ -1,26 +1,26 @@
 ---
-title: "[!DNL Workfront Fusion]: Error al verificar el error de conexión"
-description: "Las conexiones de Workfront Fusion a una cuenta de Workfront pueden fallar en la autenticación, lo que provoca situaciones de error: No se pudo verificar la conexión."
+title: '“[!DNL Workfront Fusion]: Error de tipo ‘No se pudo verificar la conexión’”'
+description: '“Las conexiones de Workfront Fusion a una cuenta de Workfront pueden fallar en la autenticación y provocar escenarios donde se emita el siguiente error: No se pudo verificar la conexión.”'
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: Error &quot;Error al verificar la conexión&quot;
+# [!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”
 
-[!UICONTROL Workfront Fusion] conexiones a un [!DNL Workfront] la cuenta puede fallar en la autenticación, lo que provoca escenarios que generen el siguiente error:
+Las conexiones de [!UICONTROL Workfront Fusion] a una cuenta de [!DNL Workfront] puede fallar en la autenticación y provocar escenarios donde se emita el siguiente error:
 
 No se pudo verificar la conexión.
 
-El escenario no se puede ejecutar hasta que se restaure la conexión.
+El escenario no se podrá ejecutar hasta que se restaure la conexión.
 
 **Solución alternativa**
 
-Cree una nueva conexión y reemplace las conexiones actuales en sus módulos Workfront por la nueva conexión.
+Cree una nueva conexión y sustituya las conexiones actuales en sus módulos Workfront por la nueva conexión.
 
-_Informe por primera vez el 8 de septiembre de 2022._
+_Notificado por primera vez el 8 de septiembre de 2022._
 
