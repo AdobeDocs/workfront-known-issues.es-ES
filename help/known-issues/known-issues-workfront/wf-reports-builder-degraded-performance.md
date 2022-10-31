@@ -1,11 +1,11 @@
 ---
-title: "Informes: Problemas al crear y editar informes en Report Builder"
-description: '"Se han notificado varios problemas al crear y editar informes en Report Builder".'
+title: '“Informes: Problemas al crear y editar informes en Report Builder”'
+description: “Se han notificado varios problemas al crear y editar informes en Report Builder.”
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -27,5 +27,5 @@ Se han notificado los siguientes problemas al crear y editar informes en Report 
 
 La recarga de la página puede permitirle crear o editar el informe.
 
-_Informado por primera vez el 2 de septiembre de 2022._
+_Notificado por primera vez el 2 de septiembre de 2022._
 
