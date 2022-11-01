@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '14718'
+source-wordcount: '14801'
 ht-degree: 99%
 
 ---
@@ -28,6 +28,32 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 -->
 
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en octubre de 2022
+
++++**Actualización de mantenimiento el 3 de noviembre de 2022**
+
+**Errores al acceder a la configuración de notificación por correo electrónico**
+
+*Notificaciones*
+
+>[!NOTE]
+>
+>Este problema existe tanto en los entornos de producción como de vista previa.
+
+Cuando un usuario intenta cambiar la configuración de las notificaciones por correo electrónico, puede que vea alguno de los errores siguientes:
+
+* “[!UICONTROL Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo.]”
+
+* “[!UICONTROL No se pudo recuperar la notificación por correo electrónico]”
+
+Se ha informado de este problema en las siguientes áreas:
+
+* [!UICONTROL Configuración] > [!UICONTROL Notificaciones por correo electrónico]
+* [!UICONTROL Usuario] > [!UICONTROL Editar usuario]
+* [!UICONTROL Grupos]
+
++++
 
 ## Actualizaciones en octubre de 2022
 
