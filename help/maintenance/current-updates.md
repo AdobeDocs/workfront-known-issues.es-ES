@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
-ht-degree: 99%
+source-wordcount: '14844'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 ## Actualizaciones en octubre de 2022
 
 +++**Actualización de mantenimiento el 3 de noviembre de 2022**
+
+**Cambie el nombre de las secciones &quot;Programación&quot; y &quot;Programación&quot; para equipos y proyectos en la plantilla de diseño**
+
+*Plantillas de diseño*
+
+Se ha cambiado el nombre de las pestañas &quot;Programar&quot; y &quot;Programación&quot; disponibles para agregar en una plantilla de diseño al panel izquierdo de un equipo o proyecto a &quot;Equilibrador de carga de trabajo&quot;.
 
 **Errores al acceder a la configuración de notificación por correo electrónico**
 
