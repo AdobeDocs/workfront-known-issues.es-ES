@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
 workflow-type: tm+mt
-source-wordcount: '1560'
-ht-degree: 92%
+source-wordcount: '1583'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas: No se puede cambiar [!UICONTROL Fecha de finalización planeada] de una tarea](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront: Error 500 al realizar cambios en un objeto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Solicitudes: Mensaje &quot;Whoops&quot; al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Listas: Los errores de edición en línea por usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Buscar: La búsqueda es extremadamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
@@ -149,6 +151,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: No se puede abrir una prueba interactiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Pruebas: Al imprimir un resumen no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Páginas en blanco al ver una prueba con varias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
