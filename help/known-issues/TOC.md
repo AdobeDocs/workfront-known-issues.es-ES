@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 91%
+source-wordcount: '1598'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas: Tareas de edición masiva cambia asignaciones de tareas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [Águila: La tarea tiene un orden de acumulación de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Tareas: No se puede cambiar [!UICONTROL Fecha de finalización planeada] de una tarea](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: Error 500 al realizar cambios en un objeto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Solicitudes: Mensaje &quot;Whoops&quot; al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)

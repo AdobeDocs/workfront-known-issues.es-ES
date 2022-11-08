@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '14844'
-ht-degree: 98%
+source-wordcount: '15236'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,89 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en noviembre de 2022
+
++++**(Planificado) Actualización de mantenimiento el 10 de noviembre de 2022**
+
+**No se puede abrir una prueba interactiva**
+
+*Revisión de Workfront*
+
+Cuando un usuario intenta abrir una prueba interactiva, la prueba no se abre y el usuario ve el siguiente mensaje:
+
+&quot;[!UICONTROL Prueba no cargada (501) Inténtelo de nuevo]&quot;
+
++++
+
++++**Actualización de mantenimiento (corrección) el 4 de noviembre de 2022**
+
+**Problemas con las tareas agregadas a una iteración**
+
+*Agile*
+
+Se han notificado los siguientes problemas en relación con adiciones a una iteración:
+
+* Algunas subtareas de una tarea agregadas a una iteración no aparecen en la página [!UICONTROL Iteración].
+* Cuando un usuario intenta agregar un tarea que falta a la iteración, la tarea no se agrega y el usuario recibe el siguiente mensaje:
+
+   “[!UICONTROL Se produjo el siguiente error: No se pudo mover ninguno de los elementos seleccionados porque no se han asignado a un equipo Agile o no son elementos Agile]”
+
+**Las tareas asignadas mediante la edición masiva no aparecen en el trabajo pendiente del equipo**
+
+*Águila*
+
+Cuando un usuario asigna tareas a un equipo de Anulación utilizando la edición masiva, esas tareas no aparecen en el trabajo pendiente del equipo.
+
+Los equipos kanban no se ven afectados por este problema.
+
+**&quot;[!UICONTROL Nuevos destinatarios de prueba]&quot; el cuadro de texto es demasiado pequeño**
+
+*Pruebas*
+
+Cuando un usuario está viendo una prueba e intenta compartirla desde la pestaña [!UICONTROL Uso compartido], el cuadro de texto “[!UICONTROL Nuevos destinatarios de prueba]” es muy pequeño. El usuario puede escribir un nombre, pero como el cuadro es tan pequeño, el texto se ajusta de una manera difícil de leer.
+
+**La información de uso del informe no se actualiza**
+
+*Informes*
+
+Cuando un usuario ve un informe, la información que vio por última vez, como la fecha de la última visualización y la última visualización de la visita, no se actualiza. Esto significa que cualquier información de uso puede ser incorrecta.
+
+Se ha notificado este comportamiento cuando el usuario accede al informe de las siguientes maneras:
+
+* Buscar
+* Fijadores
+* Favoritos
+* Recientes
+
+El acceso a los informes a través de un panel sí actualiza la información de la última visualización.
+
+**[!DNL Workfront]: Error 500 al realizar cambios en un [!DNL Workfront] object**
+
+*[!DNL Workfront]*
+
+Cuando un usuario intenta realizar cambios en un [!DNL Workfront] , los cambios no se guardan y el usuario ve el siguiente error:
+
+&quot;[!UICONTROL 500: Error de base de datos debido a una instrucción SQL no válida.]&quot;
+
+Esto se ha notificado en las siguientes situaciones:
+
+* Cambio del estado de un objeto
+* Cálculo de líneas de tiempo
+* Adjuntar una plantilla
+* Hora de registro
+
++++
+
++++**[!DNL Workfront Fusion]Actualización de mantenimiento el 3 de noviembre de 2022**
+
+**Error [!UICONTROL apiKey] en [!DNL Workfront] > [!UICONTROL Eventos de Watch] módulo**
+
+*[!DNL Workfront Fusion]*
+
+Cuando un usuario intenta agregar un vínculo web al [!DNL Workfront] > [!UICONTROL Eventos de Watch] reciben el siguiente error:
+
+&quot;[!UICONTROL La apiKey proporcionada estaba vacía o se consideró no válida.]&quot;
+
++++
 
 +++**Actualización de mantenimiento el 3 de noviembre de 2022**
 
@@ -1527,7 +1610,7 @@ Esto ocurre incluso si el usuario tiene la función de trabajo de la asignación
 
 **Problema con la barra del panel de exploración “Mostrar más elementos de trabajo”**&#x200B;
 
-*Agile*
+*Águila*
 
 Cuando un usuario hace clic en el barra [!UICONTROL Mostrar más elementos de trabajo] en un panel de exploración y luego se desplaza para ver los nuevos elementos, la barra de [!UICONTROL Mostrar más elementos de trabajo] se fija al panel de exploración y se mueve con él al desplazarse. Esto puede hacer que las tarjetas sean difíciles de leer.
 
