@@ -3,7 +3,7 @@ title: '“Asignaciones: Error al asignar un equipo por lotes”'
 description: “Cuando un usuario edita por lotes tareas o problemas y asigna un equipo después de asignar un individuo, las asignaciones no se guardan y el usuario recibe un error.”
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
