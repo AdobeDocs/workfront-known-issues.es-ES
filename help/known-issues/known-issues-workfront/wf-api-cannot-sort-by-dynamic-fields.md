@@ -1,11 +1,11 @@
 ---
-title: "API: No se puede ordenar por campos dinámicos"
-description: "La API de Workfront no permite la ordenación por campos dinámicos. "
+title: '“API: No se puede ordenar por campos dinámicos”'
+description: “La API de Workfront no permite la ordenación por campos dinámicos” .
 hidefromtoc: true
 source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
@@ -20,5 +20,5 @@ ht-degree: 31%
 
 La API de Workfront no permite la ordenación por campos dinámicos.
 
-_Informado por primera vez el 15 de marzo de 2022._
+_Notificado por primera vez el 15 de marzo de 2022._
 
