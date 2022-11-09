@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '15236'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -56,13 +56,13 @@ Se han notificado los siguientes problemas en relación con adiciones a una iter
 
    “[!UICONTROL Se produjo el siguiente error: No se pudo mover ninguno de los elementos seleccionados porque no se han asignado a un equipo Agile o no son elementos Agile]”
 
-**Las tareas asignadas mediante la edición masiva no aparecen en el trabajo pendiente del equipo**
+**Las tareas asignadas mediante la edición masiva no aparecen en el registro de asuntos pendientes del equipo**
 
 *Águila*
 
-Cuando un usuario asigna tareas a un equipo de Anulación utilizando la edición masiva, esas tareas no aparecen en el trabajo pendiente del equipo.
+Cuando un usuario asigna tareas a un equipo de Scrum utilizando la edición masiva, esas tareas no aparecen en el registro de asuntos pendientes del equipo.
 
-Los equipos kanban no se ven afectados por este problema.
+Los equipos de Kanban no se ven afectados por este problema.
 
 **&quot;[!UICONTROL Nuevos destinatarios de prueba]&quot; el cuadro de texto es demasiado pequeño**
 
@@ -148,13 +148,13 @@ Se ha informado de este problema en las siguientes áreas:
 
 +++**Actualización de mantenimiento el 27 de octubre de 2022**
 
-**[!UICONTROL HORA] función en campos calculados utiliza UTC**
+La función **[!UICONTROL HOUR] de los campos calculados utiliza UTC**
 
 *Formularios personalizados*
 
-Cuando un campo calculado incluye la variable [!UICONTROL HORA] , la función devuelve valores basados en UTC en lugar del huso horario esperado. Por lo tanto, cualquier cálculo basado en el valor HOUR es incorrecto.
+Cuando un campo calculado incluye la función [!UICONTROL HOUR], la función devuelve valores basados en UTC en lugar de la zona horaria esperada. Por lo tanto, cualquier cálculo basado en la función HOUR es incorrecto.
 
-**[!UICONTROL Filtro rápido] no devuelve resultados al buscar equipos**
+El **[!UICONTROL Filtro rápido] no devuelve resultados al buscar equipos**
 
 *Listas*
 
@@ -166,17 +166,17 @@ Cuando un usuario intenta utilizar el [!UICONTROL Filtro rápido] en una lista p
 
 >[!NOTE]
 >
->Este problema se solucionó en la versión de vista previa del 13 de octubre de 2022. Se corrigió en Producción el 27 de octubre de 2022.
+>Este problema se solucionó en la versión de vista previa del 13 de octubre de 2022. Se solucionó en el entorno de producción el 27 de octubre de 2022.
 
 Cuando un usuario selecciona la opción “[!UICONTROL Eliminar fijador]” en un fijador, recibe un mensaje sobre la eliminación e intenta reemplazar el fijador haciendo clic en “[!UICONTROL Deshacer]” en el mensaje, el fijador no se reemplaza en la barra de navegación superior, ni se añade a la lista de fijadores de la sección [!UICONTROL Más fijadores] (el menú de tres puntos del área [!UICONTROL Fijadores]).
 
 Si un usuario intenta volver a anclar la página accediendo a ella y anclándola, no se creará el fijador y el usuario no podrá anclar la página.
 
-**Todos los usuarios enumerados en [!UICONTROL Equilibrador de carga de trabajo] al utilizar un vínculo que se puede compartir en [!DNL Safari] explorador**
+**Todos los usuarios enumerados en el [!UICONTROL Distribuidor de cargas de trabajo] al utilizar un vínculo compartible en el [!DNL Safari] explorador**
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 
-Cuando un usuario sigue un vínculo que se puede compartir con el [!UICONTROL Equilibrador de carga de trabajo] mientras utiliza un [!DNL Safari] , verán todos los usuarios, no solo los miembros del equipo que aparecen en la lista.
+Cuando un usuario sigue un vínculo compartible que le lleva al [!UICONTROL Distribuidor de cargas de trabajo] mientras utiliza un [!DNL Safari] explorador, ve a todos los usuarios, no solo a los miembros del equipo que aparecen en la lista.
 
 +++
 
@@ -190,7 +190,7 @@ Cuando un usuario edita por lotes tareas o problemas y asigna un equipo después
 
 “[!UICONTROL Intentémoslo de nuevo - Se produjo el siguiente error: teamAssignments debe ser una lista de objetos o una lista de ID]”
 
-**&quot;[!UICONTROL No se pudo cargar el archivo]&quot; error**
+**Error de tipo “[!UICONTROL No se pudo cargar el archivo]”**
 
 *Documentos*
 
@@ -1074,7 +1074,7 @@ Cuando un usuario con acceso de Planificador que incluye el acceso de Administra
 
 +++**[!DNL Workfront Scenario Planner]Actualización de mantenimiento el 9 de junio de 2022**
 
-**Tamaño del panel izquierdo modificable en[!DNL Scenario Planner]**
+**Tamaño del panel izquierdo modificable en [!DNL Scenario Planner]**
 
 *[!DNL Workfront Scenario Planner]*
 
@@ -1100,7 +1100,7 @@ Cuando un usuario está viendo el historial de ejecución de un escenario e inte
 
 +++**Actualización de mantenimiento el 2 de junio de 2022**
 
-**[!UICONTROL Optimizador de portafolios] muestra una puntuación de 0 cuando se usa un idioma distinto del inglés**
+**[!UICONTROL Optimizador de portafolios] muestra una puntuación de 0 cuando se usa un idioma distinto del inglés**
 
 *Portafolios*
 
@@ -1172,7 +1172,7 @@ Se han notificado los siguientes problemas al imprimir un panel en un PDF:
 El PDF no imprime todas las filas del informe. Cuando faltan líneas, solo se muestra espacio en blanco.
 El PDF incluye espacios en blanco entre los encabezados de columna y la primera fila del informe.
 
-**[!DNL Portfolio Optimizer]muestra una puntuación de 0 cuando se usa un idioma distinto del inglés**
+**[!DNL Portfolio Optimizer] muestra una puntuación de 0 cuando se usa un idioma distinto del inglés**
 
 *Portafolios*
 
@@ -1194,13 +1194,13 @@ Cuando un usuario ve el [!UICONTROL Distribuidor de cargas de trabajo] mediante 
 
 +++**Actualización de mantenimiento el 19 de mayo de 2022**
 
-**No se puede crear una prueba a partir de un[!DNL PowerPoint]**
+**No se puede crear una prueba a partir de un [!DNL PowerPoint]**
 
 *[!DNL Workfront Proof]*
 
 Cuando un usuario intenta crear una prueba a partir de un [!DNL PowerPoint] que incluye un gráfico, la creación de la prueba falla.
 
-**No se puede crear una prueba a partir de un documento [!UICONTROL Word]**
+**No se puede crear una prueba a partir de un documento [!UICONTROL Word]**
 
 *[!DNL Workfront Proof]*
 
@@ -1386,7 +1386,7 @@ Cuando un usuario intenta abrir el [!UICONTROL Distribuidor de cargas de trabajo
 
 Cuando un usuario agrega una tarea debajo de una tarea existente en una lista, la página salta a la parte inferior de la lista. Aunque la nueva tarea se encuentra en el lugar correcto, el usuario debe desplazarse hacia atrás para localizarla.
 
-**Los usuarios agregados a una prueba no pueden acceder al elemento de trabajo de la prueba en[!DNL Workfront]**
+**Los usuarios agregados a una prueba no pueden acceder al elemento de trabajo de la prueba en [!DNL Workfront]**
 
 *Pruebas*
 
@@ -1396,7 +1396,7 @@ Si se agrega un usuario a un escenario en el flujo de trabajo de una prueba, est
 
 Este problema es específico de las pruebas ya creadas y de los usuarios que se agregan después del hecho. Agregar usuarios al flujo de trabajo antes de la creación de la prueba funciona según lo esperado.
 
-**No se puede enviar el correo electrónico de restablecimiento de contraseña desde[!DNL Workfront]**
+**No se puede enviar el correo electrónico de restablecimiento de contraseña desde [!DNL Workfront]**
 
 *Usuarios*
 
@@ -1570,7 +1570,7 @@ Cuando un usuario va a una página de Proyectos a través de una pestaña que se
 
 +++**Actualización de mantenimiento el 31 de marzo de 2022**
 
-**Zonas horarias no coherentes entre [!DNL Workfront] y[!DNL Workfront Proof]**
+**Zonas horarias no coherentes entre [!DNL Workfront] y [!DNL Workfront Proof]**
 
 *[!DNL Workfront Proof]*
 
@@ -1604,7 +1604,7 @@ Cuando un usuario intenta agregar un formulario personalizado de objetos cruzado
 
 Cuando un usuario intenta asignar otro usuario a una tarea de la [!UICONTROL Distribuidor de cargas de trabajo], y la tarea se asigna a una función de trabajo que no sea la función de trabajo principal del usuario asignado, el usuario se asigna a la tarea por su función de trabajo principal y se muestra el siguiente mensaje:
 
-“\&lt;Name\> no coincide con la función de \&lt;Task role assignment\>. 1 elemento de trabajo asignado actualmente a la función &lt;\Task role assignment\> se asignará a \&lt;Name\> en la función de \&lt;Primary job role\>.”
+“&lt;Name> no coincide con la función de &lt;Task role assignment>. 1 elemento de trabajo asignado actualmente a la función &lt;\Task role assignment> se asignará a &lt;Name> en la función de &lt;Primary job role>.”
 
 Esto ocurre incluso si el usuario tiene la función de trabajo de la asignación de funciones de tarea como rol secundario.
 
@@ -1644,7 +1644,7 @@ NOTA: Esta corrección del problema incluye funcionalidad adicional. Ahora, cuan
 
 +++**Actualización de mantenimiento el 24 de marzo de 2022**
 
-**Zonas horarias no coherentes entre [!DNL Workfront] y[!DNL Workfront Proof]**
+**Zonas horarias no coherentes entre [!DNL Workfront] y [!DNL Workfront Proof]**
 
 *[!DNL Workfront Proof]*
 
@@ -1867,7 +1867,7 @@ Cuando un usuario cambia el estado de un elemento de trabajo en el encabezado, e
 
 +++**Actualización de mantenimiento el 3 de marzo de 2022**
 
-**No se puede agregar el documento desde[!DNL Google Drive]**
+**No se puede agregar el documento desde [!DNL Google Drive]**
 
 *Documentos*
 
@@ -1903,7 +1903,7 @@ Cuando un usuario no administrador intenta convertir un problema a un proyecto m
 
 Cuando un administrador convierte el problema, los datos se transmiten al nuevo proyecto según lo esperado.
 
-El límite de tamaño de archivo de **[!DNL XLS]y [!DNL XLSX] disminuyó temporalmente a 100 MB para pruebas**
+El límite de tamaño de archivo de **[!DNL XLS] y [!DNL XLSX] disminuyó temporalmente a 100 MB para pruebas**
 
 *Prueba*
 
@@ -1990,7 +1990,7 @@ Cuando un usuario intenta convertir un problema en un proyecto mediante una plan
 
 Cuando un usuario intenta abrir una prueba, esta no se puede abrir. Finalmente, la página se actualiza.
 
-El límite de tamaño de archivo de **[!DNL XLS]y [!DNL XLSX] disminuyó temporalmente a 100 MB para pruebas**
+El límite de tamaño de archivo de **[!DNL XLS] y [!DNL XLSX] disminuyó temporalmente a 100 MB para pruebas**
 
 *Prueba*
 
@@ -2281,7 +2281,7 @@ Cuando un usuario intenta adjuntar un formulario personalizado o una plantilla a
 
 Cuando un usuario ve una prueba en el área de [!UICONTROL Documentos], los comentarios realizados en la prueba no se muestran en el área de [!UICONTROL actualizaciones] del documento.
 
-**[!UICONTROL Distribuidor de cargas de trabajo]: “[!UICONTROL ?[objeto Objeto]?]” aparece en la información de sobreasignación**
+**[!UICONTROL Distribuidor de cargas de trabajo]: “[!UICONTROL ?[objeto Objeto]?]” aparece en la información de sobreasignación**
 
 *[!UICONTROL Distribuidor de cargas de trabajo]*
 

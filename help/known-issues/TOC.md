@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '1598'
-ht-degree: 90%
+ht-degree: 95%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 90%
       + [API: No se puede ordenar por campos dinámicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Pruebas: La generación de pruebas es extremadamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [Solicitudes: No se pueden ver más de 100 temas de cola en una página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
-      + [Problemas: La navegación de la izquierda muestra los problemas &quot;(0)&quot; cuando hay problemas](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [Solicitudes: [!UICONTROL Configuración de cola de correo electrónico] no disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
-      + [[!UICONTROL Tableros]: [!UICONTROL Admisión] la búsqueda de columnas no es efectiva](known-issues-workfront/wf-boards-search-returns-no-results.md)
+      + [Solicitudes: No se pueden ver más de 100 temas de la cola en una página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [Problemas: La navegación de la izquierda muestra “(0)” problemas cuando hay problemas](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Solicitudes: [!UICONTROL La configuración de la cola de correo electrónico] no está disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [[!UICONTROL Tableros]: La búsqueda de columnas de [!UICONTROL Admisión] no es eficaz](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL Configuración]: Las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [Formularios personalizados: [!UICONTROL HORA] función en campos calculados utiliza UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
-      + [Águila: Las tareas asignadas mediante la edición masiva no aparecen en el trabajo pendiente del equipo](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
+      + [Formularios personalizados: La función [!UICONTROL HOUR] de los campos calculados utiliza UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
+      + [Agile: Las tareas asignadas mediante la edición masiva no aparecen en el registro de asuntos pendientes del equipo](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Informes: La información de uso del informe no se actualiza](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navegación: No se pueden anclar objetos](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Tableros]: La página [!UICONTROL Tableros] no se carga](known-issues-workfront/wf-boards-boards-do-not-load.md)

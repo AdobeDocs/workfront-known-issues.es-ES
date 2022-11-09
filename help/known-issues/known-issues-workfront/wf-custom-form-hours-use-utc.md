@@ -1,22 +1,21 @@
 ---
-title: "Formularios personalizados: La función HOUR en los campos calculados utiliza UTC"
-description: '"Cuando un campo calculado incluye la función HOUR, la función devuelve valores en función de UTC en lugar de la zona horaria esperada. Por lo tanto, cualquier cálculo basado en el valor HOUR es incorrecto".'
+title: 'Formularios personalizados: La función HOUR de los campos calculados utiliza UTC'
+description: Cuando un campo calculado incluye la función HOUR, la función devuelve valores basados en UTC en lugar de la zona horaria esperada. Por lo tanto, cualquier cálculo basado en la función HOUR es incorrecto.
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+exl-id: f4f9fb6e-6226-4603-9518-4c935a644039
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 4%
+ht-degree: 93%
 
 ---
 
-
-# Formularios personalizados: [!UICONTROL HORA] función en campos calculados utiliza UTC
+# Formularios personalizados: La función [!UICONTROL HOUR] de los campos calculados utiliza UTC
 
 >[!NOTE]
 >
 >Este problema se corrigió el 3 de noviembre de 2022.
 
-Cuando un campo calculado incluye la variable [!UICONTROL HORA] , la función devuelve valores basados en UTC en lugar del huso horario esperado. Por lo tanto, cualquier cálculo basado en el valor HOUR es incorrecto.
+Cuando un campo calculado incluye la función [!UICONTROL HOUR], la función devuelve valores basados en UTC en lugar de la zona horaria esperada. Por lo tanto, cualquier cálculo basado en la función HOUR es incorrecto.
 
 _Notificado por primera vez el 17 de octubre de 2022._
-
