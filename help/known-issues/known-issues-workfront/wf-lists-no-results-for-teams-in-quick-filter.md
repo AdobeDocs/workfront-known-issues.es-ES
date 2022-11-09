@@ -3,7 +3,7 @@ title: '“Listas: El Filtro rápido no devuelve resultados al buscar equipos”
 description: “Cuando un usuario intenta utilizar el Filtro rápido en una lista para buscar un equipo, al introducir el nombre del equipo no se obtienen resultados, aunque el equipo esté visible en la lista (como en el campo Asignado a). Al buscar la palabra ‘equipo’, tampoco se obtienen resultados.”
 hidefromtoc: true
 source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 
