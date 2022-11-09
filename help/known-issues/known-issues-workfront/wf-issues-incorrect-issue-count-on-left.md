@@ -3,7 +3,7 @@ title: '“Problemas: El recuento de problemas en la navegación izquierda de la
 description: “Cuando un usuario está viendo una tarea, el número que se muestra en la sección Problemas de la navegación izquierda no representa con precisión el número real de problemas asociados a la tarea.”
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
