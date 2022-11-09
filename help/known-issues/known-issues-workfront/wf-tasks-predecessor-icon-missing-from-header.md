@@ -3,7 +3,7 @@ title: '“Tareas: El icono [!UICONTROL Predecesor] no se encuentra en el encabe
 description: ""
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
 ht-degree: 100%
 
