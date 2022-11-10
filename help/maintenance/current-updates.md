@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '15236'
+source-wordcount: '15269'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 
 ## Actualizaciones en noviembre de 2022
 
-+++**(Planificado) Actualización de mantenimiento el 10 de noviembre de 2022**
++++**Actualización de mantenimiento el 10 de noviembre de 2022**
+
+**Tareas de edición masiva cambia asignaciones de tareas**
+
+*Tareas*
+
+Cuando un usuario edita masivamente cualquier campo para un conjunto de tareas, las Asignaciones de la primera tarea se aplican a todas las tareas. Esto elimina las asignaciones anteriores.
 
 **No se puede abrir una prueba interactiva**
 
