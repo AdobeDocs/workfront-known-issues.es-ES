@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 95%
+source-wordcount: '1607'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Plantillas de diseño: Ocultar un elemento oculta el elemento incorrecto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Tareas: Tareas de edición masiva cambia asignaciones de tareas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Águila: La tarea tiene un orden de acumulación de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Tareas: No se puede cambiar [!UICONTROL Fecha de finalización planeada] de una tarea](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)

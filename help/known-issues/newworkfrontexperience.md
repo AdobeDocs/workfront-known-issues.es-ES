@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Plantillas de diseño: Ocultar un elemento oculta el elemento incorrecto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10 de noviembre de 2022 |
 | [Listas: Los errores de edición en línea por usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de noviembre de 2022 |
 | [Solicitudes: No se pueden ver más de 100 temas de la cola en una página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 de noviembre de 2022 |
 | [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de octubre de 2022 |
