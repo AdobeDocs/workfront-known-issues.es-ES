@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 91%
+source-wordcount: '583'
+ht-degree: 89%
 
 ---
 
@@ -24,6 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: [!UICONTROL Imprimir resumen] no muestra la miniatura de la imagen](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 de noviembre de 2022 |
 | [Integraciones: [!UICONTROL Calendario principal] muestra eventos una hora después de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de noviembre de 2022 |
 | [Águila: La tarea tiene un orden de acumulación de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 de noviembre de 2022 |
 | [Solicitudes: Mensaje &quot;Whoops&quot; al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 de noviembre de 2022 |
