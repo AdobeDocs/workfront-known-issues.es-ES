@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Pruebas: [!UICONTROL Imprimir resumen] no muestra la miniatura de la imagen"
+description: '"Cuando un usuario ve la variable [!UICONTROL Imprimir resumen] página de una prueba en [!DNL Workfront], la miniatura de la prueba no se muestra. En su lugar, aparece una sencilla imagen de marcador de posición".'
 hidefromtoc: true
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 10%
+source-wordcount: '72'
+ht-degree: 5%
 
 ---
 
