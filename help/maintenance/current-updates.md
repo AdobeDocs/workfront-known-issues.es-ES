@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '15269'
+source-wordcount: '15307'
 ht-degree: 98%
 
 ---
@@ -30,6 +30,17 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en noviembre de 2022
+
++++**(Planificado) Actualización de mantenimiento el 17 de noviembre de 2022**
+
+**Ocultar un elemento oculta el elemento incorrecto**
+
+*Plantillas de diseño*
+
+Cuando un usuario cambia si un elemento está oculto o se muestra, esos cambios se reflejan en un elemento diferente de la plantilla de diseño.
+
+
++++
 
 +++**Actualización de mantenimiento el 10 de noviembre de 2022**
 
