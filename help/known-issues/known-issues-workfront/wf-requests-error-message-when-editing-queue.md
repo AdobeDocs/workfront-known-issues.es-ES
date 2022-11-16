@@ -1,22 +1,22 @@
 ---
-title: "Solicitudes: Mensaje de la cola al editar la cola de solicitud"
-description: '"Cuando un usuario está editando una cola de solicitudes e intenta guardar los cambios, aparece un error".'
+title: "Solicitudes: Mensaje ¡Uy! al editar la cola de solicitudes"
+description: "Cuando un usuario está editando una cola de solicitudes e intenta guardar los cambios, aparece un error."
 hidefromtoc: true
 source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# Solicitudes: Mensaje &quot;Whoops&quot; al editar la cola de solicitudes
+# Solicitudes: Mensaje &quot;¡Uy!&quot; al editar la cola de solicitudes
 
 Cuando un usuario está editando una cola de solicitudes e intenta guardar los cambios, aparece el siguiente error:
 
-“Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.”
+“Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.&quot;
 
-Además, el usuario ve el siguiente mensaje en la parte inferior de la página, cerca del botón Guardar :
+Además, el usuario ve el siguiente mensaje en la parte inferior de la página, cerca del botón Guardar:
 
 &quot;No se puede acceder al servicio de correo electrónico de la cola de solicitudes. Póngase en contacto con Workfront.&quot;
 
