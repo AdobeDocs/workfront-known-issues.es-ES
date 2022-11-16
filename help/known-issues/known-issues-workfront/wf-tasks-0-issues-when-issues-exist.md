@@ -3,9 +3,9 @@ title: '“Problemas: La navegación izquierda muestra (0) problemas cuando hay 
 description: “Cuando un usuario está viendo una tarea en la que hay problemas, la navegación izquierda de la tarea muestra (0) en el área Problemas, lo que indica que no hay problemas. Si el usuario ve el área Problemas de la tarea, verá los problemas”.
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
