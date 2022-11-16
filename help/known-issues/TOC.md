@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
+source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
 workflow-type: tm+mt
-source-wordcount: '1666'
+source-wordcount: '1679'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Formularios personalizados: &quot;[!UICONTROL No tiene acceso suficiente]&quot; error al editar formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Formularios personalizados: &quot;[!UICONTROL Expresión personalizada no válida]&quot; al hacer referencia a &quot;[!UICONTROL propietario]&quot; en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Informes: Error &quot;Whoops&quot; al agregar un nuevo problema a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Informes: El gráfico de combinación muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)

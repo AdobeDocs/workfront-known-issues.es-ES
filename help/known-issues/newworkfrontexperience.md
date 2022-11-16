@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
+source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 83%
+source-wordcount: '643'
+ht-degree: 87%
 
 ---
 
@@ -24,10 +24,11 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formularios personalizados: &quot;[!UICONTROL No tiene acceso suficiente]&quot; error al editar formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 16 de noviembre de 2022 |
 | [Pruebas: [!UICONTROL Imprimir resumen] no muestra la miniatura de la imagen](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 de noviembre de 2022 |
 | [Integraciones: [!UICONTROL Calendario principal] muestra eventos una hora después de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de noviembre de 2022 |
-| [Águila: La tarea tiene un orden de acumulación de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 de noviembre de 2022 |
-| [Solicitudes: Mensaje &quot;Whoops&quot; al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 de noviembre de 2022 |
+| [Agile: La tarea tiene un registro de asuntos pendientes de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 de noviembre de 2022 |
+| [Solicitudes: Mensaje &quot;¡Uy!&quot; al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 de noviembre de 2022 |
 | [Pruebas: La generación de pruebas es extremadamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de octubre de 2022 |
 | [Solicitudes: [!UICONTROL La configuración de la cola de correo electrónico] no está disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 de octubre de 2022 |
 | [Pruebas: Al imprimir un resumen no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de octubre de 2022 |
@@ -46,7 +47,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Informes: El gráfico de combinación muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de noviembre de 2022 |
 | [Pruebas: La adición de un mensaje personalizado causa problemas en el visor de prueba](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de noviembre de 2022 |
 | [Plantillas de diseño: Ocultar un elemento oculta el elemento incorrecto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10 de noviembre de 2022 |
-| [Listas: Los errores de edición en línea por usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de noviembre de 2022 |
+| [Listas: Los errores de edición en línea producidos por el usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de noviembre de 2022 |
 | [Solicitudes: No se pueden ver más de 100 temas de la cola en una página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 de noviembre de 2022 |
 | [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de octubre de 2022 |
 | [Documentos: El vínculo de solicitud de documento externo lleva a la página de inicio de sesión](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de octubre de 2022 |
