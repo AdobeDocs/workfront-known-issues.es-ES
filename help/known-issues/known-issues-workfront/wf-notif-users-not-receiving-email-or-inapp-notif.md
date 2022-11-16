@@ -3,7 +3,7 @@ title: '“Notificaciones: Los usuarios que no reciben notificaciones por correo
 description: “Cuando se menciona o se incluye a un usuario en un comentario o una actualización en el flujo de actualización de un objeto, es posible que no reciba el correo electrónico o la notificación sobre el comentario que se espera en la aplicación.”
 hidefromtoc: true
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
