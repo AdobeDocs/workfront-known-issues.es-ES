@@ -4,7 +4,7 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Scenari
 keywords: nuevo archivo, añadir archivo
 exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
 source-git-commit: e224cfec1fc166f042b6c84d4dcfd35d35fd7559
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 
