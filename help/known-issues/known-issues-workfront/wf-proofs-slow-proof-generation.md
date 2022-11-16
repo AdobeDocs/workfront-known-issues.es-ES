@@ -3,7 +3,7 @@ title: '“Pruebas: La generación de pruebas es extremadamente lenta”'
 description: “Cuando un usuario intenta añadir una prueba a un elemento de trabajo de Workfront, mediante la opción Añadir nuevo > Prueba, utilizando un flujo de trabajo automatizado, la prueba tarda varios minutos en generarse”.
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
