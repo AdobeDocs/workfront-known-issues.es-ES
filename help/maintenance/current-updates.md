@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
 source-wordcount: '15307'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -48,19 +48,19 @@ Cuando un usuario cambia si un elemento está oculto o se muestra, esos cambios 
 
 *Tareas*
 
-Cuando un usuario edita masivamente cualquier campo para un conjunto de tareas, las Asignaciones de la primera tarea se aplican a todas las tareas. Esto elimina las asignaciones anteriores.
+Cuando un usuario edita masivamente cualquier campo en un conjunto de tareas, las Asignaciones de la primera tarea se aplican a todas las tareas. Esto elimina las asignaciones anteriores.
 
 **No se puede abrir una prueba interactiva**
 
 *Revisión de Workfront*
 
-Cuando un usuario intenta abrir una prueba interactiva, la prueba no se abre y el usuario ve el siguiente mensaje:
+Cuando un usuario intenta abrir una prueba interactiva, la prueba no se carga y el usuario ve el siguiente mensaje:
 
 &quot;[!UICONTROL Prueba no cargada (501) Inténtelo de nuevo]&quot;
 
 +++
 
-+++**Actualización de mantenimiento (corrección) el 4 de noviembre de 2022**
++++**Actualización de mantenimiento (Hot Fix) el 4 de noviembre de 2022**
 
 **Problemas con las tareas agregadas a una iteración**
 
@@ -81,7 +81,7 @@ Cuando un usuario asigna tareas a un equipo de Scrum utilizando la edición masi
 
 Los equipos de Kanban no se ven afectados por este problema.
 
-**&quot;[!UICONTROL Nuevos destinatarios de prueba]&quot; el cuadro de texto es demasiado pequeño**
+**El cuadro de texto &quot;[!UICONTROL Nuevos destinatarios de prueba]&quot; es demasiado pequeño**
 
 *Pruebas*
 
@@ -102,30 +102,30 @@ Se ha notificado este comportamiento cuando el usuario accede al informe de las 
 
 El acceso a los informes a través de un panel sí actualiza la información de la última visualización.
 
-**[!DNL Workfront]: Error 500 al realizar cambios en un [!DNL Workfront] object**
+**[!DNL Workfront]: Error 500 al realizar cambios en un objeto [!DNL Workfront]**
 
 *[!DNL Workfront]*
 
-Cuando un usuario intenta realizar cambios en un [!DNL Workfront] , los cambios no se guardan y el usuario ve el siguiente error:
+Cuando un usuario intenta realizar cambios en un objeto [!DNL Workfront], los cambios no se guardan y el usuario ve el siguiente error:
 
-&quot;[!UICONTROL 500: Error de base de datos debido a una instrucción SQL no válida.]&quot;
+&quot;[!UICONTROL 500: Error de la base de datos debido a una instrucción SQL no válida.]&quot;
 
-Esto se ha notificado en las siguientes situaciones:
+Se ha informado de este problema en las siguientes situaciones:
 
-* Cambio del estado de un objeto
-* Cálculo de líneas de tiempo
+* Cambiar el estado de un objeto
+* Calcular de nuevo la cronología
 * Adjuntar una plantilla
-* Hora de registro
+* Registrar la hora
 
 +++
 
 +++**[!DNL Workfront Fusion]Actualización de mantenimiento el 3 de noviembre de 2022**
 
-**Error [!UICONTROL apiKey] en [!DNL Workfront] > [!UICONTROL Eventos de Watch] módulo**
+**Error sobre la [!UICONTROL apiKey] en el módulo [!DNL Workfront] > [!UICONTROL Ver eventos]**
 
 *[!DNL Workfront Fusion]*
 
-Cuando un usuario intenta agregar un vínculo web al [!DNL Workfront] > [!UICONTROL Eventos de Watch] reciben el siguiente error:
+Cuando un usuario intenta agregar un webhook al módulo [!DNL Workfront] > [!UICONTROL Ver eventos] recibe el siguiente error:
 
 &quot;[!UICONTROL La apiKey proporcionada estaba vacía o se consideró no válida.]&quot;
 
@@ -133,13 +133,13 @@ Cuando un usuario intenta agregar un vínculo web al [!DNL Workfront] > [!UICONT
 
 +++**Actualización de mantenimiento el 3 de noviembre de 2022**
 
-**Cambie el nombre de las secciones &quot;Programación&quot; y &quot;Programación&quot; para equipos y proyectos en la plantilla de diseño**
+**Cambie el nombre de las secciones &quot;Programar&quot; y &quot;Programación&quot; para equipos y proyectos en la plantilla de diseño**
 
 *Plantillas de diseño*
 
-Se ha cambiado el nombre de las pestañas &quot;Programar&quot; y &quot;Programación&quot; disponibles para agregar en una plantilla de diseño al panel izquierdo de un equipo o proyecto a &quot;Equilibrador de carga de trabajo&quot;.
+Se ha cambiado el nombre de las pestañas &quot;Programar&quot; y &quot;Programación&quot; disponibles para agregar en una plantilla de diseño al panel izquierdo de un equipo o proyecto a &quot;Distribuidor de cargas de trabajo&quot;.
 
-**Errores al acceder a la configuración de notificación por correo electrónico**
+**Errores al acceder a la configuración de las notificaciones por correo electrónico**
 
 *Notificaciones*
 
@@ -1621,7 +1621,7 @@ Cuando un usuario intenta agregar un formulario personalizado de objetos cruzado
 
 Cuando un usuario intenta asignar otro usuario a una tarea de la [!UICONTROL Distribuidor de cargas de trabajo], y la tarea se asigna a una función de trabajo que no sea la función de trabajo principal del usuario asignado, el usuario se asigna a la tarea por su función de trabajo principal y se muestra el siguiente mensaje:
 
-“&lt;Name> no coincide con la función de &lt;Task role assignment>. 1 elemento de trabajo asignado actualmente a la función &lt;\Task role assignment> se asignará a &lt;Name> en la función de &lt;Primary job role>.”
+“&lt;Name> no coincide con la función de &lt;Task role assignment>. 1 elemento de trabajo asignado actualmente a la función &lt;Task role assignment> se asignará a &lt;Name> en la función de &lt;Primary job role>.”
 
 Esto ocurre incluso si el usuario tiene la función de trabajo de la asignación de funciones de tarea como rol secundario.
 
@@ -1864,7 +1864,7 @@ Cuando un usuario añade un problema en línea y hay una vista personalizada con
 
 *Tareas*
 
-Ahora puede mover o copiar una tarea a otra tarea de un proyecto sin tener permisos para agregar tareas al proyecto de destino. Debe tener permisos para agregar tareas al menos a una de las tareas del proyecto de destino. Antes de esta actualización, era necesario tener permisos para agregar tareas al proyecto para mover o copiar una tarea al proyecto o a cualquiera de sus tareas. Esta actualización ya está disponible en el entorno de producción. Ha estado disponible en el entorno de vista previa a partir de la actualización de mantenimiento del 24 de marzo de 2022.
+Ahora puede mover o copiar una tarea a otra tarea de un proyecto sin tener permisos para agregar tareas al proyecto de destino. Debe tener permisos para agregar tareas al menos a una de las tareas del proyecto de destino. Antes de esta actualización, era necesario tener permisos para agregar tareas al proyecto para mover o copiar una tarea al proyecto o a cualquiera de sus tareas.  Esta actualización ya está disponible en el entorno de producción. Ha estado disponible en el entorno de vista previa a partir de la actualización de mantenimiento del 24 de marzo de 2022.
 
 NOTA: Esta actualización estará disponible en el entorno de producción al copiar o mover problemas después de la versión de producción 22.2. Para obtener más información sobre la versión actual, consulte workfront.com/release.
 

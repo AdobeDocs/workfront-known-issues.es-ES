@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
 source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
 source-wordcount: '1666'
-ht-degree: 91%
+ht-degree: 95%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 91%
       + [Pruebas: El resumen de impresión no muestra la miniatura de la imagen](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integraciones: [!UICONTROL Calendario principal] muestra eventos una hora después de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Plantillas de diseño: Ocultar un elemento oculta el elemento incorrecto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
-      + [Tareas: Tareas de edición masiva cambia asignaciones de tareas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [Águila: La tarea tiene un orden de acumulación de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
-      + [Tareas: No se puede cambiar [!UICONTROL Fecha de finalización planeada] de una tarea](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Tareas: Las tareas de edición masiva cambian las asignaciones de tareas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [Agile: La tarea tiene un registro de asuntos pendientes de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [Tareas: No se puede cambiar la [!UICONTROL Fecha planificada de finalización] de una tarea](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: Error 500 al realizar cambios en un objeto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [Solicitudes: Mensaje &quot;Whoops&quot; al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
-      + [Listas: Los errores de edición en línea por usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md)
+      + [Solicitudes: Mensaje &quot;¡Uy!&quot; al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [Listas: Los errores de edición en línea producidos por el usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Buscar: La búsqueda es extremadamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]: 404 errores en [!DNL Workfront] módulos](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [[!DNL Workfront Fusion]: Errores 404 en módulos [!DNL Workfront] ](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API: No se puede ordenar por campos dinámicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Pruebas: La generación de pruebas es extremadamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
@@ -195,7 +195,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Elementos de matriz en [!UICONTROL Iterador] visualización del módulo como &quot;[!UICONTROL objeto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]: Los elementos de la matriz en el módulo [!UICONTROL Iterator] se muestran como &quot;[!UICONTROL objeto Objeto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fallo al ver un error en el historial de ejecución de un escenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: Error 409 en un escenario de  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: Error de tipo “[!UICONTROL No se pudieron cargar los datos]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
