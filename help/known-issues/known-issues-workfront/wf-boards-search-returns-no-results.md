@@ -1,22 +1,21 @@
 ---
-title: "Tableros: La búsqueda de columnas de entrada no es efectiva "
-description: '"Cuando un usuario intenta buscar en la columna Admisión de un tablero, no hay ningún cambio en los elementos mostrados en esa columna. ”'
+title: 'Tableros: La búsqueda de columnas de Admisión no es eficaz'
+description: 'Cuando un usuario intenta buscar en la columna de Admisión de un tablero, no hay ningún cambio en los elementos mostrados en esa columna. '
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+exl-id: d5c6470d-59ed-4fb6-9cc8-a8445abb2e67
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
-# [!UICONTROL Tableros]: [!UICONTROL Admisión] la búsqueda de columnas no es efectiva
+# [!UICONTROL Tableros]: La búsqueda de columnas de [!UICONTROL Admisión] no es eficaz
 
 >[!NOTE]
 >
 >Este problema se corrigió el 3 de noviembre de 2022.
 
-Cuando un usuario intenta buscar en el [!UICONTROL Admisión] columna de a [!UICONTROL Consejo], no hay ningún cambio en los elementos mostrados en esa columna.
+Cuando un usuario intenta buscar en la columna de [!UICONTROL Admisión] de un [!UICONTROL tablero], no hay ningún cambio en los elementos mostrados en esa columna.
 
 _Notificado por primera vez el 7 de octubre de 2022._
-
