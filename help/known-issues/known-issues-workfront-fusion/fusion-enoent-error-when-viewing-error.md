@@ -1,14 +1,14 @@
 ---
-title: '“Workfront Fusion: Fallo al ver un error en el historial de ejecución de un escenario”'
-description: “Cuando un usuario está viendo el historial de ejecución de un escenario e intenta ver más detalles sobre un error haciendo clic en él, los detalles no se abren y el usuario recibe un mensaje de error.”
+title: 'Workfront Fusion: Fallo al ver un error en el historial de ejecución de un escenario'
+description: Cuando un usuario está viendo el historial de ejecución de un escenario e intenta ver más detalles sobre un error haciendo clic en él, los detalles no se abren y el usuario recibe un mensaje de error.
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+exl-id: c997469f-b80c-4438-b353-897f9cdb9481
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Workfront Fusion]: Fallo al ver un error en el historial de ejecución de un escenario
 
@@ -25,4 +25,3 @@ Cuando un usuario está viendo el historial de ejecución de un escenario e inte
 Haga clic en “[!UICONTROL Ir al registro original]” y visualice el error allí.
 
 _Notificado por primera vez el 22 de agosto de 2022._
-
