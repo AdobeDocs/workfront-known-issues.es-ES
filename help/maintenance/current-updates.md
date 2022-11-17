@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '15306'
+source-wordcount: '15397'
 ht-degree: 99%
 
 ---
@@ -32,6 +32,12 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 ## Actualizaciones en noviembre de 2022
 
 +++**Actualización de mantenimiento el 17 de noviembre de 2022**
+
+**Documentos colocados en el [!UICONTROL Papelera de reciclaje] si no está seleccionado al mover una tarea o un problema**
+
+*Documentos*
+
+Ahora, cuando anula la selección de [!UICONTROL Documentos] en el proceso de mover una tarea o un problema, los documentos adjuntos a la tarea o el problema se colocarán en la variable [!UICONTROL Papelera de reciclaje] durante 30 días. Un administrador puede restaurarlos, si es necesario. El usuario que anula la selección de Documentos en el proceso de movimiento recibe una advertencia sobre este comportamiento en la [!UICONTROL Mover tarea] o [!UICONTROL Mover problema] en la ventana Antes de esta mejora, los documentos se eliminaban permanentemente.
 
 **Ocultar un elemento oculta el elemento incorrecto**
 
