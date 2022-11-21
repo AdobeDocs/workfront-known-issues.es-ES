@@ -3,10 +3,10 @@ title: Problemas conocidos de  [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: Las pruebas se muestran en el visor de pruebas como menos claras que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de noviembre de 2022 |
 | [Pruebas: [!UICONTROL Imprimir resumen] no muestra la miniatura de la imagen](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 de noviembre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}

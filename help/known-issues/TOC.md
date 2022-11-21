@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '1691'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Formularios personalizados: Los formularios personalizados de objetos múltiples requieren [!UICONTROL Administrar] o [!UICONTROL Editar] acceso a los campos de edición](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Pruebas: Las pruebas se muestran en el visor de pruebas como menos claras que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Formularios personalizados: &quot;[!UICONTROL No tiene acceso suficiente]&quot; error al editar formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Formularios personalizados: &quot;[!UICONTROL Expresión personalizada no válida]&quot; al hacer referencia a &quot;[!UICONTROL propietario]&quot; en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)

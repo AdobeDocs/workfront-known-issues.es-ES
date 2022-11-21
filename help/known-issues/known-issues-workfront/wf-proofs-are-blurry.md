@@ -2,15 +2,15 @@
 title: "Las pruebas se muestran como menos claras que la imagen original"
 description: "Cuando un usuario crea una prueba y luego la ve en el visor de pruebas, esta se ve menos clara (más borrosa) que la imagen original."
 hidefromtoc: true
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Pruebas: Las pruebas se muestran como menos claras que la imagen original
+# Pruebas: Las pruebas se muestran en el visor de pruebas como menos claras que la imagen original
 
 <!--This is on both the WF and WFP TOCs-->
 

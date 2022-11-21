@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -66,6 +66,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formularios personalizados: Los formularios personalizados de objetos múltiples requieren [!UICONTROL Administrar] o [!UICONTROL Editar] acceso a los campos de edición](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 de noviembre de 2022 |
 | [Notificaciones: Usuarios no notificados cuando se les menciona o incluye en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 de noviembre de 2022 |
 | [API: No se puede ordenar por campos dinámicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de octubre de 2022 |
 | [[!UICONTROL Configuración]: Las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 de octubre de 2022 |
