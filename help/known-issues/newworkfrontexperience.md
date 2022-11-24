@@ -5,8 +5,8 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '640'
+ht-degree: 91%
 
 ---
 
@@ -26,9 +26,9 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | -----------------------------------------------------------------| ----------------- |
 | [Águila: Error al mover elementos de trabajo a una iteración](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23 de noviembre de 2022 |
 | [Pruebas: Las pruebas se muestran en el visor de pruebas como menos claras que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de noviembre de 2022 |
-| [Integraciones: [!UICONTROL Calendario principal] muestra eventos una hora después de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de noviembre de 2022 |
+| [Integraciones: el [!UICONTROL Calendario de Inicio] muestra los eventos una hora después que  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de noviembre de 2022 |
 | [Pruebas: La generación de pruebas es extremadamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de octubre de 2022 |
-| [Pruebas: Al imprimir un resumen no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de octubre de 2022 |
+| [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de octubre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -42,10 +42,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Hojas de tiempo: Usuarios desactivados disponibles al seleccionar el aprobador de hojas de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23 de noviembre de 2022 |
 | [Formularios personalizados: &quot;[!UICONTROL No tiene acceso suficiente]&quot; error al editar formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de noviembre de 2022 |
 | [Agile: La tarea tiene un registro de asuntos pendientes de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 de noviembre de 2022 |
-| [Formularios personalizados: &quot;[!UICONTROL Expresión personalizada no válida]&quot; al hacer referencia a &quot;[!UICONTROL propietario]&quot; en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 de noviembre de 2022 |
-| [Informes: Error &quot;Whoops&quot; al agregar un nuevo problema a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de noviembre de 2022 |
-| [Informes: El gráfico de combinación muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de noviembre de 2022 |
-| [Pruebas: La adición de un mensaje personalizado causa problemas en el visor de prueba](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de noviembre de 2022 |
+| [Formularios personalizados: mensaje de “[!UICONTROL expresión personalizada no válida]” al añadir una referencia al “[!UICONTROL propietario]” en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 de noviembre de 2022 |
+| [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de noviembre de 2022 |
+| [Informes: el gráfico combinado muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de noviembre de 2022 |
+| [Pruebas: al añadir un mensaje personalizado, se producen problemas en el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de noviembre de 2022 |
 | [Listas: Los errores de edición en línea producidos por el usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de noviembre de 2022 |
 | [Solicitudes: No se pueden ver más de 100 temas de la cola en una página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 de noviembre de 2022 |
 | [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de octubre de 2022 |
@@ -64,7 +64,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Formularios personalizados: Los formularios personalizados de objetos múltiples requieren [!UICONTROL Administrar] o [!UICONTROL Editar] acceso a los campos de edición](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 de noviembre de 2022 |
-| [Notificaciones: Usuarios no notificados cuando se les menciona o incluye en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 de noviembre de 2022 |
+| [Notificaciones: los usuarios no reciben una notificación cuando se les menciona o incluye en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 de noviembre de 2022 |
 | [API: No se puede ordenar por campos dinámicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de octubre de 2022 |
 | [[!UICONTROL Configuración]: Las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 de octubre de 2022 |
 | [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de septiembre de 2022 |

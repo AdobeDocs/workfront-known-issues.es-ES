@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
 source-wordcount: '1721'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -21,18 +21,18 @@ ht-degree: 92%
       + [Formularios personalizados: Los formularios personalizados de objetos múltiples requieren [!UICONTROL Administrar] o [!UICONTROL Editar] acceso a los campos de edición](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Pruebas: Las pruebas se muestran en el visor de pruebas como menos claras que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Formularios personalizados: &quot;[!UICONTROL No tiene acceso suficiente]&quot; error al editar formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
-      + [Formularios personalizados: &quot;[!UICONTROL Expresión personalizada no válida]&quot; al hacer referencia a &quot;[!UICONTROL propietario]&quot; en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
-      + [Informes: Error &quot;Whoops&quot; al agregar un nuevo problema a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
-      + [Informes: El gráfico de combinación muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
-      + [Pruebas: La adición de un mensaje personalizado causa problemas en el visor de prueba](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
-      + [Pruebas: El resumen de impresión no muestra la miniatura de la imagen](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [Integraciones: [!UICONTROL Calendario principal] muestra eventos una hora después de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [Plantillas de diseño: Ocultar un elemento oculta el elemento incorrecto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
+      + [Formularios personalizados: “[!UICONTROL el mensaje de expresión personalizada]” no es válido cuando se añade una referencia al “[!UICONTROL propietario]” en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
+      + [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [Informes: el gráfico combinado muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [Pruebas: al añadir un mensaje personalizado, se producen problemas en el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
+      + [Pruebas: al imprimir un resumen de impresión, la miniatura de la imagen no se muestra](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [Integraciones: el [!UICONTROL Calendario de Inicio] muestra los eventos una hora más tarde que  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [Plantillas de diseño: al ocultar un elemento, se oculta el elemento incorrecto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Tareas: Las tareas de edición masiva cambian las asignaciones de tareas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile: La tarea tiene un registro de asuntos pendientes de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Tareas: No se puede cambiar la [!UICONTROL Fecha planificada de finalización] de una tarea](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: Error 500 al realizar cambios en un objeto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [Solicitudes: Mensaje &quot;¡Uy!&quot; al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [Solicitudes: Mensaje “¡Uy!” al editar la cola de solicitudes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Listas: Los errores de edición en línea producidos por el usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Buscar: La búsqueda es extremadamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: Errores 404 en módulos [!DNL Workfront] ](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
@@ -166,7 +166,7 @@ ht-degree: 92%
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
       + [[!DNL Workfront Proof]: No se puede abrir una prueba interactiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
-      + [Pruebas: Al imprimir un resumen no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
+      + [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Páginas en blanco al ver una prueba con varias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Pruebas: Error al añadir una prueba a  [!DNL Workfront]  desde  [!DNL Workfront]  Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
@@ -200,7 +200,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Los elementos de la matriz en el módulo [!UICONTROL Iterator] se muestran como &quot;[!UICONTROL objeto Objeto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]: Los elementos de la matriz en el módulo [!UICONTROL Iterator] se muestran como “[!UICONTROL objeto Objeto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fallo al ver un error en el historial de ejecución de un escenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: Error 409 en un escenario de  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: Error de tipo “[!UICONTROL No se pudieron cargar los datos]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)

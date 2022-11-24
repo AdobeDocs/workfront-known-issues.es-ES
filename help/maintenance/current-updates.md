@@ -31,7 +31,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 
 ## Actualizaciones en noviembre de 2022
 
-+++**Actualización de mantenimiento el 17 de noviembre de 2022**
++++**Actualización de mantenimiento del 17 de noviembre de 2022**
 
 **Documentos colocados en el [!UICONTROL Papelera de reciclaje] si no está seleccionado al mover una tarea o un problema**
 
@@ -39,18 +39,18 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 
 Ahora, cuando anula la selección de [!UICONTROL Documentos] en el proceso de mover una tarea o un problema, los documentos adjuntos a la tarea o el problema se colocarán en la variable [!UICONTROL Papelera de reciclaje] durante 30 días. Un administrador puede restaurarlos, si es necesario. El usuario que anula la selección de Documentos en el proceso de movimiento recibe una advertencia sobre este comportamiento en la [!UICONTROL Mover tarea] o [!UICONTROL Mover problema] en la ventana Antes de esta mejora, los documentos se eliminaban permanentemente.
 
-**Ocultar un elemento oculta el elemento incorrecto**
+**Al ocultar un elemento, se oculta el elemento incorrecto**
 
 *Plantillas de diseño*
 
-Cuando un usuario cambia si un elemento está oculto o se muestra, esos cambios se reflejan en un elemento diferente de la plantilla de diseño.
+Cuando un usuario cambia si se oculta o se muestra un elemento, los cambios se aplican a un elemento diferente de la plantilla de diseño.
 
 
 +++
 
-+++**Actualización de mantenimiento el 10 de noviembre de 2022**
++++**Actualización de mantenimiento del 10 de noviembre de 2022**
 
-**Tareas de edición masiva cambia asignaciones de tareas**
+**Las tareas de edición masiva cambian las asignaciones de tareas**
 
 *Tareas*
 
@@ -62,7 +62,7 @@ Cuando un usuario edita masivamente cualquier campo en un conjunto de tareas, la
 
 Cuando un usuario intenta abrir una prueba interactiva, la prueba no se carga y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL Prueba no cargada (501) Inténtelo de nuevo]&quot;
+“[!UICONTROL Prueba no cargada (501) Inténtelo de nuevo]”
 
 +++
 
@@ -87,7 +87,7 @@ Cuando un usuario asigna tareas a un equipo de Scrum utilizando la edición masi
 
 Los equipos de Kanban no se ven afectados por este problema.
 
-**El cuadro de texto &quot;[!UICONTROL Nuevos destinatarios de prueba]&quot; es demasiado pequeño**
+**El cuadro de texto “[!UICONTROL Nuevos destinatarios de prueba]” es demasiado pequeño**
 
 *Pruebas*
 
@@ -114,7 +114,7 @@ El acceso a los informes a través de un panel sí actualiza la información de 
 
 Cuando un usuario intenta realizar cambios en un objeto [!DNL Workfront], los cambios no se guardan y el usuario ve el siguiente error:
 
-&quot;[!UICONTROL 500: Error de la base de datos debido a una instrucción SQL no válida.]&quot;
+“[!UICONTROL 500: Error de la base de datos debido a una instrucción SQL no válida.]”
 
 Se ha informado de este problema en las siguientes situaciones:
 
@@ -133,17 +133,17 @@ Se ha informado de este problema en las siguientes situaciones:
 
 Cuando un usuario intenta agregar un webhook al módulo [!DNL Workfront] > [!UICONTROL Ver eventos] recibe el siguiente error:
 
-&quot;[!UICONTROL La apiKey proporcionada estaba vacía o se consideró no válida.]&quot;
+“[!UICONTROL La apiKey proporcionada estaba vacía o se consideró no válida.]”
 
 +++
 
-+++**Actualización de mantenimiento el 3 de noviembre de 2022**
++++**Actualización de mantenimiento del 3 de noviembre de 2022**
 
-**Cambie el nombre de las secciones &quot;Programar&quot; y &quot;Programación&quot; para equipos y proyectos en la plantilla de diseño**
+**Cambie el nombre de las secciones “Programar” y “Programación” para equipos y proyectos en la plantilla de diseño**
 
 *Plantillas de diseño*
 
-Se ha cambiado el nombre de las pestañas &quot;Programar&quot; y &quot;Programación&quot; disponibles para agregar en una plantilla de diseño al panel izquierdo de un equipo o proyecto a &quot;Distribuidor de cargas de trabajo&quot;.
+Se ha cambiado el nombre de las pestañas “Programar” y “Programación” disponibles para agregar en una plantilla de diseño al panel izquierdo de un equipo o proyecto a “Distribuidor de cargas de trabajo”.
 
 **Errores al acceder a la configuración de las notificaciones por correo electrónico**
 
@@ -169,7 +169,7 @@ Se ha informado de este problema en las siguientes áreas:
 
 ## Actualizaciones en octubre de 2022
 
-+++**Actualización de mantenimiento el 27 de octubre de 2022**
++++**Actualización de mantenimiento del 27 de octubre de 2022**
 
 La función **[!UICONTROL HOUR] de los campos calculados utiliza UTC**
 
@@ -203,7 +203,7 @@ Cuando un usuario sigue un vínculo compartible que le lleva al [!UICONTROL Dist
 
 +++
 
-+++**Actualización de mantenimiento el 20 de octubre de 2022**
++++**Actualización de mantenimiento del 20 de octubre de 2022**
 
 **Error al asignar un equipo por lotes**
 
@@ -236,7 +236,7 @@ Cuando un usuario está viendo una tarea, el icono del predecesor de la tarea no
 
 +++
 
-+++**Actualización de mantenimiento el 13 de octubre de 2022**
++++**Actualización de mantenimiento del 13 de octubre de 2022**
 
 **No se puede volver a anclar una página tras haber eliminado su fijador**
 
@@ -286,7 +286,7 @@ Si un usuario intenta volver a anclar la página accediendo a ella y anclándola
 
 +++
 
-+++**Actualización de mantenimiento el 6 de octubre de 2022**
++++**Actualización de mantenimiento del 6 de octubre de 2022**
 
 **Nuevo tipo de modelo**
 
@@ -339,7 +339,7 @@ Cuando se produce un evento en [!DNL Workfront Proof] que desencadena una notifi
 
 +++
 
-+++**Actualización de mantenimiento el 3 de octubre de 2022**
++++**Actualización de mantenimiento del 3 de octubre de 2022**
 
 **Guarde manualmente su plantilla de horas cuando las funciones de trabajo anteriores hayan cambiado**
 
@@ -351,7 +351,7 @@ Si la función de trabajo para la que ha registrado tiempo ha cambiado y la opci
 
 ## Actualizaciones en septiembre de 2022
 
-+++**Actualización de mantenimiento el 29 de septiembre de 2022**
++++**Actualización de mantenimiento del 29 de septiembre de 2022**
 
 **El usuario no vuelve a la página anterior al cerrar la prueba**
 
@@ -381,7 +381,7 @@ Cuando un usuario ve una prueba con varias páginas, puede ver miniaturas de las
 
 +++
 
-+++**Actualización de mantenimiento el 22 de septiembre de 2022**
++++**Actualización de mantenimiento del 22 de septiembre de 2022**
 
 **No se puede cerrar la tarjeta de usuario en el flujo de actualización del estado**
 
@@ -391,7 +391,7 @@ Cuando un usuario está viendo las actualizaciones y pasa el ratón por encima d
 
 +++
 
-+++**Actualización de mantenimiento el 15 de septiembre de 2022**
++++**Actualización de mantenimiento del 15 de septiembre de 2022**
 
 **Aparece el error “[!UICONTROL Alguien más intentó guardar este proyecto]” al introducir horas**
 
@@ -425,7 +425,7 @@ Ahora, cuando comparte un filtro de proyecto con un grupo que tiene subgrupos ad
 
 +++
 
-+++**Actualización de mantenimiento el 8 de septiembre de 2022**
++++**Actualización de mantenimiento del 8 de septiembre de 2022**
 
 **Nombres actualizados revertidos para los campos de asignación de usuarios y funciones**
 
@@ -466,7 +466,7 @@ Puede seguir utilizando las Dropzones de otros modos para enviar nuevas pruebas 
 
 +++
 
-+++**Actualización de mantenimiento el 6 de septiembre de 2022**
++++**Actualización de mantenimiento del 6 de septiembre de 2022**
 
 **Fechas de proyecto agregadas a la lista de campos para encabezados de proyecto personalizables**
 
@@ -482,7 +482,7 @@ Cuando selecciona más de 50 elementos para agregarlos a una plantilla de horas,
 
 +++
 
-+++**Actualización de mantenimiento el 2 de septiembre de 2022**
++++**Actualización de mantenimiento del 2 de septiembre de 2022**
 
 Agregue el campo [!UICONTROL Integraciones] al encabezado del proyecto personalizado
 
@@ -496,7 +496,7 @@ Ahora puede agregar el campo [!UICONTROL Integraciones] al encabezado personaliz
 
 +++
 
-+++**Actualización de mantenimiento el 1 de septiembre de 2022**
++++**Actualización de mantenimiento del 1 de septiembre de 2022**
 
 **Elementos completados eliminados de las delegaciones**
 
@@ -534,7 +534,7 @@ Al crear una prueba nueva, si un usuario carga un archivo de más de 1,5 GB, el
 
 ## Actualizaciones en agosto de 2022
 
-+++**Actualización de mantenimiento el 25 de agosto de 2022**
++++**Actualización de mantenimiento del 25 de agosto de 2022**
 
 **Los vínculos del Distribuidor de cargas de trabajo se muestran incorrectamente en los paneles**
 
@@ -575,7 +575,7 @@ Ahora el Distribuidor de cargas de trabajo muestra los elementos asignados de lo
 
 +++
 
-+++**Actualización de mantenimiento el 18 de agosto de 2022**
++++**Actualización de mantenimiento del 18 de agosto de 2022**
 
 **Las opciones “[!UICONTROL Agregar a iteración]” y “[!UICONTROL Agregar a panel Kanban]” no están disponibles cuando se editan en línea tareas en un informe**
 
@@ -615,7 +615,7 @@ Un usuario que está etiquetado en un comentario de una prueba no recibe la noti
 
 +++
 
-+++**Actualización de mantenimiento el 12 de agosto de 2022**
++++**Actualización de mantenimiento del 12 de agosto de 2022**
 
 **Nuevo campo de encabezado personalizable añadido al principio del encabezado**
 
@@ -625,7 +625,7 @@ Cuando se agrega un nuevo campo a un encabezado personalizable, el campo ahora s
 
 +++
 
-+++**Actualización de mantenimiento el 11 de agosto de 2022**
++++**Actualización de mantenimiento del 11 de agosto de 2022**
 
 **No se pueden editar los formularios personalizados debido a un límite de caracteres incorrecto en los campos de texto descriptivo**
 
@@ -669,7 +669,7 @@ Cuando un usuario crea una solicitud, le asigna un equipo, y luego la envía, el
 
 +++
 
-+++**Actualización de mantenimiento el 4 de agosto de 2022**
++++**Actualización de mantenimiento del 4 de agosto de 2022**
 
 Estos problemas se solucionaron solo en la nueva experiencia de [!DNL Workfront].
 
@@ -687,7 +687,7 @@ Cuando un usuario intenta cambiar la [!UICONTROL fecha planificada de finalizaci
 
 ## Actualizaciones en julio de 2022
 
-+++**Actualización de mantenimiento el 28 de julio de 2022**
++++**Actualización de mantenimiento del 28 de julio de 2022**
 
 Estos problemas se solucionaron solo en la nueva experiencia de [!DNL Workfront].
 
@@ -773,7 +773,7 @@ Cuando un usuario convierte una solicitud en un proyecto mediante una plantilla,
 
 +++
 
-+++**Actualización de mantenimiento el 21 de julio de 2022**
++++**Actualización de mantenimiento del 21 de julio de 2022**
 
 Estos problemas se solucionaron solo en la nueva experiencia de [!DNL Workfront].
 
@@ -822,7 +822,7 @@ Cuando un administrador de grupo copia un usuario y anula la selección de la op
 
 +++
 
-+++**Actualización de mantenimiento el 14 de julio de 2022**
++++**Actualización de mantenimiento del 14 de julio de 2022**
 
 Estos problemas se solucionaron solo en la nueva experiencia de [!DNL Workfront].
 
@@ -921,7 +921,7 @@ Este filtro ahora aparece en la sección “[!UICONTROL Sugeridos]” de los fil
 
 ## Actualizaciones en junio de 2022
 
-+++**Actualización de mantenimiento el 30 de junio de 2022**
++++**Actualización de mantenimiento del 30 de junio de 2022**
 
 **Visualice el [!UICONTROL Distribuidor de cargas de trabajo] para una semana**
 
@@ -976,7 +976,7 @@ Cuando un usuario está viendo el [!UICONTROL Flujo de trabajo de prueba] de una
 
 +++
 
-+++**Actualización de mantenimiento el 23 de junio de 2022**
++++**Actualización de mantenimiento del 23 de junio de 2022**
 
 **[!UICONTROL No se puede agregar una nueva solicitud a través del panel]**
 
@@ -1027,7 +1027,7 @@ Como usuario con permisos de [!UICONTROL Administración] de un plan de [!DNL Sc
 
 +++
 
-+++**Actualización de mantenimiento el 16 de junio de 2022**
++++**Actualización de mantenimiento del 16 de junio de 2022**
 
 **El administrador del grupo no puede agregar miembros al grupo**
 
@@ -1073,7 +1073,7 @@ Cuando un usuario intenta abrir el área de [!UICONTROL Solicitudes de trabajo] 
 
 +++
 
-+++**Actualización de mantenimiento el 9 de junio de 2022**
++++**Actualización de mantenimiento del 9 de junio de 2022**
 
 **No se pueden seleccionar objetos que filtrar en las preferencias del [!UICONTROL Optimizador de portafolios]**
 
@@ -1121,7 +1121,7 @@ Cuando un usuario está viendo el historial de ejecución de un escenario e inte
 
 +++
 
-+++**Actualización de mantenimiento el 2 de junio de 2022**
++++**Actualización de mantenimiento del 2 de junio de 2022**
 
 **[!UICONTROL Optimizador de portafolios] muestra una puntuación de 0 cuando se usa un idioma distinto del inglés**
 
@@ -1165,7 +1165,7 @@ Cuando un usuario intenta editar los permisos de “[!UICONTROL Resolver comenta
 
 ## Actualizaciones en mayo de 2022
 
-+++**Actualización de mantenimiento el 26 de mayo de 2022**
++++**Actualización de mantenimiento del 26 de mayo de 2022**
 
 Estos problemas se solucionaron solo en la nueva experiencia de [!DNL Workfront]. [!DNL Adobe Workfront Classic] ya no es compatible.
 
@@ -1215,7 +1215,7 @@ Cuando un usuario ve el [!UICONTROL Distribuidor de cargas de trabajo] mediante 
 
 +++
 
-+++**Actualización de mantenimiento el 19 de mayo de 2022**
++++**Actualización de mantenimiento del 19 de mayo de 2022**
 
 **No se puede crear una prueba a partir de un [!DNL PowerPoint]**
 
@@ -1271,7 +1271,7 @@ Hemos cambiado el campo [!UICONTROL Estado] en una vista de plantilla de horas c
 
 +++
 
-+++**Actualización de mantenimiento el 12 de mayo de 2022**
++++**Actualización de mantenimiento del 12 de mayo de 2022**
 
 **[!UICONTROL El botón Guardar] no deja de cargarse al editar un proyecto**
 
@@ -1309,7 +1309,7 @@ Cuando un usuario intenta crear una prueba, el texto no está visible para las o
 
 +++
 
-+++**Actualización de mantenimiento el 5 de mayo de 2022**
++++**Actualización de mantenimiento del 5 de mayo de 2022**
 
 **No se puede agregar un nuevo Registro de facturación**
 
@@ -1373,7 +1373,7 @@ Para obtener más información sobre por qué el sistema genera correos electró
 
 ## Actualizaciones en abril de 2022
 
-+++**Actualización de mantenimiento el 28 de abril de 2022**
++++**Actualización de mantenimiento del 28 de abril de 2022**
 
 **No es posible desplazarse hasta [!UICONTROL Guardar] al editar una plantilla de horas**
 
@@ -1401,7 +1401,7 @@ Cuando un usuario intenta abrir el [!UICONTROL Distribuidor de cargas de trabajo
 
 +++
 
-+++**Actualización de mantenimiento el 21 de abril de 2022**
++++**Actualización de mantenimiento del 21 de abril de 2022**
 
 **Añadir una tarea hace que la página salte hacia abajo**
 
@@ -1449,7 +1449,7 @@ Cuando un usuario que está viendo un informe selecciona la vista de [!UICONTROL
 
 Cuando un usuario ve un informe en un panel, la moneda utilizada en el informe es incorrecta. Cuando el usuario ve el informe fuera del panel, la moneda es correcta.
 
-**El filtro completado no muestra el elemento de trabajo completado**&#x200B; s
+**El filtro completado no muestra el elemento de trabajo completado**&#x200B;
 
 *[!UICONTROL Página de inicio]*
 
@@ -1463,7 +1463,7 @@ Cuando un usuario intenta iniciar sesión en [!DNL Workfront], la página parece
 
 +++
 
-+++**Actualización de mantenimiento el 14 de abril de 2022**
++++**Actualización de mantenimiento del 14 de abril de 2022**
 
 **No se puede agregar una tarea desde un informe en una sección personalizada de una tarea**
 
@@ -1501,7 +1501,7 @@ Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] intenta asi
 
 +++
 
-+++**Actualización de mantenimiento el 7 de abril de 2022**
++++**Actualización de mantenimiento del 7 de abril de 2022**
 
 **Los usuarios agregados a las pruebas tienen funciones incorrectas**
 
@@ -1591,7 +1591,7 @@ Cuando un usuario va a una página de Proyectos a través de una pestaña que se
 
 ## Actualizaciones en marzo de 2022
 
-+++**Actualización de mantenimiento el 31 de marzo de 2022**
++++**Actualización de mantenimiento del 31 de marzo de 2022**
 
 **Zonas horarias no coherentes entre [!DNL Workfront] y [!DNL Workfront Proof]**
 
@@ -1665,7 +1665,7 @@ NOTA: Esta corrección del problema incluye funcionalidad adicional. Ahora, cuan
 
 +++
 
-+++**Actualización de mantenimiento el 24 de marzo de 2022**
++++**Actualización de mantenimiento del 24 de marzo de 2022**
 
 **Zonas horarias no coherentes entre [!DNL Workfront] y [!DNL Workfront Proof]**
 
@@ -1700,7 +1700,7 @@ Esto causa confusión para los usuarios finales.
 
 +++
 
-+++**Actualización de mantenimiento el 17 de marzo de 2022**
++++**Actualización de mantenimiento del 17 de marzo de 2022**
 
 **Las miniaturas y las imágenes principales están en blanco al ver archivos de varias páginas mediante el [!DNL Safari] explorador**
 
@@ -1778,7 +1778,7 @@ Los usuarios no pueden restablecer sus contraseñas en ningún entorno. Cuando e
 
 +++
 
-+++**Actualización de mantenimiento el 10 de marzo de 2022**
++++**Actualización de mantenimiento del 10 de marzo de 2022**
 
 **Problemas al iniciar sesión en el entorno de vista previa**
 
@@ -1888,7 +1888,7 @@ Cuando un usuario cambia el estado de un elemento de trabajo en el encabezado, e
 
 +++
 
-+++**Actualización de mantenimiento el 3 de marzo de 2022**
++++**Actualización de mantenimiento del 3 de marzo de 2022**
 
 **No se puede agregar el documento desde [!DNL Google Drive]**
 
@@ -1977,7 +1977,7 @@ Cuando un usuario intenta copiar una solicitud, el botón [!UICONTROL Copiar sol
 
 +++
 
-+++**Actualización de mantenimiento el 24 de febrero de 2022**
++++**Actualización de mantenimiento del 24 de febrero de 2022**
 
 **Los datos de formulario personalizados desaparecen cuando se rellenan otros campos de formulario**
 
@@ -2049,7 +2049,7 @@ Se ha corregido un problema que permitía a los usuarios colocar el tipo de dato
 
 +++
 
-+++**Actualización de mantenimiento el 17 de febrero de 2022**
++++**Actualización de mantenimiento del 17 de febrero de 2022**
 
 **Error al eliminar el predecesor de la pestaña Predecesores**
 
@@ -2096,7 +2096,7 @@ Cuando un usuario convierte un problema en un proyecto mediante una plantilla qu
 
 +++
 
-+++**Actualización de mantenimiento el 10 de febrero de 2022**
++++**Actualización de mantenimiento del 10 de febrero de 2022**
 
 **Error de “[!UICONTROL Debe ser administrador del sistema]” al crear un proyecto**
 
@@ -2130,7 +2130,7 @@ Cuando un usuario administrador intenta ver proyectos, tareas o problemas en [!U
 
 +++
 
-+++**Actualización de mantenimiento el 3 de febrero de 2022**
++++**Actualización de mantenimiento del 3 de febrero de 2022**
 
 **[!UICONTROL Error de BizContext] al iniciar sesión**
 
@@ -2196,7 +2196,7 @@ Cuando un usuario intenta convertir un problema en un proyecto, el problema no s
 
 ## Actualizaciones en enero de 2022
 
-+++**Actualización de mantenimiento el 27 de enero de 2022**
++++**Actualización de mantenimiento del 27 de enero de 2022**
 
 **Los datos personalizados no se conservan al convertir un problema en un proyecto**
 
@@ -2224,7 +2224,7 @@ El límite de direcciones IP agregadas a su lista de permitidos de [!DNL Workfro
 
 +++
 
-+++**Actualización de mantenimiento el 20 de enero de 2022**
++++**Actualización de mantenimiento del 20 de enero de 2022**
 
 **Error de “[!UICONTROL Parámetro no válido]” al crear el proyecto a partir de la plantilla**
 
@@ -2256,7 +2256,7 @@ Cuando al menos un campo de los módulos de [!DNL Workfront] [!UICONTROL Crear] 
 
 +++
 
-+++**Actualización de mantenimiento el 13 de enero de 2022**
++++**Actualización de mantenimiento del 13 de enero de 2022**
 
 **No se puede agregar un hipervínculo a un comentario en el panel Resumen**
 
@@ -2290,7 +2290,7 @@ Cuando el usuario selecciona “[!UICONTROL Mostrar más elementos de trabajo]�
 
 +++
 
-+++**Actualización de mantenimiento el 6 de enero de 2022**
++++**Actualización de mantenimiento del 6 de enero de 2022**
 
 **Error de “[!UICONTROL Parámetro no válido]” al adjuntar plantillas o formularios personalizados a proyectos**
 

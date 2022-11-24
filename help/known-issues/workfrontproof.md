@@ -5,8 +5,8 @@ keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 94%
 
 ---
 
@@ -34,7 +34,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: La adición de un mensaje personalizado causa problemas en el visor de prueba](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de noviembre de 2022 |
+| [Pruebas: al añadir un mensaje personalizado, se producen problemas en el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de noviembre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
