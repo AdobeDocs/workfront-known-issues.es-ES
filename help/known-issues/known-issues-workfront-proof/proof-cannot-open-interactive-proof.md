@@ -1,11 +1,11 @@
 ---
-title: "Prueba de Workfront: No se puede abrir una prueba interactiva"
-description: '"Cuando un usuario intenta abrir una prueba interactiva, la prueba no se abre y el usuario ve un mensaje de error".'
+title: '“Revisión de Workfront: No se puede abrir una prueba interactiva”'
+description: “Cuando un usuario intenta abrir una prueba interactiva, la prueba no se abre y el usuario ve un mensaje de error.”
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 5%
 >
 >Este problema se corrigió el 10 de noviembre de 2022.
 
-Cuando un usuario intenta abrir una prueba interactiva, la prueba no se abre y el usuario ve el siguiente mensaje:
+Cuando un usuario intenta abrir una prueba interactiva, la prueba no se carga y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL Prueba no cargada (501) Inténtelo de nuevo]&quot;
+“[!UICONTROL Prueba no cargada (501) Inténtelo de nuevo]”
 
 Esto ocurre después de que el usuario haya actualizado su versión de [!DNL Workfront Proof].
 
