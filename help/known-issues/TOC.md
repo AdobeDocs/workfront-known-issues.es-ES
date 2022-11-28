@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
+source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1751'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Hojas de tiempo: El parte de horas no se genera](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integraciones: No se puede acceder a los elementos de [!DNL Workfront for Jira] integración](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Formularios personalizados: No se puede utilizar el campo en el cálculo si el nombre del campo contiene apóstrofos o comillas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Águila: Error al mover elementos de trabajo a una iteración](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
