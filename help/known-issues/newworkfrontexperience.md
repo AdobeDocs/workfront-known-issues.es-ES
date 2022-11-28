@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,6 +39,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraciones: No se puede acceder a los elementos de [!DNL Workfront for Jira] integración](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 28 de noviembre de 2022 |
+| [Formularios personalizados: No se puede utilizar el campo en el cálculo si el nombre del campo contiene apóstrofos o comillas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 de noviembre de 2022 |
 | [Hojas de tiempo: Usuarios desactivados disponibles al seleccionar el aprobador de hojas de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23 de noviembre de 2022 |
 | [Formularios personalizados: &quot;[!UICONTROL No tiene acceso suficiente]&quot; error al editar formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de noviembre de 2022 |
 | [Agile: La tarea tiene un registro de asuntos pendientes de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 de noviembre de 2022 |
