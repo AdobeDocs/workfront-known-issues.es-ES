@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '15397'
-ht-degree: 99%
+source-wordcount: '15666'
+ht-degree: 98%
 
 ---
 
@@ -28,6 +28,56 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 -->
 
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en diciembre de 2022
+
++++**(Planificado) Actualización de mantenimiento el 1 de diciembre de 2022**
+
+**La tarea tiene un registro de asuntos pendientes de Kanban de 0**
+
+*Agile*
+
+Cuando un usuario está viendo el registro de asuntos pendientes de un equipo de Kanban, una o más de las tareas muestran un registro de asuntos pendientes de 0.
+
+**&quot;[!UICONTROL Expresión personalizada no válida]&quot; al hacer referencia a &quot;[!UICONTROL propietario]&quot; en un campo calculado**
+
+*Formularios personalizados*
+
+Cuando un usuario añade un campo calculado a un formulario personalizado de nivel de problema e intenta añadir referencias a un “[!UICONTROL propietario]” (como “`ownerID`”), el campo no se guarda y el usuario ve el siguiente mensaje:
+
+“[!UICONTROL La expresión personalizada no es válida, inténtelo de nuevo.]”
+
+Esto ocurre incluso cuando la expresión es válida.
+
+**No se puede acceder a los elementos de [!DNL Workfront for Jira] integración**
+
+*Integraciones*
+
+Actualmente no se puede acceder a los siguientes elementos en la variable [!DNL Workfront for Jira] integración para [!DNL Jira Cloud]:
+
+* La variable [!UICONTROL Configuración] página
+* La variable[!UICONTROL Abrir Workfront]&quot; en un [!DNL Jira] problema
+
+**La adición de un mensaje personalizado causa problemas en el visor de prueba**
+
+*Pruebas*
+
+Cuando un usuario comparte una prueba e intenta añadir un mensaje personalizado, ocurre lo siguiente:
+
+* El visualizador aumenta el tamaño de la prueba.
+* La zona de navegación izquierda deja de responder.
+
+**Usuarios desactivados disponibles al seleccionar el aprobador de hojas de horas**
+
+*Hojas de horas*
+
+Cuando un usuario está creando un parte de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, el parte de horas no se guarda y el usuario ve el siguiente mensaje:
+
+“[!UICONTROL Error. ¡Lo siento! Solo los usuarios con licencia de Plan pueden aprobar o rechazar hojas de horas. Póngase en contacto con el administrador del sistema.]&quot;
+
+Dado que no se puede asignar al usuario desactivado, este debe seleccionar un usuario activado. Por lo tanto, el parte de horas funciona según lo esperado, pero los usuarios desactivados en la lista pueden causar confusión o incomodidad al usuario.
+
++++
 
 ## Actualizaciones en noviembre de 2022
 
@@ -70,7 +120,7 @@ Cuando un usuario intenta abrir una prueba interactiva, la prueba no se carga y 
 
 **Problemas con las tareas agregadas a una iteración**
 
-*Agile*
+*Águila*
 
 Se han notificado los siguientes problemas en relación con adiciones a una iteración:
 
