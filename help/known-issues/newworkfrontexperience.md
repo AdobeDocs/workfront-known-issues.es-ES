@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 86%
+source-wordcount: '623'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,6 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Página principal]: No se puede quitar una asignación de problema en [!UICONTROL Página principal]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 29 de noviembre de 2022 |
-| [Hojas de tiempo: El parte de horas no se genera](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 28 de noviembre de 2022 |
 | [Águila: Error al mover elementos de trabajo a una iteración](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23 de noviembre de 2022 |
 | [Pruebas: Las pruebas se muestran en el visor de pruebas como menos claras que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de noviembre de 2022 |
 | [Integraciones: el [!UICONTROL Calendario de Inicio] muestra los eventos una hora después que  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de noviembre de 2022 |
@@ -41,15 +40,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integraciones: No se puede acceder a los elementos de [!DNL Workfront for Jira] integración](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 28 de noviembre de 2022 |
 | [Formularios personalizados: No se puede utilizar el campo en el cálculo si el nombre del campo contiene apóstrofos o comillas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 de noviembre de 2022 |
-| [Hojas de tiempo: Usuarios desactivados disponibles al seleccionar el aprobador de hojas de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23 de noviembre de 2022 |
 | [Formularios personalizados: &quot;[!UICONTROL No tiene acceso suficiente]&quot; error al editar formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de noviembre de 2022 |
-| [Agile: La tarea tiene un registro de asuntos pendientes de Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 de noviembre de 2022 |
-| [Formularios personalizados: mensaje de “[!UICONTROL expresión personalizada no válida]” al añadir una referencia al “[!UICONTROL propietario]” en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 de noviembre de 2022 |
 | [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de noviembre de 2022 |
 | [Informes: el gráfico combinado muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de noviembre de 2022 |
-| [Pruebas: al añadir un mensaje personalizado, se producen problemas en el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de noviembre de 2022 |
 | [Listas: Los errores de edición en línea producidos por el usuario no causan mensajes de error](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de noviembre de 2022 |
 | [Solicitudes: No se pueden ver más de 100 temas de la cola en una página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 de noviembre de 2022 |
 | [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de octubre de 2022 |

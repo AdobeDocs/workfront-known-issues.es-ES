@@ -2,15 +2,19 @@
 title: "Hojas de hora: Usuarios desactivados disponibles al seleccionar aprobador de parte de horas"
 description: '"Cuando un usuario está creando un parte de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, el parte de horas no se guarda y el usuario ve un mensaje de error".'
 hidefromtoc: true
-source-git-commit: f37c5514fa93915589c8af9bf5a4b678446a8078
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 3%
 
 ---
 
 
 # Hojas de tiempo: Usuarios desactivados disponibles al seleccionar el aprobador de hojas de horas
+
+>[!NOTE]
+>
+>Este problema se corrigió el 1 de diciembre de 2022.
 
 Cuando un usuario está creando un parte de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, el parte de horas no se guarda y el usuario ve el siguiente mensaje:
 

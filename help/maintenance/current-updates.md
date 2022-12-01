@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '15666'
+source-wordcount: '15702'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 
 ## Actualizaciones en diciembre de 2022
 
-+++**(Planificado) Actualización de mantenimiento el 1 de diciembre de 2022**
++++**Actualización de mantenimiento el 1 de diciembre de 2022**
 
 **La tarea tiene un registro de asuntos pendientes de Kanban de 0**
 
@@ -76,6 +76,12 @@ Cuando un usuario está creando un parte de horas e intenta asignar un aprobador
 “[!UICONTROL Error. ¡Lo siento! Solo los usuarios con licencia de Plan pueden aprobar o rechazar hojas de horas. Póngase en contacto con el administrador del sistema.]&quot;
 
 Dado que no se puede asignar al usuario desactivado, este debe seleccionar un usuario activado. Por lo tanto, el parte de horas funciona según lo esperado, pero los usuarios desactivados en la lista pueden causar confusión o incomodidad al usuario.
+
+**El parte de horas no se genera**
+
+*Hojas de horas*
+
+Las hojas de horas no se generan a pesar de la configuración del perfil del parte de horas. Como el parte de horas nunca se genera, no está disponible para que el usuario introduzca la hora y no está visible en las listas.
 
 +++
 
