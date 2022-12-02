@@ -2,15 +2,19 @@
 title: '“Solicitudes: No se pueden ver más de 100 temas de la cola en una página”'
 description: “Cuando un usuario está viendo una lista de temas de la cola con más de 100 elementos e intenta cambiar la lista para mostrar más temas de la cola por página o para mostrar todos los temas de la cola, la lista no cambia y el usuario ve un mensaje de error”.
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
-workflow-type: ht
-source-wordcount: '180'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 96%
 
 ---
 
 
 # Solicitudes: No se pueden ver más de 100 temas de la cola en una página
+
+>[!NOTE]
+>
+>Este problema se corrigió el 2 de diciembre de 2022.
 
 Cuando un usuario está viendo una lista de temas de la cola con más de 100 elementos e intenta cambiar la lista para mostrar más temas de la cola por página o para mostrar todos los temas de la cola, la lista no cambia y el usuario ve el siguiente mensaje:
 

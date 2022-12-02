@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 94%
+source-wordcount: '1778'
+ht-degree: 96%
 
 ---
 
@@ -16,15 +16,17 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Proyectos: El estado del proyecto no sigue las preferencias del proyecto de grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [Proyectos: Error &quot;Whoops&quot; al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Página principal]: No se puede quitar una asignación de problema en [!UICONTROL Página principal]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [Hojas de tiempo: El parte de horas no se genera](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integraciones: No se puede acceder a los elementos de [!DNL Workfront for Jira] integración](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Formularios personalizados: No se puede utilizar el campo en el cálculo si el nombre del campo contiene apóstrofos o comillas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
-      + [Águila: Error al mover elementos de trabajo a una iteración](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [Hojas de tiempo: Usuarios desactivados disponibles al seleccionar el aprobador de hojas de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
-      + [Formularios personalizados: Los formularios personalizados de objetos múltiples requieren [!UICONTROL Administrar] o [!UICONTROL Editar] acceso a los campos de edición](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
-      + [Pruebas: Las pruebas se muestran en el visor de pruebas como menos claras que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [Formularios personalizados: &quot;[!UICONTROL No tiene acceso suficiente]&quot; error al editar formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
+      + [Agile: Error al mover elementos de trabajo a una iteración](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [Plantillas de horas: Usuarios desactivados disponibles al seleccionar el aprobador de plantillas de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [Formularios personalizados: Los formularios personalizados de objetos cruzados requieren el acceso de [!UICONTROL Administrar] o [!UICONTROL Editar] para editar los campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
+      + [Pruebas: Las pruebas se muestran en el visualizador de pruebas menos nítidas que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md)
+      + [Formularios personalizados: Error &quot;[!UICONTROL No cuenta con acceso suficiente]&quot; al editar el formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Formularios personalizados: “[!UICONTROL el mensaje de expresión personalizada]” no es válido cuando se añade una referencia al “[!UICONTROL propietario]” en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Informes: el gráfico combinado muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)

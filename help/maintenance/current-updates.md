@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '15702'
+source-wordcount: '15901'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,35 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en diciembre de 2022
+
++++**Actualización de mantenimiento (Hot Fix) el 1 de diciembre de 2022**
+
+**Los errores de edición en línea por usuario no causan mensajes de error**
+
+*Listas*
+
+Cuando un usuario está editando en línea un objeto y produce un error que debería crear un mensaje de error, no aparece ningún mensaje de error. El error en sí no se guarda en Workfront, por lo que los datos no se ven afectados, pero la falta de un mensaje de error puede causar confusión.
+
+Se ha informado de este problema para las siguientes situaciones:
+
+* Predecesores: Se crea un bucle predecesor, como, por ejemplo, la asignación de una tarea a sí misma
+* Fechas: Se establece una fecha imposible, como, por ejemplo, una fecha de finalización anterior a la fecha de inicio o posterior a la fecha de finalización del proyecto
+
+**La opción &quot;Mover a&quot; no está disponible en los informes de problemas**
+
+*Informes*
+
+Cuando un usuario está viendo un informe de problemas e intenta mover un problema, la opción “Mover a” no está disponible en el menú Más (tres puntos).
+
+
+**No se puede cerrar la tarjeta de usuario en el flujo de actualización del estado**
+
+*Actualizaciones*
+
+Cuando un usuario está viendo las actualizaciones y pasa el ratón por encima de un nombre, se abre una tarjeta con detalles sobre el usuario del que se trata y no se cierra automáticamente. La página no responde hasta que se cierra manualmente la tarjeta haciendo clic en la X de la esquina superior derecha.
+
+
++++
 
 +++**Actualización de mantenimiento el 1 de diciembre de 2022**
 
