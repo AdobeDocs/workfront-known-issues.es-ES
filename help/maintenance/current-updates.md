@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
 source-wordcount: '15702'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -71,11 +71,11 @@ Cuando un usuario comparte una prueba e intenta añadir un mensaje personalizado
 
 *Hojas de horas*
 
-Cuando un usuario está creando un parte de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, el parte de horas no se guarda y el usuario ve el siguiente mensaje:
+Cuando un usuario está creando una plantilla de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, la plantilla de horas no se guarda y el usuario ve el siguiente mensaje:
 
-“[!UICONTROL Error. ¡Lo siento! Solo los usuarios con licencia de Plan pueden aprobar o rechazar hojas de horas. Póngase en contacto con el administrador del sistema.]&quot;
+&quot;[!UICONTROL Error. Lo sentimos, solo los usuarios con licencia de Plan pueden aprobar o rechazar plantillas de horas. Póngase en contacto con el administrador del sistema]&quot;.
 
-Dado que no se puede asignar al usuario desactivado, este debe seleccionar un usuario activado. Por lo tanto, el parte de horas funciona según lo esperado, pero los usuarios desactivados en la lista pueden causar confusión o incomodidad al usuario.
+Dado que el usuario desactivado no se puede asignar, el usuario debe seleccionar un usuario activado. Por lo tanto, la plantilla de horas funciona según lo esperado, pero los usuarios desactivados de la lista pueden causar confusión o inconvenientes al usuario.
 
 **El parte de horas no se genera**
 
@@ -89,11 +89,11 @@ Las hojas de horas no se generan a pesar de la configuración del perfil del par
 
 +++**Actualización de mantenimiento del 17 de noviembre de 2022**
 
-**Documentos colocados en el [!UICONTROL Papelera de reciclaje] si no está seleccionado al mover una tarea o un problema**
+**Documentos colocados en la [!UICONTROL Papelera de reciclaje] si no están seleccionados al mover una tarea o un problema**
 
 *Documentos*
 
-Ahora, cuando anula la selección de [!UICONTROL Documentos] en el proceso de mover una tarea o un problema, los documentos adjuntos a la tarea o el problema se colocarán en la variable [!UICONTROL Papelera de reciclaje] durante 30 días. Un administrador puede restaurarlos, si es necesario. El usuario que anula la selección de Documentos en el proceso de movimiento recibe una advertencia sobre este comportamiento en la [!UICONTROL Mover tarea] o [!UICONTROL Mover problema] en la ventana Antes de esta mejora, los documentos se eliminaban permanentemente.
+Ahora, cuando anula la selección de la opción [!UICONTROL Documentos] en el proceso de mover una tarea o un problema, los documentos adjuntos a la tarea o el problema se colocarán en la [!UICONTROL Papelera de reciclaje] durante 30 días. Un administrador puede restaurarlos, si es necesario. El usuario que anule la selección de Documentos en el proceso de movimiento recibirá una advertencia sobre este comportamiento en la ventana [!UICONTROL Mover tarea] o [!UICONTROL Mover problema]. Antes de esta mejora, los documentos se eliminaban permanentemente.
 
 **Al ocultar un elemento, se oculta el elemento incorrecto**
 
@@ -2041,9 +2041,9 @@ Cuando un usuario intenta copiar una solicitud, el botón [!UICONTROL Copiar sol
 
 Cuando un usuario rellena un formulario personalizado como parte de la conversión de un problema a un proyecto, rellenar un campo personalizado puede hacer que desaparezcan los datos de otro campo personalizado. Si el usuario vuelve a introducir los datos que faltan, cuando intenta crear el proyecto, verá el siguiente mensaje de error:
 
-“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]
+“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]”
 
-**Falta el campo “[!UICONTROL Este proceso de aprobación lo puede utilizar…]”**
+**Falta el campo “[!UICONTROL Este proceso de aprobación lo puede utilizar…]””**
 
 *Rutas de aprobación*
 
@@ -2160,7 +2160,7 @@ Cuando un usuario convierte un problema en un proyecto mediante una plantilla qu
 
 Cuando un usuario que no es administrador intenta crear un proyecto y adjunta un formulario personalizado que tiene una sección disponible solo para los administradores, no puede crear el proyecto y verá el siguiente error:
 
-“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]
+“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]”
 
 **Los usuarios desactivados y reactivados no aparecen en los [!UICONTROL contactos de Proof]**
 
@@ -2231,7 +2231,7 @@ Cuando un usuario está viendo un informe en un panel e intenta cambiar el filtr
 
 Cuando un usuario que no es administrador intenta crear un proyecto y adjunta un formulario personalizado que tiene una sección disponible solo para los administradores, no puede crear el proyecto y verá el siguiente error:
 
-“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]
+“[!UICONTROL Debe ser administrador del sistema para cambiar este valor de parámetro de datos personalizado]”
 
 **Los datos personalizados no se conservan al convertir un problema en un proyecto**
 
