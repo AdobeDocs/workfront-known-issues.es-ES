@@ -3,9 +3,9 @@ title: '“Solicitudes: La configuración de la cola de correo electrónico no e
 description: Cuando un usuario está editando o viendo el área Detalles de cola de un proyecto configurado como cola de solicitudes, el área Configuración de la cola de correo electrónico no está disponible. En su lugar, el usuario ve el error “No se puede acceder al servicio de correo electrónico de la cola de solicitudes. Póngase en contacto con Workfront”.
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
