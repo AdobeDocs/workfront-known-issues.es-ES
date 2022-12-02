@@ -3,9 +3,9 @@ title: "Solicitudes: Mensaje ¡Uy! al editar la cola de solicitudes"
 description: "Cuando un usuario está editando una cola de solicitudes e intenta guardar los cambios, aparece un error."
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '121'
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Cuando un usuario está editando una cola de solicitudes e intenta guardar los cambios, aparece el siguiente error:
 
-“Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.&quot;
+“Intentémoslo de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.”
 
 Además, el usuario ve el siguiente mensaje en la parte inferior de la página, cerca del botón Guardar:
 
