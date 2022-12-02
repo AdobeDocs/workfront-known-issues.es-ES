@@ -3,7 +3,7 @@ title: '“Plantillas de diseño: al ocultar un elemento, se oculta el elemento 
 description: “Cuando un usuario cambia si se oculta o se muestra un elemento, los cambios se aplican a un elemento diferente de la plantilla de diseño.”
 hidefromtoc: true
 source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
