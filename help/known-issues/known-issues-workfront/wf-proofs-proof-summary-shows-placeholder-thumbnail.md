@@ -3,7 +3,7 @@ title: '“Pruebas: no se muestra la miniatura de imagen del [!UICONTROL resumen
 description: “Cuando un usuario visualiza el [!UICONTROL resumen de impresión] de una prueba en  [!DNL Workfront], la miniatura de la prueba no se muestra. En su lugar, solo aparece una imagen de marcador de posición.”
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
