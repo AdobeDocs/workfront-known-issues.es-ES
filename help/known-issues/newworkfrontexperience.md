@@ -3,9 +3,9 @@ title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '640'
 ht-degree: 88%
 
 ---
@@ -24,6 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7 de diciembre de 2022 |
 | [[!UICONTROL Página principal]: No se puede quitar una asignación de problema en [!UICONTROL Página principal]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 29 de noviembre de 2022 |
 | [Pruebas: Las pruebas se muestran en el visualizador de pruebas menos nítidas que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de noviembre de 2022 |
 | [Pruebas: La generación de pruebas es extremadamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de octubre de 2022 |
