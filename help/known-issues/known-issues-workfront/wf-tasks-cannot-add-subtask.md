@@ -2,15 +2,19 @@
 title: "Tareas: No se puede agregar la subtarea"
 description: "Cuando un usuario intenta añadir una subtarea mediante el botón +New , no aparece ninguna opción en la ventana New Task y el usuario ve un mensaje de error."
 hidefromtoc: true
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 
 
 # Tareas: No se puede agregar la subtarea
+
+>[!NOTE]
+>
+>Este problema se corrigió el 8 de diciembre de 2022.
 
 Cuando un usuario intenta añadir una subtarea utilizando la[!UICONTROL +Nuevo]&quot;, no aparecerá ninguna opción en el [!UICONTROL Nueva tarea] y el usuario ve el siguiente mensaje:
 

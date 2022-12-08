@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
+source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
-source-wordcount: '15954'
-ht-degree: 99%
+source-wordcount: '16044'
+ht-degree: 98%
 
 ---
 
@@ -31,15 +31,30 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 
 ## Actualizaciones en diciembre de 2022
 
-+++**(Planificado) Actualización de mantenimiento el 8 de diciembre de 2022**
-
-+++
++++**Actualización de mantenimiento el 8 de diciembre de 2022**
 
 **El estado del proyecto no sigue las preferencias del proyecto de grupo**
 
 *Proyectos*
 
 Cuando un usuario crea un proyecto a partir de una plantilla, el nuevo proyecto no toma el estado establecido en las preferencias del proyecto Grupo. Si se crea un proyecto sin plantilla, el estado reflejará las preferencias del proyecto de grupo como se espera.
+
+**No se puede agregar la subtarea**
+
+*Tareas*
+
+Cuando un usuario intenta añadir una subtarea utilizando la[!UICONTROL +Nuevo]&quot;, no aparecerá ninguna opción en el [!UICONTROL Nueva tarea] y el usuario ve el siguiente mensaje:
+
+&quot;[!UICONTROL No se pueden leer las propiedades de indefinido (leer &quot;validaciones&quot;)]&quot;
+
+**Errores al cerrar o guardar hojas de horas**
+
+*Hojas de horas*
+
+Cuando un usuario intenta agregar o cerrar un parte de horas, el parte de horas no se guarda y el usuario ve los siguientes errores:
+
+* Error de la base de datos debido a una instrucción SQL no válida.
+* No se han guardado sus cambios recientes. Actualice la página para ver los últimos cambios guardados.
 
 +++
 
