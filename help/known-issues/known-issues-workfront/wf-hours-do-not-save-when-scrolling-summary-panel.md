@@ -3,7 +3,7 @@ title: '“Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL
 description: “Cuando un usuario intenta introducir horas para una tarea en el Panel de resumen de esa tarea, las horas no se guardan. Esto ocurre cuando el usuario deja el cursor en el cuadrado en el que introdujo las horas y se desplaza por el [!UICONTROL Panel de resumen].”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
