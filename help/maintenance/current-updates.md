@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
 source-wordcount: '16044'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +49,7 @@ Cuando un usuario intenta añadir una subtarea utilizando la[!UICONTROL +Nuevo]&
 
 **Errores al cerrar o guardar hojas de horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Cuando un usuario intenta agregar o cerrar un parte de horas, el parte de horas no se guarda y el usuario ve los siguientes errores:
 
@@ -95,7 +95,7 @@ Cuando un usuario está viendo las actualizaciones y pasa el ratón por encima d
 
 Cuando un usuario está viendo el registro de asuntos pendientes de un equipo de Kanban, una o más de las tareas muestran un registro de asuntos pendientes de 0.
 
-**&quot;[!UICONTROL Expresión personalizada no válida]&quot; al hacer referencia a &quot;[!UICONTROL propietario]&quot; en un campo calculado**
+**Mensaje de “[!UICONTROL Expresión personalizada no válida]” al añadir una referencia al “[!UICONTROL propietario]” en un campo calculado**
 
 *Formularios personalizados*
 
@@ -105,16 +105,16 @@ Cuando un usuario añade un campo calculado a un formulario personalizado de niv
 
 Esto ocurre incluso cuando la expresión es válida.
 
-**No se puede acceder a los elementos de [!DNL Workfront for Jira] integración**
+**No se puede acceder a los elementos de la integración de [!DNL Workfront for Jira]**
 
 *Integraciones*
 
-Actualmente no se puede acceder a los siguientes elementos en la variable [!DNL Workfront for Jira] integración para [!DNL Jira Cloud]:
+Actualmente no se puede acceder a los siguientes elementos de la integración de [!DNL Workfront for Jira] para [!DNL Jira Cloud]:
 
-* La variable [!UICONTROL Configuración] página
-* La variable[!UICONTROL Abrir Workfront]&quot; en un [!DNL Jira] problema
+* La página [!UICONTROL Configuración]
+* El botón “[!UICONTROL Abrir Workfront]” en un problema de [!DNL Jira]
 
-**La adición de un mensaje personalizado causa problemas en el visor de prueba**
+**Al añadir un mensaje personalizado, se producen problemas en el visualizador de pruebas**
 
 *Pruebas*
 
@@ -123,21 +123,21 @@ Cuando un usuario comparte una prueba e intenta añadir un mensaje personalizado
 * El visualizador aumenta el tamaño de la prueba.
 * La zona de navegación izquierda deja de responder.
 
-**Usuarios desactivados disponibles al seleccionar el aprobador de hojas de horas**
+**Usuarios desactivados disponibles al seleccionar el aprobador de plantillas de horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Cuando un usuario está creando una plantilla de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, la plantilla de horas no se guarda y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL Error. Lo sentimos, solo los usuarios con licencia de Plan pueden aprobar o rechazar plantillas de horas. Póngase en contacto con el administrador del sistema]&quot;.
+“[!UICONTROL Error. Lo sentimos, solo los usuarios con licencia de Plan pueden aprobar o rechazar plantillas de horas. Póngase en contacto con el administrador del sistema]”.
 
 Dado que el usuario desactivado no se puede asignar, el usuario debe seleccionar un usuario activado. Por lo tanto, la plantilla de horas funciona según lo esperado, pero los usuarios desactivados de la lista pueden causar confusión o inconvenientes al usuario.
 
-**El parte de horas no se genera**
+**La plantilla de horas no se genera**
 
-*Hojas de horas*
+*Plantillas de horas*
 
-Las hojas de horas no se generan a pesar de la configuración del perfil del parte de horas. Como el parte de horas nunca se genera, no está disponible para que el usuario introduzca la hora y no está visible en las listas.
+Las plantillas de horas no se generan a pesar de la configuración del perfil de la plantilla de horas. Como la plantilla de horas nunca se genera, no está disponible para que el usuario introduzca la hora y no está visible en las listas.
 
 +++
 
@@ -432,7 +432,7 @@ Cuando un usuario asigna varios equipos a una tarea o problema, solo aparece un 
 
 Error de tipo **“[!UICONTROL Los cambios recientes no se han guardado]” al guardar automáticamente los cambios en una plantilla de horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Cuando un usuario intenta editar una plantilla de horas de forma que se active un guardado automático, los cambios no se guardan y el usuario ve el siguiente mensaje:
 
@@ -455,7 +455,7 @@ Cuando se produce un evento en [!DNL Workfront Proof] que desencadena una notifi
 
 **Guarde manualmente su plantilla de horas cuando las funciones de trabajo anteriores hayan cambiado**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Si la función de trabajo para la que ha registrado tiempo ha cambiado y la opción [!UICONTROL Asignar roles de trabajo a las entradas de hora manualmente] se ha desactivado, debe guardar manualmente las entradas de tiempo hasta que no se registren las horas para la función de trabajo que ha cambiado.
 
@@ -479,7 +479,7 @@ Cuando un usuario está viendo un documento en [!DNL Workfront] e intenta abrir 
 
 **Las horas no se guardan al utilizar el [!UICONTROL tabulador]**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Cuando un usuario está rellenando una plantilla de horas y navega entre celdas con el [!UICONTROL tabulador], las horas no se guardan. La notificación de [!UICONTROL guardado automático] no aparece en la parte inferior de la pantalla, y si el usuario actualiza la página, puede ver que las horas no se han guardado.
 
@@ -507,7 +507,7 @@ Cuando un usuario está viendo las actualizaciones y pasa el ratón por encima d
 
 **Aparece el error “[!UICONTROL Alguien más intentó guardar este proyecto]” al introducir horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Cuando un usuario intenta registrar horas en una tarea de su plantilla de horas, las horas no se guardan automáticamente y ve el siguiente error:
 
@@ -588,7 +588,7 @@ Hemos añadido los campos [!UICONTROL Fecha inicial prevista] y [!UICONTROL Fech
 
 **Nuevo límite con un mensaje de confirmación que muestra el número de elementos agregados a una plantilla de horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Cuando selecciona más de 50 elementos para agregarlos a una plantilla de horas, ahora recibe un mensaje de confirmación que muestra el número de elementos que se agregarán a la plantilla de horas y le permite cambiar de idea y no agregar todos los elementos. Todos los elementos añadidos se anclan automáticamente en la plantilla de horas y deberán eliminarse manualmente de las plantillas de horas actuales y futuras.
 
@@ -703,7 +703,7 @@ Cuando un usuario está viendo un informe de matriz y se desplaza por la pantall
 
 Vista de **[!UICONTROL Hito] eliminada de la lista de proyectos de Plantillas de horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 La vista de [!UICONTROL Hito] se ha eliminado de la lista de proyectos de la plantilla de horas al agregar un proyecto.
 
@@ -844,7 +844,7 @@ La funcionalidad de estos campos no ha cambiado.
 
 **Problemas al crear plantillas de horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Se han comunicado los siguientes problemas con respecto a la creación de plantillas de horas:
 
@@ -872,7 +872,7 @@ Toda la funcionalidad de [!DNL Workfront Classic] se eliminó el 14 de julio de 
 
 **Las horas mostradas en la plantilla de horas son diferentes a las de la lista de Plantillas de horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Cuando un usuario abre una plantilla de horas para verla, las horas mostradas son diferentes a las que el usuario ve para esa misma plantilla en una lista de plantilla de horas.
 
@@ -1185,7 +1185,7 @@ Cuando un usuario intenta abrir el área de [!UICONTROL Solicitudes de trabajo] 
 
 +++
 
-+++**Actualización de mantenimiento del 9 de junio de 2022**
++++** Actualización de mantenimiento del 9 de junio de 2022**
 
 **No se pueden seleccionar objetos que filtrar en las preferencias del [!UICONTROL Optimizador de portafolios]**
 
@@ -1207,7 +1207,7 @@ Cuando un usuario con acceso de Planificador que incluye el acceso de Administra
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]Actualización de mantenimiento el 9 de junio de 2022**
++++**[!DNL Workfront Scenario Planner] Actualización de mantenimiento el 9 de junio de 2022**
 
 **Tamaño del panel izquierdo modificable en [!DNL Scenario Planner]**
 
@@ -1217,7 +1217,7 @@ Ahora puede cambiar el tamaño del panel izquierdo en un plan, en [!DNL Scenario
 
 +++
 
-+++**[!DNL Workfront Fusion]Actualización de mantenimiento el 9 de junio de 2022**
++++**[!DNL Workfront Fusion] Actualización de mantenimiento el 9 de junio de 2022**
 
 **Los datos de los formularios personalizados no están disponibles en los módulos [!DNL Workfront Fusion] [!DNL Workfront]**
 
@@ -1377,7 +1377,7 @@ Cuando un usuario intenta convertir un problema en un proyecto mediante una plan
 
 **El campo [!UICONTROL Estado] en una vista de plantilla de horas es ahora de solo lectura**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Hemos cambiado el campo [!UICONTROL Estado] en una vista de plantilla de horas como de solo lectura. Antes de este cambio, los usuarios podían editar en línea el estado de una plantilla de horas, lo que les permitía anular la decisión de los aprobadores de las plantillas de horas.
 
@@ -1489,7 +1489,7 @@ Para obtener más información sobre por qué el sistema genera correos electró
 
 **No es posible desplazarse hasta [!UICONTROL Guardar] al editar una plantilla de horas**
 
-*Hojas de horas*
+*Plantillas de horas*
 
 Cuando un usuario está editando una plantilla de horas, no puede desplazarse por la ventana de edición lo suficientemente lejos como para ver el botón [!UICONTROL Guardar] y, por lo tanto, no puede editar la plantilla de horas.
 

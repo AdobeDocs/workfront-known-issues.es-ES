@@ -3,8 +3,8 @@ user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
 source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1805'
+ht-degree: 97%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 0%
       + [Pruebas: El estado de la prueba no se actualiza en [!UICONTROL Documento] listas](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Proyectos: El estado del proyecto no sigue las preferencias del proyecto de grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Proyectos: Error &quot;Whoops&quot; al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
-      + [[!UICONTROL Página principal]: No se puede quitar una asignación de problema en [!UICONTROL Página principal]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
-      + [Hojas de tiempo: El parte de horas no se genera](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [Integraciones: No se puede acceder a los elementos de [!DNL Workfront for Jira] integración](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-      + [Formularios personalizados: No se puede utilizar el campo en el cálculo si el nombre del campo contiene apóstrofos o comillas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [[!UICONTROL Inicio]: no se puede eliminar una asignación de problema en [!UICONTROL Inicio]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
+      + [Plantillas de horas: la plantilla de horas no se genera](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
+      + [Integraciones: no se puede acceder a los elementos de la integración de  [!DNL Workfront for Jira] ](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Formularios personalizados: no se puede utilizar el campo en el cálculo si su nombre contiene comillas o un apóstrofo](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile: Error al mover elementos de trabajo a una iteración](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Plantillas de horas: Usuarios desactivados disponibles al seleccionar el aprobador de plantillas de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Formularios personalizados: Los formularios personalizados de objetos cruzados requieren el acceso de [!UICONTROL Administrar] o [!UICONTROL Editar] para editar los campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Pruebas: Las pruebas se muestran en el visualizador de pruebas menos nítidas que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [Formularios personalizados: Error &quot;[!UICONTROL No cuenta con acceso suficiente]&quot; al editar el formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
+      + [Formularios personalizados: Error “[!UICONTROL No cuenta con acceso suficiente]” al editar el formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Formularios personalizados: “[!UICONTROL el mensaje de expresión personalizada]” no es válido cuando se añade una referencia al “[!UICONTROL propietario]” en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Informes: el gráfico combinado muestra los mismos datos dos veces](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
@@ -80,7 +80,7 @@ ht-degree: 0%
       + [Equipos: Asignar varios resultados de equipos solo genera un equipo asignado](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Notificaciones: Usuarios no notificados cuando se les menciona o incluye en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Plantillas de horas: Errores al agregar comentarios a una plantilla de horas](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Pruebas: No se puede abrir la prueba en  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Pruebas: No se puede abrir la prueba en  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen] de la tarea](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Pruebas: El usuario no vuelve a la página anterior al cerrar la prueba](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notificaciones: Errores al acceder a la configuración de las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
@@ -211,7 +211,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: No se puede crear la conexión con [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]: no se puede crear la conexión con  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Los elementos de la matriz en el módulo [!UICONTROL Iterator] se muestran como “[!UICONTROL objeto Objeto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fallo al ver un error en el historial de ejecución de un escenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: Error 409 en un escenario de  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
