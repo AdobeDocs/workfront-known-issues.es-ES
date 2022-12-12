@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '16044'
-ht-degree: 99%
+source-wordcount: '16198'
+ht-degree: 98%
 
 ---
 
@@ -276,6 +276,21 @@ Se ha informado de este problema en las siguientes áreas:
 * [!UICONTROL Configuración] > [!UICONTROL Notificaciones por correo electrónico]
 * [!UICONTROL Usuario] > [!UICONTROL Editar usuario]
 * [!UICONTROL Grupos]
+
+**Nuevos iconos de información para hojas de horas, perfiles de hojas de horas y preferencias de hojas de horas**
+
+*Workfront*
+
+>[!NOTE]
+>
+>Esta actualización solo se ha publicado en el entorno de vista previa. Se lanzará a Producción con la versión 23.1.
+
+Hemos añadido varios iconos de información a la siguiente configuración:
+
+* Casilla de verificación &quot;Puede editar el tiempo&quot; al crear o editar un perfil de parte de horas o de parte de horas para indicar que, cuando está activado, los aprobadores también pueden enviar, volver a abrir o editar el parte de horas, a menos que el administrador restrinja estas acciones en el área Preferencias de parte de horas de Configuración.
+* &quot;Restringir la edición de parte de horas a propietarios y administradores&quot; en el área Preferencias de parte de horas y hora del programa de instalación para indicar que, cuando está desactivado, los siguientes usuarios también pueden editar las partes de horas: usuarios con acceso administrativo a hojas de horas y horas, aprobadores de hojas de horas permitidos para editar la hora y administradores de propietarios de hojas de horas.
+
+Tenga en cuenta que la funcionalidad de estos ajustes no ha cambiado y que solo se han añadido los iconos de información para aclarar el ámbito de los ajustes.
 
 +++
 
