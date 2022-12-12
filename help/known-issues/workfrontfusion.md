@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Fusion]
 keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '162'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: No se puede crear la conexión con [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md) | 28 de noviembre de 2022 |
+| [[!DNL Workfront Fusion]: No se puede crear la conexión con  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md) | 28 de noviembre de 2022 |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] módulos](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 31 de octubre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -36,7 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] visualización del módulo como &quot;[!UICONTROL objeto Objeto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 de noviembre de 2022 |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] visualización del módulo como “[!UICONTROL objeto Objeto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 de noviembre de 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 de agosto de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
