@@ -3,9 +3,9 @@ title: '“Pruebas: al añadir un mensaje personalizado, se producen problemas e
 description: “Cuando un usuario comparte una prueba e intenta añadir un mensaje personalizado, se producen problemas.”
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
