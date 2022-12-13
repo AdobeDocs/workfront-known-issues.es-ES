@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: 7452df87a128b5e6524d205c9114101dc295ad2d
 workflow-type: tm+mt
-source-wordcount: '1814'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -90,53 +90,20 @@ ht-degree: 96%
       + [Formularios personalizados: Elementos superpuestos en el panel izquierdo](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md)
       + [Listas: El nuevo estado no se muestra al editar el estado en línea](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md)
       + [Informes: Problemas al crear y editar informes en [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md)
-      + [Documentos: Las aprobaciones de documentos no están disponibles en la página de [!UICONTROL detalles del documento]](known-issues-workfront/wf-documents-approvals-not-in-document-details.md)
-      + [Informes: Problemas relacionados con los informes de problemas en [!DNL Workfront]](known-issues-workfront/wf-reports-issues-with-issue-reports.md)
-      + [Campos de asignación: Nombres actualizados temporalmente para los campos de asignación de usuarios y roles](known-issues-workfront/wf-assignments-temp-updated-names.md)
       + [Formularios personalizados: Los campos de texto descriptivos muestran información sobre herramientas](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [Integraciones: Error 404 al añadir un documento desde [!DNL SharePoint] [!UICONTROL (Graph API)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integraciones: [!DNL SharePoint] La carpeta no aparece para su propietario](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [Integraciones: Error al enviar la solicitud desde [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
-      + [Plantillas de horas: [!UICONTROL ¡Uy!] error al abrir una plantilla de horas](known-issues-workfront/wf-timesheet-whoops-error-when-opening-timesheet.md)
-      + [Integraciones: Error al abrir  [!DNL Workfront for Jira]  en  [!DNL Jira]](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md)
       + [Plantillas de horas: Error “[!UICONTROL Otra persona ha intentado guardar este proyecto]” al introducir las horas](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Paneles: No se puede acceder al panel desde la navegación izquierda en un objeto](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
-      + [Proyectos, tareas y asuntos: El cuadro de [!UICONTROL descripción] redimensionado vuelve a su tamaño original](known-issues-workfront/wf-projects-description-field-size-snaps-back.md)
-      + [Proyectos: Error al eliminar el [!UICONTROL propietario del proyecto] de la cabecera](known-issues-workfront/wf-projects-error-when-removing-project-owner.md)
       + [Tareas y asuntos: Salida involuntaria al crear tareas o asuntos](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
-      + [Problemas: La conversión de un problema a un proyecto mediante una plantilla muestra un mensaje de error incorrecto](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md)
-      + [Paneles: Los enlaces del [!UICONTROL Distribuidor de cargas de trabajo] no se muestran correctamente en los paneles](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md)
       + [Actualizaciones: No se puede cerrar la tarjeta de usuario en el flujo de actualizaciones](known-issues-workfront/wf-updates-cant-close-user-card.md)
-      + [Informes: Las opciones “[!UICONTROL Añadir a la iteración]” y “[!UICONTROL Añadir a la tabla Kanban]” no están disponibles cuando se editan en línea las tareas de un informe](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md)
       + [Solicitudes: No se puede abrir más allá de la primera página de la lista de solicitudes](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [Formularios personalizados: Los datos de los campos ocultos por el salto de sección no se conservan al convertir una solicitud en un proyecto](known-issues-workfront/wf-requests-cust-form-data-hidden-not-converted.md)
-      + [Proyectos: Error “[!UICONTROL Modo de planificación de la cronología]” al cambiar una fecha en un proyecto](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md)
-      + [Solicitudes: La asignación del equipo al crear la solicitud no aparece en la nueva solicitud](known-issues-workfront/wf-teams-assignment-lost-when-creating-requests.md)
       + [[!DNL Workfront]: Problemas al enviar un caso de soporte  [!DNL Workfront]  en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
-      + [Formulario personalizado: No se pueden eliminar las instrucciones de un campo personalizado en el creador de formularios personalizados](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md)
       + [Notificaciones: Los usuarios no reciben una notificación por correo electrónico cuando se les menciona en un comentario](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
-      + [Plantillas de horas: No se guardan los comentarios](known-issues-workfront/resolved-issues-wf/wf-timesheets-comments-not-save.md)
-      + [Plantillas de horas: Error “[!UICONTROL Las horas facturadas ya existen]” al añadir horas en una plantilla de horas](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md)
-      + [Tareas y problemas: Error al cambiar la [!UICONTROL fecha planificada de finalización] en la cabecera de una tarea o problema](known-issues-workfront/resolved-issues-wf/wf-500-error-planned-completion.md)
-      + [Plantillas de horas: Problemas relacionados con la adición de horas a proyectos en estado [!UICONTROL completo] o [!UICONTROL muerto]](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
-      + [Plantillas de diseño: No es posible asignar plantillas de diseño a los usuarios](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
-      + [Informes: No se puede exportar el informe de utilización](known-issues-workfront/wf-reports-cannot-export-utilization-report.md)
       + [Plantillas de horas: Error “Los cambios recientes no se han guardado” al guardar automáticamente los cambios en una plantilla de horas](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
-      + [Plantillas de horas: Las horas no se guardan automáticamente](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md)
-      + [Formularios personalizados: Los datos de los campos ocultos por el salto de sección no se conservan al convertir un problema en un proyecto](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md)
-      + [Tableros: Problemas con los cambios de [!UICONTROL estado] de los elementos vinculados en las tarjetas de los paneles](known-issues-workfront/resolved-issues-wf/wf-boards-issues-status-change.md)
       + [Paneles: Los gráficos de informes que se ven en un panel utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
-      + [Formularios personalizados: No se pueden editar los formularios personalizados debido a un límite de caracteres incorrecto en los campos de [!UICONTROL texto descriptivo]](known-issues-workfront/wf-custom-form-incorrect-character-limit.md)
-      + [Configuración: No se puede crear un nuevo estado](known-issues-workfront/resolved-issues-wf/wf-cannot-create-new-status.md)
-      + [Formularios personalizados: No se pueden editar los formularios personalizados debido a un campo [!UICONTROL Texto descriptivo]](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
-      + [[!DNL Search]: Error al [!UICONTROL buscar] en [!DNL Workfront]](known-issues-workfront/wf-search-error-using-search.md)
-      + [Problemas: No se pueden aprobar o rechazar horas en un problema](known-issues-workfront/wf-issues-cannot-approve-hours.md)
-      + [Informes: Los informes no se envían según lo previsto](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
-      + [Informes: Los informes de la matriz se muestran incorrectamente al desplazarse](known-issues-workfront/wf-reports-matrix-display-incorrectly.md)
       + [Agile: Problemas al mover tarjetas en el panel Agile](known-issues-workfront/wf-agile-issues-moving-cards.md)
-      + [Terminología (alemán): La terminología es errónea en algunas áreas cuando el idioma del explorador está configurado en alemán](known-issues-workfront/wf-terminology-in-german.md)
-      + [Actualizaciones: Al etiquetar a los usuarios y luego salir de la navegación se eliminan los usuarios etiquetados](known-issues-workfront/resolved-issues-wf/wf-updates-tag-users-navigate-away-untags.md)
-      + [Buscar: No se pueden buscar proyectos por número de referencia](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
       + [Inicio: La terminología personalizada no se aplica al área de inicio](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
       + [Agile: No se pueden editar campos de formularios personalizados en tarjetas](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
       + [Plantillas de diseño: No se puede seleccionar un grupo al crear una plantilla de diseño](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
@@ -157,19 +124,6 @@ ht-degree: 96%
       + [Listas: El nombre de visualización no se aplica a la agrupación de campos personalizados](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL Inicio]: Las fechas de delegación de la aprobación cambian tras actualizarlas y se envían dos correos electrónicos](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
       + [Calendario: Algunas tareas no se muestran](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
-   + Problemas resueltos en [!DNL Adobe Workfront] {#wf-resolved}
-      + [Informes: El nuevo [!UICONTROL lienzo de informes] no carga](known-issues-workfront/resolved-issues-wf/wf-reports-new-canvas-does-not-load.md)
-      + [Calendario: El botón se muestra incorrectamente cuando se añaden elementos al Calendario](known-issues-workfront/resolved-issues-wf/wf-calendar-button-displays-incorrectly.md)
-      + [Plantillas de horas: Problemas al crear plantillas de horas](known-issues-workfront/resolved-issues-wf/wf-timesheets-issues-creating-timesheets.md)
-      + [Plantillas: No es posible deseleccionar las tareas al adjuntar una plantilla](known-issues-workfront/resolved-issues-wf/wf-templ-cannot-deselect-tasks.md)
-      + [Informes: Los informes programados no se envían a todos los destinatarios](known-issues-workfront/resolved-issues-wf/wf-reports-scheduled-not-sent-to-all.md)
-      + [[!UICONTROL Inicio]: Error al abrir un elemento de la lista de [!UICONTROL inicio de trabajo]](known-issues-workfront/resolved-issues-wf/wf-home-error-opening-item-work-list.md)
-      + [Plantillas de horas: Las horas que aparecen en la plantilla de horas son diferentes a las de la lista de plantillas de horas](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
-      + [Solicitudes: Las solicitudes convertidas en un proyecto mediante plantilla muestran el grupo de la cola de solicitudes, no el grupo de la plantilla](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
-      + [Plantillas de horas: Las horas de las plantillas de horas no se guardan correctamente](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
-      + [Tareas: No se puede seleccionar el tiempo [!UICONTROL transcurrido] al editar en línea la Duración de la tarea](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
-      + [Actualizaciones: La página [!UICONTROL Mis actualizaciones] está en blanco](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
-      + [Usuarios: No se muestra el ajuste “[!UICONTROL Permitir solo la autenticación SAML 2.0]” al copiar un usuario](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
 
 
 
@@ -182,21 +136,10 @@ ht-degree: 96%
       + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Páginas en blanco al ver una prueba con varias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Pruebas: Error al añadir una prueba a  [!DNL Workfront]  desde  [!DNL Workfront]  Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
-      + [[!DNL Workfront Proof]: Error al cargar un archivo en un comentario](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
-      + [[!DNL Workfront Proof]: Las vistas de carpetas no muestran pruebas](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
-      + [[!DNL Workfront Proof]: No se puede crear la prueba para archivos de más de 1,5 GB](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)
-      + [[!DNL Workfront Proof]: Faltan campos de texto en la página [!UICONTROL nueva prueba]](known-issues-workfront-proof/proof-new-page-missing-text-fields.md)
       + [[!DNL Workfront Proof]: Las notificaciones por correo electrónico se retrasan](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
       + [[!DNL Workfront Proof]: Los solicitantes y revisores se contabilizan en el recuento de licencias de una organización](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
       + [[!DNL Workfront Proof]: Los correos electrónicos de resumen diario no incluyen el botón “Ver detalles”](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
-      + [[!DNL Workfront Proof]: Los usuarios añadidos a una prueba solo tienen acceso de “[!UICONTROL Ver]”](known-issues-workfront-proof/proof-added-users-have-only-view.md)
       + [[!DNL Workfront Proof]: El administrador de pruebas tiene permisos limitados sobre una prueba](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
-      + [El panel muestra 0 pruebas en [!UICONTROL Pruebas a gestionar]](known-issues-workfront-proof/zero-proofs-to-manage.md)
-      + [[!DNL Workfront Proof]: Los enlaces en una prueba interactiva no están activos](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
-      + [Las opciones de usuario no se pueden modificar después de la configuración inicial en las plantillas de flujo de trabajo](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md)
-      + [Los usuarios no reciben notificaciones cuando se les etiqueta en una prueba](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md)
-      + [Comentarios realizados en el [!UICONTROL visualizador de pruebas] no son visibles en tiempo real](known-issues-workfront-proof/comments-not-visible-in-real-time.md)
-      + [Se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/new-stage-created.md)
       + [Se muestra una fecha límite de aprobación de pruebas inexacta en la Lista de trabajos en Inicio](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [No se puede añadir un usuario a la prueba al etiquetarlo en un comentario](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [El comportamiento del botón de [!UICONTROL respuesta en prueba] es inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
@@ -205,7 +148,6 @@ ht-degree: 96%
       + [[!UICONTROL Inicio]: Las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Documentos: No aparece el icono del flujo de trabajo de pruebas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + Problemas resueltos en [!DNL Workfront] Prueba {#proof-resolved}
-      + [[!DNL Workfront Proof]: Las áreas de  [!DNL Workfront Proof]  no se actualizan cuando se crea, mueve o archiva una prueba](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Pruebas: Las pruebas se muestran como “[!UICONTROL Generando prueba]” durante un tiempo excesivo](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -223,10 +165,7 @@ ht-degree: 96%
       + [[!DNL Workfront Fusion]: El módulo no se carga al crear o editar un escenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion]  devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]: No se puede conectar al módulo MS Dynamics en Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
-      + [[!DNL Workfront Fusion]: Error 502 cuando el escenario incluye un módulo que comprueba las decisiones de prueba en Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
-   + Problemas resueltos en [!DNL Workfront Fusion] {#fusion-resolved}
-      + [Los datos de los formularios personalizados no están disponibles en módulos  [!DNL Workfront Fusion] [!DNL Workfront]](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Objetivos de Adobe Workfront] {#goals}
    + [Problemas conocidos de  [!DNL Workfront Goals]](workfrontgoals.md)
