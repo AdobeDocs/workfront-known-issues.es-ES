@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '16198'
-ht-degree: 98%
+source-wordcount: '16388'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,34 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en diciembre de 2022
+
++++**Actualización de mantenimiento el 15 de diciembre de 2022**
+
+**&quot;[!UICONTROL Whoops]&quot; error al crear un proyecto a partir de una plantilla**
+
+*Proyectos*
+
+Cuando un usuario intenta crear un proyecto a partir de una plantilla, el proyecto no se crea y el usuario ve el siguiente error:
+
+“[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo]”.
+
+**El gráfico de combinación muestra los mismos datos dos veces**
+
+*Informes*
+
+Cuando un usuario ve un gráfico combinado, este muestra un conjunto de valores dos veces en lugar de comparar dos conjuntos de valores diferentes. Los conjuntos de valores correctos están en los detalles del informe.
+
+**Usuarios desactivados disponibles al seleccionar el aprobador de plantillas de horas**
+
+*Plantillas de horas*
+
+Cuando un usuario está creando una plantilla de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, la plantilla de horas no se guarda y el usuario ve el siguiente mensaje:
+
+“[!UICONTROL Error. Lo sentimos, solo los usuarios con licencia de Plan pueden aprobar o rechazar plantillas de horas. Póngase en contacto con el administrador del sistema]”.
+
+Dado que el usuario desactivado no se puede asignar, el usuario debe seleccionar un usuario activado. Por lo tanto, la plantilla de horas funciona según lo esperado, pero los usuarios desactivados de la lista pueden causar confusión o inconvenientes al usuario.
+
++++
 
 +++**Actualización de mantenimiento el 8 de diciembre de 2022**
 
@@ -220,7 +248,7 @@ Se ha notificado este comportamiento cuando el usuario accede al informe de las 
 
 El acceso a los informes a través de un panel sí actualiza la información de la última visualización.
 
-**[!DNL Workfront]: Error 500 al realizar cambios en un objeto [!DNL Workfront]**
+**[!DNL Workfront]: Error 500 al realizar cambios en un objeto [!DNL Workfront]**+
 
 *[!DNL Workfront]*
 
