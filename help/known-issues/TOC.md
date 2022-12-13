@@ -1,7 +1,7 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de [!DNL Adobe Workfront]
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
 workflow-type: tm+mt
 source-wordcount: '1814'
 ht-degree: 96%
@@ -16,7 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Informes: Los informes utilizan el creador de informes en lugar del comodín &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [Informes: El informe utiliza el creador de informes en lugar del comodín &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Documentos: No se puede cargar el archivo MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Tareas: No se puede agregar la subtarea](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
