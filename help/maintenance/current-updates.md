@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
+source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
 workflow-type: tm+mt
-source-wordcount: '16460'
+source-wordcount: '16506'
 ht-degree: 97%
 
 ---
@@ -46,6 +46,12 @@ Cuando un usuario intenta crear un proyecto a partir de una plantilla, el proyec
 *Informes*
 
 Cuando un usuario ve un gráfico combinado, este muestra un conjunto de valores dos veces en lugar de comparar dos conjuntos de valores diferentes. Los conjuntos de valores correctos están en los detalles del informe.
+
+**Se ha añadido información sobre herramientas para celdas de hora atenuadas en hojas de horas**
+
+*Plantillas de horas*
+
+Se han añadido informaciones de objeto para explicar el motivo por el que una celda de hora puede estar atenuada en un parte de horas. Por ejemplo, algunas de las razones podrían deberse a que el parte de horas está cerrado o a que el proyecto se ha completado.
 
 **Usuarios desactivados disponibles al seleccionar el aprobador de plantillas de horas**
 
