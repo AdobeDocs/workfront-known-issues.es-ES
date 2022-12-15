@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '16506'
-ht-degree: 97%
+source-wordcount: '16687'
+ht-degree: 96%
 
 ---
 
@@ -32,6 +32,17 @@ Para ver las actualizaciones de mantenimiento anteriores a 2022, consulte [Actua
 ## Actualizaciones en diciembre de 2022
 
 +++**Actualización de mantenimiento el 15 de diciembre de 2022**
+
+**Actualizaciones de accesibilidad en listas**
+
+*Listas*
+
+Las siguientes funciones de accesibilidad ya están disponibles en listas:
+
+* Las casillas de verificación de las listas ahora tienen un indicador de enfoque visible cuando se les aplica la tabulación. Esto facilita visualmente la navegación mediante el teclado de los elementos de una lista.
+* Ahora, todos los botones de las barras de herramientas de la lista tienen estados coherentes de enfoque y desplazamiento, con un fondo gris al pasar el ratón y un fondo gris y un contorno azul al enfocar.
+* Anteriormente, al abrir un menú desplegable en una lista con la tecla Espacio, se abría el menú y la página también se desplazaría hacia abajo un poco, lo que no estaba previsto. Ahora la página ya no se desplaza al pulsar Espacio en una lista desplegable, que es el comportamiento deseado correcto.
+* Al ver una lista con la casilla de verificación de fila seleccionada, ahora puede tabular cada elemento editable y, a continuación, presionar la tecla Espacio para cambiar al modo de edición y comenzar a editar esa celda en la fila. Anteriormente, estos elementos no eran navegables mediante el teclado y requerían el uso de un ratón. Ahora, cambiar al modo de edición es fácil para el ratón y el teclado.
 
 **&quot;[!UICONTROL Whoops]&quot; error al crear un proyecto a partir de una plantilla**
 

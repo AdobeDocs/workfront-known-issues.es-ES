@@ -2,9 +2,9 @@
 title: '“Plantillas de horas: Usuarios desactivados disponibles al seleccionar el aprobador de plantillas de horas”'
 description: “Cuando un usuario está creando una plantilla de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, la plantilla de horas no se guarda y el usuario ve un mensaje de error”.
 hidefromtoc: true
-source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
@@ -12,11 +12,9 @@ ht-degree: 100%
 
 # Plantillas de horas: Usuarios desactivados disponibles al seleccionar el aprobador de plantillas de horas
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 1, 2022.
--->
+>Este problema se corrigió el 15 de diciembre de 2022.
 
 Cuando un usuario está creando una plantilla de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, la plantilla de horas no se guarda y el usuario ve el siguiente mensaje:
 
