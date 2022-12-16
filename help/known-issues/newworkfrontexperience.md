@@ -3,9 +3,9 @@ title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '594'
 ht-degree: 90%
 
 ---
@@ -42,10 +42,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: No se puede cargar el archivo MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 de diciembre de 2022 |
 | [Tareas: No se puede agregar la subtarea](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 de diciembre de 2022 |
-| [Hojas de tiempo: No se puede introducir la hora en el parte de horas](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 de diciembre de 2022 |
 | [Formularios personalizados: mensaje de “[!UICONTROL expresión personalizada no válida]” al añadir una referencia al “[!UICONTROL propietario]” en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de diciembre de 2022 |
 | [Formularios personalizados: No se puede utilizar el campo calculado si el nombre del campo contiene apóstrofos o comillas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 de noviembre de 2022 |
-| [Formularios personalizados: Error “[!UICONTROL No cuenta con acceso suficiente]” al editar el formulario personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de noviembre de 2022 |
 | [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de noviembre de 2022 |
 | [Formularios personalizados: Error “¡Uy!” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 de octubre de 2022 |
 | [Integraciones: Error al enviar la solicitud desde [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |

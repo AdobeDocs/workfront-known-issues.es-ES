@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '16687'
-ht-degree: 96%
+source-wordcount: '16738'
+ht-degree: 95%
 
 ---
 
@@ -73,6 +73,12 @@ Cuando un usuario está creando una plantilla de horas e intenta asignar un apro
 “[!UICONTROL Error. Lo sentimos, solo los usuarios con licencia de Plan pueden aprobar o rechazar plantillas de horas. Póngase en contacto con el administrador del sistema]”.
 
 Dado que el usuario desactivado no se puede asignar, el usuario debe seleccionar un usuario activado. Por lo tanto, la plantilla de horas funciona según lo esperado, pero los usuarios desactivados de la lista pueden causar confusión o inconvenientes al usuario.
+
+**No se puede introducir la hora en el parte de horas**
+
+*Plantillas de horas*
+
+Cuando un usuario intenta agregar tiempo a un parte de horas, ve que los cuadros de hora de cualquier hora del proyecto o filas de tiempo de tarea aparecen atenuados y no puede especificar la hora en estos cuadros. Solo pueden indicar la hora en el área Hora general.
 
 +++
 
@@ -235,7 +241,7 @@ Cuando un usuario intenta abrir una prueba interactiva, la prueba no se carga y 
 
 **Problemas con las tareas agregadas a una iteración**
 
-*Águila*
+*Agile*
 
 Se han notificado los siguientes problemas en relación con adiciones a una iteración:
 
@@ -246,7 +252,7 @@ Se han notificado los siguientes problemas en relación con adiciones a una iter
 
 **Las tareas asignadas mediante la edición masiva no aparecen en el registro de asuntos pendientes del equipo**
 
-*Águila*
+*Agile*
 
 Cuando un usuario asigna tareas a un equipo de Scrum utilizando la edición masiva, esas tareas no aparecen en el registro de asuntos pendientes del equipo.
 
@@ -1064,7 +1070,7 @@ Cuando un usuario intenta cargar un archivo adjunto mediante la integración de 
 
 **Actualización de la notificación de prueba por correo electrónico**
 
-*[!DNL Workfront]Prueba*
+*[!DNL Workfront]Proof*
 
 A principios de este mes, como parte de un parche para el entorno de producción de [!DNL Workfront], hemos corregido un error en el sistema de notificación de prueba por correo electrónico. Este cambio no se comunicó en la actualización de mantenimiento cuando se publicó. Hemos añadido la siguiente información a la [Actualización de mantenimiento del 2 de junio de 2022](#maintenance-update-on-june-2-2022):
 
@@ -1813,7 +1819,7 @@ Esto ocurre incluso si el usuario tiene la función de trabajo de la asignación
 
 **Problema con la barra del panel de exploración “Mostrar más elementos de trabajo”**&#x200B;
 
-*Águila*
+*Agile*
 
 Cuando un usuario hace clic en el barra [!UICONTROL Mostrar más elementos de trabajo] en un panel de exploración y luego se desplaza para ver los nuevos elementos, la barra de [!UICONTROL Mostrar más elementos de trabajo] se fija al panel de exploración y se mueve con él al desplazarse. Esto puede hacer que las tarjetas sean difíciles de leer.
 
@@ -1920,7 +1926,7 @@ La pestaña [!UICONTROL Acceso a modelos] se ha eliminado del modal de preferenc
 
 **No se puede desplazar hacia abajo en la lista de usuarios al realizar la asignación en el panel Kanban**
 
-*Águila*
+*Agile*
 
 Cuando un usuario está viendo un panel [!DNL Kanban] e intenta realizar una asignación, la lista de usuarios que aparece cuando escriben continúa saltando hacia arriba a medida que se desplazan hacia abajo. El usuario no puede seleccionar un usuario que no esté cerca de la parte superior de la lista y no puede guardar el cambio de asignación.
 
@@ -2386,7 +2392,7 @@ Cuando un usuario convierte un problema en un proyecto mediante una plantilla, l
 
 **La lista de usuarios en el panel ágil no es alfabética**
 
-*Águila*
+*Agile*
 
 Cuando un usuario ve la lista de usuarios en un panel ágil, los usuarios no se muestran en orden alfabético. En su lugar, se muestran primero los usuarios con la mayor cantidad de asignaciones.
 
@@ -2464,7 +2470,7 @@ Cuando un usuario ve su lista [!UICONTROL Mi trabajo] y la plantilla de diseño 
 
 **[!UICONTROL Porcentaje completado] y [!UICONTROL Horas de finalización] no se puede modificar en el panel de Agile**
 
-*Águila*
+*Agile*
 
 Cuando el usuario selecciona “[!UICONTROL Mostrar más elementos de trabajo]” en el panel de Agile y, posteriormente, intenta cambiar el [!UICONTROL Porcentaje completado] o [!UICONTROL Horas de finalización] en uno de los elementos de trabajo recién cargados, no pueden cambiar el porcentaje completado o la hora de finalización. El botón [!UICONTROL Porcentaje completado] también está en gris, lo que indica que está inactivo.
 
