@@ -3,7 +3,7 @@ title: '“Inicio: no se puede eliminar una asignación de problema en Inicio”
 description: “Cuando un usuario está viendo un problema en la Lista de trabajos en Inicio e intenta eliminar la asignación, la página se actualiza y la asignación no se elimina”.
 hidefromtoc: true
 source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
