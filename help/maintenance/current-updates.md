@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
 source-wordcount: '16738'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -15,7 +15,7 @@ En 2022 se realizaron las siguientes actualizaciones de mantenimiento.
 
 >[!NOTE]
 >
->Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+>Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront]le avisará cuando haya solucionado un problema enviado por usted.
 
 <!--
 * [July 2022](#updates-in-july-2022)
@@ -48,7 +48,7 @@ Las siguientes funciones de accesibilidad ya están disponibles en listas:
 
 *Proyectos*
 
-Cuando un usuario intenta crear un proyecto a partir de una plantilla, el proyecto no se crea y el usuario ve el siguiente error:
+Cuando un usuario intenta crear un proyecto a partir de una plantilla, el proyecto no se crea y el usuario ve el error siguiente:
 
 “[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo]”.
 
@@ -78,7 +78,7 @@ Dado que el usuario desactivado no se puede asignar, el usuario debe seleccionar
 
 *Plantillas de horas*
 
-Cuando un usuario intenta agregar tiempo a un parte de horas, ve que los cuadros de hora de cualquier hora del proyecto o filas de tiempo de tarea aparecen atenuados y no puede especificar la hora en estos cuadros. Solo pueden indicar la hora en el área Hora general.
+Cuando un usuario intenta agregar las horas en una plantilla de horas, observa que las casillas para las horas de cualquier columna de Hora de proyecto u Hora de tarea aparecen atenuadas y no puede introducir las horas en estas casillas. Solo puede introducir las horas en el área de la Hora general.
 
 +++
 
@@ -96,21 +96,21 @@ Ahora, cuando agregue un usuario al [!UICONTROL Aprobadores] de una aprobación 
 
 *Proyectos*
 
-Cuando un usuario crea un proyecto a partir de una plantilla, el nuevo proyecto no toma el estado establecido en las preferencias del proyecto Grupo. Si se crea un proyecto sin plantilla, el estado reflejará las preferencias del proyecto de grupo como se espera.
+Cuando un usuario crea un proyecto a partir de una plantilla, el nuevo proyecto no obtiene el estado establecido en las preferencias del proyecto de grupo. Si se crea un proyecto sin plantilla, el estado refleja las preferencias del proyecto de grupo según lo esperado.
 
 **No se puede agregar la subtarea**
 
 *Tareas*
 
-Cuando un usuario intenta añadir una subtarea utilizando la[!UICONTROL +Nuevo]&quot;, no aparecerá ninguna opción en el [!UICONTROL Nueva tarea] y el usuario ve el siguiente mensaje:
+Cuando un usuario intenta agregar una subtarea utilizando el botón “[!UICONTROL +Nueva]”, no aparece ninguna opción en la ventana [!UICONTROL Nueva tarea] y el usuario ve el mensaje siguiente:
 
-&quot;[!UICONTROL No se pueden leer las propiedades de indefinido (leer &quot;validaciones&quot;)]&quot;
+“[!UICONTROL No se pueden leer las propiedades de indefinido (leer validaciones)]”
 
-**Errores al cerrar o guardar hojas de horas**
+**Errores al cerrar o guardar plantillas de horas**
 
 *Plantillas de horas*
 
-Cuando un usuario intenta agregar o cerrar un parte de horas, el parte de horas no se guarda y el usuario ve los siguientes errores:
+Cuando un usuario intenta agregar horas en una plantilla de horas o cerrar dicha plantilla, la plantilla de horas no se guarda y el usuario ve los errores siguientes:
 
 * Error de la base de datos debido a una instrucción SQL no válida.
 * No se han guardado sus cambios recientes. Actualice la página para ver los últimos cambios guardados.
@@ -119,7 +119,7 @@ Cuando un usuario intenta agregar o cerrar un parte de horas, el parte de horas 
 
 +++**Actualización de mantenimiento (Hot Fix) el 1 de diciembre de 2022**
 
-**Los errores de edición en línea por usuario no causan mensajes de error**
+**Los errores de edición en línea producidos por el usuario no causan mensajes de error**
 
 *Listas*
 
@@ -130,7 +130,7 @@ Se ha informado de este problema para las siguientes situaciones:
 * Predecesores: Se crea un bucle predecesor, como, por ejemplo, la asignación de una tarea a sí misma
 * Fechas: Se establece una fecha imposible, como, por ejemplo, una fecha de finalización anterior a la fecha de inicio o posterior a la fecha de finalización del proyecto
 
-**La opción &quot;Mover a&quot; no está disponible en los informes de problemas**
+**La opción “Mover a” no está disponible en los informes de problemas**
 
 *Informes*
 
@@ -2324,7 +2324,7 @@ Cuando un usuario administrador intenta ver proyectos, tareas o problemas en [!U
 
 Cuando un usuario intenta iniciar sesión en [!DNL Workfront], el inicio de sesión no se ha realizado correctamente y aparece el siguiente mensaje:
 
-“[!UICONTROL Intentémoslo de nuevo. Error de base de datos: Error de BizContext.commit.]”
+“[!UICONTROL Intentémoslo de nuevo. Error de base de datos: Error de BizContext commit.]”
 
 Se ha informado de este problema en el entorno de vista previa.
 
@@ -2502,4 +2502,4 @@ Si un usuario se muestra como sobreasignado en el [!UICONTROL Distribuidor de ca
 
 La información sobre actualizaciones de mantenimiento anteriores está disponible aquí:
 
-* [Archivo de actualizaciones de mantenimiento de [!DNL Workfront] - 2021](2021-updates.md)
+* [Archivo de actualizaciones de mantenimiento de [!DNL Workfront]- 2021](2021-updates.md)
