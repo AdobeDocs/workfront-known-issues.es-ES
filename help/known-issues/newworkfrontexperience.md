@@ -1,12 +1,12 @@
 ---
-title: Problemas conocidos de la nueva experiencia  [!DNL Adobe Workfront]
+title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
+source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 90%
+source-wordcount: '601'
+ht-degree: 95%
 
 ---
 
@@ -40,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Informes: La pantalla Editar informe está en blanco](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 de diciembre de 2022 |
 | [Documentos: No se puede cargar el archivo MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 de diciembre de 2022 |
 | [Tareas: No se puede agregar la subtarea](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 de diciembre de 2022 |
 | [Formularios personalizados: mensaje de “[!UICONTROL expresión personalizada no válida]” al añadir una referencia al “[!UICONTROL propietario]” en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de diciembre de 2022 |
@@ -57,7 +58,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: El estado de la prueba no se actualiza en [!UICONTROL Documento] listas](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
+| [Pruebas: El estado de la prueba no se actualiza en las listas de [!UICONTROL documentos]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
 | [Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) de la tarea | 2 de diciembre de 2022 |
 | [Proyectos: Problemas de rendimiento y mensaje de error al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 de diciembre de 2022 |
 | [Formularios personalizados: Los formularios personalizados de objetos cruzados requieren el acceso de [!UICONTROL Administrar] o [!UICONTROL Editar] para editar los campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 de noviembre de 2022 |
