@@ -1,11 +1,11 @@
 ---
-title: "Listas: Los errores de edición en línea producidos por el usuario no causan mensajes de error"
-description: "Cuando un usuario está editando en línea un objeto y produce un error que debería crear un mensaje de error, no aparece ningún mensaje de error. El error en sí no se guarda en Workfront, por lo que los datos no se ven afectados, pero la falta de un mensaje de error puede causar confusión."
+title: '“Listas: Los errores de edición en línea producidos por el usuario no causan mensajes de error”'
+description: “Cuando un usuario está editando en línea un objeto y produce un error que debería crear un mensaje de error, no aparece ningún mensaje de error. El error en sí no se guarda en Workfront, por lo que los datos no se ven afectados, pero la falta de un mensaje de error puede causar confusión”.
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
