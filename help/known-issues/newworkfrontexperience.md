@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
+source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 95%
+source-wordcount: '613'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: No se pueden agregar documentos desde [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 de diciembre de 2022 |
 | [Documentos: Los permisos de documento no se heredan cuando su problema principal se convierte en un proyecto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 de diciembre de 2022 |
 | [Informes: El informe utiliza el creador de informes en lugar del comodín &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 13 de diciembre de 2022 |
 | [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7 de diciembre de 2022 |
@@ -40,6 +41,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: Las pruebas no desarchivan](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de diciembre de 2022 |
 | [Informes: La pantalla Editar informe está en blanco](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 de diciembre de 2022 |
 | [Documentos: No se puede cargar el archivo MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 de diciembre de 2022 |
 | [Tareas: No se puede agregar la subtarea](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 de diciembre de 2022 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
+source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
 workflow-type: tm+mt
-source-wordcount: '1243'
-ht-degree: 97%
+source-wordcount: '1253'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: Las pruebas no desarchivan](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [Documentos: No se pueden agregar documentos desde [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Informes: La pantalla Editar informe está en blanco](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Documentos: Los permisos de documento no se heredan cuando su problema principal se convierte en un proyecto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Informes: El informe utiliza el creador de informes en lugar del comodín &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
