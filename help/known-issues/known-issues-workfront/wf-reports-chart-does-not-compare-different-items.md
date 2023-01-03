@@ -3,7 +3,7 @@ title: '“Informes: el gráfico combinado muestra los mismos datos dos veces”
 description: “Cuando un usuario ve un gráfico combinado, este muestra un conjunto de valores dos veces en lugar de comparar dos conjuntos de valores diferentes. Los conjuntos de valores correctos están en los detalles del informe.”
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
