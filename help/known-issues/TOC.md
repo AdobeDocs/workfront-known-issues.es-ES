@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
 workflow-type: tm+mt
-source-wordcount: '1253'
-ht-degree: 96%
+source-wordcount: '1268'
+ht-degree: 98%
 
 ---
 
@@ -16,11 +16,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Forms personalizado: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Pruebas: Las pruebas no desarchivan](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documentos: No se pueden agregar documentos desde [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Informes: La pantalla Editar informe está en blanco](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Documentos: Los permisos de documento no se heredan cuando su problema principal se convierte en un proyecto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
-      + [Informes: El informe utiliza el creador de informes en lugar del comodín &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [Informes: El informe utiliza el creador de informes en lugar del comodín “$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Documentos: No se puede cargar el archivo MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Tareas: No se puede agregar la subtarea](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
@@ -163,7 +164,7 @@ ht-degree: 96%
       + [[!DNL Workfront Fusion]: Fallo al ver un error en el historial de ejecución de un escenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: Error 409 en un escenario de [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: Error de tipo “[!UICONTROL No se pudieron cargar los datos]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] > [!UICONTROL Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront]  > [!UICONTROL Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Adobe PDF Services]  > [!UICONTROL Extraer texto] no produce texto](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo no se carga al crear o editar un escenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
