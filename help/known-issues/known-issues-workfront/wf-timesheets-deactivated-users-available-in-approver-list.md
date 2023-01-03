@@ -3,7 +3,7 @@ title: '“Plantillas de horas: Usuarios desactivados disponibles al seleccionar
 description: “Cuando un usuario está creando una plantilla de horas e intenta asignar un aprobador, la lista desplegable incluye a los usuarios desactivados. Si se selecciona un usuario desactivado, la plantilla de horas no se guarda y el usuario ve un mensaje de error”.
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
