@@ -86,7 +86,7 @@ ht-degree: 98%
       + [Equipos: Asignar varios resultados de equipos solo genera un equipo asignado](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Notificaciones: Usuarios no notificados cuando se les menciona o incluye en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Plantillas de horas: Errores al agregar comentarios a una plantilla de horas](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Pruebas: No se puede abrir la prueba en  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Pruebas: No se puede abrir la prueba en  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen] de la tarea](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Pruebas: El usuario no vuelve a la página anterior al cerrar la prueba](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notificaciones: Errores al acceder a la configuración de las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
