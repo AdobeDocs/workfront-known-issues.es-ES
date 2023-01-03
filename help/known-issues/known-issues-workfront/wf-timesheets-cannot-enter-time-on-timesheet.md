@@ -3,7 +3,7 @@ title: '“Plantillas de horas: No se pueden introducir las horas en la plantill
 description: “Cuando un usuario intenta agregar las horas en una plantilla de horas, observa que las casillas para las horas de cualquier columna de Hora de proyecto u Hora de tarea aparecen atenuadas y no puede introducir las horas en estas casillas. Solo puede introducir las horas en el área de la Hora general”.
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
