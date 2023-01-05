@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3c46566128f154a129b0a88a3a6ea335cc07273
+source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 55%
+source-wordcount: '188'
+ht-degree: 38%
 
 ---
 
@@ -32,6 +32,12 @@ Las siguientes funciones ya están disponibles en la sección [!UICONTROL Más] 
 * Cambio del nombre de los pines
 * Reorganización de pines dentro de [!UICONTROL Más] menú
 * Desplazamiento de un pin fuera del [!UICONTROL Más] (al hacerlo, el último pin de la barra de navegación superior se mueve al [!UICONTROL Más] menú)
+
+**Se ha eliminado la limitación de grupos de proyectos al agregar usuarios al equipo de proyectos**
+
+_Equipos_
+
+Se ha eliminado la limitación que requería que los usuarios que deben agregarse a un equipo de proyecto estuvieran en el Grupo asociado al proyecto. Ahora puede agregar cualquier usuario activo a un equipo de proyecto, independientemente de los grupos a los que pertenezcan.
 
 +++
 
