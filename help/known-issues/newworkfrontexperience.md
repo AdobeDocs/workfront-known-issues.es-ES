@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 95%
+source-wordcount: '647'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Actualizaciones: La pantalla se queda en blanco temporalmente al enviar la respuesta](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6 de enero de 2023 |
 | [Documentos: No se pueden agregar documentos desde [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 de diciembre de 2022 |
 | [Documentos: Los permisos de documento no se heredan cuando su problema principal se convierte en un proyecto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 de diciembre de 2022 |
 | [Informes: El informe utiliza el creador de informes en lugar del comodín “$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 13 de diciembre de 2022 |
@@ -41,6 +42,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tareas: Las tareas con sangría no permanecen con sangría](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6 de enero de 2023 |
 | [Forms personalizado: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 de enero de 2023 |
 | [Pruebas: Las pruebas no desarchivan](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de diciembre de 2022 |
 | [Informes: La pantalla Editar informe está en blanco](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 de diciembre de 2022 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas: Las tareas con sangría no permanecen con sangría](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [Actualizaciones: La pantalla se queda en blanco temporalmente al enviar la respuesta](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Forms personalizado: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Pruebas: Las pruebas no desarchivan](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documentos: No se pueden agregar documentos desde [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
