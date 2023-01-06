@@ -2,9 +2,9 @@
 title: '“Proyectos: El estado del proyecto no sigue las preferencias del proyecto de grupo”'
 description: “Cuando un usuario crea un proyecto a partir de una plantilla, el nuevo proyecto no obtiene el estado establecido en las preferencias del proyecto de grupo. Si se crea un proyecto sin plantilla, el estado refleja las preferencias del proyecto de grupo según lo esperado”.
 hidefromtoc: true
-source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se corrigió el 8 de diciembre de 2022.
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
 Cuando un usuario crea un proyecto a partir de una plantilla, el nuevo proyecto no obtiene el estado establecido en las preferencias del proyecto de grupo. Si se crea un proyecto sin plantilla, el estado refleja las preferencias del proyecto de grupo según lo esperado.
 
