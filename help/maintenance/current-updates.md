@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 60%
+source-wordcount: '483'
+ht-degree: 49%
 
 ---
 
@@ -20,6 +20,28 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en enero de 2023
+
++++**(Planificado) Actualización de mantenimiento el 12 de enero de 2023**
+
+**Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables**
+
+_Formularios personalizados_
+
+Cuando un usuario rellena un formulario personalizado y busca en una lista desplegable utilizando Ctrl+F o Cmd+F, luego intenta ir a la siguiente instancia de la búsqueda, la lista desplegable vuelve a la parte superior de la lista en lugar de saltar a la siguiente instancia de la búsqueda. Esto ocurre cuando se establece un menú desplegable para permitir varias selecciones.
+
+**[!UICONTROL Editar informe] la pantalla está en blanco**
+
+_Informes_
+
+Cuando un usuario está viendo un informe y trata de editarlo, se le dirige a una pantalla en blanco y no puede hacerlo.
+
+**Las tareas con sangría no permanecen con sangría**
+
+_Tareas_
+
+Cuando un usuario está viendo una lista de tareas y aplica sangría a una tarea, la tarea vuelve inmediatamente a su estado original (obsoleto).
+
++++
 
 +++**Actualización de mantenimiento del 5 de enero de 2023**
 
