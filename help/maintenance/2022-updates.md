@@ -1,10 +1,10 @@
 ---
-title: Actualizaciones de mantenimiento de Workfront en 2022
+title: Actualizaciones de mantenimiento de Workfront  en 2022
 description: Actualizaciones de mantenimiento de 2022 para [!DNL Adobe Workfront]
 source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16739'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -544,7 +544,7 @@ Si la función de trabajo para la que ha registrado tiempo ha cambiado y la opci
 
 Cuando un usuario que está viendo una prueba en [!DNL Workfront] cierra la prueba, no se devuelve la página en la que se encontraba antes de abrirla. Alternativamente, se le redirige a otra página de [!DNL Workfront].
 
-**No se puede abrir la prueba en[!DNL Workfront]**
+**No se puede abrir la prueba en [!DNL Workfront]**
 
 *Pruebas*
 
@@ -927,7 +927,7 @@ Se han comunicado los siguientes problemas con respecto a la creación de planti
 
 **Las zonas de [!DNL Workfront Proof] no se actualizan cuando se crea, mueve o archiva una prueba**
 
-*[!DNL Workfront]Proof*
+*[!DNL Workfront] Proof*
 
 Proof está experimentando retrasos en la indexación. Esto puede afectar a la experiencia del usuario de las siguientes maneras:
 
@@ -1069,7 +1069,7 @@ Cuando un usuario intenta cargar un archivo adjunto mediante la integración de 
 
 **Actualización de la notificación de prueba por correo electrónico**
 
-*[!DNL Workfront]Proof*
+*[!DNL Workfront] Proof*
 
 A principios de este mes, como parte de un parche para el entorno de producción de [!DNL Workfront], hemos corregido un error en el sistema de notificación de prueba por correo electrónico. Este cambio no se comunicó en la actualización de mantenimiento cuando se publicó. Hemos añadido la siguiente información a la [Actualización de mantenimiento del 2 de junio de 2022](#maintenance-update-on-june-2-2022):
 
