@@ -2,15 +2,19 @@
 title: "Tareas: Las tareas con sangría no permanecen con sangría"
 description: "Cuando un usuario está viendo una lista de tareas y aplica sangría a una tarea, la tarea vuelve inmediatamente a su estado original (obsoleto)."
 hidefromtoc: true
-source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 6%
 
 ---
 
 
 # Tareas: Las tareas con sangría no permanecen con sangría
+
+>[!NOTE]
+>
+>Este problema se corrigió el 12 de enero de 2023.
 
 Cuando un usuario está viendo una lista de tareas y aplica sangría a una tarea, la tarea vuelve inmediatamente a su estado original (obsoleto).
 
