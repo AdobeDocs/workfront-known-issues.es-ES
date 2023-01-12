@@ -3,7 +3,7 @@ title: '“Proyectos: El estado del proyecto no sigue las preferencias del proye
 description: “Cuando un usuario crea un proyecto a partir de una plantilla, el nuevo proyecto no obtiene el estado establecido en las preferencias del proyecto de grupo. Si se crea un proyecto sin plantilla, el estado refleja las preferencias del proyecto de grupo según lo esperado”.
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
