@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '662'
 ht-degree: 63%
 
 ---
@@ -20,6 +20,40 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en enero de 2023
+
++++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento (corrección) el 12 de enero de 2023**
+
+**Errores 404 en módulos[!DNL Workfront]**
+
+_Workfront Fusion_
+
+Cuando se ejecuta un escenario, un módulo [!DNL Workfront] devuelve un error 404.
+
+Se ha informado de este problema en las siguientes módulos:
+
+* [!UICONTROL Leer un registro]
+
++++
+
++++**Actualización de mantenimiento (corrección) el 12 de enero de 2023**
+
+**&quot;[!UICONTROL Whoops]&quot; error al configurar un campo calculado**
+
+_Formularios personalizados_
+
+Cuando un usuario crea o edita un campo calculado en un formulario personalizado e incluye un campo personalizado en la expresión del campo calculado, la expresión se considera no válida. El botón [!UICONTROL Guardar] está desactivado y el usuario no puede salir del campo personalizado. Además, el usuario recibe el siguiente mensaje debajo del campo:
+
+“[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.]”
+
+Al eliminar el campo personalizado de la expresión, el usuario puede guardar y desplazarse fuera del campo.
+
+**No se pueden establecer niveles de acceso**
+
+_Usuarios_
+
+Cuando un usuario intenta cambiar el nivel de acceso de otro usuario, los niveles de acceso aparecen atenuados y el usuario no puede cambiarlos. Esto ocurre incluso cuando el usuario que intenta realizar el cambio es un administrador del sistema.
+
++++
 
 +++**Actualización de mantenimiento del 12 de enero de 2023**
 
