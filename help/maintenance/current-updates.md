@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
 workflow-type: tm+mt
-source-wordcount: '662'
-ht-degree: 63%
+source-wordcount: '771'
+ht-degree: 55%
 
 ---
 
@@ -20,6 +20,22 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en enero de 2023
+
++++**(Planificado) Actualización de mantenimiento del 19 de enero de 2023**
+
+**Las expresiones con caracteres comodín no son válidas en los campos personalizados**
+
+_Formularios personalizados_
+
+Cuando un usuario utiliza un comodín como $$TODAY o $$AHORA junto con un modificador (como &quot;-30d&quot;) en un campo personalizado, el validador no acepta el comodín como válido. Los comodines sin modificadores se consideran válidos.
+
+**[!UICONTROL Equilibrador de carga de trabajo] muestra las horas que no están asociadas a un proyecto, tarea o problema**
+
+_[!UICONTROL Distribuidor de cargas de trabajo]_
+
+Cuando un usuario ve la variable [!UICONTROL Equilibrador de carga de trabajo], verán las horas registradas para un usuario que no está asociado a ningún proyecto, tarea o problema, ni se registran como [!UICONTROL General] horas. Estas horas solo pueden mostrarse en la vista de 4 semanas o 6 semanas.
+
++++
 
 +++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento (corrección) el 12 de enero de 2023**
 
