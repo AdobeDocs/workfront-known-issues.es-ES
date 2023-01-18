@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '770'
 ht-degree: 55%
 
 ---
@@ -21,13 +21,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en enero de 2023
 
-+++**(Planificado) Actualización de mantenimiento del 19 de enero de 2023**
++++**Actualización de mantenimiento del 18 de enero de 2023**
 
 **Las expresiones con caracteres comodín no son válidas en los campos personalizados**
 
 _Formularios personalizados_
 
-Cuando un usuario utiliza un comodín como $$TODAY o $$AHORA junto con un modificador (como &quot;-30d&quot;) en un campo personalizado, el validador no acepta el comodín como válido. Los comodines sin modificadores se consideran válidos.
+Cuando un usuario utiliza un comodín como \$$TODAY o $$AHORA junto con un modificador (como &quot;-30d&quot;) en un campo personalizado, el validador no acepta el comodín como válido. Los comodines sin modificadores se consideran válidos.
 
 **[!UICONTROL Equilibrador de carga de trabajo] muestra las horas que no están asociadas a un proyecto, tarea o problema**
 
