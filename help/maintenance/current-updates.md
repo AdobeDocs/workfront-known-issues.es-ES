@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 55%
+source-wordcount: '879'
+ht-degree: 49%
 
 ---
 
@@ -20,6 +20,26 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en enero de 2023
+
++++**Actualización de mantenimiento del 19 de enero de 2023**
+
+**Los filtros de columnas de entrada ahora se pueden compartir**
+
+_Tableros_
+
+Cuando la función de columna de admisión se liberó a los tableros, la persona que creó esos filtros solo podía ver los filtros para configurar la columna de admisión. Ahora el creador puede compartir los filtros con otros usuarios o equipos.
+
+**Funcionalidad de pines disponible en [!UICONTROL Más] menú**
+
+_Exploración_
+
+Las siguientes funciones ya están disponibles en la sección [!UICONTROL Más] para pines, en el entorno Producción:
+
+* Cambio del nombre de los pines
+* Reorganización de pines dentro de [!UICONTROL Más] menú
+* Desplazamiento de un pin fuera del [!UICONTROL Más] (al hacerlo, el último pin de la barra de navegación superior se mueve al [!UICONTROL Más] menú)
+
++++
 
 +++**Actualización de mantenimiento del 18 de enero de 2023**
 
