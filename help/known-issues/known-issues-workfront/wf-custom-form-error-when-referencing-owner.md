@@ -3,14 +3,18 @@ title: '“Formularios personalizados: mensaje de expresión personalizada no v�
 description: 'Cuando un usuario añade un campo calculado a un formulario personalizado de nivel de problema e intenta añadir referencias a un propietario (como “ownerID”), el campo no se guarda y el usuario ve el siguiente mensaje: “La expresión personalizada no es válida, inténtelo de nuevo”.'
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '157'
 ht-degree: 100%
 
 ---
 
 # Formularios personalizados: mensaje de “[!UICONTROL expresión personalizada no válida]” al añadir una referencia al “[!UICONTROL propietario]” en un campo calculado
+
+>[!NOTE]
+>
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
 <!--
 >[!NOTE]
