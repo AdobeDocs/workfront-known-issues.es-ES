@@ -6,7 +6,7 @@ exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API: &quot;[!UICONTROL El cuerpo no es un XML válido]&quot; error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |
+| [[!DNL Workfront Proof] API: error &quot;[!UICONTROL El cuerpo no es un XML válido]&quot;](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 de agosto de 2022 |
 
 {style=&quot;table-layout:auto&quot;}

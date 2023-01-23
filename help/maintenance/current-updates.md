@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
 source-wordcount: '879'
-ht-degree: 49%
+ht-degree: 74%
 
 ---
 
@@ -29,15 +29,15 @@ _Tableros_
 
 Cuando la función de columna de admisión se liberó a los tableros, la persona que creó esos filtros solo podía ver los filtros para configurar la columna de admisión. Ahora el creador puede compartir los filtros con otros usuarios o equipos.
 
-**Funcionalidad de pines disponible en [!UICONTROL Más] menú**
+**Funcionalidad de pines disponible en el menú [!UICONTROL Más]**
 
 _Exploración_
 
 Las siguientes funciones ya están disponibles en la sección [!UICONTROL Más] para pines, en el entorno Producción:
 
 * Cambio del nombre de los pines
-* Reorganización de pines dentro de [!UICONTROL Más] menú
-* Desplazamiento de un pin fuera del [!UICONTROL Más] (al hacerlo, el último pin de la barra de navegación superior se mueve al [!UICONTROL Más] menú)
+* Reorganización de pines dentro del menú [!UICONTROL Más]
+* Desplazamiento de un pin fuera del menú [!UICONTROL Más] (al hacerlo, el último pin de la barra de navegación superior se mueve al menú [!UICONTROL Más])
 
 +++
 
@@ -99,7 +99,7 @@ _Formularios personalizados_
 
 Cuando un usuario rellena un formulario personalizado y busca en una lista desplegable utilizando Ctrl+F o Cmd+F, luego intenta ir a la siguiente instancia de la búsqueda, la lista desplegable vuelve a la parte superior de la lista en lugar de saltar a la siguiente instancia de la búsqueda. Esto ocurre cuando se establece un menú desplegable para permitir varias selecciones.
 
-**[!UICONTROL Editar informe] la pantalla está en blanco**
+La pantalla **[!UICONTROL Editar informe] está en blanco**
 
 _Informes_
 
@@ -115,23 +115,23 @@ Cuando un usuario está viendo una lista de tareas y aplica sangría a una tarea
 
 +++**Actualización de mantenimiento del 5 de enero de 2023**
 
-**Funcionalidad de pines disponible en [!UICONTROL Más] menú**
+**Funcionalidad de pines disponible en el menú [!UICONTROL Más]**
 
 _Exploración_
 
-Las siguientes funciones ya están disponibles en la sección [!UICONTROL Más] para pines, solo en el entorno de vista previa:
+Las siguientes funciones ya están disponibles en el menú [!UICONTROL Más] para pines, solo en el entorno de vista previa:
 
 * Cambio del nombre de los pines
-* Reorganización de pines dentro de [!UICONTROL Más] menú
-* Desplazamiento de un pin fuera del [!UICONTROL Más] (al hacerlo, el último pin de la barra de navegación superior se mueve al [!UICONTROL Más] menú)
+* Reorganización de pines dentro del menú [!UICONTROL Más]
+* Desplazamiento de un pin fuera del menú [!UICONTROL Más] (al hacerlo, el último pin de la barra de navegación superior se mueve al menú [!UICONTROL Más])
 
 **Se ha eliminado la limitación de grupos de proyectos al agregar usuarios al equipo de proyectos**
 
 _Equipos_
 
-Se ha eliminado la limitación que requería que los usuarios que deben agregarse a un equipo de proyecto estuvieran en el Grupo asociado al proyecto. Ahora puede agregar cualquier usuario activo a un equipo de proyecto, independientemente de los grupos a los que pertenezcan.
+Se ha eliminado la limitación que requería que los usuarios que deben agregarse a un equipo de proyecto estuvieran en el Grupo asociado al proyecto. Ahora, puede agregar cualquier usuario activo a un equipo de proyecto, independientemente de los grupos a los que pertenezca.
 
-**Nuevos iconos de información para las plantillas de horas, los perfiles de plantilla de horas y las preferencias de plantilla de horas**
+**Nuevos iconos de información para las plantillas de horas, los perfiles de plantillas de horas y las preferencias de plantillas de horas**
 
 >[!NOTE]
 >

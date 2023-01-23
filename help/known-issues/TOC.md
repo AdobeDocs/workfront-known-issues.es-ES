@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
 source-wordcount: '1316'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -142,7 +142,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof] API: &quot;[!UICONTROL El cuerpo no es un XML válido]&quot; error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
+      + [[!DNL Workfront Proof] API: error &quot;[!UICONTROL El cuerpo no es un XML válido]&quot;](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]: No se puede abrir una prueba interactiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
