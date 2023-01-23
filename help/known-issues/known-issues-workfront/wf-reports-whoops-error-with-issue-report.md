@@ -3,7 +3,7 @@ title: '“Informes: error al añadir un problema nuevo a un informe de problema
 description: “Cuando un usuario está viendo un informe de problemas que se ha añadido a una tarea e intenta añadir un problema nuevo, este no se añade y el usuario ve un error.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
