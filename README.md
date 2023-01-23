@@ -1,8 +1,8 @@
 ---
 source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 # Artículo de Contribute
@@ -15,13 +15,13 @@ Este proyecto ha adoptado el [Código de conducta de código abierto de Adobe](c
 
 ## Acerca de sus contribuciones al contenido de Adobe
 
-Consulte la [Guía de colaborador de Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Consulte la [Guía de colaborador de Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es).
 
 Hay diversas formas de contribuir, según quién sea usted y los cambios que le gustaría aportar:
 
 ### Cambios menores
 
-Si está contribuyendo con actualizaciones menores de buena voluntad, visite el artículo y haga clic en el enlace **Editar** en el artículo que va a la fuente de GitHub. A continuación, solo tiene que usar la interfaz de usuario de GitHub para realizar las actualizaciones. Consulte la [guía general de colaborador de Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para más información.
+Si está contribuyendo con actualizaciones menores de buena voluntad, visite el artículo y haga clic en el enlace **Editar** en el artículo que va a la fuente de GitHub. A continuación, solo tiene que usar la interfaz de usuario de GitHub para realizar las actualizaciones. Consulte la [guía general de colaborador de Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es) para más información.
 
 Las correcciones o aclaraciones menores que envíe para la documentación y los ejemplos de código en este repositorio están cubiertas por las condiciones de uso de Adobe.
 
@@ -43,7 +43,7 @@ Si es redactor técnico, director de programa o desarrollador del equipo de prod
 
 Los colaboradores de la comunidad pueden usar la interfaz de usuario de GitHub para una edición básica o bifurcar el repositorio para hacer contribuciones importantes.
 
-Consulte la [Guía de colaborador de Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para más detalles.
+Consulte la [Guía de colaborador de Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es) para más detalles.
 
 ## Cómo utilizar markdown para dar formato al tema
 
