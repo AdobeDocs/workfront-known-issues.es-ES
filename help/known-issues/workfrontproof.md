@@ -3,9 +3,9 @@ title: Problemas conocidos de [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '216'
 ht-degree: 97%
 
 ---
@@ -36,7 +36,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: error &quot;[!UICONTROL El cuerpo no es un XML válido]&quot;](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |
 | [Documentos: No se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de enero de 2023 |
-| [Pruebas: Las pruebas no desarchivan](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de diciembre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

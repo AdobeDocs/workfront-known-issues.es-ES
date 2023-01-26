@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 97%
+source-wordcount: '571'
+ht-degree: 96%
 
 ---
 
@@ -30,16 +30,15 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 {style=&quot;table-layout:auto&quot;}
 
-
 ## En curso
 
 Las soluciones para estos problemas están actualmente en curso o están programadas para un futuro próximo.
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Usuarios: La desactivación programada no desactiva el usuario](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 de enero de 2023 |
 | [Configuración: No se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 de enero de 2023 |
 | [Documentos: No se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de enero de 2023 |
-| [Pruebas: Las pruebas no desarchivan](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de diciembre de 2022 |
 | [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de noviembre de 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 

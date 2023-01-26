@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
 workflow-type: tm+mt
-source-wordcount: '1316'
-ht-degree: 98%
+source-wordcount: '1323'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Usuarios: La desactivación programada no desactiva el usuario](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configuración: No se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Usuarios: El usuario no puede editar su propia configuración de usuario](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documentos: No se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md)

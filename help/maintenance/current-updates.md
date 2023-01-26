@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 72%
+source-wordcount: '1071'
+ht-degree: 67%
 
 ---
 
@@ -32,6 +32,17 @@ Cuando un usuario intenta enviar una solicitud con datos adjuntos de un correo e
 &quot;[!UICONTROL Se produjo el siguiente error: El archivo con el identificador xxxx no existe.]&quot;
 
 Esto solo ocurre cuando se realiza una asignación para la nueva solicitud, ya sea a través de la cola de solicitudes o manualmente al crear la solicitud.
+
+**Nueva versión del visor de prueba de escritorio**
+
+_Prueba_
+
+Para solucionar un problema de congelación en el Visor de prueba de escritorio, hemos implementado una nueva versión del visor de pruebas de escritorio. Los usuarios que ya tengan instalado Desktop Proofing Viewer obtendrán esta actualización automáticamente.
+
+Los usuarios también pueden bajar manualmente la versión más reciente. Para obtener más información, consulte [Instalación del Visor de prueba de escritorio](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* Versión anterior: 2.1.19
+* Nueva versión: 2.1.20
 
 **El usuario no puede editar su propia configuración de usuario**
 
