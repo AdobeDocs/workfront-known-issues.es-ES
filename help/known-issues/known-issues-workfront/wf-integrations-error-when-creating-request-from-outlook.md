@@ -2,15 +2,19 @@
 title: "Integraciones: Error al enviar la solicitud desde Outlook"
 description: '"Cuando un usuario intenta enviar una solicitud con archivos adjuntos de un correo electrónico de [!DNL Outlook] , uno o más archivos adjuntos no se cargan y el usuario ve un error".'
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 94%
 
 ---
 
 
 # Integraciones: Error al enviar la solicitud desde [!DNL Outlook]
+
+>[!NOTE]
+>
+>Este problema se corrigió el 26 de enero de 2023.
 
 Cuando un usuario intenta enviar una solicitud con datos adjuntos de un correo electrónico de [!DNL Outlook], uno o más archivos adjuntos no se cargan y el usuario ve el siguiente error:
 
