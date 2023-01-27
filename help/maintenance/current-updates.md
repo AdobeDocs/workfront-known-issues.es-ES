@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
 source-wordcount: '1071'
-ht-degree: 67%
+ht-degree: 92%
 
 ---
 
@@ -48,7 +48,7 @@ Los usuarios también pueden bajar manualmente la versión más reciente. Para o
 
 _Usuarios_
 
-Cuando un usuario con licencia de trabajo, revisión o solicitud intenta editar su propia configuración de usuario, la ventana emergente que se abre está en blanco y el usuario no puede realizar ningún cambio. Para salir de la ventana emergente, el usuario debe actualizar la página.
+Cuando un usuario con una licencia de Trabajo, Revisión, o Solicitud intenta editar su propia configuración de usuario, la ventana emergente que se abre está en blanco y el usuario no puede realizar ningún cambio. Para salir de la ventana emergente, el usuario debe actualizar la página.
 
 +++
 
@@ -58,13 +58,13 @@ Cuando un usuario con licencia de trabajo, revisión o solicitud intenta editar 
 
 _Tableros_
 
-Cuando la función de columna de admisión se liberó a los tableros, la persona que creó esos filtros solo podía ver los filtros para configurar la columna de admisión. Ahora el creador puede compartir los filtros con otros usuarios o equipos.
+Cuando la funcionalidad de columna de entrada se envió a los Paneles, la persona que creó esos filtros solo podía ver los filtros para configurar la columna de entrada. Ahora el creador puede compartir los filtros con otros usuarios o equipos.
 
 **Funcionalidad de pines disponible en el menú [!UICONTROL Más]**
 
 _Exploración_
 
-Las siguientes funciones ya están disponibles en la sección [!UICONTROL Más] para pines, en el entorno Producción:
+Las siguientes funciones ya están disponibles en el menú [!UICONTROL Más] para pines, en el entorno de producción:
 
 * Cambio del nombre de los pines
 * Reorganización de pines dentro del menú [!UICONTROL Más]
@@ -78,19 +78,19 @@ Las siguientes funciones ya están disponibles en la sección [!UICONTROL Más] 
 
 _Formularios personalizados_
 
-Cuando un usuario utiliza un comodín como \$$TODAY o $$AHORA junto con un modificador (como &quot;-30d&quot;) en un campo personalizado, el validador no acepta el comodín como válido. Los comodines sin modificadores se consideran válidos.
+Cuando un usuario utiliza un comodín como \$$TODAY o $$NOW junto con un modificador (como “-30d”) en un campo personalizado, el validador no acepta el comodín como válido. Los comodines sin modificadores se consideran válidos.
 
-**[!UICONTROL Equilibrador de carga de trabajo] muestra las horas que no están asociadas a un proyecto, tarea o problema**
+El **[!UICONTROL Distribuidor de cargas de trabajo] muestra las horas que no están asociadas a un proyecto, tarea o problema**
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Cuando un usuario ve la variable [!UICONTROL Equilibrador de carga de trabajo], verán las horas registradas para un usuario que no está asociado a ningún proyecto, tarea o problema, ni se registran como [!UICONTROL General] horas. Estas horas solo pueden mostrarse en la vista de 4 semanas o 6 semanas.
+Cuando un usuario ve la variable [!UICONTROL Distribuidor de cargas de trabajo], verá las horas registradas para un usuario que no está asociado a ningún proyecto, tarea o problema, ni se registran como horas [!UICONTROL Generales]. Estas horas solo pueden mostrarse en la vista de 4 o 6 semanas.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento (corrección) el 12 de enero de 2023**
++++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento (Hot Fix) el 12 de enero de 2023**
 
-**Errores 404 en módulos[!DNL Workfront]**
+**Errores 404 en módulos [!DNL Workfront]**
 
 _Workfront Fusion_
 
@@ -102,9 +102,9 @@ Se ha informado de este problema en las siguientes módulos:
 
 +++
 
-+++**Actualización de mantenimiento (corrección) el 12 de enero de 2023**
++++**Actualización de mantenimiento (Hot Fix) el 12 de enero de 2023**
 
-**&quot;[!UICONTROL Whoops]&quot; error al configurar un campo calculado**
+**Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado**
 
 _Formularios personalizados_
 

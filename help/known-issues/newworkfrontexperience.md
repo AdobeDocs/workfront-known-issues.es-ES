@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
 workflow-type: tm+mt
 source-wordcount: '571'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: No se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 de enero de 2023 |
+| [Documentos: no se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 de enero de 2023 |
 | [Pruebas: La generación de pruebas es extremadamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de octubre de 2022 |
 | [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de octubre de 2022 |
 
@@ -37,8 +37,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Usuarios: La desactivación programada no desactiva el usuario](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 de enero de 2023 |
-| [Configuración: No se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 de enero de 2023 |
-| [Documentos: No se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de enero de 2023 |
+| [Configuración: no se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 de enero de 2023 |
+| [Documentos: no se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de enero de 2023 |
 | [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de noviembre de 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 

@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
 workflow-type: tm+mt
 source-wordcount: '1323'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Usuarios: La desactivación programada no desactiva el usuario](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
-      + [Configuración: No se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md)
-      + [Usuarios: El usuario no puede editar su propia configuración de usuario](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
-      + [Documentos: No se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md)
-      + [Documentos: Error al cargar un archivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
+      + [Configuración: no se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [Usuarios: el usuario no puede editar su propia configuración de usuario](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
+      + [Documentos: no se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [Documentos: error al cargar un archivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Tareas: Las tareas con sangría no permanecen con sangría](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Actualizaciones: La pantalla se queda en blanco temporalmente al enviar la respuesta](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Forms personalizado: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables](known-issues-workfront/wf-custom-forms-dropdown-search.md)
@@ -143,7 +143,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof] API: error &quot;[!UICONTROL El cuerpo no es un XML válido]&quot;](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
+      + [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]: No se puede abrir una prueba interactiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
