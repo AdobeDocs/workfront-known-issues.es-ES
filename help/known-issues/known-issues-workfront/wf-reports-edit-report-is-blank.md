@@ -3,9 +3,9 @@ title: '“Informes: La pantalla Editar informe está en blanco”'
 description: “Cuando un usuario está viendo un informe y trata de editarlo, se le dirige a una pantalla en blanco y no puede hacerlo”.
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
