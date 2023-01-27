@@ -1,9 +1,9 @@
 ---
-title: "Las pruebas se muestran menos nítidas que la imagen original"
-description: '"Cuando un usuario crea una prueba y luego la ve en el visualizador de pruebas, esta se ve menos nítida (más borrosa) que la imagen original".'
+title: “Las pruebas se muestran menos nítidas que la imagen original”
+description: “Cuando un usuario crea una prueba y luego la ve en el visualizador de pruebas, esta se ve menos nítida (más borrosa) que la imagen original”.
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
