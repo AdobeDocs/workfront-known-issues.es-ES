@@ -1,12 +1,12 @@
 ---
-title: 'Formularios personalizados: Error Whoops al configurar un campo calculado'
-description: Cuando un usuario crea o edita un campo calculado en un formulario personalizado e incluye un campo personalizado en la expresión del campo calculado, la expresión se considera no válida. El botón Guardar está desactivado y el usuario no puede salir del campo personalizado. Además, el usuario ve un mensaje Whoops debajo del campo .
+title: '“Formularios personalizados: Error ¡Uy! al configurar un campo calculado”'
+description: Cuando un usuario crea o edita un campo calculado en un formulario personalizado e incluye un campo personalizado en la expresión del campo calculado, la expresión se considera no válida. El botón Guardar está desactivado y el usuario no puede salir del campo personalizado. Además, el usuario verá el mensaje de error ¡Vaya! debajo del campo.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
