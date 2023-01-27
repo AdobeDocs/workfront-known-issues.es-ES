@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
-workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -34,8 +34,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API: error &quot;[!UICONTROL El cuerpo no es un XML válido]&quot;](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |
-| [Documentos: No se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de enero de 2023 |
+| [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |
+| [Documentos: no se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de enero de 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 
