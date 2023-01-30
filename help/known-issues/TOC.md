@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
 workflow-type: tm+mt
-source-wordcount: '1323'
-ht-degree: 99%
+source-wordcount: '1361'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolio o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Configuración]: Los registros de auditoría no exportan](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Resumen]: No se puede desplazar [!UICONTROL Resumen] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Documentos: Error &quot;Respuesta no válida&quot; al abrir o descargar un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Usuarios: La desactivación programada no desactiva el usuario](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configuración: no se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Usuarios: el usuario no puede editar su propia configuración de usuario](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -167,6 +171,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]: Errores 404 en módulos Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: no se puede crear la conexión con [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Los elementos de la matriz en el módulo [!UICONTROL Iterator] se muestran como “[!UICONTROL objeto Objeto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fallo al ver un error en el historial de ejecución de un escenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
