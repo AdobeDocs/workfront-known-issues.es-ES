@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '1071'
-ht-degree: 92%
+source-wordcount: '1319'
+ht-degree: 78%
 
 ---
 
@@ -20,6 +20,41 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en enero de 2023
+
++++**Actualización de mantenimiento del 30 de enero de 2023**
+
+**Métodos abreviados de teclado agregados para acciones comunes de hojas de horas**
+
+_Plantillas de horas_
+
+Hemos introducido los siguientes métodos abreviados del teclado para las siguientes acciones que se realizan con más frecuencia dentro de un parte de horas:
+
+* Añadir fila (Cmd+Opción++ / Ctrl+Opción++)
+* Eliminar fila (Cmd+Opción+- / Ctrl+Opción+-)
+* Fijar o desfijar un elemento de trabajo (Opción+P/Opción+P)
+* Abrir comentario (Mayús + F2 / Mayús + F2)
+* Guardar comentario (Cmd+Intro/Ctrl+Intro)
+* Expandir (Mayús+Opción+Flecha arriba/Mayús+Alt+Flecha arriba)
+* Contraer (Mayús+Opción+Flecha abajo/ Mayús+Alt+Flecha abajo)
+
+El área en la que se realizan estas acciones debe estar resaltada para que se apliquen.
+
+**Nuevos iconos de información para las plantillas de horas, los perfiles de plantillas de horas y las preferencias de plantillas de horas**
+
+_Plantillas de horas_
+
+>[!NOTE]
+>
+>Esta actualización solo se publicó en el entorno de vista previa el 3 de noviembre de 2022 y ahora está disponible en Producción.
+
+Hemos añadido varios iconos de información a las siguientes opciones de configuración:
+
+* &quot;[!UICONTROL Puede editar el tiempo]&quot; al crear o editar un parte de horas o un perfil de parte de horas para indicar que, cuando está activado, los aprobadores también pueden enviar, volver a abrir o editar el parte de horas, a menos que el administrador restrinja estas acciones en [!UICONTROL Preferencias de partes de horas] área de [!UICONTROL Configuración].
+* &quot;[!UICONTROL Restringir la edición de hojas de horas a propietarios y administradores]&quot; en el [!UICONTROL Preferencias de horario y hora] área de [!UICONTROL Configuración] para indicar que, cuando está desactivado, los siguientes usuarios también pueden editar las partes de horas: usuarios con acceso administrativo a hojas de horas y horas, aprobadores de hojas de horas permitidos para editar la hora y administradores de propietarios de hojas de horas.
+
+Tenga en cuenta que la funcionalidad de estas opciones de configuración no ha cambiado y que solo se han añadido los iconos de información para aclarar el ámbito de la configuración.
+
++++
 
 +++**Actualización de mantenimiento del 26 de enero de 2023**
 
