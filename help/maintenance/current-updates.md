@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
+source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1319'
-ht-degree: 78%
+source-wordcount: '1351'
+ht-degree: 79%
 
 ---
 
@@ -19,7 +19,17 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
-## Actualizaciones en enero de 2023
+## Actualizaciones en febrero de 2023
+
++++**Actualización de mantenimiento del 2 de febrero de 2023**
+
+**No se pueden guardar las plantillas de correo electrónico**
+
+_Configurar_
+
+Cuando un usuario intenta crear o editar una plantilla de correo electrónico, el botón [!UICONTROL Guardar] no responde y el usuario no puede guardar la plantilla.
+
++++
 
 +++**Actualización de mantenimiento del 30 de enero de 2023**
 
