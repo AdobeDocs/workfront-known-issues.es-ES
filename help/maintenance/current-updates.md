@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '1351'
-ht-degree: 79%
+source-wordcount: '1402'
+ht-degree: 76%
 
 ---
 
@@ -23,7 +23,11 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**Actualización de mantenimiento del 2 de febrero de 2023**
 
-**No se pueden guardar las plantillas de correo electrónico**
+**El icono Tableros aparece en el menú principal de forma predeterminada**
+
+_Tableros_
+
+El icono Tableros aparece ahora en el menú principal para los usuarios que no tienen una plantilla de diseño. Los tableros también se incluyen en el menú principal de forma predeterminada para cualquier plantilla de diseño nueva que se cree. Las plantillas de diseño existentes no han cambiado.**No se pueden guardar las plantillas de correo electrónico**
 
 _Configurar_
 
