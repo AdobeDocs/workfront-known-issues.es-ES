@@ -2,15 +2,19 @@
 title: '“Documentos: no se puede restaurar el documento eliminado”'
 description: “Cuando un usuario intenta restaurar un documento eliminado anteriormente, no puede restaurarlo y verá el error ¡Uy!”.
 hidefromtoc: true
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 92%
 
 ---
 
 
 # Documentos: no se puede restaurar el documento eliminado
+
+>[!NOTE]
+>
+>Este problema se corrigió el 2 de febrero de 2023.
 
 <!-- On WF and WFP TOCs-->
 

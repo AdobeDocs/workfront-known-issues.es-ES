@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 88%
+source-wordcount: '623'
+ht-degree: 89%
 
 ---
 
@@ -27,8 +27,6 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | [Documentos: El panel Resumen vuelve a la parte superior al hacer clic en el menú de tres puntos](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 de enero de 2023 |
 | [Documentos: Error &quot;Esa página no existe&quot; al abrir o descargar un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 de enero de 2023 |
 | [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolio o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 de enero de 2023 |
-| [Documentos: Error &quot;Respuesta no válida&quot; al abrir o descargar un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 de enero de 2023 |
-| [Documentos: no se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 de enero de 2023 |
 | [Pruebas: La generación de pruebas es extremadamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de octubre de 2022 |
 | [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de octubre de 2022 |
 

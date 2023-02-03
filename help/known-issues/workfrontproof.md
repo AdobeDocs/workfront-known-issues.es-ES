@@ -3,10 +3,10 @@ title: Problemas conocidos de [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 87%
+source-wordcount: '247'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: El panel Resumen vuelve a la parte superior al hacer clic en el menú de tres puntos](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 de enero de 2023 |
 | [Documentos: Error &quot;Esa página no existe&quot; al abrir o descargar un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 de enero de 2023 |
-| [Documentos: Error &quot;Respuesta no válida&quot; al abrir o descargar un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 de enero de 2023 |
 | [Documentos: No se pueden agregar documentos desde [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 de diciembre de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,7 +37,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |
-| [Documentos: no se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de enero de 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 

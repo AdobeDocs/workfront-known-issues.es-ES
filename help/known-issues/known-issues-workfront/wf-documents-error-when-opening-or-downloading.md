@@ -2,9 +2,9 @@
 title: "Documentos: Error de respuesta no válido al abrir o descargar un documento"
 description: "Cuando un usuario intenta abrir o descargar un documento en Workfront, no puede abrirlo ni descargarlo y ve un error"
 hidefromtoc: true
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 5%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 5%
 # Documentos: Error &quot;Respuesta no válida&quot; al abrir o descargar un documento
 
 <!--This article is on the WF and WFP TOC-->
+
+>[!NOTE]
+>
+>Este problema se corrigió el 2 de febrero de 2023.
 
 Cuando un usuario intenta abrir o descargar un documento en Workfront, no puede abrirlo ni descargarlo y ve el siguiente error:
 
