@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1428'
-ht-degree: 75%
+source-wordcount: '1482'
+ht-degree: 73%
 
 ---
 
@@ -24,6 +24,16 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 +++**(Planificado) Actualización de mantenimiento el 9 de febrero de 2023**
 
 Esta actualización solo incluye correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront]le avisará cuando haya solucionado un problema enviado por usted.
+
++++
+
++++**Actualización de mantenimiento del 8 de febrero de 2023**
+
+**Botón Filtro en la columna de admisión**
+
+_Tableros_
+
+La columna de admisión de un tablero ahora incluye un **Añadir un filtro** cuando la columna está vacía y no se han creado filtros. El botón abre el área de configuración, donde puede agregar filtros para incluir tareas y problemas en la columna de admisión.
 
 +++
 
