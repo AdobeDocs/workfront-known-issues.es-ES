@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
+source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 73%
+source-wordcount: '1506'
+ht-degree: 71%
 
 ---
 
@@ -21,9 +21,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en febrero de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 9 de febrero de 2023**
++++**Actualización de mantenimiento del 9 de febrero de 2023**
 
-Esta actualización solo incluye correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront]le avisará cuando haya solucionado un problema enviado por usted.
+**[!UICONTROL Puntos de artículo] campo añadido a listas de tareas y problemas e informes**
+
+_Informes_
+
+La variable [!UICONTROL Puntos de artículo] ahora está disponible para agregarlo a listas e informes para tareas o problemas. Se trata de un campo de forma libre editable que no está vinculado a las horas programadas ni a las asignaciones de equipo.
 
 +++
 
@@ -33,17 +37,17 @@ Esta actualización solo incluye correcciones de errores menores o menos importa
 
 _Tableros_
 
-La columna de admisión de un tablero ahora incluye un **Añadir un filtro** cuando la columna está vacía y no se han creado filtros. El botón abre el área de configuración, donde puede agregar filtros para incluir tareas y problemas en la columna de admisión.
+La columna de admisión de un tablero ahora incluye un **[!UICONTROL Añadir un filtro]** cuando la columna está vacía y no se han creado filtros. El botón abre el área de configuración, donde puede agregar filtros para incluir tareas y problemas en la columna de admisión.
 
 +++
 
 +++**Actualización de mantenimiento del 2 de febrero de 2023**
 
-**El icono Tableros aparece en el menú principal de forma predeterminada**
+**[!UICONTROL Tableros] aparece en [!UICONTROL Menú principal] de forma predeterminada**
 
 _Tableros_
 
-El icono Tableros aparece ahora en el menú principal para los usuarios que no tienen una plantilla de diseño. Los tableros también se incluyen en el menú principal de forma predeterminada para cualquier plantilla de diseño nueva que se cree. Las plantillas de diseño existentes no han cambiado.
+La variable [!UICONTROL Tableros] ahora aparece en la sección [!UICONTROL Menú principal] para usuarios que no tienen una plantilla de diseño. Los tableros también se incluyen en el menú principal de forma predeterminada para cualquier plantilla de diseño nueva que se cree. Las plantillas de diseño existentes no han cambiado.
 
 **No se pueden guardar las plantillas de correo electrónico**
 
