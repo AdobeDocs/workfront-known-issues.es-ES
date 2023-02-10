@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
+source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 91%
+source-wordcount: '615'
+ht-degree: 90%
 
 ---
 
@@ -24,6 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Usuarios: El usuario no puede editar su propia configuración de notificación](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 10 de febrero de 2023 |
 | [Documentos: Los permisos no se heredan cuando un documento se mueve a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de febrero de 2023 |
 | [Documentos: El panel Resumen vuelve a la parte superior al hacer clic en el menú de tres puntos](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 de enero de 2023 |
 | [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolio o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 de enero de 2023 |
