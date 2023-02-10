@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1453'
 ht-degree: 91%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Actualizaciones: Vínculo a un comentario redirige a [!UICONTROL Detalles] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Usuarios: El usuario no puede editar su propia configuración de notificación](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [Documentos: Los permisos no se heredan cuando un documento se mueve a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Equilibrador de carga de trabajo: Resultados inexactos al usar varios filtros a la vez](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
