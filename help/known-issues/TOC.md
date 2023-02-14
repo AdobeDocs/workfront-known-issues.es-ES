@@ -3,8 +3,8 @@ user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1462'
+ht-degree: 91%
 
 ---
 
@@ -28,14 +28,14 @@ ht-degree: 0%
       + [[!UICONTROL Configuración]: Los registros de auditoría no exportan](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL Resumen]: No se puede desplazar [!UICONTROL Resumen] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [Documentos: Error &quot;Respuesta no válida&quot; al abrir o descargar un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
-      + [Usuarios: La desactivación programada no desactiva el usuario](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
+      + [Usuarios: la desactivación programada no desactiva al usuario](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configuración: no se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Usuarios: el usuario no puede editar su propia configuración de usuario](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documentos: no se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Documentos: error al cargar un archivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Tareas: Las tareas con sangría no permanecen con sangría](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Actualizaciones: La pantalla se queda en blanco temporalmente al enviar la respuesta](known-issues-workfront/wf-updates-reply-goes-blank.md)
-      + [Forms personalizado: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables](known-issues-workfront/wf-custom-forms-dropdown-search.md)
+      + [Formularios personalizados: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Pruebas: Las pruebas no desarchivan](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documentos: No se pueden agregar documentos desde [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Informes: La pantalla Editar informe está en blanco](known-issues-workfront/wf-reports-edit-report-is-blank.md)
@@ -117,7 +117,7 @@ ht-degree: 0%
       + [Formularios personalizados: Los campos de texto descriptivos muestran información sobre herramientas](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [Integraciones: Error 404 al añadir un documento desde [!DNL SharePoint] [!UICONTROL (Graph API)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integraciones: [!DNL SharePoint] La carpeta no aparece para su propietario](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
-      + [Integraciones: Error al enviar la solicitud desde [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
+      + [Integraciones: Error al enviar la solicitud desde  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Plantillas de horas: Error “[!UICONTROL Otra persona ha intentado guardar este proyecto]” al introducir las horas](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Paneles: No se puede acceder al panel desde la navegación izquierda en un objeto](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [Tareas y asuntos: Salida involuntaria al crear tareas o asuntos](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
