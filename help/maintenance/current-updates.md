@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
+source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
 workflow-type: tm+mt
-source-wordcount: '1506'
-ht-degree: 71%
+source-wordcount: '1538'
+ht-degree: 76%
 
 ---
 
@@ -20,6 +20,16 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en febrero de 2023
+
++++**(Planificado) Actualización de mantenimiento el 16 de febrero de 2023**
+
+**La desactivación programada no desactiva el usuario**
+
+_Usuarios_
+
+Cuando se programa la desactivación de un usuario y la fecha y hora programadas pasan, el usuario no se desactiva.
+
++++
 
 +++**Actualización de mantenimiento del 9 de febrero de 2023**
 
@@ -94,7 +104,7 @@ Tenga en cuenta que la funcionalidad de estas opciones de configuración no ha c
 
 +++**Actualización de mantenimiento del 26 de enero de 2023**
 
-**Error al enviar la solicitud desde[!DNL Outlook]**
+**Error al enviar la solicitud desde [!DNL Outlook]**
 
 _Integraciones_
 
@@ -104,13 +114,13 @@ Cuando un usuario intenta enviar una solicitud con datos adjuntos de un correo e
 
 Esto solo ocurre cuando se realiza una asignación para la nueva solicitud, ya sea a través de la cola de solicitudes o manualmente al crear la solicitud.
 
-**Nueva versión del visor de prueba de escritorio**
+**Nueva versión de Desktop Proofing Viewer**
 
-_Prueba_
+_Revisión_
 
-Para solucionar un problema de congelación en el Visor de prueba de escritorio, hemos implementado una nueva versión del visor de pruebas de escritorio. Los usuarios que ya tengan instalado Desktop Proofing Viewer obtendrán esta actualización automáticamente.
+Para solucionar un problema de congelación en Desktop Proofing Viewer, hemos implementado una nueva versión del visor de revisión de escritorio. Los usuarios que ya tengan instalado Desktop Proofing Viewer obtendrán esta actualización automáticamente.
 
-Los usuarios también pueden bajar manualmente la versión más reciente. Para obtener más información, consulte [Instalación del Visor de prueba de escritorio](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+Los usuarios también pueden descargar manualmente la versión más reciente. Para obtener más información, consulte [Instalación de Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=es).
 
 * Versión anterior: 2.1.19
 * Nueva versión: 2.1.20
@@ -119,7 +129,7 @@ Los usuarios también pueden bajar manualmente la versión más reciente. Para o
 
 _Usuarios_
 
-Cuando un usuario con una licencia de Trabajo, Revisión, o Solicitud intenta editar su propia configuración de usuario, la ventana emergente que se abre está en blanco y el usuario no puede realizar ningún cambio. Para salir de la ventana emergente, el usuario debe actualizar la página.
+Cuando un usuario con una licencia de Trabajo, Revisión o Solicitud intenta editar su propia configuración de usuario, la ventana emergente que se abre está en blanco y el usuario no puede realizar ningún cambio. Para salir de la ventana emergente, el usuario debe actualizar la página.
 
 +++
 
@@ -159,7 +169,7 @@ Cuando un usuario ve la variable [!UICONTROL Distribuidor de cargas de trabajo],
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento (Hot Fix) el 12 de enero de 2023**
++++Actualización de mantenimiento de **[!DNL Adobe Workfront Fusion] (Hot Fix) el 12 de enero de 2023**
 
 **Errores 404 en módulos [!DNL Workfront]**
 
