@@ -3,9 +3,9 @@ title: "Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir
 description: Cuando se crea una nueva prueba, el plazo puede fijarse en un incremento de 15 minutos (10:00, 10:15, 10:30, 20:45, etc.). Sin embargo, cuando se añade un usuario a una prueba después de crearla, el plazo solo puede fijarse en incrementos de 30 minutos (10:00, 10:30, 11:00, etc.).
 hidefromtoc: true
 source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '192'
+ht-degree: 100%
 
 ---
 
