@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1538'
-ht-degree: 76%
+source-wordcount: '1582'
+ht-degree: 75%
 
 ---
 
@@ -21,7 +21,19 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en febrero de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 16 de febrero de 2023**
++++**Actualización de mantenimiento del 16 de febrero de 2023**
+
+**Múltiples asignaciones de equipo en tableros**
+
+_Tableros_
+
+Ahora puede asignar varios equipos a una tarea o problema de un tablero, así como al tablero en sí.
+
+**Aumento del límite de recarga de tarjetas**
+
+_Tableros_
+
+Los límites de tiempo de espera de la tarjeta se han aumentado a 8 semanas / 60 días en lugar de 4 semanas / 30 días.
 
 **La desactivación programada no desactiva el usuario**
 
