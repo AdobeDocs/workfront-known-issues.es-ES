@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
 workflow-type: tm+mt
-source-wordcount: '1582'
-ht-degree: 75%
+source-wordcount: '1693'
+ht-degree: 70%
 
 ---
 
@@ -20,6 +20,24 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en febrero de 2023
+
++++**(Planificado) Actualización de mantenimiento el 23 de febrero de 2023**
+
+**Vínculo a un comentario redirige a [!UICONTROL Detalles] página**
+
+_Actualizaciones_
+
+Cuando un usuario sigue un vínculo a un comentario sobre un objeto en Workfront, la secuencia de actualización se carga brevemente y, a continuación, se redirige al usuario al objeto [!UICONTROL Detalles] . Esto puede ocurrir si el usuario hace clic en el vínculo de un correo electrónico o pega el vínculo en el explorador.
+
+Actualmente, esto solo afecta a los objetos Document.
+
+**El usuario no puede editar su propia configuración de notificación**
+
+_Usuarios_
+
+Cuando un usuario con un [!UICONTROL Trabajador] intenta editar su propia configuración de notificación, la variable [!UICONTROL Notificaciones] no están visibles en la variable [!UICONTROL Editar] y el usuario no puede editar la configuración.
+
++++
 
 +++**Actualización de mantenimiento del 16 de febrero de 2023**
 
@@ -78,6 +96,8 @@ _Configurar_
 Cuando un usuario intenta crear o editar una plantilla de correo electrónico, el botón [!UICONTROL Guardar] no responde y el usuario no puede guardar la plantilla.
 
 +++
+
+## Actualizaciones De Enero De 2023
 
 +++**Actualización de mantenimiento del 30 de enero de 2023**
 
