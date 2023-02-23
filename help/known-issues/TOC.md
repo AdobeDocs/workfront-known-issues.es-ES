@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
-source-wordcount: '1088'
-ht-degree: 87%
+source-wordcount: '1100'
+ht-degree: 86%
 
 ---
 
@@ -119,6 +119,7 @@ ht-degree: 87%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)

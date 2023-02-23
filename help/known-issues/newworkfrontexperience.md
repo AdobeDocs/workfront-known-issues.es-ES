@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 88%
+source-wordcount: '611'
+ht-degree: 89%
 
 ---
 
@@ -38,10 +38,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Usuarios: El usuario no puede editar su propia configuración de notificación](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 17 de febrero de 2023 |
 | [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 de febrero de 2023 |
 | [Usuarios: El nivel de acceso no está asignado al reactivar el usuario](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 de febrero de 2023 |
-| [Actualizaciones: Vínculo a un comentario redirige a [!UICONTROL Detalles] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 de febrero de 2023 |
 | [Documentos: no se puede restaurar el documento eliminado](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de enero de 2023 |
 | [Informes: error al añadir un problema nuevo a un informe de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de noviembre de 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
@@ -54,6 +52,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de febrero de 2023 |
 | [Formularios personalizados: mensaje de “[!UICONTROL expresión personalizada no válida]” al añadir una referencia al “[!UICONTROL propietario]” en un campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 de enero de 2023 |
 | [[!UICONTROL Inicio]: Las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |
 | [Formularios personalizados: No se puede utilizar el campo calculado si el nombre del campo contiene apóstrofos o comillas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 de enero de 2023 |

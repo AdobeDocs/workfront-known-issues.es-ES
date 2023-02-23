@@ -3,10 +3,10 @@ title: Problemas conocidos de [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 93%
+source-wordcount: '251'
+ht-degree: 88%
 
 ---
 
@@ -45,6 +45,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de febrero de 2023 |
 | [Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 de febrero de 2023 |
 | [[!UICONTROL Inicio]: Las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |
 | [Pruebas: El estado de la prueba no se actualiza en las listas de [!UICONTROL documentos]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
