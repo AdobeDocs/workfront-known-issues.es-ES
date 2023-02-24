@@ -3,9 +3,9 @@ title: Problemas conocidos de [!DNL Adobe Workfront Fusion]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Fusion]
 keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '153'
 ht-degree: 96%
 
 ---
@@ -46,7 +46,6 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Fallo al ver un error en el historial de ejecución de un escenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 4 de noviembre de 2022 |
 | [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 de septiembre de 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] : El módulo devuelve el error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 de septiembre de 2022 |
 
