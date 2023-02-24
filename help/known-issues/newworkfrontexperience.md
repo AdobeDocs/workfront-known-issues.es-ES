@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ace7bcf248b16fa62c04cc112b5844f5fcb38a2d
+source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
 workflow-type: tm+mt
-source-wordcount: '611'
-ht-degree: 88%
+source-wordcount: '621'
+ht-degree: 87%
 
 ---
 
@@ -37,6 +37,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Actualizaciones: Vínculo a un comentario redirige a [!UICONTROL Detalles] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 de febrero de 2023 |
 | [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolio o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
 | [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 de febrero de 2023 |
 | [Usuarios: El nivel de acceso no está asignado al reactivar el usuario](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 de febrero de 2023 |
