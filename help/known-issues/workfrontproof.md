@@ -1,12 +1,12 @@
 ---
-title: Problemas conocidos de [!DNL Adobe Workfront Proof]
-description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
+title: Problemas conocidos de  [!DNL Adobe Workfront Proof]
+description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 82%
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | -----------------------------------------------------------------| ----------------- |
 |  | 24 de febrero de 2023 |
 | [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 de febrero de 2023 |
-| [Documentos: Los permisos no se heredan cuando un documento se mueve a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de febrero de 2023 |
+| [Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de febrero de 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -36,7 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Actualizaciones: Vínculo a un comentario redirige a [!UICONTROL Detalles] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 de febrero de 2023 |
+| [Actualizaciones: El vínculo a un comentario redirige a la página [!UICONTROL Detalles]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 de febrero de 2023 |
 | [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |
 
 {style=&quot;table-layout:auto&quot;}

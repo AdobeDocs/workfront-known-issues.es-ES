@@ -1,12 +1,12 @@
 ---
 title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
-description: Problemas conocidos reportados para la nueva experiencia  [!DNL Adobe Workfront]
+description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
 source-wordcount: '573'
-ht-degree: 83%
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | [Integraciones: Error al iniciar sesión en [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 24 de febrero de 2023 |
 | [Proyectos: Error 504 en el encabezado del proyecto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 de febrero de 2023 |
 | [[!UICONTROL Tableros]: No se pueden agregar tarjetas al aplicar la agrupación](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 de febrero de 2023 |
-| [Documentos: Los permisos no se heredan cuando un documento se mueve a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de febrero de 2023 |
+| [Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de febrero de 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -38,8 +38,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Actualizaciones: Vínculo a un comentario redirige a [!UICONTROL Detalles] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 de febrero de 2023 |
-| [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolio o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
+| [Actualizaciones: El vínculo a un comentario redirige a la página [!UICONTROL Detalles]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 de febrero de 2023 |
+| [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolios o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
 | [Usuarios: El nivel de acceso no está asignado al reactivar el usuario](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 de febrero de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
@@ -57,7 +57,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [[!UICONTROL Inicio]: Las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |
 | [Formularios personalizados: No se puede utilizar el campo calculado si el nombre del campo contiene apóstrofos o comillas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 de enero de 2023 |
 | [Pruebas: El estado de la prueba no se actualiza en las listas de [!UICONTROL documentos]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
-| [Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) de la tarea | 2 de diciembre de 2022 |
+| [Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) de la tarea | 2 de diciembre de 2022 |
 | [Formularios personalizados: Los formularios personalizados de objetos cruzados requieren el acceso de [!UICONTROL Administrar] o [!UICONTROL Editar] para editar los campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 de noviembre de 2022 |
 | [Notificaciones: los usuarios no reciben una notificación cuando se les menciona o incluye en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 de noviembre de 2022 |
 | [API: No se puede ordenar por campos dinámicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de octubre de 2022 |
