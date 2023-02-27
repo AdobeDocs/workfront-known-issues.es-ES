@@ -3,9 +3,9 @@ title: '“Documentos: no se puede restaurar el documento eliminado”'
 description: “Cuando un usuario intenta restaurar un documento eliminado anteriormente, no puede restaurarlo y verá el error ¡Uy!”.
 hidefromtoc: true
 source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
