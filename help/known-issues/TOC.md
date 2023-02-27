@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
-user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
+user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
+source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 85%
+source-wordcount: '1124'
+ht-degree: 95%
 
 ---
 
@@ -14,24 +14,25 @@ ht-degree: 85%
 + [Información general](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
+   + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: No se puede agregar el usuario o grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integraciones: Error al iniciar sesión en [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Proyectos: Error 504 en el encabezado del proyecto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Tableros]: No se pueden agregar tarjetas al aplicar la agrupación](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Usuarios: El nivel de acceso no está asignado al reactivar el usuario](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [Actualizaciones: Vínculo a un comentario redirige a [!UICONTROL Detalles] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [Actualizaciones: El vínculo a un comentario redirige a la página [!UICONTROL Detalles]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Usuarios: El usuario no puede editar su propia configuración de notificación](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
-      + [Documentos: Los permisos no se heredan cuando un documento se mueve a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
-      + [Equilibrador de carga de trabajo: Resultados inexactos al usar varios filtros a la vez](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Grupos: Los subgrupos no muestran notificaciones basadas en la configuración de notificaciones de eventos de grupo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
+      + [Distribuidor de cargas de trabajo: Resultados inexactos cuando se utilizan varios filtros a la vez](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
+      + [Grupos: Los subgrupos no reciben notificaciones basadas en la configuración de las notificaciones de eventos de grupo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Documentos: El panel Resumen vuelve a la parte superior al hacer clic en el menú de tres puntos](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
-      + [Documentos: Error &quot;Esa página no existe&quot; al abrir o descargar un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
-      + [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolio o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
-      + [[!UICONTROL Configuración]: Los registros de auditoría no exportan](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
-      + [[!UICONTROL Resumen]: No se puede desplazar [!UICONTROL Resumen] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
-      + [Documentos: Error &quot;Respuesta no válida&quot; al abrir o descargar un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
+      + [Documentos: Error de tipo “Esa página no existe” al abrir o descargar un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
+      + [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolios o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Configuración]: Los registros de auditoría no se exportan](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Resumen]: No es posible el desplazamiento por el panel [!UICONTROL Resumen]](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Documentos: Error de tipo “Respuesta no válida” al abrir o descargar un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Usuarios: la desactivación programada no desactiva al usuario](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configuración: no se pueden guardar las plantillas de correo electrónico](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Usuarios: el usuario no puede editar su propia configuración de usuario](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -84,13 +85,13 @@ ht-degree: 85%
       + [Formularios personalizados: Error “¡Uy!” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Pruebas: Al agregar un grupo a una prueba, no se agregan todos los miembros del grupo](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [Notificaciones: Usuarios no notificados cuando se les menciona o incluye en un comentario](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
-      + [Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen] de la tarea](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen] de la tarea](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Pruebas: El campo [!UICONTROL Etapas de prueba activas] está en blanco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Integraciones: Error 404 al añadir un documento desde [!DNL SharePoint] [!UICONTROL (Graph API)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integraciones: [!DNL SharePoint] La carpeta no aparece para su propietario](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
-      + [Integraciones: Error al enviar la solicitud desde  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
+      + [Integraciones: Error al enviar la solicitud desde  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Solicitudes: No se puede abrir más allá de la primera página de la lista de solicitudes](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [[!DNL Workfront]: Problemas al enviar un caso de soporte  [!DNL Workfront] en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: Problemas al enviar un caso de soporte de  [!DNL Workfront]  en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Notificaciones: Los usuarios no reciben una notificación por correo electrónico cuando se les menciona en un comentario](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
       + [Paneles: Los gráficos de informes que se ven en un panel utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [Agile: Problemas al mover tarjetas en el panel Agile](known-issues-workfront/wf-agile-issues-moving-cards.md)
@@ -119,20 +120,20 @@ ht-degree: 85%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [Problemas conocidos de [!DNL Workfront Proof]](workfrontproof.md)
+   + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
       + [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
-      + [Pruebas: Error al añadir una prueba a  [!DNL Workfront] desde  [!DNL Workfront] Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Pruebas: Error al añadir una prueba a  [!DNL Workfront]  de sde  [!DNL Workfront]  Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Los correos electrónicos de resumen diario no incluyen el botón “Ver detalles”](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
       + [[!DNL Workfront Proof]: El administrador de pruebas tiene permisos limitados sobre una prueba](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
       + [No se puede añadir un usuario a la prueba al etiquetarlo en un comentario](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [El comportamiento del botón de [!UICONTROL respuesta en prueba] es inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
+      + [El comportamiento del botón de [!UICONTROL respuesta en prueba] es inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [El acceso automático a las pruebas se retrasa](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
-      + [El informe de [!UICONTROL aprobación de pruebas] no puede determinar los plazos con precisión](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
+      + [El informe de [!UICONTROL aprobación de pruebas] no puede determinar los plazos con precisión](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Inicio]: Las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Documentos: No aparece el icono del flujo de trabajo de pruebas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + Problemas resueltos en [!DNL Workfront] Prueba {#proof-resolved}
@@ -143,23 +144,23 @@ ht-degree: 85%
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Adobe Workfront Fusion]: Errores de tiempo de espera en Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
-      + [[!DNL Adobe Workfront Fusion]: Errores 404 en módulos Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
-      + [[!DNL Workfront Fusion]: no se puede crear la conexión con [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Adobe Workfront Fusion]: Errores 404 en los módulos de Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
+      + [[!DNL Workfront Fusion]: no se puede crear la conexión con  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Los elementos de la matriz en el módulo [!UICONTROL Iterator] se muestran como “[!UICONTROL objeto Objeto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fallo al ver un error en el historial de ejecución de un escenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront]  > [!UICONTROL Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion]  devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
-   + [Problemas conocidos de [!DNL Workfront Goals]](workfrontgoals.md)
+   + [Problemas conocidos de  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
-   + [Problemas conocidos de [!DNL Workfront Library]](workfrontlibrary.md)
+   + [Problemas conocidos de  [!DNL Workfront Library]](workfrontlibrary.md)
 + [!DNL Workfront] Mobile App {#mobile}
-   + [Problemas conocidos de  [!DNL Workfront] Mobile App](workfrontmobile.md)
+   + [Problemas conocidos de  [!DNL Workfront] Mobile App](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
-   + [Problemas conocidos de [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
+   + [Problemas conocidos de  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
 
 <!--
 
