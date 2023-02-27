@@ -3,10 +3,10 @@ title: Problemas conocidos de [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 940dfb74994519d9dd55f25ca457f7c2ed3a0984
+source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 85%
+source-wordcount: '265'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 |  | 24 de febrero de 2023 |
+| [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 de febrero de 2023 |
 | [Documentos: Los permisos no se heredan cuando un documento se mueve a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de febrero de 2023 |
 
 {style=&quot;table-layout:auto&quot;}

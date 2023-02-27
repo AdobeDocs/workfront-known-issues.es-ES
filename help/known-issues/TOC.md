@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 940dfb74994519d9dd55f25ca457f7c2ed3a0984
+source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1115'
 ht-degree: 85%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integraciones: Error al iniciar sesión en [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Proyectos: Error 504 en el encabezado del proyecto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Tableros]: No se pueden agregar tarjetas al aplicar la agrupación](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
