@@ -1,23 +1,51 @@
 ---
 title: Actualizaciones de mantenimiento de Workfront
-description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
+description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
-source-wordcount: '1692'
-ht-degree: 70%
+source-wordcount: '1870'
+ht-degree: 90%
 
 ---
 
-# Actualizaciones de mantenimiento de [!DNL Workfront]
+# Actualizaciones de mantenimiento de [!DNL Workfront]
 
 En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 
 >[!NOTE]
 >
->Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront]le avisará cuando haya solucionado un problema enviado por usted.
+>Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en marzo de 2023
+
++++**(Planificado) Actualización de mantenimiento el 2 de marzo de 2023**
+
+**No se pueden agregar tarjetas al aplicar la agrupación**
+
+_Tableros_
+
+Cuando un usuario está viendo un tablero que tiene una agrupación aplicada e intenta agregar una tarjeta, el usuario solo puede introducir el nombre de la tarjeta. El resto de los campos de tarjeta están desactivados, incluido el [!UICONTROL Guardar] botón.
+
+Si el usuario cambia la agrupación a [!UICONTROL Ninguna]Sin embargo, el problema sigue siendo. El usuario debe cambiar la agrupación a [!UICONTROL Ninguna] y, a continuación, actualice la página para restaurar la capacidad de agregar una tarjeta.
+
+**Vínculo a un comentario redirige a [!UICONTROL Detalles] página**
+
+_Actualizaciones_
+
+Cuando un usuario sigue un vínculo a un comentario sobre un objeto en Workfront, el flujo de actualización se carga brevemente y, a continuación, se redirige al usuario al área [!UICONTROL Detalles] del objeto. Esto puede ocurrir si el usuario hace clic en el vínculo de un correo electrónico o pega el vínculo en su explorador.
+
+Actualmente, esto solo afecta a los objetos de tipo Documento.
+
+**Imprimir resumen no se carga**
+
+_[!UICONTROL Revisión de Workfront]_
+
+Cuando un usuario intenta cargar la página Imprimir resumen, la página parece que se está cargando, pero nunca se carga.
+
++++
 
 ## Actualizaciones en febrero de 2023
 
@@ -27,15 +55,15 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 _Actualizaciones_
 
-Cuando un usuario sigue un vínculo a un comentario sobre un objeto en Workfront, la secuencia de actualización se carga brevemente y, a continuación, se redirige al usuario al objeto [!UICONTROL Detalles] . Esto puede ocurrir si el usuario hace clic en el vínculo de un correo electrónico o pega el vínculo en el explorador.
+Cuando un usuario sigue un vínculo a un comentario sobre un objeto en Workfront, el flujo de actualización se carga brevemente y, a continuación, se redirige al usuario al área [!UICONTROL Detalles] del objeto. Esto puede ocurrir si el usuario hace clic en el vínculo de un correo electrónico o pega el vínculo en su explorador.
 
-Actualmente, esto solo afecta a los objetos Document.
+Actualmente, esto solo afecta a los objetos de tipo Documento.
 
 **El usuario no puede editar su propia configuración de notificación**
 
 _Usuarios_
 
-Cuando un usuario con un [!UICONTROL Trabajador] intenta editar su propia configuración de notificación, la variable [!UICONTROL Notificaciones] no están visibles en la variable [!UICONTROL Editar] y el usuario no puede editar la configuración.
+Cuando un usuario con una licencia de [!UICONTROL Trabajador] intenta editar su propia configuración de notificación, las opciones de [!UICONTROL Notificaciones] no están visibles en la ventana [!UICONTROL Editar] y el usuario no puede editar la configuración.
 
 +++
 
@@ -63,11 +91,11 @@ Cuando se programa la desactivación de un usuario y la fecha y hora programadas
 
 +++**Actualización de mantenimiento del 9 de febrero de 2023**
 
-**[!UICONTROL Puntos de artículo] campo añadido a listas de tareas y problemas e informes**
+Se ha agregado el campo **[!UICONTROL Puntos de caso] a los informes y las listas de tareas y problemas**
 
 _Informes_
 
-La variable [!UICONTROL Puntos de artículo] ahora está disponible para agregarlo a listas e informes para tareas o problemas. Se trata de un campo de forma libre editable que no está vinculado a las horas programadas ni a las asignaciones de equipo.
+El campo [!UICONTROL Puntos de caso] ahora está disponible para agregarlo a las listas e informes para tareas o problemas. Se trata de un campo libre editable que no está vinculado a las horas planificadas ni a las asignaciones de equipo.
 
 +++
 
@@ -77,17 +105,17 @@ La variable [!UICONTROL Puntos de artículo] ahora está disponible para agregar
 
 _Tableros_
 
-La columna de admisión de un tablero ahora incluye un **[!UICONTROL Añadir un filtro]** cuando la columna está vacía y no se han creado filtros. El botón abre el área de configuración, donde puede agregar filtros para incluir tareas y problemas en la columna de admisión.
+La columna de admisión de un tablero ahora incluye un botón **[!UICONTROL Agregar un filtro]** cuando la columna está vacía y no se han creado filtros. El botón abre el área de configuración, donde puede agregar filtros para incluir tareas y problemas en la columna de admisión.
 
 +++
 
 +++**Actualización de mantenimiento del 2 de febrero de 2023**
 
-**[!UICONTROL Tableros] aparece en [!UICONTROL Menú principal] de forma predeterminada**
+El icono de **[!UICONTROL Tableros] aparece en el [!UICONTROL Menú principal] de forma predeterminada**
 
 _Tableros_
 
-La variable [!UICONTROL Tableros] ahora aparece en la sección [!UICONTROL Menú principal] para usuarios que no tienen una plantilla de diseño. Los tableros también se incluyen en el menú principal de forma predeterminada para cualquier plantilla de diseño nueva que se cree. Las plantillas de diseño existentes no han cambiado.
+El icono de [!UICONTROL Tableros] ahora aparece en el [!UICONTROL Menú principal] para los usuarios que no tienen una plantilla de diseño. Los tableros también se incluyen en el menú principal de forma predeterminada para cualquier plantilla de diseño nueva que se cree. Las plantillas de diseño existentes no han cambiado.
 
 **No se pueden guardar las plantillas de correo electrónico**
 
@@ -101,21 +129,21 @@ Cuando un usuario intenta crear o editar una plantilla de correo electrónico, e
 
 +++**Actualización de mantenimiento del 30 de enero de 2023**
 
-**Métodos abreviados de teclado agregados para acciones comunes de hojas de horas**
+**Métodos abreviados de teclado agregados para acciones comunes de las plantillas de horas**
 
 _Plantillas de horas_
 
-Hemos introducido los siguientes métodos abreviados del teclado para las siguientes acciones que se realizan con más frecuencia dentro de un parte de horas:
+Hemos introducido los siguientes métodos abreviados del teclado para las siguientes acciones que se realizan con más frecuencia dentro de una plantilla de horas:
 
-* Añadir fila (Cmd+Opción++ / Ctrl+Opción++)
+* Agregar fila (Cmd+Opción++ / Ctrl+Opción++)
 * Eliminar fila (Cmd+Opción+- / Ctrl+Opción+-)
-* Fijar o desfijar un elemento de trabajo (Opción+P/Opción+P)
-* Abrir comentario (Mayús + F2 / Mayús + F2)
-* Guardar comentario (Cmd+Intro/Ctrl+Intro)
-* Expandir (Mayús+Opción+Flecha arriba/Mayús+Alt+Flecha arriba)
-* Contraer (Mayús+Opción+Flecha abajo/ Mayús+Alt+Flecha abajo)
+* Fijar o Liberar un elemento de trabajo (Opción+P / Opción+P)
+* Abrir comentario (Mayús+F2 / Mayús+F2)
+* Guardar comentario (Cmd+Intro / Ctrl+Intro)
+* Expandir (Mayús+Opción+Flecha arriba / Mayús+Alt+Flecha arriba)
+* Contraer (Mayús+Opción+Flecha abajo / Mayús+Alt+Flecha abajo)
 
-El área en la que se realizan estas acciones debe estar resaltada para que se apliquen.
+Para que se apliquen estas acciones, el área en la que se realizan debe estar resaltada.
 
 **Nuevos iconos de información para las plantillas de horas, los perfiles de plantillas de horas y las preferencias de plantillas de horas**
 
@@ -123,12 +151,12 @@ _Plantillas de horas_
 
 >[!NOTE]
 >
->Esta actualización solo se publicó en el entorno de vista previa el 3 de noviembre de 2022 y ahora está disponible en Producción.
+>Esta actualización se publicó solo en el entorno de vista previa el 3 de noviembre de 2022 y ya está disponible en Producción.
 
 Hemos añadido varios iconos de información a las siguientes opciones de configuración:
 
-* &quot;[!UICONTROL Puede editar el tiempo]&quot; al crear o editar un parte de horas o un perfil de parte de horas para indicar que, cuando está activado, los aprobadores también pueden enviar, volver a abrir o editar el parte de horas, a menos que el administrador restrinja estas acciones en [!UICONTROL Preferencias de partes de horas] área de [!UICONTROL Configuración].
-* &quot;[!UICONTROL Restringir la edición de hojas de horas a propietarios y administradores]&quot; en el [!UICONTROL Preferencias de horario y hora] área de [!UICONTROL Configuración] para indicar que, cuando está desactivado, los siguientes usuarios también pueden editar las partes de horas: usuarios con acceso administrativo a hojas de horas y horas, aprobadores de hojas de horas permitidos para editar la hora y administradores de propietarios de hojas de horas.
+* Casilla de verificación “[!UICONTROL Puede editar las horas]” al crear o editar una plantilla de horas o un perfil de plantilla de horas, para indicar que, cuando está activada, los aprobadores también pueden enviar, volver a abrir o editar la plantilla de horas, a menos que el administrador restrinja estas acciones en el área [!UICONTROL Preferencias de plantilla de horas] de [!UICONTROL Configuración].
+* “[!UICONTROL Restringir la edición de la plantilla de horas a propietarios y administradores]” en el área [!UICONTROL Preferencias de plantilla de horas y horas] de [!UICONTROL Configuración], para indicar que, cuando está desactivada, los siguientes usuarios también pueden editar las plantillas de horas: usuarios con acceso administrativo a plantillas de horas y horas, aprobadores de plantillas de horas que tienen permiso para editar las horas y administradores de propietarios de plantilla de horas.
 
 Tenga en cuenta que la funcionalidad de estas opciones de configuración no ha cambiado y que solo se han añadido los iconos de información para aclarar el ámbito de la configuración.
 
@@ -142,7 +170,7 @@ _Integraciones_
 
 Cuando un usuario intenta enviar una solicitud con datos adjuntos de un correo electrónico de [!DNL Outlook], uno o más archivos adjuntos no se cargan y el usuario ve el siguiente error:
 
-&quot;[!UICONTROL Se produjo el siguiente error: El archivo con el identificador xxxx no existe.]&quot;
+“[!UICONTROL Se produjo el siguiente error: El archivo con el identificador xxxx no existe.]”
 
 Esto solo ocurre cuando se realiza una asignación para la nueva solicitud, ya sea a través de la cola de solicitudes o manualmente al crear la solicitud.
 
@@ -167,11 +195,11 @@ Cuando un usuario con una licencia de Trabajo, Revisión o Solicitud intenta edi
 
 +++**Actualización de mantenimiento del 19 de enero de 2023**
 
-**Los filtros de columnas de entrada ahora se pueden compartir**
+**Los filtros de columnas de admisión ahora se pueden compartir**
 
 _Tableros_
 
-Cuando la funcionalidad de columna de entrada se envió a los Paneles, la persona que creó esos filtros solo podía ver los filtros para configurar la columna de entrada. Ahora el creador puede compartir los filtros con otros usuarios o equipos.
+Cuando la funcionalidad de columna de admisión se envió a los Paneles, la persona que creó esos filtros solo podía ver los filtros para configurar la columna de entrada. Ahora el creador puede compartir los filtros con otros usuarios o equipos.
 
 **Funcionalidad de pines disponible en el menú [!UICONTROL Más]**
 
@@ -193,7 +221,7 @@ _Formularios personalizados_
 
 Cuando un usuario utiliza un comodín como \$$TODAY o $$NOW junto con un modificador (como “-30d”) en un campo personalizado, el validador no acepta el comodín como válido. Los comodines sin modificadores se consideran válidos.
 
-El **[!UICONTROL Distribuidor de cargas de trabajo] muestra las horas que no están asociadas a un proyecto, tarea o problema**
+El **[!UICONTROL Distribuidor de cargas de trabajo] muestra las horas que no están asociadas a un proyecto, tarea o problema**
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
@@ -243,7 +271,7 @@ _Formularios personalizados_
 
 Cuando un usuario rellena un formulario personalizado y busca en una lista desplegable utilizando Ctrl+F o Cmd+F, luego intenta ir a la siguiente instancia de la búsqueda, la lista desplegable vuelve a la parte superior de la lista en lugar de saltar a la siguiente instancia de la búsqueda. Esto ocurre cuando se establece un menú desplegable para permitir varias selecciones.
 
-La pantalla **[!UICONTROL Editar informe] está en blanco**
+La pantalla **[!UICONTROL Editar informe] está en blanco**
 
 _Informes_
 
@@ -296,5 +324,5 @@ Tenga en cuenta que la funcionalidad de estas opciones de configuración no ha c
 
 La información sobre actualizaciones de mantenimiento anteriores está disponible aquí:
 
-* [Archivo de actualizaciones de mantenimiento de [!DNL Workfront]- 2022](2022-updates.md)
-* [Archivo de actualizaciones de mantenimiento de [!DNL Workfront]- 2021](2021-updates.md)
+* [Archivo de actualizaciones de mantenimiento de [!DNL Workfront] - 2022](2022-updates.md)
+* [Archivo de actualizaciones de mantenimiento de [!DNL Workfront] - 2021](2021-updates.md)
