@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 95%
+source-wordcount: '1135'
+ht-degree: 94%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Pruebas: No se puede agregar el usuario o grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [Pruebas: No se puede agregar un usuario o un grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
-      + [Integraciones: Error al iniciar sesión en [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
+      + [Integraciones: Error al iniciar sesión en [!DNL Workfront] de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Proyectos: Error 504 en el encabezado del proyecto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL Tableros]: No se pueden agregar tarjetas al aplicar la agrupación](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [[!UICONTROL Tableros]: No se pueden añadir tarjetas cuando se aplica la agrupación](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Usuarios: El nivel de acceso no está asignado al reactivar el usuario](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Actualizaciones: El vínculo a un comentario redirige a la página [!UICONTROL Detalles]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Usuarios: El usuario no puede editar su propia configuración de notificación](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -122,8 +122,9 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: [!UICONTROL Informes] ya no se admite esta área](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Imprimir resumen] no se carga](known-issues-workfront-proof/proof-print-summary-not-loading.md)
-      + [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [Pruebas: el usuario no recibe un correo electrónico cuando se le etiqueta en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
