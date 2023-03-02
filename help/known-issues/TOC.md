@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1167'
+ht-degree: 92%
 
 ---
 
@@ -123,6 +123,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: La prueba no se carga al utilizar &quot;[!UICONTROL Ir a la revisión]Botón &quot; en la notificación por correo electrónico](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Informes] ya no se admite esta área](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Imprimir resumen] no se carga](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Pruebas: el usuario no recibe un correo electrónico cuando se le etiqueta en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
