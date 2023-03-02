@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '576'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | -----------------------------------------------------------------| ----------------- |
 | [Pruebas: No se puede agregar un usuario o un grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 de febrero de 2023 |
 | [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 de febrero de 2023 |
-| [Integraciones: Error al iniciar sesión en [!DNL Workfront] de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 24 de febrero de 2023 |
 | [Proyectos: Error 504 en el encabezado del proyecto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 de febrero de 2023 |
 | [Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de febrero de 2023 |
 
@@ -38,6 +37,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraciones: Error al iniciar sesión en [!DNL Workfront] de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2 de marzo de 2023 |
 | [Proyectos: falta el campo personalizado cuando el problema se convierte en proyecto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 23 de marzo de 2023 |
 | [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolios o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
 | [Usuarios: El nivel de acceso no está asignado al reactivar el usuario](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 de febrero de 2023 |
