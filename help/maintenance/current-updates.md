@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1870'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,17 +21,24 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en marzo de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 2 de marzo de 2023**
++++**Actualización de mantenimiento del 2 de marzo de 2023**
 
-**No se pueden agregar tarjetas al aplicar la agrupación**
+**No se pueden agregar tarjetas cuando se aplica la agrupación**
 
 _Tableros_
 
-Cuando un usuario está viendo un tablero que tiene una agrupación aplicada e intenta agregar una tarjeta, el usuario solo puede introducir el nombre de la tarjeta. El resto de los campos de tarjeta están desactivados, incluido el [!UICONTROL Guardar] botón.
+Cuando un usuario está viendo un tablero al que se aplica una agrupación e intenta agregar una tarjeta, el usuario solo puede introducir el nombre de la tarjeta. El resto de los campos de tarjeta están desactivados, incluida la [!UICONTROL Guardar] botón.
 
-Si el usuario cambia la agrupación a [!UICONTROL Ninguna]Sin embargo, el problema sigue siendo. El usuario debe cambiar la agrupación a [!UICONTROL Ninguna] y, a continuación, actualice la página para restaurar la capacidad de agregar una tarjeta.
+Si el usuario cambia la agrupación a [!UICONTROL Ninguno]Sin embargo, el problema sigue siendo. El usuario debe cambiar la agrupación a [!UICONTROL Ninguno] y, a continuación, actualice la página para restaurar la capacidad de agregar una tarjeta.
 
-**Vínculo a un comentario redirige a [!UICONTROL Detalles] página**
+**Las tarjetas conectadas no se añaden a las columnas según el estado**
+
+_Tableros_
+
+Aunque las directivas de columna se aplican al estado, las nuevas tarjetas conectadas aparecen en la columna situada más a la izquierda y no en la columna que corresponde a su estado.
+
+
+**El vínculo a un comentario redirige a [!UICONTROL Detalles] página**
 
 _Actualizaciones_
 
@@ -43,7 +50,7 @@ Actualmente, esto solo afecta a los objetos de tipo Documento.
 
 _[!UICONTROL Revisión de Workfront]_
 
-Cuando un usuario intenta cargar la página Imprimir resumen, la página parece que se está cargando, pero nunca se carga.
+Cuando un usuario intenta cargar la página Imprimir resumen, la página parece estar cargándose, pero nunca se carga.
 
 +++
 
@@ -51,7 +58,7 @@ Cuando un usuario intenta cargar la página Imprimir resumen, la página parece 
 
 +++**Actualización de mantenimiento del 23 de febrero de 2023**
 
-**Vínculo a un comentario redirige a [!UICONTROL Detalles] página**
+**El vínculo a un comentario redirige a [!UICONTROL Detalles] página**
 
 _Actualizaciones_
 
@@ -59,7 +66,7 @@ Cuando un usuario sigue un vínculo a un comentario sobre un objeto en Workfront
 
 Actualmente, esto solo afecta a los objetos de tipo Documento.
 
-**El usuario no puede editar su propia configuración de notificación**
+**El usuario no puede editar su propia configuración de notificaciones**
 
 _Usuarios_
 
@@ -69,17 +76,17 @@ Cuando un usuario con una licencia de [!UICONTROL Trabajador] intenta editar su 
 
 +++**Actualización de mantenimiento del 16 de febrero de 2023**
 
-**Múltiples asignaciones de equipo en tableros**
+**Varias asignaciones de equipo en tableros**
 
 _Tableros_
 
-Ahora puede asignar varios equipos a una tarea o problema de un tablero, así como al tablero en sí.
+Ahora puede asignar varios equipos a una tarea o un problema de un tablero y al propio tablero.
 
-**Aumento del límite de recarga de tarjetas**
+**Aumento del límite de caída de tarjetas**
 
 _Tableros_
 
-Los límites de tiempo de espera de la tarjeta se han aumentado a 8 semanas / 60 días en lugar de 4 semanas / 30 días.
+Los límites de tiempo de caída de la tarjeta se han aumentado a 8 semanas / 60 días en lugar de 4 semanas / 30 días.
 
 **La desactivación programada no desactiva el usuario**
 
@@ -125,7 +132,7 @@ Cuando un usuario intenta crear o editar una plantilla de correo electrónico, e
 
 +++
 
-## Actualizaciones De Enero De 2023
+## Actualizaciones En Enero De 2023
 
 +++**Actualización de mantenimiento del 30 de enero de 2023**
 
