@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
+source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
 workflow-type: tm+mt
-source-wordcount: '1167'
-ht-degree: 92%
+source-wordcount: '1175'
+ht-degree: 91%
 
 ---
 
@@ -123,6 +123,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [Pruebas: Los mensajes personalizados no aparecen en las notificaciones por correo electrónico](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: La prueba no se carga al utilizar &quot;[!UICONTROL Ir a la revisión]Botón &quot; en la notificación por correo electrónico](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Informes] ya no se admite esta área](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Imprimir resumen] no se carga](known-issues-workfront-proof/proof-print-summary-not-loading.md)

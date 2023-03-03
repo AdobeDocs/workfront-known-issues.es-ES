@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b5172e5c4991f4ea6a5bf05b92bfb419c1e95a35
+source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
 workflow-type: tm+mt
-source-wordcount: '576'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,6 +37,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: Los mensajes personalizados no aparecen en las notificaciones por correo electrónico](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 de marzo de 2023 |
 | [Integraciones: Error al iniciar sesión en [!DNL Workfront] de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2 de marzo de 2023 |
 | [Proyectos: falta el campo personalizado cuando el problema se convierte en proyecto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 de marzo de 2023 |
 | [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolios o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
