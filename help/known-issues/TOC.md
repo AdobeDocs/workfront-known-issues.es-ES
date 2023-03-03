@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 91%
+source-wordcount: '1192'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Plantillas de horas: [!UICONTROL Tipo de hora] La lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [Documentos: [!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Proyectos: falta el campo personalizado cuando el problema se convierte en proyecto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Pruebas: No se puede agregar un usuario o un grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
