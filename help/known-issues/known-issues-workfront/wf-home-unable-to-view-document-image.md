@@ -3,14 +3,16 @@ title: "Inicio: no se puede ver la imagen del documento en la Lista de trabajos"
 description: Cuando un usuario hace clic en una miniatura .docx para ver una vista previa del documento, se abre un reproductor de vídeo y no puede ver el documento.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Inicio]: no se puede ver la imagen del documento en la [!UICONTROL Lista de trabajos]
+
+<!--Article created by request-->
 
 >[!NOTE]
 >

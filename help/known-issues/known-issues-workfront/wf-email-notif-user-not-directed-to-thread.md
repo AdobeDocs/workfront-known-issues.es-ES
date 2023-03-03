@@ -3,14 +3,16 @@ title: "Notificaciones por correo electrónico: no se dirige al usuario al hilo 
 description: Cuando un usuario hace clic en el enlace Comentar en una notificación por correo electrónico, se le dirige a la parte superior del área de [!UICONTROL Actualizaciones] en lugar de al hilo de comentarios al que está intentando responder.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 # Notificaciones por correo electrónico: no se dirige al usuario al hilo de comentarios
+
+<!--Article created by request-->
 
 >[!NOTE]
 >
