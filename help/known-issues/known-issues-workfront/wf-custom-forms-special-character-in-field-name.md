@@ -2,9 +2,9 @@
 title: '“Formularios personalizados: no se puede utilizar el campo en el cálculo si su nombre contiene comillas o un apóstrofo”'
 description: “Cuando un usuario crea una expresión de campo calculado e intenta incluir un campo de escritura anticipada que tiene un nombre con un apóstrofo o comillas, el cálculo no se acepta y el usuario ve el mensaje ‘La expresión personalizada no es válida, inténtelo de nuevo’”.
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
-source-wordcount: '176'
+source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
+workflow-type: tm+mt
+source-wordcount: '154'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
+>Este problema se corrigió el 2 de marzo de 2023.
 
 Cuando un usuario crea una expresión de campo calculado e intenta incluir un campo de escritura anticipada que tiene un nombre con un `'` o `"`, el cálculo no se acepta y el usuario ve el mensaje “[!UICONTROL La expresión personalizada no es válida, inténtelo de nuevo]”.
 
