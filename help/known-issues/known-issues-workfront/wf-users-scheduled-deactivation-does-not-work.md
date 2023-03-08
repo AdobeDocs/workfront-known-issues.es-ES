@@ -1,11 +1,11 @@
 ---
-title: "Usuarios: la desactivación programada no desactiva al usuario"
-description: '"Cuando se programa la desactivación de un usuario y la fecha y hora programadas pasan, el usuario no se desactiva".'
+title: '“Usuarios: la desactivación programada no desactiva al usuario”'
+description: “Cuando se programa la desactivación de un usuario y la fecha y hora programadas pasan, el usuario no se desactiva”.
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
