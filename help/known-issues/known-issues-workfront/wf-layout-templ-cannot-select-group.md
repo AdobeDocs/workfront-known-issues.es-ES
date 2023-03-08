@@ -1,10 +1,10 @@
 ---
-title: "Plantillas de diseño: no se puede seleccionar un grupo al crear una plantilla de diseño"
+title: '“Plantillas de diseño: no se puede seleccionar un grupo al crear una plantilla de diseño”'
 description: Cuando un usuario que es administrador de un grupo intenta crear una plantilla de diseño en el área [!UICONTROL Interfaces] de la configuración, se le pide que seleccione un grupo en el campo [!UICONTROL Acceso administrativo]. El usuario teclea un nombre de grupo, pero no aparece en un desplegable y no se puede seleccionar. Por lo tanto, no puede guardar la plantilla de diseño.
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
 ht-degree: 100%
 
