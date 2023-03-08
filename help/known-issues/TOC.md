@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 90%
+ht-degree: 93%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 90%
       + [Proyectos: falta el campo personalizado cuando el problema se convierte en proyecto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Pruebas: No se puede agregar un usuario o un grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
-      + [Integraciones: Error al iniciar sesión en [!DNL Workfront] de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
+      + [Integraciones: Error al iniciar sesión en [!DNL Workfront] desde [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Proyectos: Error 504 en el encabezado del proyecto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL Tableros]: No se pueden añadir tarjetas cuando se aplica la agrupación](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [[!UICONTROL Tableros]: No se pueden agregar tarjetas al aplicar la agrupación](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Usuarios: El nivel de acceso no está asignado al reactivar el usuario](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Actualizaciones: El vínculo a un comentario redirige a la página [!UICONTROL Detalles]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Usuarios: El usuario no puede editar su propia configuración de notificación](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -129,12 +129,12 @@ ht-degree: 90%
       + [[!DNL Workfront Proof]: La prueba no se carga al utilizar &quot;[!UICONTROL Ir a la revisión]Botón &quot; en la notificación por correo electrónico](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Informes] ya no se admite esta área](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Imprimir resumen] no se carga](known-issues-workfront-proof/proof-print-summary-not-loading.md)
-      + [Pruebas: el usuario no recibe un correo electrónico cuando se le etiqueta en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Pruebas: Al imprimir un resumen, no se muestran todas las páginas de prueba](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Pruebas: La prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
-      + [Pruebas: Error al añadir una prueba a  [!DNL Workfront]  de sde  [!DNL Workfront]  Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Pruebas: Error al añadir una prueba a  [!DNL Workfront]  desde  [!DNL Workfront]  Prueba](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Los correos electrónicos de resumen diario no incluyen el botón “Ver detalles”](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
       + [[!DNL Workfront Proof]: El administrador de pruebas tiene permisos limitados sobre una prueba](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
       + [No se puede añadir un usuario a la prueba al etiquetarlo en un comentario](known-issues-workfront-proof/cannot-add-user-to-proof.md)

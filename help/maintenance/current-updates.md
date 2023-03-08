@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '1979'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -37,9 +37,9 @@ Cuando un usuario está reactivando un usuario desactivado e intenta asignarle u
 
 _Tableros_
 
-Cuando un usuario está viendo un tablero al que se aplica una agrupación e intenta agregar una tarjeta, el usuario solo puede introducir el nombre de la tarjeta. El resto de los campos de tarjeta están desactivados, incluida la [!UICONTROL Guardar] botón.
+Cuando un usuario está viendo un tablero que tiene una agrupación aplicada, e intenta agregar una tarjeta, el usuario solo puede introducir el nombre de la tarjeta. El resto de los campos de tarjeta están desactivados, incluido el botón [!UICONTROL Guardar].
 
-Si el usuario cambia la agrupación a [!UICONTROL Ninguno]Sin embargo, el problema sigue siendo. El usuario debe cambiar la agrupación a [!UICONTROL Ninguno] y, a continuación, actualice la página para restaurar la capacidad de agregar una tarjeta.
+Si el usuario cambia la agrupación a [!UICONTROL Ninguna], el problema continúa. El usuario debe cambiar la agrupación a [!UICONTROL Ninguna] y, a continuación, actualizar la página para restaurar la capacidad de agregar una tarjeta.
 
 **Las tarjetas conectadas no se añaden a las columnas según el estado**
 
@@ -48,7 +48,7 @@ _Tableros_
 Aunque las directivas de columna se aplican al estado, las nuevas tarjetas conectadas aparecen en la columna situada más a la izquierda y no en la columna que corresponde a su estado.
 
 
-**El vínculo a un comentario redirige a [!UICONTROL Detalles] página**
+**El vínculo a un comentario redirige a la página [!UICONTROL detalles]**
 
 _Actualizaciones_
 
@@ -68,7 +68,7 @@ Cuando un usuario intenta cargar la página Imprimir resumen, la página parece 
 
 +++**Actualización de mantenimiento del 23 de febrero de 2023**
 
-**El vínculo a un comentario redirige a [!UICONTROL Detalles] página**
+**El vínculo a un comentario redirige a la página [!UICONTROL detalles]**
 
 _Actualizaciones_
 
@@ -76,7 +76,7 @@ Cuando un usuario sigue un vínculo a un comentario sobre un objeto en Workfront
 
 Actualmente, esto solo afecta a los objetos de tipo Documento.
 
-**El usuario no puede editar su propia configuración de notificaciones**
+**El usuario no puede editar su propia configuración de notificación**
 
 _Usuarios_
 
@@ -86,11 +86,11 @@ Cuando un usuario con una licencia de [!UICONTROL Trabajador] intenta editar su 
 
 +++**Actualización de mantenimiento del 16 de febrero de 2023**
 
-**Varias asignaciones de equipo en tableros**
+**Múltiples asignaciones de equipo en tableros**
 
 _Tableros_
 
-Ahora puede asignar varios equipos a una tarea o un problema de un tablero y al propio tablero.
+Ahora puede asignar varios equipos a una tarea o problema de un tablero, así como al tablero en sí.
 
 **Aumento del límite de caída de tarjetas**
 
@@ -142,7 +142,7 @@ Cuando un usuario intenta crear o editar una plantilla de correo electrónico, e
 
 +++
 
-## Actualizaciones En Enero De 2023
+## Actualizaciones en enero de 2023
 
 +++**Actualización de mantenimiento del 30 de enero de 2023**
 
