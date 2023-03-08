@@ -3,7 +3,7 @@ title: '“Documentos: El panel Resumen vuelve a la parte superior al hacer clic
 description: ""
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
