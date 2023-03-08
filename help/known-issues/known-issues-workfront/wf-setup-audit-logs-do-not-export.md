@@ -3,7 +3,7 @@ title: '“Configuración: Los registros de auditoría no se exportan”'
 description: “Cuando un usuario intenta exportar un registro de auditoría, no se exporta. No hay indicios en Workfront de que el registro de auditoría no se esté exportando, pero el archivo de exportación esperado no aparece nunca.”
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
