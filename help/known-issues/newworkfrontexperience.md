@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
+source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '547'
+ht-degree: 90%
 
 ---
 
@@ -36,7 +36,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Plantillas de horas: [!UICONTROL Tipo de hora] La lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 3 de marzo de 2023 |
 | [Documentos: [!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de marzo de 2023 |
 | [Pruebas: Los mensajes personalizados no aparecen en las notificaciones por correo electrónico](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 de marzo de 2023 |
 | [Proyectos: falta el campo personalizado cuando el problema se convierte en proyecto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 de marzo de 2023 |
@@ -51,6 +50,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Plantillas de horas: [!UICONTROL Tipo de hora] La lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de marzo de 2023 |
 | [Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de marzo de 2023 |
 | [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 de febrero de 2023 |
 | [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de febrero de 2023 |
