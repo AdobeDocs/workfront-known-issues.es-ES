@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
 workflow-type: tm+mt
-source-wordcount: '1979'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,19 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en marzo de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 9 de marzo de 2023**
++++**Actualización de mantenimiento del 9 de marzo de 2023**
 
 **El nivel de acceso no está asignado al reactivar el usuario**
 
 _Usuarios_
 
 Cuando un usuario está reactivando un usuario desactivado e intenta asignarle un nivel de acceso en la ventana [!UICONTROL Reactivar usuario], la lista desplegable de nivel de acceso no se rellena a medida que se va escribiendo, y el usuario no puede seleccionar un nivel de acceso. Si el usuario escribe el nivel de acceso y guarda, el nivel de acceso no se asigna al usuario.
+
+**Guarde el borrador de un comentario en la [!DNL Goals] área**
+
+_[!DNL Workfront Goals]_
+
+Ahora, cuando se aleja de la [!UICONTROL Actualizaciones] página de un objetivo mientras se está redactando un mensaje, el mensaje se conserva cuando se vuelve atrás. Antes de esta actualización, el comentario no enviado se habría eliminado.
 
 +++
 
