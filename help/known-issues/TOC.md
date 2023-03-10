@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
 workflow-type: tm+mt
-source-wordcount: '1192'
-ht-degree: 93%
+source-wordcount: '1213'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: La ordenación por encabezado de columna vuelve a la ordenación anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL Actualizaciones]: No se puede registrar la hora del día actual en [!UICONTROL Actualizaciones] área](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Plantillas de horas: [!UICONTROL Tipo de hora] La lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [Documentos: [!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Proyectos: falta el campo personalizado cuando el problema se convierte en proyecto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)

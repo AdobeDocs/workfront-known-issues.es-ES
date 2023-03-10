@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+source-git-commit: 5e967c740d4facb3cb2f401aecb057d78f074da0
 workflow-type: tm+mt
-source-wordcount: '547'
-ht-degree: 90%
+source-wordcount: '570'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,8 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Informes: La ordenación por encabezado de columna vuelve a la ordenación anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 10 de marzo de 2023 |
+| [[!UICONTROL Actualizaciones]: No se puede registrar la hora del día actual en [!UICONTROL Actualizaciones] área](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 de marzo de 2023 |
 | [Pruebas: No se puede agregar un usuario o un grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 de febrero de 2023 |
 | [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 de febrero de 2023 |
 | [Proyectos: Error 504 en el encabezado del proyecto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 de febrero de 2023 |
