@@ -1,7 +1,7 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: a91992049d298aaa47dc5510d0bb6af850cf314e
+source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 91%
@@ -16,7 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Distribuidor de cargas de trabajo: las horas no se ajustan para tener en cuenta el tiempo libre del usuario](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [[!UICONTROL Distribuidor de cargas de trabajo]: las horas no se ajustan para tener en cuenta el tiempo libre del usuario](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Informes: La ordenación por encabezado de columna vuelve a la ordenación anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Actualizaciones]: No se puede registrar la hora del día actual en [!UICONTROL Actualizaciones] área](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Plantillas de horas: [!UICONTROL Tipo de hora] La lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)

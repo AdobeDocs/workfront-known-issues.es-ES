@@ -3,7 +3,7 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a91992049d298aaa47dc5510d0bb6af850cf314e
+source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 85%
@@ -24,7 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Distribuidor de cargas de trabajo: las horas no se ajustan para tener en cuenta el tiempo libre del usuario](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 de marzo de 2023 |
+| [[!UICONTROL Distribuidor de cargas de trabajo]: las horas no se ajustan para tener en cuenta el tiempo libre del usuario](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 de marzo de 2023 |
 | [Informes: La ordenación por encabezado de columna vuelve a la ordenación anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 10 de marzo de 2023 |
 | [[!UICONTROL Actualizaciones]: No se puede registrar la hora del día actual en [!UICONTROL Actualizaciones] área](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 de marzo de 2023 |
 | [Pruebas: No se puede agregar un usuario o un grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 de febrero de 2023 |
