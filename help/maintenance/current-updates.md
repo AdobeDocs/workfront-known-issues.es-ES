@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
+source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2193'
+ht-degree: 87%
 
 ---
 
@@ -20,6 +20,28 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en marzo de 2023
+
++++**Actualización de mantenimiento del 16 de marzo de 2023**
+
+**[!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel**
+
+_Documentos_
+
+Cuando un usuario ve el [!UICONTROL Resumen] panel para un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y el usuario debe desplazarse horizontalmente para ver la [!UICONTROL Resumen] contenido del panel. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
+
+**Falta el campo personalizado cuando el problema se convierte en proyecto**
+
+_Proyectos_
+
+Cuando un usuario convierte un problema en un proyecto mediante una plantilla, un campo personalizado que estaba en el problema no se muestra en el proyecto. Este problema solo afecta a los no administradores.
+
+**Los mensajes personalizados no aparecen en las notificaciones por correo electrónico**
+
+_Pruebas_
+
+Cuando un usuario comparte una prueba y añade un mensaje personalizado, ese mensaje personalizado no aparece en el correo electrónico de notificación al destinatario. El asunto es el nombre de la prueba y el mensaje no aparece en el correo electrónico.
+
++++
 
 +++**Actualización de mantenimiento del 9 de marzo de 2023**
 
