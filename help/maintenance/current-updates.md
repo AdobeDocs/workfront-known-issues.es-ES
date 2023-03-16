@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2223'
-ht-degree: 85%
+source-wordcount: '2148'
+ht-degree: 88%
 
 ---
 
@@ -23,29 +23,23 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**(Planificado) Actualización de mantenimiento el 16 de marzo de 2023**
 
-**Los elementos de la lista de comprobación no se copian al copiar una tarjeta**
+**Elementos de la lista de comprobación no copiados al copiar una tarjeta**
 
 _Tableros_
 
 Al copiar una tarjeta ad hoc (las tarjetas conectadas no se pueden copiar), los elementos de la lista de comprobación no se copian en la nueva tarjeta.
 
-**[!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel**
-
-_Documentos_
-
-Cuando un usuario ve el [!UICONTROL Resumen] panel para un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y el usuario debe desplazarse horizontalmente para ver la [!UICONTROL Resumen] contenido del panel. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
-
 **Falta el campo personalizado cuando el problema se convierte en proyecto**
 
 _Proyectos_
 
-Cuando un usuario convierte un problema en un proyecto mediante una plantilla, un campo personalizado que estaba en el problema no se muestra en el proyecto. Este problema solo afecta a los no administradores.
+Cuando un usuario convierte un problema en un proyecto mediante una plantilla, un campo personalizado que estaba en el problema no se muestra en el proyecto. Este problema solo afecta a los usuarios que no son administradores.
 
 **Los mensajes personalizados no aparecen en las notificaciones por correo electrónico**
 
 _Pruebas_
 
-Cuando un usuario comparte una prueba y añade un mensaje personalizado, ese mensaje personalizado no aparece en el correo electrónico de notificación al destinatario. El asunto es el nombre de la prueba y el mensaje no aparece en el correo electrónico.
+Cuando un usuario comparte una prueba y agrega un mensaje personalizado, ese mensaje personalizado no aparece en el correo electrónico de notificación al destinatario. El asunto es el nombre de la prueba y el mensaje no aparece en el correo electrónico.
 
 +++
 
@@ -57,17 +51,17 @@ _Usuarios_
 
 Cuando un usuario está reactivando un usuario desactivado e intenta asignarle un nivel de acceso en la ventana [!UICONTROL Reactivar usuario], la lista desplegable de nivel de acceso no se rellena a medida que se va escribiendo, y el usuario no puede seleccionar un nivel de acceso. Si el usuario escribe el nivel de acceso y guarda, el nivel de acceso no se asigna al usuario.
 
-**Guarde el borrador de un comentario en la [!DNL Goals] área**
+**Guarde el borrador de un comentario en el [!DNL Goals] area**
 
 _[!DNL Workfront Goals]_
 
-Ahora, cuando se aleja de la [!UICONTROL Actualizaciones] página de un objetivo mientras se está redactando un mensaje, el mensaje se conserva cuando se vuelve atrás. Antes de esta actualización, el comentario no enviado se habría eliminado.
+Ahora, cuando se aleja del [!UICONTROL Actualizaciones] del objetivo mientras se encuentra en medio de la composición de un mensaje, el mensaje se conserva cuando retrocede. Antes de esta actualización, el comentario no enviado se habría eliminado.
 
 +++
 
 +++**Actualización de mantenimiento del 2 de marzo de 2023**
 
-**No se pueden agregar tarjetas cuando se aplica la agrupación**
+**No se pueden agregar tarjetas al aplicar la agrupación**
 
 _Tableros_
 
@@ -75,11 +69,11 @@ Cuando un usuario está viendo un tablero que tiene una agrupación aplicada, e 
 
 Si el usuario cambia la agrupación a [!UICONTROL Ninguna], el problema continúa. El usuario debe cambiar la agrupación a [!UICONTROL Ninguna] y, a continuación, actualizar la página para restaurar la capacidad de agregar una tarjeta.
 
-**Las tarjetas conectadas no se añaden a las columnas según el estado**
+**Las tarjetas conectadas no se agregan a las columnas según el estado**
 
 _Tableros_
 
-Aunque las directivas de columna se aplican al estado, las nuevas tarjetas conectadas aparecen en la columna situada más a la izquierda y no en la columna que corresponde a su estado.
+A pesar de que se aplican políticas de columna para el estado, las nuevas tarjetas conectadas aparecen en la columna situada más a la izquierda y no en la columna que corresponde a su estado.
 
 
 **El vínculo a un comentario redirige a la página [!UICONTROL detalles]**
@@ -94,7 +88,7 @@ Actualmente, esto solo afecta a los objetos de tipo Documento.
 
 _[!UICONTROL Revisión de Workfront]_
 
-Cuando un usuario intenta cargar la página Imprimir resumen, la página parece estar cargándose, pero nunca se carga.
+Cuando un usuario intenta cargar la página Imprimir resumen, la página parece que se está cargando, pero nunca se carga.
 
 +++
 
