@@ -1,18 +1,22 @@
 ---
-title: "Workfront Fusion: El historial de ejecución de escenarios no muestra todo el historial"
-description: "Cuando un usuario ve el historial de ejecución de un escenario, toda la ejecución no se incluye en el historial. El escenario se ejecutó correctamente, pero el historial de ejecución no incluye información sobre todos los módulos que se ejecutaron durante la ejecución"
+title: "Workfront Fusion: El historial de ejecución del escenario no muestra todo el historial"
+description: "Cuando un usuario ve un historial de ejecución de escenario, no se incluye en el historial toda la ejecución. El escenario se ejecutó correctamente, pero el historial de ejecución no incluye información sobre todos los módulos que se ejecutaron durante la ejecución"
 hidefromtoc: true
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 9%
 
 ---
 
 
-# [!DNL Workfront Fusion]: el historial de ejecución del escenario no muestra todo el historial
+# [!DNL Workfront Fusion]: El historial de ejecución del escenario no muestra todo el historial
 
-Cuando un usuario ve el historial de ejecución de un escenario, toda la ejecución no se incluye en el historial. El escenario se ejecuta correctamente, pero el historial de ejecución no incluye información sobre todos los módulos que se ejecutaron durante la ejecución.
+>[!NOTE]
+>
+>Este problema se corrigió el 6 de marzo de 2023.
+
+Cuando un usuario ve un historial de ejecución de escenario, toda la ejecución no se incluye en el historial. El escenario se ejecutó correctamente, pero el historial de ejecución no incluye información sobre todos los módulos que se ejecutaron durante la ejecución.
 
 _Informado por primera vez el 26 de febrero de 2023._
 
