@@ -3,7 +3,7 @@ title: '“Formularios personalizados: no se puede utilizar el campo en el cálc
 description: “Cuando un usuario crea una expresión de campo calculado e intenta incluir un campo de escritura anticipada que tiene un nombre con un apóstrofo o comillas, el cálculo no se acepta y el usuario ve el mensaje ‘La expresión personalizada no es válida, inténtelo de nuevo’”.
 hidefromtoc: true
 source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 
