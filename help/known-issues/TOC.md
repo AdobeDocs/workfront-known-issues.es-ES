@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
 source-wordcount: '1239'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 89%
       + [[!UICONTROL Equilibrador de carga de trabajo]: Las horas no se ajustan para tener en cuenta el tiempo de espera del usuario](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Informes: La ordenación por el encabezado de la columna cambia a una ordenación anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Actualizaciones]: No se puede registrar la hora del día actual en el [!UICONTROL Actualizaciones] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [Hojas de tiempo: [!UICONTROL Tipo de hora] la lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
-      + [Documentos: [!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
-      + [Proyectos: Falta el campo personalizado cuando el problema se convierte en proyecto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
-      + [Pruebas: No se puede agregar el usuario o grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [Plantillas de horas: la lista desplegable [!UICONTROL Tipo de hora] no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [Documentos: el contenido del panel [!UICONTROL Resumen] es demasiado ancho para el panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
+      + [Proyectos: falta el campo personalizado cuando el problema se convierte en proyecto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
+      + [Pruebas: No se puede agregar un usuario o un grupo al flujo de trabajo de prueba](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Pruebas: Las funciones de prueba se cambian a [!UICONTROL Solo lectura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integraciones: Error al iniciar sesión en [!DNL Workfront] desde [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Proyectos: Error 504 en el encabezado del proyecto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
@@ -131,8 +131,8 @@ ht-degree: 89%
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
       + [[!DNL Workfront Proof]: Las listas no están ordenadas correctamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Pruebas: Los mensajes personalizados no aparecen en las notificaciones por correo electrónico](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]: La prueba no se carga al utilizar &quot;[!UICONTROL Vaya a la prueba]&quot; en la notificación por correo electrónico](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Informes] área ya no es compatible](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]: La prueba no se carga al utilizar el botón “[!UICONTROL Ir a la revisión]” en la notificación por correo electrónico](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof]: El área de [!UICONTROL Informes] ya no es compatible](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Imprimir resumen] no se carga](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
@@ -155,7 +155,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: El historial de ejecución del escenario no muestra todo el historial](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
+      + [[!DNL Workfront Fusion]: el historial de ejecución del escenario no muestra todo el historial](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: Errores de tiempo de espera en Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: Errores 404 en los módulos de Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: no se puede crear la conexión con  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)

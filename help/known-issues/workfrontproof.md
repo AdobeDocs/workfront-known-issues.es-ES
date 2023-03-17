@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 90%
+ht-degree: 98%
 
 ---
 
@@ -46,7 +46,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de marzo de 2023 |
-| [[!DNL Workfront Proof]: [!UICONTROL Reports] área ya no es compatible](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 de marzo de 2023 |
+| El área de [[!DNL Workfront Proof]: [!UICONTROL Reports]  ya no es compatible](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 de marzo de 2023 |
 | [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de febrero de 2023 |
 | [Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 de febrero de 2023 |
 | [[!UICONTROL Inicio]: Las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |

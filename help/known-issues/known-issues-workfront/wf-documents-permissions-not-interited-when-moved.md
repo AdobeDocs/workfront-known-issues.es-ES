@@ -5,7 +5,7 @@ hidefromtoc: true
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 57%
+ht-degree: 87%
 
 ---
 
@@ -22,11 +22,11 @@ Cuando un usuario mueve un documento a un proyecto distinto, el documento no her
 
 1. Vaya al objeto principal del documento, como Proyecto, Tarea o Problema.
 
-1. Elimine los permisos heredados de la lista de uso compartido del objeto principal haciendo clic en la &quot;x&quot; junto a los permisos heredados y, a continuación, haga clic en **[!UICONTROL Guardar]**.
+1. Quite los permisos heredados de la lista de uso compartido del objeto principal haciendo clic en la “x” junto a los permisos heredados y, a continuación, haga clic en **[!UICONTROL Guardar]**.
 
-1. Vuelva a agregar los permisos heredados volviendo a la lista de uso compartido del objeto principal y haciendo clic en **[!UICONTROL Deshacer]** junto a permisos heredados y haga clic en **[!UICONTROL Guardar]**.
+1. Vuelva a agregar los permisos heredados volviendo a la lista de uso compartido del objeto principal y haciendo clic en **[!UICONTROL Deshacer]** junto a permisos heredados, y haga clic en **[!UICONTROL Guardar]**.
 
-También puede tomar nota del ID del documento (que se encuentra en la dirección URL del [!UICONTROL Detalles del documento] página) y contacto [!DNL Workfront] Atención al cliente.
+También puede tomar nota del ID del documento (que se encuentra en la dirección URL del [!UICONTROL Detalles del documento] página) y contacto [!DNL Workfront] asistencia al cliente.
 
 _Notificado por primera vez el 6 de enero de 2023._
 

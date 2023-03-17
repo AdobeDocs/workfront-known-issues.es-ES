@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '555'
-ht-degree: 86%
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Hojas de tiempo: [!UICONTROL Tipo de hora] la lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 de marzo de 2023 |
+| [Plantillas de horas: [!UICONTROL Tipo de hora] la lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 de marzo de 2023 |
 | [[!UICONTROL Equilibrador de carga de trabajo]: Las horas no se ajustan para tener en cuenta el tiempo de espera del usuario](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 de marzo de 2023 |
 | [[!UICONTROL Actualizaciones]: No se puede registrar la hora del día actual en el [!UICONTROL Actualizaciones] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 de marzo de 2023 |
 
@@ -38,7 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | -----------------------------------------------------------------| ----------------- |
 | [Informes: La ordenación por el encabezado de la columna cambia a una ordenación anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 de marzo de 2023 |
 | [Filtros: El filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 de marzo de 2023 |
-| [Documentos: [!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de marzo de 2023 |
+| [Documentos: el contenido del panel [!UICONTROL Resumen] es demasiado ancho para el panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de marzo de 2023 |
 | [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolios o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
@@ -50,7 +50,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Hojas de tiempo: [!UICONTROL Tipo de hora] la lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de marzo de 2023 |
+| [Plantillas de horas: [!UICONTROL Tipo de hora] la lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de marzo de 2023 |
 | [Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de marzo de 2023 |
 | [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 de febrero de 2023 |
 | [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de febrero de 2023 |
