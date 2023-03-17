@@ -3,9 +3,9 @@ title: '“Actualizaciones: El vínculo a un comentario redirige a la página De
 description: “Cuando un usuario sigue un vínculo a un comentario sobre un objeto en Workfront, el flujo de actualización se carga brevemente y, a continuación, se redirige al usuario al área Detalles del objeto. Esto puede ocurrir si el usuario hace clic en el vínculo de un correo electrónico o pega el vínculo en su explorador.”
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '132'
+ht-degree: 100%
 
 ---
 
