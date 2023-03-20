@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
+source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
 workflow-type: tm+mt
-source-wordcount: '587'
-ht-degree: 87%
+source-wordcount: '600'
+ht-degree: 86%
 
 ---
 
@@ -24,6 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Usuarios: Nivel de acceso cambiado por el sistema sin un registro del cambio](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 de marzo de 2023 |
 | [Documentos: Error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 de marzo de 2023 |
 | [Documentos: [!UICONTROL Actividades de prueba] opciones llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 de marzo de 2023 |
 | [Actualizaciones: La actualización realizada en nombre de un usuario se muestra directamente desde el usuario](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 17 de marzo de 2023 |

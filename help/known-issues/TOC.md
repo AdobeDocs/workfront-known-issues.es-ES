@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
+source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 94%
+source-wordcount: '1280'
+ht-degree: 93%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Usuarios: Nivel de acceso cambiado por el sistema sin un registro del cambio](known-issues-workfront/wf-users-access-level-is-changed.md)
       + [Documentos: Error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Documentos: [!UICONTROL Actividades de prueba] opciones llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [Actualizaciones: La actualización realizada en nombre de un usuario se muestra directamente desde el usuario](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
