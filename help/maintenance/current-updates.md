@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
 workflow-type: tm+mt
-source-wordcount: '2148'
-ht-degree: 95%
+source-wordcount: '2227'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,17 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en marzo de 2023
 
-+++**(Planificado) Actualización de mantenimiento del 16 de marzo de 2023**
++++**(Planificado) Actualización de mantenimiento del 23 de marzo de 2023**
+
+**[!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel**
+
+_Documentos_
+
+Cuando un usuario ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y el usuario debe desplazarse horizontalmente para ver la [!UICONTROL Resumen] contenido del panel. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
+
++++
+
++++**Actualización de mantenimiento del 16 de marzo de 2023**
 
 **Elementos de la lista de comprobación no copiados al copiar una tarjeta**
 
