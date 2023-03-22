@@ -2,7 +2,7 @@
 title: "Documentos: Problemas con la lista de documentos "
 description: '"Este artículo describe los problemas recientes que se han informado con respecto a la Lista de documentos".'
 hidefromtoc: true
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -16,7 +16,7 @@ ht-degree: 6%
 
 Se han comunicado los siguientes problemas con respecto a la Lista de documentos:
 
-* Las miniaturas no se muestran
+* Las miniaturas no se muestran.
 * Si un usuario cambia la carpeta seleccionada mientras está en la vista de lista, las opciones Vista de filtro y Agrupación dejarán de funcionar.
 
 **Solución alternativa**
