@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 83%
+source-wordcount: '624'
+ht-degree: 81%
 
 ---
 
@@ -42,9 +42,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: El usuario se desactiva del flujo de trabajo de prueba y obtiene &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 de marzo de 2023 |
 | [Informes: La ordenación por el encabezado de la columna cambia a una ordenación anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 de marzo de 2023 |
 | [Filtros: El filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 de marzo de 2023 |
-| [Documentos: el contenido del panel [!UICONTROL Resumen] es demasiado ancho para el panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de marzo de 2023 |
 | [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolios o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 

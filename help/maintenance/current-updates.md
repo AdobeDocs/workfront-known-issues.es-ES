@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 94%
+source-wordcount: '2297'
+ht-degree: 92%
 
 ---
 
@@ -21,13 +21,26 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en marzo de 2023
 
-+++**(Planificado) Actualización de mantenimiento del 23 de marzo de 2023**
++++**Actualización de mantenimiento del 23 de marzo de 2023**
 
 **[!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel**
 
 _Documentos_
 
 Cuando un usuario ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y el usuario debe desplazarse horizontalmente para ver la [!UICONTROL Resumen] contenido del panel. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
+
+**Nueva versión de Desktop Proofing Viewer**
+
+_Revisión_
+
+Para solucionar un problema de comentarios en la variable [!UICONTROL Vista de prueba de escritorio]r, hemos implementado una nueva versión del visor de pruebas de escritorio.
+
+Usuarios que ya tienen la variable [!UICONTROL Visor de prueba de escritorio] instalado obtendrá esta actualización automáticamente.
+
+Los usuarios también pueden descargar manualmente la versión más reciente. Para obtener más información, consulte [[!UICONTROL Instalación de Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* Versión anterior: 2.1.22
+* Nueva versión: 2.1.23
 
 +++
 
