@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '1312'
-ht-degree: 90%
+source-wordcount: '1337'
+ht-degree: 89%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Buscar: [!DNL Workfront] Tiempo de espera de la búsqueda](known-issues-workfront/wf-search-search-times-out.md)
+      + [Pruebas: No se puede cambiar la versión de prueba al ver la prueba](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [Pruebas: Los desplegables no se abren cuando se agrega un usuario a una prueba](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Pruebas: El usuario se desactiva del flujo de trabajo de prueba y obtiene &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Documentos: Problemas con la lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Pruebas: La fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)

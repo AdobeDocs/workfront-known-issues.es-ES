@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 81%
+source-wordcount: '652'
+ht-degree: 78%
 
 ---
 
@@ -38,6 +38,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Buscar: [!DNL Workfront] Tiempo de espera de la búsqueda](known-issues-workfront/wf-search-search-times-out.md) | 27 de marzo de 2023 |
+| [Pruebas: No se puede cambiar la versión de prueba al ver la prueba](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 27 de marzo de 2023 |
+| [Pruebas: Los desplegables no se abren cuando se agrega un usuario a una prueba](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 de marzo de 2023 |
 | [Plantillas de horas: [!UICONTROL Tipo de hora] la lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 de marzo de 2023 |
 | [Pruebas: La fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
 | [Pruebas: El usuario se desactiva del flujo de trabajo de prueba y obtiene &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 de marzo de 2023 |
