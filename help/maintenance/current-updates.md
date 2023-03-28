@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '2297'
-ht-degree: 92%
+source-wordcount: '2379'
+ht-degree: 89%
 
 ---
 
@@ -20,6 +20,22 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en marzo de 2023
+
++++**(Planificado) Actualización de mantenimiento del 23 de marzo de 2023**
+
+**No se puede cambiar la versión de prueba al ver la prueba**
+
+_Pruebas_
+
+Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas], y cambia a otra versión, el menú desplegable de versiones se vuelve inhabilitado y el usuario no puede volver a la versión original que estaba viendo o a otra versión de la prueba.
+
+**Error 504 al exportar informes**
+
+_Informes_
+
+Cuando un usuario intenta exportar un informe con un número elevado de elementos, aparece un error 504 y no puede exportar el informe.
+
++++
 
 +++**Actualización de mantenimiento del 23 de marzo de 2023**
 
