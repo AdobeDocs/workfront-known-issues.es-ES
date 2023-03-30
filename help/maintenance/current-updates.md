@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '2379'
-ht-degree: 89%
+source-wordcount: '2423'
+ht-degree: 88%
 
 ---
 
@@ -21,19 +21,25 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en marzo de 2023
 
-+++**(Planificado) Actualización de mantenimiento del 23 de marzo de 2023**
++++**Actualización de mantenimiento del 23 de marzo de 2023**
 
 **No se puede cambiar la versión de prueba al ver la prueba**
 
 _Pruebas_
 
-Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas], y cambia a otra versión, el menú desplegable de versiones se vuelve inhabilitado y el usuario no puede volver a la versión original que estaba viendo o a otra versión de la prueba.
+Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas]y cambia a otra versión, el menú desplegable de la versión se desactiva y el usuario no puede volver a la versión original que estaba viendo ni a otra versión de la prueba.
 
 **Error 504 al exportar informes**
 
 _Informes_
 
 Cuando un usuario intenta exportar un informe con un número elevado de elementos, aparece un error 504 y no puede exportar el informe.
+
+**La actualización realizada en nombre de un usuario se muestra directamente desde el usuario**
+
+_Actualizaciones_
+
+Cuando un administrador ha iniciado sesión como usuario y realiza un comentario, ese comentario se muestra directamente desde el usuario, en lugar de hacerlo desde el administrador en nombre del usuario.
 
 +++
 
