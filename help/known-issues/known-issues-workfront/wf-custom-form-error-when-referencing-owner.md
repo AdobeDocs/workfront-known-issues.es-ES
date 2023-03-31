@@ -4,9 +4,9 @@ description: 'Cuando un usuario añade un campo calculado a un formulario person
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
 source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '135'
+ht-degree: 100%
 
 ---
 
