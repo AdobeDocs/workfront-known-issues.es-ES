@@ -3,7 +3,7 @@ title: '“Pruebas: Los mensajes personalizados no aparecen en las notificacione
 description: “Cuando un usuario comparte una prueba y añade un mensaje personalizado, ese mensaje personalizado no aparece en el correo electrónico de notificación al destinatario. El asunto es el nombre de la revisión y el mensaje no aparece en el correo electrónico”.
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
