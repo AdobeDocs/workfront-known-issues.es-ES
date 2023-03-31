@@ -3,9 +3,9 @@ title: '“Documentos: Los permisos no se heredan cuando se mueve un documento a
 description: “Cuando un usuario mueve un documento a un proyecto distinto, el documento no hereda los permisos de uso compartido del nuevo proyecto. El documento no se comparte con los usuarios con quienes se comparte el proyecto. ”
 hidefromtoc: true
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Cuando un usuario mueve un documento a un proyecto distinto, el documento no her
 
 1. Vuelva a agregar los permisos heredados volviendo a la lista de uso compartido del objeto principal y haciendo clic en **[!UICONTROL Deshacer]** junto a permisos heredados, y haga clic en **[!UICONTROL Guardar]**.
 
-También puede tomar nota del ID del documento (que se encuentra en la dirección URL del [!UICONTROL Detalles del documento] página) y contacto [!DNL Workfront] asistencia al cliente.
+También puede anotar el ID del documento (que se encuentra en la dirección URL de la página [!UICONTROL Detalles del documento]) y ponerse en contacto con el servicio de atención al cliente de [!DNL Workfront].
 
 _Notificado por primera vez el 6 de enero de 2023._
 
