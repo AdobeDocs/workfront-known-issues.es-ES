@@ -3,7 +3,7 @@ title: '“Pruebas: Las funciones de prueba se cambian a solo lectura”'
 description: “Los usuarios con funciones de prueba que no sean de solo lectura se cambian automáticamente a solo lectura. No hay notificación ni registro que muestre este cambio”.
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
