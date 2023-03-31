@@ -1,22 +1,22 @@
 ---
-title: "Informes: La ordenación por encabezado de columna vuelve a la ordenación anterior"
-description: "Cuando un usuario intenta ordenar un informe haciendo clic en el encabezado de una columna, el informe se ordena según la columna, pero luego vuelve rápidamente a la ordenación anterior."
+title: '“Informes: al ordenar por encabezado de columna se vuelve al orden anterior”'
+description: “Cuando se intenta ordenar un informe haciendo clic en el encabezado de una columna, el informe se ordena según esta, pero luego vuelve rápidamente al orden anterior".
 hidefromtoc: true
 source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Informes: La ordenación por encabezado de columna vuelve a la ordenación anterior
+# Informes: al ordenar por encabezado de columna se vuelve al orden anterior
 
-Cuando un usuario intenta ordenar un informe haciendo clic en un encabezado de columna, el informe se ordena según la columna, pero luego vuelve rápidamente a la ordenación anterior.
+Cuando se intenta ordenar un informe haciendo clic en el encabezado de una columna, el informe se ordena según esta, pero luego vuelve rápidamente al orden anterior.
 
 **Solución alternativa**
 
-Establezca el criterio de ordenación en Report Builder.
+Defina el criterio de orden en Report Builder.
 
-_Informado por primera vez el 21 de febrero de 2023._
+_Notificado por primera vez el 21 de febrero de 2023._
 
