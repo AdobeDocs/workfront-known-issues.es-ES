@@ -1,6 +1,6 @@
 ---
-title: "Prueba de Workfront: Las listas no están ordenadas correctamente"
-description: "Cuando un usuario ve una lista en la Prueba de Workfront que tiene una clasificación aplicada (como Nombre), la clasificación no es precisa."
+title: '“Workfront Proof: las listas no están ordenadas correctamente”'
+description: “En Workfront Proof, cuando se visualiza una lista que aplica una categoría (como Nombre), el orden no es preciso”.
 hidefromtoc: true
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
@@ -10,9 +10,9 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Workfront Proof]: Las listas no están ordenadas correctamente
+# [!DNL Workfront Proof]: las listas no están ordenadas correctamente
 
-Cuando un usuario ve una lista en [!DNL Workfront Proof] que tiene un orden aplicado (por ejemplo, [!UICONTROL Nombre]), la clasificación no es precisa. Alternativamente, cuando se aplica una ordenación, la lista está en blanco.
+En [!DNL Workfront Proof], cuando se visualiza una lista que aplica una categoría (como [!UICONTROL Nombre]), el orden no es preciso. En alternativa, cuando se aplica un orden, la lista está en blanco.
 
 **Solución alternativa**
 
