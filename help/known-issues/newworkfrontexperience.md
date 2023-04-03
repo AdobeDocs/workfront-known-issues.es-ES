@@ -3,7 +3,7 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
+source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -24,6 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Usuarios: No se puede seleccionar [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipos de hora disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 3 de abril de 2023 |
 | [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31 de marzo de 2023 |
 | [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28 de marzo de 2023 |
 | [Usuarios: Nivel de acceso cambiado por el sistema sin un registro del cambio](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 de marzo de 2023 |
