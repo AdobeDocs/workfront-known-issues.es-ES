@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '2423'
-ht-degree: 88%
+source-wordcount: '2493'
+ht-degree: 90%
 
 ---
 
@@ -19,9 +19,21 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
+## Actualizaciones en abril de 2023
+
++++**Actualización de mantenimiento del 4 de abril de 2023**
+
+**Los desplegables no se abren cuando se agrega un usuario a una prueba**
+
+_Pruebas_
+
+Cuando un usuario agrega otro usuario a una prueba en la [!UICONTROL Visor de pruebas], el[!UICONTROL Función de prueba]&quot; y &quot;[!UICONTROL Alertas de correo electrónico]&quot; no se pueden abrir los menús desplegables. El usuario no puede asignar una cadena de prueba o una alerta de correo electrónico. Esto puede ocurrir al agregar un usuario a través de un comentario o al compartir la prueba con el usuario.
+
++++
+
 ## Actualizaciones en marzo de 2023
 
-+++**Actualización de mantenimiento del 23 de marzo de 2023**
++++**Actualización de mantenimiento del 30 de marzo de 2023**
 
 **No se puede cambiar la versión de prueba al ver la prueba**
 
@@ -49,7 +61,7 @@ Cuando un administrador ha iniciado sesión como usuario y realiza un comentario
 
 _Documentos_
 
-Cuando un usuario ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y el usuario debe desplazarse horizontalmente para ver la [!UICONTROL Resumen] contenido del panel. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
+Cuando un usuario ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y hay que desplazarse horizontalmente para ver el contenido del panel [!UICONTROL Resumen]. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
 
 **Nueva versión de Desktop Proofing Viewer**
 
@@ -96,11 +108,11 @@ _Usuarios_
 
 Cuando un usuario está reactivando un usuario desactivado e intenta asignarle un nivel de acceso en la ventana [!UICONTROL Reactivar usuario], la lista desplegable de nivel de acceso no se rellena a medida que se va escribiendo, y el usuario no puede seleccionar un nivel de acceso. Si el usuario escribe el nivel de acceso y guarda, el nivel de acceso no se asigna al usuario.
 
-**Guarde el borrador de un comentario en el [!DNL Goals] area**
+**Guarde el borrador de un comentario en el área [!DNL Goals]**
 
 _[!DNL Workfront Goals]_
 
-Ahora, cuando se aleja del [!UICONTROL Actualizaciones] del objetivo mientras se encuentra en medio de la composición de un mensaje, el mensaje se conserva cuando retrocede. Antes de esta actualización, el comentario no enviado se habría eliminado.
+Así, si se abandona la página [!UICONTROL Actualizaciones] de una meta mientras se está redactando un mensaje, este se conserva al volver. Antes de esta actualización, el comentario no enviado se habría eliminado.
 
 +++
 

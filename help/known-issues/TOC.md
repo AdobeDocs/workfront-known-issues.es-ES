@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '1387'
-ht-degree: 89%
+source-wordcount: '1395'
+ht-degree: 88%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Usuarios: No se puede seleccionar [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipos de hora disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Proyectos: [!UICONTROL Grupo de inicio] los estados personalizados no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
