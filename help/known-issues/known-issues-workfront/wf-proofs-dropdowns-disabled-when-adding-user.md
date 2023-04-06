@@ -2,15 +2,19 @@
 title: "Pruebas: Los desplegables no se abren cuando se agrega un usuario a una prueba"
 description: '"Cuando un usuario agrega otro usuario a una prueba en el visor de pruebas, no se pueden abrir los menús desplegables de función de prueba y alertas de correo electrónico . El usuario no puede asignar una cadena de prueba o una alerta de correo electrónico. Esto puede ocurrir al agregar un usuario a través de un comentario o al compartir la prueba con el usuario".'
 hidefromtoc: true
-source-git-commit: 0f3a4dd2201c8e612db50fe8f15342801192af3b
+source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
 
 # Pruebas: Los desplegables no se abren cuando se agrega un usuario a una prueba
+
+>[!NOTE]
+>
+>Este problema se corrigió el 6 de abril de 2023.
 
 <!--This article is on WF and WFP TOCs-->
 
