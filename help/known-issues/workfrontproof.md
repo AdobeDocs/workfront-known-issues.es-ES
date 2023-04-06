@@ -3,10 +3,10 @@ title: Problemas conocidos de  [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 79%
+source-wordcount: '329'
+ht-degree: 77%
 
 ---
 
@@ -25,7 +25,6 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31 de marzo de 2023 |
-| [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28 de marzo de 2023 |
 | [Documentos: [!UICONTROL Actividades de prueba] opciones llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 de marzo de 2023 |
 
 {style="table-layout:auto"}
@@ -36,6 +35,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril |
+| [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
 | [Pruebas: No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de marzo de 2023 |
 | [Pruebas: La fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
 | [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |

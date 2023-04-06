@@ -2,15 +2,19 @@
 title: '“Actualizaciones: no se puede registrar la hora del día actual en el área Actualizaciones”'
 description: “Cuando se intenta registrar la hora del día actual en el área Actualizaciones, el día actual aparece atenuado y no se puede introducir ninguna hora”.
 hidefromtoc: true
-source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
-workflow-type: ht
-source-wordcount: '99'
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Actualizaciones]: no se puede registrar la hora del día actual en el área [!UICONTROL Actualizaciones]
+
+>[!NOTE]
+>
+>Este problema se ha cerrado porque no se ha podido reproducir.
 
 Cuando se intenta registrar la hora del día actual en el área [!UICONTROL Actualizaciones], el día actual aparece atenuado y no se puede introducir ninguna hora.
 
