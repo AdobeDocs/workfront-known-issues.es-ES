@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '1402'
-ht-degree: 88%
+source-wordcount: '1413'
+ht-degree: 87%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Página principal]: Hacer clic cerca de la miniatura en [!UICONTROL Lista de trabajo] lleva a una página en blanco](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Formularios personalizados: Problemas en los campos desplegables personalizados](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Pruebas: No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Usuarios: No se puede seleccionar [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipos de hora disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md)

@@ -3,10 +3,10 @@ title: Problemas conocidos de  [!DNL Adobe Workfront Proof]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 77%
+source-wordcount: '341'
+ht-degree: 74%
 
 ---
 
@@ -35,6 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Página principal]: Hacer clic cerca de la miniatura en [!UICONTROL Lista de trabajo] lleva a una página en blanco](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 10 de abril de 2023 |
 | [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril |
 | [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
 | [Pruebas: No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de marzo de 2023 |

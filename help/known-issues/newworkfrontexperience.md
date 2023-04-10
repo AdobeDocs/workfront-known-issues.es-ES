@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 80%
+source-wordcount: '672'
+ht-degree: 78%
 
 ---
 
@@ -35,6 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Página principal]: Hacer clic cerca de la miniatura en [!UICONTROL Lista de trabajo] lleva a una página en blanco](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 10 de abril de 2023 |
 | [Usuarios: No se puede seleccionar [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipos de hora disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 6 de abril de 2023 |
 | [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril de 2023 |
 | [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
