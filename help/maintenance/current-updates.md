@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
 workflow-type: tm+mt
-source-wordcount: '2493'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,22 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en abril de 2023
 
-+++**Actualización de mantenimiento del 4 de abril de 2023**
++++**Actualización de mantenimiento del 13 de abril de 2023**
+
+**Los filtros no se aplican a la lista de solicitudes**
+
+_Solicitudes_
+
+Cuando un usuario ve una lista de solicitudes que tiene un filtro aplicado, la lista incluye solicitudes que el filtro debe excluir.
+
+**No se puede seleccionar [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipos de hora disponibles]**
+
+_Usuarios_
+
+Cuando un administrador está editando un usuario e intenta seleccionar un [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipo de hora disponible], verán que los desplegables de esos campos están desactivados y que no pueden seleccionar tipos de hora.
++++
+
++++**Actualización de mantenimiento del 6 de abril de 2023**
 
 **Los desplegables no se abren cuando se agrega un usuario a una prueba**
 
