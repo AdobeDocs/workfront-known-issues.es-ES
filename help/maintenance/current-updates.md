@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2573'
+ht-degree: 88%
 
 ---
 
@@ -34,6 +34,7 @@ Cuando un usuario ve una lista de solicitudes que tiene un filtro aplicado, la l
 _Usuarios_
 
 Cuando un administrador está editando un usuario e intenta seleccionar un [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipo de hora disponible], verán que los desplegables de esos campos están desactivados y que no pueden seleccionar tipos de hora.
+
 +++
 
 +++**Actualización de mantenimiento del 6 de abril de 2023**
