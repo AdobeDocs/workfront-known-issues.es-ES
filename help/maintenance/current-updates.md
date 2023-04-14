@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,7 @@ Cuando un administrador está editando un usuario e intenta seleccionar un [!UIC
 
 _Pruebas_
 
-Cuando un usuario agrega otro usuario a una prueba en la [!UICONTROL Visor de pruebas], el[!UICONTROL Función de prueba]&quot; y &quot;[!UICONTROL Alertas de correo electrónico]&quot; no se pueden abrir los menús desplegables. El usuario no puede asignar una cadena de prueba o una alerta de correo electrónico. Esto puede ocurrir al agregar un usuario a través de un comentario o al compartir la prueba con el usuario.
+Cuando un usuario añade a otro usuario a una prueba en el [!UICONTROL Visor de revisión], los menús desplegables de la &quot;[!UICONTROL Función de prueba]&quot; y de las &quot;[!UICONTROL Alertas de correo electrónico]&quot; no se pueden abrir. No se puede asignar una función de prueba o una alerta de correo electrónico. Esto puede ocurrir al añadir a un usuario a través de un comentario o al compartir la prueba con el usuario.
 
 +++
 
@@ -51,43 +51,43 @@ Cuando un usuario agrega otro usuario a una prueba en la [!UICONTROL Visor de pr
 
 +++**Actualización de mantenimiento del 30 de marzo de 2023**
 
-**No se puede cambiar la versión de prueba al ver la prueba**
+**No se puede cambiar de versión de prueba al ver la prueba**
 
 _Pruebas_
 
-Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas]y cambia a otra versión, el menú desplegable de la versión se desactiva y el usuario no puede volver a la versión original que estaba viendo ni a otra versión de la prueba.
+Cuando se está viendo una prueba en el [!UICONTROL Visor de revisión] y se cambia a otra versión, el desplegable de la versión se desactiva y no se puede volver a la versión original que se estaba viendo ni a otra versión de la prueba.
 
 **Error 504 al exportar informes**
 
 _Informes_
 
-Cuando un usuario intenta exportar un informe con un número elevado de elementos, aparece un error 504 y no puede exportar el informe.
+Cuando se intenta exportar un informe con un número elevado de elementos, aparece un error 504 y no se puede exportar el informe.
 
-**La actualización realizada en nombre de un usuario se muestra directamente desde el usuario**
+**La actualización realizada en nombre de un usuario se muestra directamente como hecha por ese usuario**
 
 _Actualizaciones_
 
-Cuando un administrador ha iniciado sesión como usuario y realiza un comentario, ese comentario se muestra directamente desde el usuario, en lugar de hacerlo desde el administrador en nombre del usuario.
+Cuando un rol de administrador ha iniciado sesión como usuario y realiza un comentario, ese comentario se muestra directamente como hecho por el usuario, en lugar de hacerlo como hecho por el rol de administrador en nombre del usuario.
 
 +++
 
 +++**Actualización de mantenimiento del 23 de marzo de 2023**
 
-**[!UICONTROL Resumen] el contenido del panel es demasiado ancho para el panel**
+El contenido del panel **[!UICONTROL Resumen] es demasiado ancho para el panel**
 
 _Documentos_
 
-Cuando un usuario ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y hay que desplazarse horizontalmente para ver el contenido del panel [!UICONTROL Resumen]. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
+Cuando se ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y hay que desplazarse horizontalmente para ver el contenido del panel [!UICONTROL Resumen]. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
 
-**Nueva versión de Desktop Proofing Viewer**
+**Nueva versión de**[!UICONTROL Desktop Proofing Viewer]
 
 _Revisión_
 
-Para solucionar un problema de comentarios en la variable [!UICONTROL Vista de prueba de escritorio]r, hemos implementado una nueva versión del visor de pruebas de escritorio.
+Para solucionar un problema de comentarios en [!UICONTROL Desktop Proofing Viewer], hemos implementado una nueva versión del visor de revisión de escritorio.
 
-Usuarios que ya tienen la variable [!UICONTROL Visor de prueba de escritorio] instalado obtendrá esta actualización automáticamente.
+Cuando [!UICONTROL Desktop Proofing Viewer] ya está instalado, esta actualización se obtiene automáticamente.
 
-Los usuarios también pueden descargar manualmente la versión más reciente. Para obtener más información, consulte [[!UICONTROL Instalación de Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+También es posible descargar manualmente la versión más reciente. Para obtener más información, consulte [[!UICONTROL Instalación de Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 
 * Versión anterior: 2.1.22
 * Nueva versión: 2.1.23

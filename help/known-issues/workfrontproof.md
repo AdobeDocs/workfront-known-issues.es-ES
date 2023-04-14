@@ -5,8 +5,8 @@ keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31 de marzo de 2023 |
-| [Documentos: [!UICONTROL Actividades de prueba] opciones llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 de marzo de 2023 |
+| [Pruebas: el cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31 de marzo de 2023 |
+| [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 de marzo de 2023 |
 
 {style="table-layout:auto"}
 
@@ -35,10 +35,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril |
-| [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
+| [Pruebas: no se puede usar la herramienta Polyline al comentar una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril |
+| [Pruebas: el cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
 | [Pruebas: No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de marzo de 2023 |
-| [Pruebas: La fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
+| [Pruebas: la fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
 | [[!DNL Workfront Proof] API: error “[!UICONTROL El cuerpo no es un XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de enero de 2023 |
 
 {style="table-layout:auto"}
@@ -49,9 +49,9 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: La herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
-| [Documentos: Error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de marzo de 2023 |
-| [Documentos: Problemas con la lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 de marzo de 2023 |
+| [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
+| [Documentos: error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de marzo de 2023 |
+| [Documentos: problemas con la Lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 de marzo de 2023 |
 | [[!DNL Workfront Proof]: las listas no están ordenadas correctamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 de marzo de 2023 |
 | [Documentos: los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de marzo de 2023 |
 | El área de [[!DNL Workfront Proof]: [!UICONTROL Reports]  ya no es compatible](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 de marzo de 2023 |

@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
 source-wordcount: '664'
-ht-degree: 77%
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: [!UICONTROL Actividades de prueba] opciones llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 de marzo de 2023 |
+| [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 de marzo de 2023 |
 
 {style="table-layout:auto"}
 
@@ -34,17 +34,17 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Usuarios: Nivel de acceso cambiado por el sistema sin un registro del cambio](known-issues-workfront/wf-users-access-level-is-changed.md) | 13 de abril de 2023 |
+| [Usuarios: nivel de acceso cambiado por el sistema sin registro del cambio](known-issues-workfront/wf-users-access-level-is-changed.md) | 13 de abril de 2023 |
 | [Plantillas: No se puede seleccionar la plantilla de [!UICONTROL Plantillas favoritas]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 de abril de 2023 |
-| [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril de 2023 |
-| [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
+| [Pruebas: no se puede usar la herramienta Polyline al comentar una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril de 2023 |
+| [Pruebas: el cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
 | [Formularios personalizados: Problemas en los campos desplegables personalizados](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 5 de abril de 2023 |
 | [Pruebas: No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de marzo de 2023 |
-| [Proyectos: [!UICONTROL Grupo de inicio] los estados personalizados no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de marzo de 2023 |
-| [Buscar: [!DNL Workfront] Tiempo de espera de la búsqueda](known-issues-workfront/wf-search-search-times-out.md) | 27 de marzo de 2023 |
-| [Plantillas de horas: [!UICONTROL Tipo de hora] la lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 de marzo de 2023 |
-| [Pruebas: La fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
-| [Pruebas: El usuario se desactiva del flujo de trabajo de prueba y obtiene &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 de marzo de 2023 |
+| [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de marzo de 2023 |
+| [Búsqueda: [!DNL Workfront] la búsqueda agota el tiempo de espera](known-issues-workfront/wf-search-search-times-out.md) | 27 de marzo de 2023 |
+| [Plantillas de horas: el desplegable [!UICONTROL Tipo de hora] no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 de marzo de 2023 |
+| [Pruebas: la fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
+| [Pruebas: se desactiva al usuario del flujo de trabajo de prueba y le aparece &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 de marzo de 2023 |
 | [Filtros: el filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 de marzo de 2023 |
 | [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolios o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
@@ -57,12 +57,12 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Buscar: [!DNL Workfront] Tiempo de espera de la búsqueda](known-issues-workfront/wf-search-search-times-out.md) | 13 de abril de 2023 |
+| [Búsqueda: [!DNL Workfront] la búsqueda agota el tiempo de espera](known-issues-workfront/wf-search-search-times-out.md) | 13 de abril de 2023 |
 | [Filtros: No se puede compartir un filtro de un informe en un tablero](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 de abril de 2023 |
-| [Pruebas: La herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
-| [Documentos: Error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de marzo de 2023 |
-| [Documentos: Problemas con la lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 de marzo de 2023 |
-| [Plantillas de horas: [!UICONTROL Tipo de hora] la lista desplegable no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de marzo de 2023 |
+| [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
+| [Documentos: error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de marzo de 2023 |
+| [Documentos: problemas con la Lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 de marzo de 2023 |
+| [Plantillas de horas: la lista desplegable de [!UICONTROL Tipo de hora] no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de marzo de 2023 |
 | [Documentos: los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de marzo de 2023 |
 | [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 de febrero de 2023 |
 | [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de febrero de 2023 |

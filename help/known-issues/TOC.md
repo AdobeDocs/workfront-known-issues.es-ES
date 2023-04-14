@@ -3,8 +3,8 @@ user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1431'
+ht-degree: 96%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 0%
       + [Formularios personalizados: Problemas en los campos desplegables personalizados](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Pruebas: No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Usuarios: No se puede seleccionar [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipos de hora disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
-      + [Proyectos: [!UICONTROL Grupo de inicio] los estados personalizados no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
-      + [Pruebas: No se puede usar la herramienta Polyline al realizar un comentario en una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
-      + [Pruebas: La herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Buscar: [!DNL Workfront] Tiempo de espera de la búsqueda](known-issues-workfront/wf-search-search-times-out.md)
-      + [Pruebas: No se puede cambiar la versión de prueba al ver la prueba](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [Pruebas: Los desplegables no se abren cuando se agrega un usuario a una prueba](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
-      + [Pruebas: El usuario se desactiva del flujo de trabajo de prueba y obtiene &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
-      + [Documentos: Problemas con la lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [Pruebas: La fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
-      + [Usuarios: Nivel de acceso cambiado por el sistema sin un registro del cambio](known-issues-workfront/wf-users-access-level-is-changed.md)
-      + [Documentos: Error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [Documentos: [!UICONTROL Actividades de prueba] opciones llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [Actualizaciones: La actualización realizada en nombre de un usuario se muestra directamente desde el usuario](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
+      + [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
+      + [Pruebas: no se puede usar la herramienta Polyline al comentar una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
+      + [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
+      + [Búsqueda: [!DNL Workfront] la búsqueda agota el tiempo de espera](known-issues-workfront/wf-search-search-times-out.md)
+      + [Pruebas: no se puede cambiar de versión de prueba al ver la prueba](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [Pruebas: los desplegables no se abren cuando se añade a un usuario a una prueba](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
+      + [Pruebas: se desactiva al usuario del flujo de trabajo de prueba y le aparece &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
+      + [Documentos: problemas con la Lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md)
+      + [Pruebas: la fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
+      + [Usuarios: nivel de acceso cambiado por el sistema sin registro del cambio](known-issues-workfront/wf-users-access-level-is-changed.md)
+      + [Documentos: error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [Actualizaciones: la actualización realizada en nombre de un usuario se muestra directamente como hecha por ese usuario](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [Filtros: el filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Distribuidor de cargas de trabajo]: las horas no se ajustan para tener en cuenta los días libres](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Informes: al ordenar por encabezado de columna se vuelve al orden anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
@@ -148,7 +148,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
-      + [Pruebas: El cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
+      + [Pruebas: el cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: las listas no están ordenadas correctamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Pruebas: Los mensajes personalizados no aparecen en las notificaciones por correo electrónico](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: La prueba no se carga al utilizar el botón “[!UICONTROL Ir a la revisión]” en la notificación por correo electrónico](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
