@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2657'
-ht-degree: 93%
+source-wordcount: '2757'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,25 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en abril de 2023
+
++++**(Planificado) Actualización de mantenimiento el 20 de abril de 2023**
+
+**Problemas en los campos desplegables personalizados**
+
+_Formularios personalizados_
+
+Los campos desplegables personalizados que están habilitados como campos de selección múltiple pueden mostrar los siguientes problemas:
+
+* El signo &quot;+[!UICONTROL Agregar]&quot; no está presente cuando el formulario no está en modo de edición.
+* Los campos que no tienen valores muestran un &quot;—[!UICONTROL sin etiqueta]—&quot;.
+
+**El cuadro de opciones de texto muestra &quot;textAnnotations&quot;**
+
+_Pruebas_
+
+Cuando un se está viendo una prueba, se comienza a añadir un comentario y se abre la herramienta Texto, la palabra &quot;textAnNotation&quot; aparece junto a las opciones de la herramienta. La herramienta Texto sigue funcionando como se espera y &quot;textAnNotation&quot; desaparece después de publicar el comentario.
+
++++
 
 +++**Actualización de mantenimiento del 17 de abril de 2023**
 
