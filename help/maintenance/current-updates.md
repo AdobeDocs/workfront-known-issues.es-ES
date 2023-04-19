@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2757'
-ht-degree: 92%
+source-wordcount: '2859'
+ht-degree: 88%
 
 ---
 
@@ -37,6 +37,14 @@ Los campos desplegables personalizados que están habilitados como campos de sel
 _Pruebas_
 
 Cuando un se está viendo una prueba, se comienza a añadir un comentario y se abre la herramienta Texto, la palabra &quot;textAnNotation&quot; aparece junto a las opciones de la herramienta. La herramienta Texto sigue funcionando como se espera y &quot;textAnNotation&quot; desaparece después de publicar el comentario.
+
+## Mantener las imágenes como borrador al alejarse de una actualización para objetivos y problemas en la experiencia de comentarios beta
+
+>[!NOTE]
+>
+>Esta función se publicó en Vista previa el 19 de abril de 2023. Se lanzará a la producción el 20 de abril de 2023.
+
+Ahora, cuando se aleja de la página Actualizaciones mientras se encuentra en medio de un mensaje en el que ha adjunto una imagen, el mensaje y la imagen se conservan al volver. Antes de esta actualización, se conservaba el comentario sin enviar, pero la imagen se eliminaba. Esto está disponible en la sección Actualizaciones para los objetivos y en el de los problemas al habilitar la experiencia de comentarios beta.
 
 +++
 
