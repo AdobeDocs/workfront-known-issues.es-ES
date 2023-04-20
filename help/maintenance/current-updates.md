@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
 workflow-type: tm+mt
-source-wordcount: '2945'
-ht-degree: 88%
+source-wordcount: '3021'
+ht-degree: 86%
 
 ---
 
@@ -44,15 +44,25 @@ _Pruebas_
 
 Cuando un se está viendo una prueba, se comienza a añadir un comentario y se abre la herramienta Texto, la palabra &quot;textAnNotation&quot; aparece junto a las opciones de la herramienta. La herramienta Texto sigue funcionando como se espera y &quot;textAnNotation&quot; desaparece después de publicar el comentario.
 
-## Mantener las imágenes como borrador al alejarse de una actualización para objetivos y problemas en la experiencia de comentarios beta
+**Mantener las imágenes como borrador al alejarse de una actualización para objetivos y problemas en la experiencia de comentarios beta**
 
 >[!NOTE]
 >
->Esta función se publicó en Vista previa el 19 de abril de 2023. Se lanzará a producción en un futuro próximo.
+>Esta función se publicó en Preview el 19 de abril de 2023 y se publicó para su producción el 20 de abril de 2023.
 
 _Actualizaciones_
 
 Ahora, cuando se aleja de la página Actualizaciones mientras se encuentra en medio de un mensaje en el que ha adjunto una imagen, el mensaje y la imagen se conservan al volver. Antes de esta actualización, se conservaba el comentario sin enviar, pero la imagen se eliminaba. Esto está disponible en la sección Actualizaciones para los objetivos y en el de los problemas al habilitar la experiencia de comentarios beta.
+
+**Actualizaciones en tiempo real y comentarios eliminados en la sección Actualizaciones**
+
+>[!NOTE]
+>
+>Esta función se publicó en Preview el 19 de abril de 2023 y se publicó para su producción el 20 de abril de 2023.
+
+_Actualizaciones_
+
+Ahora, cuando alguien agrega un comentario o responde, o elimina un comentario del área Actualizaciones, puede ver el nuevo comentario o una indicación de que el comentario se eliminó en tiempo real, sin demora. Esto está disponible en la sección Actualizaciones para los objetivos y en el de los problemas al habilitar la experiencia de comentarios beta.
 
 **Nivel de acceso cambiado por el sistema sin un registro del cambio**
 
