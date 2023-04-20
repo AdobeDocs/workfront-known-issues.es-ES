@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '2859'
+source-wordcount: '2945'
 ht-degree: 88%
 
 ---
@@ -32,6 +32,12 @@ Los campos desplegables personalizados que están habilitados como campos de sel
 * El signo &quot;+[!UICONTROL Agregar]&quot; no está presente cuando el formulario no está en modo de edición.
 * Los campos que no tienen valores muestran un &quot;—[!UICONTROL sin etiqueta]—&quot;.
 
+**No se puede usar la herramienta Polyline al realizar un comentario en una prueba**
+
+_Pruebas_
+
+Cuando se está viendo una prueba en el visor de revisión y se intenta realizar un comentario con la herramienta Polyline, esta no marca la prueba.
+
 **El cuadro de opciones de texto muestra &quot;textAnnotations&quot;**
 
 _Pruebas_
@@ -42,9 +48,17 @@ Cuando un se está viendo una prueba, se comienza a añadir un comentario y se a
 
 >[!NOTE]
 >
->Esta función se publicó en Vista previa el 19 de abril de 2023. Se lanzará a la producción el 20 de abril de 2023.
+>Esta función se publicó en Vista previa el 19 de abril de 2023. Se lanzará a producción en un futuro próximo.
+
+_Actualizaciones_
 
 Ahora, cuando se aleja de la página Actualizaciones mientras se encuentra en medio de un mensaje en el que ha adjunto una imagen, el mensaje y la imagen se conservan al volver. Antes de esta actualización, se conservaba el comentario sin enviar, pero la imagen se eliminaba. Esto está disponible en la sección Actualizaciones para los objetivos y en el de los problemas al habilitar la experiencia de comentarios beta.
+
+**Nivel de acceso cambiado por el sistema sin un registro del cambio**
+
+_Usuarios_
+
+El sistema puede cambiar impredeciblemente el nivel de acceso de un usuario. Cuando esto sucede, no hay ninguna actualización visible y el cambio no aparece en el registro de auditoría.
 
 +++
 
