@@ -2,9 +2,9 @@
 title: "Documentos: las opciones de Actividades de revisión llevan a la página de inicio de sesión"
 description: "Cuando se está viendo la página Detalles del documento y se hace clic en una opción del menú Actividades de revisión, el sistema dirige a una página de inicio de sesión en lugar de a la página de destino deseada."
 hidefromtoc: true
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 100%
 # Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión
 
 <!--This article is on WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
 Cuando se está viendo la página de [!UICONTROL Detalles del documento] y se hace clic en una opción del menú [!UICONTROL Actividades de revisión], el sistema dirige a una página de inicio de sesión en lugar de a la página de destino deseada.
 
