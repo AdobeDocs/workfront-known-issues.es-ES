@@ -1,9 +1,9 @@
 ---
 title: '“Plantillas de horas: la plantilla de horas no se genera”'
-description: “Las plantillas de horas no se generan a pesar de la configuración del perfil de la plantilla de horas.
+description: “Las plantillas de horas no se generan a pesar de la configuración del perfil de la plantilla de horas.”
 hidefromtoc: true
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: ht
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 

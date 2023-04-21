@@ -1,11 +1,11 @@
 ---
 title: "Usuarios: nivel de acceso cambiado por el sistema sin registro del cambio"
-description: '"El sistema puede cambiar impredeciblemente el nivel de acceso de un usuario. Cuando esto sucede, no hay ninguna actualización visible y el cambio no aparece en el registro de auditoría.'
+description: '"El sistema puede cambiar impredeciblemente el nivel de acceso de un usuario. Cuando esto sucede, no hay ninguna actualización visible y el cambio no aparece en el registro de auditoría.”'
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

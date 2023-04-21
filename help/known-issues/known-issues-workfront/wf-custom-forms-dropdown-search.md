@@ -1,16 +1,16 @@
 ---
 title: '“Forms personalizado: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables”'
-description: “Cuando un usuario rellena un formulario personalizado y busca en una lista desplegable utilizando Ctrl+F o Cmd+F, luego intenta ir a la siguiente instancia de esa búsqueda, la lista desplegable vuelve a la parte superior de la lista en lugar de saltar a la siguiente instancia de la búsqueda. Esto ocurre cuando se establece un menú desplegable para permitir varias selecciones.
+description: “Cuando un usuario rellena un formulario personalizado y busca en una lista desplegable utilizando Ctrl+F o Cmd+F, luego intenta ir a la siguiente instancia de esa búsqueda, la lista desplegable vuelve a la parte superior de la lista en lugar de saltar a la siguiente instancia de la búsqueda. Esto ocurre cuando se establece un menú desplegable para permitir varias selecciones.”
 hidefromtoc: true
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Forms personalizado: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables
+# Formularios personalizados: Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables
 
 >[!NOTE]
 >
