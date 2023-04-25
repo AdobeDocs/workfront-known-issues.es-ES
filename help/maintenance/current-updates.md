@@ -4,8 +4,8 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '3123'
-ht-degree: 83%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 _Pruebas_
 
-Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas]y cambia a otra prueba, el botón de prueba del conmutador deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra prueba.
+Cuando un usuario está viendo una prueba en el [!UICONTROL Visualizador de pruebas] y cambia a otra, el botón de conmutar pruebas deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra.
 
 +++
 
@@ -37,7 +37,7 @@ Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas]y c
 
 _[!DNL Workfront Fusion]_
 
-Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas]y cambia a otra prueba, el botón de prueba del conmutador deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra prueba.
+Cuando un usuario está viendo una prueba en el [!UICONTROL Visualizador de pruebas] y cambia a otra, el botón de conmutar pruebas deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra.
 
 +++
 
@@ -49,8 +49,8 @@ _Formularios personalizados_
 
 Los campos desplegables personalizados que están habilitados como campos de selección múltiple pueden mostrar los siguientes problemas:
 
-* El signo &quot;+[!UICONTROL Agregar]&quot; no está presente cuando el formulario no está en modo de edición.
-* Los campos que no tienen valores muestran un &quot;—[!UICONTROL sin etiqueta]—&quot;.
+* El botón “+[!UICONTROL Agregar]” no está presente cuando el formulario no está en modo de edición.
+* Los campos que no tienen valores muestran una opción “--[!UICONTROL sin etiqueta]--”.
 
 **No se puede usar la herramienta Polyline al realizar un comentario en una prueba**
 
@@ -108,19 +108,19 @@ Se ha añadido un banner de notificación para la variable [!UICONTROL Actualiza
 
 _Solicitudes_
 
-Cuando un usuario ve una lista de solicitudes que tiene un filtro aplicado, la lista incluye solicitudes que el filtro debe excluir.
+Cuando un usuario ve una lista de solicitudes que tiene un filtro aplicado, incluye algunas que se deberían excluir.
 
 **No se puede seleccionar [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipos de hora disponibles]**
 
 _Usuarios_
 
-Cuando un administrador está editando un usuario e intenta seleccionar un [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipo de hora disponible], verán que los desplegables de esos campos están desactivados y que no pueden seleccionar tipos de hora.
+Cuando un administrador está editando un usuario e intenta seleccionar un [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipo de hora disponible], verá que los desplegables de esos campos están deshabilitados y que no puede.
 
 +++
 
 +++**Actualización de mantenimiento del 6 de abril de 2023**
 
-**Los desplegables no se abren cuando se agrega un usuario a una prueba**
+**Los desplegables no se abren cuando se añade a un usuario a una prueba**
 
 _Pruebas_
 

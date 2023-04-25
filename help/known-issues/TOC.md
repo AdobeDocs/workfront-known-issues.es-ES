@@ -3,8 +3,8 @@ user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '1463'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 94%
       + [Pruebas: [!UICONTROL Actividad de prueba] apertura de fichas [!UICONTROL Detalles de la prueba]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Plantillas: No se puede seleccionar la plantilla de [!UICONTROL Plantillas favoritas]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filtros: No se puede compartir un filtro de un informe en un tablero](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [[!UICONTROL Página principal]: Hacer clic cerca de la miniatura en [!UICONTROL Lista de trabajo] lleva a una página en blanco](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [[!UICONTROL Inicio]: hacer clic cerca de la miniatura en [!UICONTROL Lista de trabajo] lleva a una página en blanco](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Formularios personalizados: Problemas en los campos desplegables personalizados](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
-      + [Pruebas: No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
+      + [Pruebas: No se puede cambiar entre pruebas en el [!UICONTROL Visualizador de pruebas]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Usuarios: No se puede seleccionar [!UICONTROL Tipo de hora predeterminado] o [!UICONTROL Tipos de hora disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Pruebas: no se puede usar la herramienta Polyline al comentar una prueba](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
