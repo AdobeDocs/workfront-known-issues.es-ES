@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3123'
+ht-degree: 83%
 
 ---
 
@@ -20,6 +20,26 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en abril de 2023
+
++++**(Planificado) Actualización de mantenimiento el 27 de abril de 2023**
+
+**No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]**
+
+_Pruebas_
+
+Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas]y cambia a otra prueba, el botón de prueba del conmutador deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra prueba.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento del 25 de abril de 2023**
+
+ Los vínculos de ayuda en la aplicación de **[!DNL Fusion]no conducen a páginas de ayuda específicas**
+
+_[!DNL Workfront Fusion]_
+
+Cuando un usuario está viendo una prueba en la [!UICONTROL Visor de pruebas]y cambia a otra prueba, el botón de prueba del conmutador deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra prueba.
+
++++
 
 +++**Actualización de mantenimiento del 20 de abril de 2023**
 
