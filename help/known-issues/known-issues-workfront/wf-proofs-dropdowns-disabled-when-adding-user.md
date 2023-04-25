@@ -1,16 +1,16 @@
 ---
-title: "Pruebas: Los desplegables no se abren cuando se agrega un usuario a una prueba"
+title: '“Pruebas: Los desplegables no se abren cuando se añade un usuario a una prueba”'
 description: '"Cuando un usuario añade a otro usuario a una prueba en el visor de revisión, no se pueden abrir los desplegables de Función de prueba y de Alertas de correo electrónico. No se puede asignar una función de prueba o una alerta de correo electrónico. Esto puede ocurrir al añadir a un usuario a través de un comentario o al compartir la prueba con el usuario".'
 hidefromtoc: true
 source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 
-# Pruebas: Los desplegables no se abren cuando se agrega un usuario a una prueba
+# Pruebas: Los desplegables no se abren cuando se añade un usuario a una prueba
 
 >[!NOTE]
 >
