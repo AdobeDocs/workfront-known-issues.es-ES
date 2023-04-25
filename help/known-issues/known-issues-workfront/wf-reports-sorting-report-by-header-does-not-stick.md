@@ -3,9 +3,9 @@ title: '“Informes: al ordenar por encabezado de columna se vuelve al orden ant
 description: “Cuando se intenta ordenar un informe haciendo clic en el encabezado de una columna, el informe se ordena según esta, pero luego vuelve rápidamente al orden anterior".
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '93'
+ht-degree: 100%
 
 ---
 
