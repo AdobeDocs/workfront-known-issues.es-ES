@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3167'
+ht-degree: 89%
 
 ---
 
@@ -21,13 +21,19 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en abril de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 27 de abril de 2023**
++++**Actualización de mantenimiento del 27 de abril de 2023**
 
 **No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]**
 
 _Pruebas_
 
 Cuando un usuario está viendo una prueba en el [!UICONTROL Visualizador de pruebas] y cambia a otra, el botón de conmutar pruebas deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra.
+
+**Editar imágenes adjuntas al editar un comentario**
+
+_Actualizaciones_
+
+Ahora puede editar la imagen adjunta a un comentario cuando edita un comentario. Esto está disponible en la sección Actualizaciones para los objetivos de Workfront y en el caso de los problemas al habilitar la experiencia de comentarios beta.
 
 +++
 
