@@ -3,9 +3,9 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7fc9e90be94c30dff1c8de17c033407c165b45f2
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: '601'
 ht-degree: 95%
 
 ---
@@ -59,10 +59,8 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
 | [Documentos: error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de marzo de 2023 |
 | [Documentos: problemas con la Lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 de marzo de 2023 |
-| [Plantillas de horas: la lista desplegable de [!UICONTROL Tipo de hora] no se abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de marzo de 2023 |
 | [Documentos: los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de marzo de 2023 |
 | [Integraciones: No se puede abrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 de febrero de 2023 |
-| [Pruebas: El usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de febrero de 2023 |
 | [[!UICONTROL Inicio]: Las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |
 | [Pruebas: El estado de la prueba no se actualiza en las listas de [!UICONTROL documentos]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
 | [Tareas: Las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) de la tarea | 2 de diciembre de 2022 |
