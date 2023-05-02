@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
 workflow-type: tm+mt
-source-wordcount: '3167'
+source-wordcount: '3246'
 ht-degree: 89%
 
 ---
@@ -18,6 +18,18 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 >Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en mayo de 2023
+
++++**(Planificado) Actualización de mantenimiento el 4 de mayo de 2023**
+
+**No se puede seleccionar la plantilla de [!UICONTROL Plantillas favoritas]**
+
+_Plantillas_
+
+Cuando un usuario intenta seleccionar una plantilla del menú Acciones (tres puntos), la lista de plantillas desaparece cuando mueve el ratón a la lista y no se puede. Esto se debe a que la barra de desplazamiento está entre el menú y la lista de plantillas, y el ratón se centra en la barra de desplazamiento a medida que se mueve a la lista de plantillas.
+
++++
 
 ## Actualizaciones en abril de 2023
 
