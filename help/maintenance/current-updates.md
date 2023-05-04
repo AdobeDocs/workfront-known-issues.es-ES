@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
+source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
 workflow-type: tm+mt
-source-wordcount: '3246'
+source-wordcount: '3245'
 ht-degree: 89%
 
 ---
@@ -21,7 +21,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en mayo de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 4 de mayo de 2023**
++++**Actualización de mantenimiento del 4 de mayo de 2023**
 
 **No se puede seleccionar la plantilla de [!UICONTROL Plantillas favoritas]**
 
