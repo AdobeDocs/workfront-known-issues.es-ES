@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 0a1b37c657f460ba5d6773e36e69de60f1efdddd
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Hojas de tiempo: El filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 25 de abril de 2023 |
-| [Pruebas: Las aprobaciones de prueba bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de abril de 2023 |
+| Ninguno |  |
 
 {style="table-layout:auto"}
 
@@ -35,14 +34,12 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: Las aprobaciones de prueba bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de mayo de 2023 |
 | [Tareas: No hay mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 de mayo de 2023 |
-| [Pruebas: [!UICONTROL Actividad de prueba] apertura de fichas [!UICONTROL Detalles de la prueba]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 de abril de 2023 |
 | [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de marzo de 2023 |
 | [Búsqueda: [!DNL Workfront] la búsqueda agota el tiempo de espera](known-issues-workfront/wf-search-search-times-out.md) | 27 de marzo de 2023 |
 | [Pruebas: la fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
 | [Pruebas: se desactiva al usuario del flujo de trabajo de prueba y le aparece &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 de marzo de 2023 |
-| [Filtros: el filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 de marzo de 2023 |
-| [Proyectos: El proyecto convertido a partir de un problema no hereda permisos del portafolios o del programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de febrero de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
 {style="table-layout:auto"}
