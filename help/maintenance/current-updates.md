@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
 workflow-type: tm+mt
 source-wordcount: '3245'
-ht-degree: 89%
+ht-degree: 98%
 
 ---
 
@@ -35,7 +35,7 @@ Cuando un usuario intenta seleccionar una plantilla del menú Acciones (tres pun
 
 +++**Actualización de mantenimiento del 27 de abril de 2023**
 
-**No se puede cambiar entre pruebas en [!UICONTROL Visor de pruebas]**
+**No se puede cambiar entre pruebas en el [!UICONTROL Visualizador de pruebas]**
 
 _Pruebas_
 
@@ -51,7 +51,7 @@ Ahora puede editar la imagen adjunta a un comentario cuando edita un comentario.
 
 +++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento del 25 de abril de 2023**
 
- Los vínculos de ayuda en la aplicación de **[!DNL Fusion]no conducen a páginas de ayuda específicas**
+Los vínculos de ayuda en la aplicación de **[!DNL Fusion]no conducen a páginas de ayuda específicas**
 
 _[!DNL Workfront Fusion]_
 
@@ -70,13 +70,13 @@ Los campos desplegables personalizados que están habilitados como campos de sel
 * El botón “+[!UICONTROL Agregar]” no está presente cuando el formulario no está en modo de edición.
 * Los campos que no tienen valores muestran una opción “--[!UICONTROL sin etiqueta]--”.
 
-**No se puede usar la herramienta Polyline al realizar un comentario en una prueba**
+**No se puede usar la herramienta Polyline al comentar una prueba**
 
 _Pruebas_
 
-Cuando se está viendo una prueba en el visor de revisión y se intenta realizar un comentario con la herramienta Polyline, esta no marca la prueba.
+Cuando se está viendo una prueba en el visualizador de revisión y se intenta realizar un comentario con la herramienta Polyline, esta no marca la prueba.
 
-**El cuadro de opciones de texto muestra &quot;textAnnotations&quot;**
+**El cuadro de opciones de texto muestra “textAnnotations”**
 
 _Pruebas_
 
@@ -86,23 +86,23 @@ Cuando un se está viendo una prueba, se comienza a añadir un comentario y se a
 
 >[!NOTE]
 >
->Esta función se publicó en Preview el 19 de abril de 2023 y se publicó para su producción el 20 de abril de 2023.
+>Esta función se publicó como previsualización el 19 de abril de 2023 y en producción el 20 de abril de 2023.
 
 _Actualizaciones_
 
-Ahora, cuando se aleja de la página Actualizaciones mientras se encuentra en medio de un mensaje en el que ha adjunto una imagen, el mensaje y la imagen se conservan al volver. Antes de esta actualización, se conservaba el comentario sin enviar, pero la imagen se eliminaba. Esto está disponible en la sección Actualizaciones para los objetivos y en el de los problemas al habilitar la experiencia de comentarios beta.
+Ahora, cuando se aleja de la página Actualizaciones mientras está redactando un mensaje en el que ha adjuntado una imagen, el mensaje y la imagen se conservan al volver. Antes de esta actualización, el comentario no enviado se mantenía, pero la imagen se borraba. Esto está disponible en la sección Actualizaciones para objetivos y en la de problemas al habilitar la experiencia de comentarios beta.
 
 **Actualizaciones en tiempo real y comentarios eliminados en la sección Actualizaciones**
 
 >[!NOTE]
 >
->Esta función se publicó en Preview el 19 de abril de 2023 y se publicó para su producción el 20 de abril de 2023.
+>Esta función se publicó como previsualización el 19 de abril de 2023 y en producción el 20 de abril de 2023.
 
 _Actualizaciones_
 
-Ahora, cuando alguien agrega un comentario o responde, o elimina un comentario del área Actualizaciones, puede ver el nuevo comentario o una indicación de que el comentario se eliminó en tiempo real, sin demora. Esto está disponible en la sección Actualizaciones para los objetivos y en el de los problemas al habilitar la experiencia de comentarios beta.
+Ahora, cuando alguien agrega un comentario o responde, o elimina un comentario del área Actualizaciones, puede ver el nuevo comentario o una indicación de que un comentario se ha borrado en tiempo real, sin demoras. Esto está disponible en la sección Actualizaciones para objetivos y en la de problemas al habilitar la experiencia de comentarios beta.
 
-**Nivel de acceso cambiado por el sistema sin un registro del cambio**
+**Nivel de acceso cambiado por el sistema sin registro del cambio**
 
 _Usuarios_
 
@@ -112,11 +112,11 @@ El sistema puede cambiar impredeciblemente el nivel de acceso de un usuario. Cua
 
 +++**Actualización de mantenimiento del 17 de abril de 2023**
 
-**Mostrar nuevos comentarios fuera del área de la pantalla visible en la [!UICONTROL Actualizaciones] sección de problemas (nueva experiencia con Beta) y [!UICONTROL Objetivos]**
+**Mostrar nuevos comentarios fuera del área de la pantalla visible en la sección [!UICONTROL Actualizaciones] de problemas (nueva experiencia beta de comentarios) y [!UICONTROL Objetivos]**
 
 _Actualizaciones_
 
-Se ha añadido un banner de notificación para la variable [!UICONTROL Actualizaciones] para informar a los usuarios cuando hay comentarios más recientes sobre un elemento que podría estar fuera del área visible de la pantalla. Esta actualización está disponible actualmente en el [!UICONTROL Actualizaciones] de objetivos y de problemas cuando la nueva experiencia de comentarios beta se ha habilitado para problemas.
+Se ha añadido un banner de notificación en la sección [!UICONTROL Actualizaciones] para informar a los usuarios cuando hay comentarios más recientes sobre un elemento que podría estar fuera del área visible de la pantalla. Esta actualización está disponible actualmente en la sección [!UICONTROL Actualizaciones] de objetivos y en la de problemas cuando se ha habilitado la nueva experiencia beta de comentarios para problemas.
 
 +++
 

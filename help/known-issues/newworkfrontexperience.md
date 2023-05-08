@@ -5,8 +5,8 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '571'
+ht-degree: 96%
 
 ---
 
@@ -35,7 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proyectos: Error al utilizar [!UICONTROL Milestone] ver](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 5 de mayo de 2023 |
-| [Pruebas: Las aprobaciones de prueba bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de mayo de 2023 |
+| [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de mayo de 2023 |
 | [Tareas: No hay mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 de mayo de 2023 |
 | [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de marzo de 2023 |
 | [Búsqueda: [!DNL Workfront] la búsqueda agota el tiempo de espera](known-issues-workfront/wf-search-search-times-out.md) | 27 de marzo de 2023 |

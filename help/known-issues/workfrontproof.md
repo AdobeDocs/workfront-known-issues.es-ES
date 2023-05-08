@@ -5,8 +5,8 @@ keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '282'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: Las aprobaciones de prueba bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de mayo de 2023 |
+| [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de mayo de 2023 |
 | [Pruebas: la fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
 
 {style="table-layout:auto"}
@@ -45,7 +45,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023, 2023 |
+| [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023 |
 | [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
 | [Documentos: error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de marzo de 2023 |
 | [Documentos: problemas con la Lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 de marzo de 2023 |
