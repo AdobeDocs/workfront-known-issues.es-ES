@@ -1,14 +1,14 @@
 ---
-title: "Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco"
-description: '"Cuando un usuario crea una prueba y luego la visualiza en un informe como el de [!UICONTROL Versión del documento] o el de [!UICONTROL Aprobación de la prueba], ve que el campo [!UICONTROL Etapas activas de la prueba] está en blanco. Esto ocurre cuando la prueba se crea después de cargar el documento, ya sea como una [!UICONTROL Prueba simple] o una [!UICONTROL Prueba avanzada] con un [!UICONTROL Flujo de trabajo básico].”'
+title: 'Pruebas: El campo [!UICONTROL Etapas de prueba activas] está en blanco'
+description: Cuando un usuario crea una prueba y luego la visualiza en un informe como el de [!UICONTROL Versión del documento] o el de [!UICONTROL Aprobación de la prueba], ve que el campo [!UICONTROL Etapas activas de la prueba] está en blanco. Esto ocurre cuando la prueba se crea después de cargar el documento, ya sea como una [!UICONTROL Prueba simple] o una [!UICONTROL Prueba avanzada] con un [!UICONTROL Flujo de trabajo básico].
 hidefromtoc: true
-source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
-workflow-type: tm+mt
+exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
 ---
-
 
 # Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco
 
@@ -28,4 +28,3 @@ Realice una de las siguientes acciones:
 * Cuando cree una prueba a partir de un documento existente, créela como una [!UICONTROL Prueba avanzada] con [!UICONTROL Flujo de trabajo automatizado].
 
 _Informado por primera vez el 31 de agosto de 2022._
-
