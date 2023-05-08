@@ -1,20 +1,19 @@
 ---
-title: "Pruebas: Las aprobaciones de prueba bloqueadas siguen apareciendo en la lista de trabajo"
-description: '"Las aprobaciones de prueba que han pasado la fecha límite y están bloqueadas siguen apareciendo en la lista de trabajo en el hogar del aprobador, en lugar de abandonar la lista cuando pasó la fecha límite".'
+title: '“Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo”'
+description: Las aprobaciones de pruebas que han pasado la fecha límite y están bloqueadas siguen apareciendo en la lista de trabajo en el Inicio del aprobador, en lugar de desaparecer.
 hidefromtoc: true
-source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
-workflow-type: tm+mt
+exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
-# Pruebas: Las aprobaciones de prueba bloqueadas siguen apareciendo en la lista de trabajo
+# Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo
 
 <!--This issue is on the WF and WFP TOC-->
 
-Las aprobaciones de prueba que han pasado la fecha límite y están bloqueadas siguen apareciendo en la lista de trabajo en el hogar del aprobador, en lugar de abandonar la lista cuando pasó la fecha límite.
+Las aprobaciones de pruebas que han pasado la fecha límite y están bloqueadas siguen apareciendo en la lista de trabajo en el Inicio del aprobador, en lugar de desaparecer.
 
-_Notificado por primera vez el 27 de febrero de 2023._
-
+_Informado por primera vez el 27 de febrero de 2023._
