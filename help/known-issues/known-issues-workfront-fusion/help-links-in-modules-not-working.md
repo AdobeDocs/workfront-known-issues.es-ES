@@ -4,9 +4,9 @@ description: Los enlaces de ayuda en [!DNL Workfront Fusion] no conducen actualm
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
