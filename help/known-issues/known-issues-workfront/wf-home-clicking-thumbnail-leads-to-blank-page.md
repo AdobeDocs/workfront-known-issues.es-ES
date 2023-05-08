@@ -4,9 +4,9 @@ description: Cuando un usuario intenta ver un documento o una prueba haciendo cl
 hidefromtoc: true
 exl-id: 7512869b-8efe-4806-abaf-6ee89be1a3de
 source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '143'
+ht-degree: 100%
 
 ---
 
