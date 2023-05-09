@@ -3,9 +3,9 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '591'
 ht-degree: 96%
 
 ---
@@ -51,6 +51,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 de mayo de 2023 |
 | [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023 |
 | [Búsqueda: [!DNL Workfront] la búsqueda agota el tiempo de espera](known-issues-workfront/wf-search-search-times-out.md) | 13 de abril de 2023 |
 | [Filtros: No se puede compartir un filtro de un informe en un tablero](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 de abril de 2023 |
