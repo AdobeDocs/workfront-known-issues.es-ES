@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '3245'
-ht-degree: 98%
+source-wordcount: '3456'
+ht-degree: 96%
 
 ---
 
@@ -20,6 +20,52 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en mayo de 2023
+
++++**(Planificado) Actualización de mantenimiento el 11 de mayo de 2023**
+
+**[!DNL Workfront]Tiempo de espera de la búsqueda**
+
+_Buscar_
+
+[!DNL Workfront] la búsqueda está agotando el tiempo de espera. La búsqueda puede arrojar algunos resultados, o ninguno.
+
+Este problema también afecta a la funcionalidad del [!DNL Workfront Fusion] > [!DNL Workfront] > módulo de [!UICONTROL búsqueda].
+
+**No se puede cambiar de versión de prueba al ver la prueba**
+
+_Pruebas_
+
+Cuando se está viendo una prueba en el [!UICONTROL Visor de revisión] y se cambia a otra versión, el desplegable de la versión se desactiva y no se puede volver a la versión original que se estaba viendo ni a otra versión de la prueba.
+
++++
+
++++**(Planificado) [!DNL Adobe Workfront Fusion] Actualización de mantenimiento el 11 de mayo de 2023**
+
+**Errores de tiempo de espera en[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+Cuando se está ejecutando un escenario, puede producirse un error de tiempo de espera. La información del módulo con el error no llega a su destino.
+
+**[!DNL Workfront]Tiempo de espera de la búsqueda**
+
+_Buscar_
+
+[!DNL Workfront] la búsqueda está agotando el tiempo de espera. La búsqueda puede arrojar algunos resultados, o ninguno.
+
+Este problema también afecta a la funcionalidad del [!DNL Workfront Fusion] > [!DNL Workfront] > módulo de [!UICONTROL búsqueda].
+
++++
+
++++**Actualización de mantenimiento del 9 de mayo de 2023**
+
+**Filtros guardados disponibles en la columna de admisión de placa**
+
+_Tableros_
+
+Ahora puede utilizar los filtros de problemas y tareas de Workfront existentes al configurar la columna de admisión para un tablero. Sin embargo, los filtros de columna de admisión existentes son ahora de solo lectura en el panel de configuración. Los filtros existentes se siguen aplicando a la columna de admisión, pero debe volver a crear los filtros si desea editarlos.
+
++++
 
 +++**Actualización de mantenimiento del 4 de mayo de 2023**
 

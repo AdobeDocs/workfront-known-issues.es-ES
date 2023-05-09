@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '1142'
-ht-degree: 95%
+source-wordcount: '1151'
+ht-degree: 98%
 
 ---
 
@@ -16,12 +16,13 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: al ordenar por encabezado de columna se vuelve al orden anterior](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Proyectos: Error al utilizar [!UICONTROL Milestone] ver](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Tareas: No hay mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Hojas de tiempo: El filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
-      + [Pruebas: Las aprobaciones de prueba bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
-      + [[!UICONTROL Planificador de recursos]: No se puede guardar después de agregar hora](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
-      + [Pruebas: [!UICONTROL Actividad de prueba] apertura de fichas [!UICONTROL Detalles de la prueba]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
+      + [Plantillas de horas: el filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
+      + [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
+      + [[!UICONTROL Planificador de recursos]: no se puede guardar después de agregar la hora](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
+      + [Pruebas: la pestaña [!UICONTROL Actividad de la prueba] abre [!UICONTROL Detalles de la prueba].](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Plantillas: No se puede seleccionar la plantilla de [!UICONTROL Plantillas favoritas]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filtros: No se puede compartir un filtro de un informe en un tablero](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Inicio]: hacer clic cerca de la miniatura en [!UICONTROL Lista de trabajo] lleva a una página en blanco](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
