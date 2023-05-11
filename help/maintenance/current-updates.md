@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '3456'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en mayo de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 11 de mayo de 2023**
++++**Actualización de mantenimiento del 11 de mayo de 2023**
+
+**No se puede cambiar de versión de prueba al ver la prueba**
+
+_Pruebas_
+
+Cuando se está viendo una prueba en el [!UICONTROL Visor de revisión] y se cambia a otra versión, el desplegable de la versión se desactiva y no se puede volver a la versión original que se estaba viendo ni a otra versión de la prueba.
 
 **[!DNL Workfront]Tiempo de espera de la búsqueda**
 
@@ -31,15 +37,9 @@ _Buscar_
 
 Este problema también afecta a la funcionalidad del [!DNL Workfront Fusion] > [!DNL Workfront] > módulo de [!UICONTROL búsqueda].
 
-**No se puede cambiar de versión de prueba al ver la prueba**
-
-_Pruebas_
-
-Cuando se está viendo una prueba en el [!UICONTROL Visor de revisión] y se cambia a otra versión, el desplegable de la versión se desactiva y no se puede volver a la versión original que se estaba viendo ni a otra versión de la prueba.
-
 +++
 
-+++**(Planificado) [!DNL Adobe Workfront Fusion] Actualización de mantenimiento el 11 de mayo de 2023**
++++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento del 11 de mayo de 2023**
 
 **Errores de tiempo de espera en[!DNL Workfront Fusion]**
 
