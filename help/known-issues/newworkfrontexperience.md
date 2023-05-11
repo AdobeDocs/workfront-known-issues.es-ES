@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '558'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Informes: al ordenar por encabezado de columna se vuelve al orden anterior](known-issues-workfront/wf-reports-sorting-not-applied.md) | 9 de mayo de 2023 |
+| Ninguno |  |
 
 {style="table-layout:auto"}
 
@@ -34,13 +34,11 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Informes: al ordenar por encabezado de columna se vuelve al orden anterior](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 de mayo de 2023 |
+| [Tareas: No hay mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 de mayo de 2023 |
 | [Equilibrador de carga de trabajo: Las horas se redistribuyen de forma inesperada](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 de mayo de 2023 |
-| [Proyectos: Error al utilizar [!UICONTROL Milestone] ver](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 5 de mayo de 2023 |
 | [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de mayo de 2023 |
-| [Tareas: No hay mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 de mayo de 2023 |
 | [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de marzo de 2023 |
-| [Pruebas: la fase de prueba no se activa cuando pasa el plazo de la fase anterior](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de marzo de 2023 |
-| [Pruebas: se desactiva al usuario del flujo de trabajo de prueba y le aparece &quot;[!UICONTROL Acceso no permitido]&quot; al acceder a la prueba](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 de marzo de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
 {style="table-layout:auto"}
