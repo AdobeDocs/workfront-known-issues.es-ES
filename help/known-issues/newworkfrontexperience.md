@@ -3,9 +3,9 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '553'
 ht-degree: 96%
 
 ---
@@ -51,7 +51,6 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | -----------------------------------------------------------------| ----------------- |
 | [Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 de mayo de 2023 |
 | [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023 |
-| [Búsqueda: [!DNL Workfront] la búsqueda agota el tiempo de espera](known-issues-workfront/wf-search-search-times-out.md) | 13 de abril de 2023 |
 | [Filtros: No se puede compartir un filtro de un informe en un tablero](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 de abril de 2023 |
 | [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
 | [Documentos: error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de marzo de 2023 |

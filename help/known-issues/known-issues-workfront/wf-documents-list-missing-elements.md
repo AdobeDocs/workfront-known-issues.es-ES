@@ -3,7 +3,7 @@ title: 'Documentos: problemas con la Lista de documentos '
 description: Este artículo describe los problemas recientes que se han notificado con respecto a la Lista de documentos.
 hidefromtoc: true
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 83%
@@ -12,7 +12,7 @@ ht-degree: 83%
 
 # Documentos: problemas con la Lista de documentos
 
-<!--This article is on the WF and WFP TOCs. Valid issue, won't fix.-->
+<!--This article is on the WF and WFP TOCs. Valid issue, won't fix (Won't fix tab).-->
 
 Se han notificado los siguientes problemas con respecto a la Lista de documentos:
 

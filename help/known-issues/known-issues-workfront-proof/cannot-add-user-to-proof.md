@@ -3,14 +3,16 @@ title: "Prueba: no se puede añadir un usuario a la prueba al etiquetarlo en un 
 description: Cuando un usuario etiqueta en un comentario a otro que no está actualmente en la prueba, no tiene la opción de seleccionar un rol de trabajo o un correo electrónico para el usuario, y por lo tanto no puede añadirlo a la prueba.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Proof]: no se puede añadir un usuario a la prueba al etiquetarlo en un comentario
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

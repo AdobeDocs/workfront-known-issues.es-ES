@@ -3,7 +3,7 @@ title: '“Formularios personalizados: Error ¡Uy! al configurar un campo calcul
 description: Cuando un usuario crea o edita un campo calculado en un formulario personalizado e incluye un campo personalizado en la expresión del campo calculado, la expresión se considera no válida. El botón Guardar está desactivado y el usuario no puede salir del campo personalizado. Además, el usuario verá el mensaje de error ¡Vaya! debajo del campo.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado
 
-<!--Do not delete without approval from Alex Beach-->
+<!--Requested: Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >
