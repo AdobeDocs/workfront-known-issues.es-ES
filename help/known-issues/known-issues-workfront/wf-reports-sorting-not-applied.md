@@ -1,16 +1,16 @@
 ---
-title: "Informes: El informe no se ordena correctamente"
-description: ""
+title: '"Informes: El informe no se ordena correctamente al ordenar por campo personalizado'
+description: '"Cuando un usuario ejecuta un informe de tareas, el informe parece ordenarse correctamente cuando se está cargando, pero cuando termina de cargarse el usuario ve que el informe no está ordenado correctamente. '
 hidefromtoc: true
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 3%
 
 ---
 
 
-# Informes: El informe no se ordena correctamente
+# Informes: El informe no se ordena correctamente al ordenar por campo personalizado
 
 Cuando un usuario ejecuta un informe de tareas, parece que el informe se ordena correctamente cuando se carga, pero cuando termina de cargarse, el usuario ve que el informe no está ordenado correctamente.
 

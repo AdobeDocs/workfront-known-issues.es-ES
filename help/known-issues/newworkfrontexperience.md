@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 96%
+source-wordcount: '565'
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| Ninguno |  |
+| [Informes: El informe no se ordenaba correctamente al ordenar por cualquier campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 15 de mayo de 2023 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Informes: al ordenar por encabezado de columna se vuelve al orden anterior](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 de mayo de 2023 |
+| [Informes: El informe no se ordena correctamente al ordenar por campo personalizado](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 de mayo de 2023 |
 | [Tareas: No hay mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 de mayo de 2023 |
 | [Equilibrador de carga de trabajo: Las horas se redistribuyen de forma inesperada](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 de mayo de 2023 |
 | [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de mayo de 2023 |

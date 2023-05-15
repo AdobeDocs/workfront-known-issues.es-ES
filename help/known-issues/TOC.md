@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1176'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: El informe no se ordenaba correctamente al ordenar por cualquier campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Equilibrador de carga de trabajo: Las horas se redistribuyen de forma inesperada](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Informes: al ordenar por encabezado de columna se vuelve al orden anterior](known-issues-workfront/wf-reports-sorting-not-applied.md)
