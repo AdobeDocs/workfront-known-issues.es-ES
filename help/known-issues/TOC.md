@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
 source-wordcount: '1176'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 96%
       + [Equilibrador de carga de trabajo: Las horas se redistribuyen de forma inesperada](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Informes: al ordenar por encabezado de columna se vuelve al orden anterior](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Proyectos: Error al utilizar [!UICONTROL Milestone] ver](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Tareas: No hay mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
+      + [Proyectos: Error al utilizar vista de [!UICONTROL Milestone]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
+      + [Tareas: No hay mensaje de error al reordenar la tarea en el estado de [!UICONTROL pendiente de aprobación]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Plantillas de horas: el filtro no se aplica cuando se actualiza la página](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Planificador de recursos]: no se puede guardar después de agregar la hora](known-issues-workfront/wf-resource-planner-cannot-save-time.md)

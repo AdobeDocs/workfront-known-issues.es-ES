@@ -4,8 +4,8 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3454'
+ht-degree: 97%
 
 ---
 
@@ -91,7 +91,7 @@ Cuando un usuario está viendo una prueba en el [!UICONTROL Visualizador de prue
 
 _Actualizaciones_
 
-Ahora puede editar la imagen adjunta a un comentario cuando edita un comentario. Esto está disponible en la sección Actualizaciones para los objetivos de Workfront y en el caso de los problemas al habilitar la experiencia de comentarios beta.
+Ahora puede editar la imagen adjunta a un comentario cuando edita un comentario. Esto está disponible en la sección de Workfront para objetivos y en la de problemas al habilitar la experiencia de comentarios beta.
 
 +++
 
