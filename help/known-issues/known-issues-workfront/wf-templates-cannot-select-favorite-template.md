@@ -4,9 +4,9 @@ description: Cuando un usuario intenta seleccionar una plantilla del menú Accio
 hidefromtoc: true
 exl-id: 2be285e6-c09c-4eb4-b383-7237a5ae6bbb
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '181'
+ht-degree: 100%
 
 ---
 
