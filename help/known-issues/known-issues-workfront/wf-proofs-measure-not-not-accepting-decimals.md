@@ -4,7 +4,7 @@ description: Cuando se está viendo una prueba, se abre la herramienta de medici
 hidefromtoc: true
 exl-id: 841658aa-2ff2-4c10-95b7-db3bb27c9809
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
