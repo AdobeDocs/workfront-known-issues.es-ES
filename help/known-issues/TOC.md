@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1182'
 ht-degree: 98%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Error 500 al acceder [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: La búsqueda no devuelve resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Pruebas: el cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: las listas no están ordenadas correctamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
