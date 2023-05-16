@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3454'
-ht-degree: 97%
+source-wordcount: '3533'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en mayo de 2023
+
++++**(Planificado) Actualización de mantenimiento el 18 de mayo de 2023**
+
+
+**El informe no se ordena correctamente al ordenar por campo personalizado**
+
+_Informes_
+Cuando un usuario ejecuta un informe de tareas, parece que el informe se ordena correctamente cuando se carga, pero cuando termina de cargarse, el usuario ve que el informe no está ordenado correctamente.
+
+Esto parece ocurrir si se cumplen todas las siguientes circunstancias:
+
+* El informe es un informe de tareas
+* El informe se ordena por un campo personalizado
+* El informe tiene una agrupación aplicada
+
++++
 
 +++**Actualización de mantenimiento del 11 de mayo de 2023**
 
