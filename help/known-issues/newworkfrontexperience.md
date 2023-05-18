@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 97%
+source-wordcount: '562'
+ht-degree: 95%
 
 ---
 
@@ -34,6 +34,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Águila: [!UICONTROL Kanban] el tablero se queda en blanco al editar tarjetas](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 18 de mayo de 2023 |
 | [Tareas: No hay mensaje de error al reordenar la tarea en estado [!UICONTROL Pendiente de aprobación] ](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 de mayo de 2023 |
 | [Equilibrador de carga de trabajo: Las horas se redistribuyen de forma inesperada](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 de mayo de 2023 |
 | [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de mayo de 2023 |
