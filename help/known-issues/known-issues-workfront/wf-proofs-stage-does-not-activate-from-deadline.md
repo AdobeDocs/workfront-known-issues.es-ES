@@ -1,12 +1,12 @@
 ---
-title: 'Pruebas: la fase de prueba no se activa cuando pasa el plazo de la fase anterior'
-description: Cuando una prueba tiene varias etapas y la configuración de etapa de activación de una etapa posterior se establece en Cuando pasa el plazo de la etapa anterior, esa etapa posterior no se activa cuando pasa la fecha límite.
+title: '“Pruebas: la fase de prueba no se activa cuando pasa el plazo de la fase anterior”'
+description: Cuando una prueba tiene varias etapas y la configuración Activar fase de una etapa posterior se establece en Cuando pasa el plazo de la fase anterior, esa etapa posterior no se activa cuando pasa el plazo.
 hidefromtoc: true
 exl-id: c3a16e21-f645-4382-94d8-9836a773132f
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
