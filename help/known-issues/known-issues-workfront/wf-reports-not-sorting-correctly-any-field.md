@@ -1,19 +1,19 @@
 ---
-title: "Informes: El informe no se ordenó correctamente al ordenar por cualquier campo"
+title: '“Informes: el informe no se ordenaba correctamente al ordenar por cualquier campo”'
 description: ""
 hidefromtoc: true
 source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Informes: El informe no se ordenaba correctamente al ordenar por cualquier campo
+# Informes: el informe no se ordenaba correctamente al ordenar por cualquier campo
 
 
-Cuando un usuario ejecuta un informe de tareas, parece que el informe se ordena correctamente cuando se carga, pero cuando termina de cargarse, el usuario ve que el informe no está ordenado correctamente.
+Cuando un usuario ejecuta un informe de tareas, este parece ordenarse correctamente cuando está cargando, pero cuando termina se ve que no está bien ordenado.
 
 Este problema de ordenación no se limita a ningún tipo particular de campo.
 
