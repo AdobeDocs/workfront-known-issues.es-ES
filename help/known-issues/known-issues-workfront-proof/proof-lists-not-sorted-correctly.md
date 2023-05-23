@@ -1,12 +1,12 @@
 ---
-title: '''Prueba de Workfront: Las listas no están ordenadas correctamente"'
-description: Cuando un usuario ve una lista en Workfront Proof que tiene una clasificación aplicada (como Nombre), la clasificación no es precisa.
+title: '“Workfront Proof: las listas no están ordenadas correctamente”'
+description: En Workfront Proof, cuando se visualiza una lista que aplica una categoría (como Nombre), el orden no es preciso.
 hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
