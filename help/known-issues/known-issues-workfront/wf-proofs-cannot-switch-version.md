@@ -1,12 +1,12 @@
 ---
-title: 'Pruebas: no se puede cambiar de versión de prueba al ver la prueba'
-description: Cuando se está viendo una prueba en el [!UICONTROL Visor de revisión] y se cambia a otra versión, el desplegable de la versión se desactiva y no se puede volver a la versión original que se estaba viendo ni a otra versión de la prueba.
+title: '“Pruebas: no se puede cambiar de versión de prueba al ver la prueba”'
+description: Cuando se está viendo una prueba en el [!UICONTROL visualizador de revisión] y se cambia a otra versión, el menú desplegable de la versión se desactiva y no se puede volver a la versión original que se estaba viendo ni a la otra versión de la prueba.
 hidefromtoc: true
 exl-id: 2ee55109-47c0-4e85-8b91-a56d677303ef
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '130'
+ht-degree: 100%
 
 ---
 
