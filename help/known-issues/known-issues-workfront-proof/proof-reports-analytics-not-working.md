@@ -1,12 +1,12 @@
 ---
-title: '''Prueba de Workfront: La pestaña Informes ya no es compatible'
-description: La funcionalidad Informes de prueba de Workfront ya no es compatible. Por lo tanto, un usuario que ve la pestaña Informes en Workfront Proof ve datos inexactos o no ve datos en absoluto. Este es el comportamiento esperado. La pestaña Informes se eliminará en un futuro próximo.
+title: '“Workfront Proof: la pestaña Informes ya no es compatible”'
+description: La funcionalidad de informes de Workfront Proof ya no es compatible. Por lo tanto, un usuario que ve la pestaña Informes en Workfront Proof ve datos inexactos o no ve datos en absoluto. Este es el comportamiento esperado. La pestaña Informes se eliminará en un futuro próximo.
 hidefromtoc: true
 exl-id: e1daf1df-b07b-4869-a57b-f9ce6d4ecaed
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
