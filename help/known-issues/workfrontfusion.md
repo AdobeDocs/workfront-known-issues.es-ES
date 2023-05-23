@@ -3,10 +3,10 @@ title: Problemas conocidos de  [!DNL Adobe Workfront Fusion]
 description: Problemas conocidos notificados para  [!DNL Adobe Workfront Fusion]
 keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 93%
+source-wordcount: '123'
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Las ejecuciones se atascan o se retrasan](known-issues-workfront-fusion/fusion-stuck-executions.md) | 17 de mayo de 2023 |
+| Ninguno |  |
 
 {style="table-layout:auto"}
 
