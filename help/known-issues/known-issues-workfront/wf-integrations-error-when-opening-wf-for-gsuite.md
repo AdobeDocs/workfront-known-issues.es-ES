@@ -1,16 +1,16 @@
 ---
-title: 'Integraciones: No se puede abrir Workfront for G Suite'
-description: '"Cuando un usuario está en una aplicación de G Suite e intenta abrir el complemento Workfront for G Suite, el complemento no se abre y el usuario ve el mensaje "Se ha producido un error", inténtelo de nuevo. Intentarlo de nuevo no es eficaz” '''
+title: '“Integraciones: No se puede abrir Workfront for G Suite”'
+description: “Cuando un usuario está en la aplicación de G Suite e intenta abrir el complemento Workfront for G Suite, no se abre y aparece el mensaje ‘Se ha producido un error, inténtelo de nuevo’. Intentarlo de nuevo no es eficaz”. '
 hidefromtoc: true
 exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# Integraciones: No se puede abrir Workfront for G Suite
+# Integraciones: no se puede abrir Workfront for G Suite
 
 <!--Converted to Story-->
 
