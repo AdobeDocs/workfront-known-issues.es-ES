@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
 source-wordcount: '3581'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -21,7 +21,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en mayo de 2023
 
-+++**Actualización de mantenimiento del 22 de mayo de 2023**
++++**Actualización de mantenimiento: 22 de mayo de 2023**
 
 **No se puede ajustar el tamaño del texto descriptivo**
 
@@ -31,22 +31,22 @@ Cuando se lanzó el diseñador de formularios personalizado en la versión beta,
 
 +++
 
-+++**Actualización de mantenimiento del 18 de mayo de 2023**
++++**Actualización de mantenimiento: 18 de mayo de 2023**
 
 **El informe no se ordena correctamente al ordenar por campo personalizado**
 
 _Informes_
 Cuando un usuario ejecuta un informe de tareas, el informe parece ordenarse correctamente cuando se está cargando, pero cuando termina de cargarse, el usuario ve que el informe no se ordena correctamente.
 
-Esto parece ocurrir si se cumplen todas las circunstancias siguientes:
+Esto parece ocurrir si se cumplen todas las siguientes circunstancias:
 
-* El informe es un informe de tareas
+* El informe es uno de tareas
 * El informe se ordena por un campo personalizado
-* Se ha aplicado una agrupación al informe
+* El informe tiene una agrupación aplicada
 
 +++
 
-+++**Actualización de mantenimiento del 11 de mayo de 2023**
++++**Actualización de mantenimiento: el 11 de mayo de 2023**
 
 **No se puede cambiar de versión de prueba al ver la prueba**
 
@@ -54,9 +54,9 @@ _Pruebas_
 
 Cuando se está viendo una prueba en el [!UICONTROL Visor de revisión] y se cambia a otra versión, el desplegable de la versión se desactiva y no se puede volver a la versión original que se estaba viendo ni a otra versión de la prueba.
 
-**[!DNL Workfront]Tiempo de espera de búsqueda**
+Búsqueda de **[!DNL Workfront]agotada**
 
-_Buscar_
+_Búsqueda_
 
 [!DNL Workfront] la búsqueda está agotando el tiempo de espera. La búsqueda puede arrojar algunos resultados, o ninguno.
 
@@ -64,17 +64,17 @@ Este problema también afecta a la funcionalidad del [!DNL Workfront Fusion] > [
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento del 11 de mayo de 2023**
++++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento: 11 de mayo de 2023**
 
-**Errores de espera en[!DNL Workfront Fusion]**
+**Errores de tiempo de espera en[!DNL Workfront Fusion]**
 
 _Adobe Workfront Fusion_
 
 Cuando se está ejecutando un escenario, puede producirse un error de tiempo de espera. La información del módulo con el error no llega a su destino.
 
-**[!DNL Workfront]Tiempo de espera de búsqueda**
+Búsqueda de **[!DNL Workfront]agotada**
 
-_Buscar_
+_Búsqueda_
 
 [!DNL Workfront] la búsqueda está agotando el tiempo de espera. La búsqueda puede arrojar algunos resultados, o ninguno.
 
@@ -82,13 +82,13 @@ Este problema también afecta a la funcionalidad del [!DNL Workfront Fusion] > [
 
 +++
 
-+++**Actualización de mantenimiento del 9 de mayo de 2023**
++++**Actualización de mantenimiento: 9 de mayo de 2023**
 
 **Filtros guardados disponibles en la columna de entrada del tablero**
 
 _Tableros_
 
-Ahora puede utilizar los filtros de tareas y problemas existentes de Workfront al configurar la columna de entrada de un tablero. Sin embargo, los filtros de columna de entrada existentes ahora son de solo lectura en el panel de configuración. Los filtros existentes se siguen aplicando a la columna de entrada, pero debe volver a crear los filtros si desea editarlos.
+Ahora puede utilizar los filtros de problemas y tareas de Workfront existentes al configurar la columna de entrada para un tablero. Sin embargo, los filtros de columna de entrada existentes son ahora de solo lectura en el panel de configuración. Los filtros existentes se siguen aplicando a la columna de entrada, pero debe volver a crear los filtros si desea editarlos.
 
 +++
 

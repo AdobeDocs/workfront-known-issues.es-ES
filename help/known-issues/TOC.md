@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
 source-wordcount: '1195'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Águila: [!UICONTROL Kanban] el tablero se queda en blanco al editar tarjetas](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
-      + [Informes: El informe no se ordenaba correctamente al ordenar por cualquier campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
-      + [Equilibrador de carga de trabajo: Las horas se redistribuyen de forma inesperada](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
+      + [Agile: [!UICONTROL Kanban] El tablero se queda en blanco al editar tarjetas](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [Informes: el informe no se ordenaba correctamente al ordenar por cualquier campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
+      + [Distribuidor de cargas de trabajo: las horas se redistribuyen de forma inesperada](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Informes: al ordenar por encabezado de columna se vuelve al orden anterior](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Proyectos: Error al utilizar vista de [!UICONTROL Milestone]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
@@ -124,7 +124,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: Error 500 al acceder [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]: Error 500 al acceder a [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: La búsqueda no devuelve resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Pruebas: el cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: las listas no están ordenadas correctamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
@@ -149,7 +149,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Las ejecuciones se atascan o se retrasan](known-issues-workfront-fusion/fusion-stuck-executions.md)
+      + [[!DNL Workfront Fusion]: las ejecuciones se bloquean o retrasan](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: el historial de ejecución del escenario no muestra todo el historial](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: Errores de tiempo de espera en Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: Errores 404 en los módulos de Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
