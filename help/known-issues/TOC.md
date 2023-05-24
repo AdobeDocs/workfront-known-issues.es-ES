@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
+source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 98%
+source-wordcount: '1217'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Formularios personalizados: la lógica de visualización se pierde cuando se edita el formulario personalizado en el nuevo diseñador de formularios (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: [!UICONTROL Kanban] El tablero se queda en blanco al editar tarjetas](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Informes: el informe no se ordenaba correctamente al ordenar por cualquier campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Distribuidor de cargas de trabajo: las horas se redistribuyen de forma inesperada](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
@@ -149,6 +150,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: los correos electrónicos de notificaciones no se envían](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: las ejecuciones se bloquean o retrasan](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: el historial de ejecución del escenario no muestra todo el historial](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: Errores de tiempo de espera en Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
