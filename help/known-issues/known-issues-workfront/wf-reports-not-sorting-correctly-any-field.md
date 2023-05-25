@@ -2,9 +2,9 @@
 title: '“Informes: el informe no se ordenaba correctamente al ordenar por cualquier campo”'
 description: ""
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 100%
 
 # Informes: el informe no se ordenaba correctamente al ordenar por cualquier campo
 
+>[!NOTE]
+>
+>Este problema se ha cerrado porque no existe ningún error.
 
 Cuando un usuario ejecuta un informe de tareas, este parece ordenarse correctamente cuando está cargando, pero cuando termina se ve que no está bien ordenado.
 

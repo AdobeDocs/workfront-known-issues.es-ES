@@ -1,24 +1,28 @@
 ---
-title: "Prueba de Workfront: Error 500 al acceder a Workfront Proof a través de API o Workfront Fusion"
-description: "Cuando un usuario accede a la acción getAllProofs de la API de prueba, el servidor de prueba de Workfront devuelve el mensaje: 500 Error interno del servidor"
+title: "Workfront Proof: Error 500 al acceder a Workfront Proof a través de API o Workfront Fusion"
+description: "Cuando un usuario accede a la acción getAllProofs de la API de prueba, el servidor de Workfront Proof devuelve el mensaje: 500 Internal Server Error"
 hidefromtoc: true
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '102'
+ht-degree: 31%
 
 ---
 
 
-# [!DNL Workfront Proof]: Error 500 al acceder [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]
+# [!DNL Workfront Proof]: Error 500 al acceder a [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]
+
+>[!NOTE]
+>
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
 <!--This article is on Proof and Fusion TOCs-->
 
-Cuando un usuario accede al [!DNL Workfront Proof] API [!UICONTROL `getAllProofs`] , el servidor devuelve el siguiente mensaje:
+Cuando un usuario accede a [!DNL Workfront Proof] API [!UICONTROL `getAllProofs`] acción, el servidor devolverá el siguiente mensaje:
 
 [!UICONTROL 500 Error interno del servidor]
 
-Porque [!DNL Workfront Fusion] utiliza la variable [!DNL Workfront Proof] API para [!DNL Workfront Proof] , este error puede devolverse a un módulo, deteniendo un escenario.
+Porque [!DNL Workfront Fusion] utiliza el [!DNL Workfront Proof] API para [!DNL Workfront Proof] módulos, este error puede devolverse a un módulo para detener un escenario.
 
 _Notificado por primera vez el 28 de abril de 2023._
 
