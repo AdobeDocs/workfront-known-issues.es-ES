@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
+source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
 workflow-type: tm+mt
-source-wordcount: '3646'
-ht-degree: 99%
+source-wordcount: '3821'
+ht-degree: 98%
 
 ---
 
@@ -19,9 +19,27 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
+## Actualizaciones en junio de 2023
+
++++**(Planificado) Actualización de mantenimiento el 1 de junio de 2023**
+
+**No hay ningún mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status**
+
+_Tareas_
+
+Cuando un usuario intenta reordenar una tarea en una lista de tareas y la tarea se encuentra en [!UICONTROL Pendiente de aprobación], la tarea parece moverse en la lista de tareas. Cuando se actualiza, el usuario ve que el elemento no se ha movido. El elemento no se puede mover porque está en estado [!UICONTROL Pendiente de aprobación], pero no hay ningún mensaje que indique al usuario que el elemento no se puede mover, lo que puede provocar confusión.
+
+**No hay ningún mensaje de error al mover la tarea predecesora a una tarea dependiente**
+
+_Tareas_
+
+Cuando un usuario intenta reordenar una tarea en una lista de tareas y la tarea se encuentra en [!UICONTROL Pendiente de aprobación], la tarea parece moverse en la lista de tareas. Cuando se actualiza, el usuario ve que el elemento no se ha movido. El elemento no se puede mover porque una tarea predecesora no se puede mover a una tarea para la que es predecesora, pero no hay ningún mensaje que indique al usuario que el elemento no se puede mover, lo que puede llevar a confusión.
+
++++
+
 ## Actualizaciones en mayo de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 25 de mayo de 2023**
++++**Actualización de mantenimiento: 25 de mayo de 2023**
 
 el tablero **[!UICONTROL Kanban] se queda en blanco al editar tarjetas**
 
