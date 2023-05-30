@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
 source-wordcount: '3646'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -23,13 +23,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**(Planificado) Actualización de mantenimiento el 25 de mayo de 2023**
 
-**[!UICONTROL Kanban] El tablero se queda en blanco al editar tarjetas**
+el tablero **[!UICONTROL Kanban] se queda en blanco al editar tarjetas**
 
 _Agile_
 
-Cuando un usuario cambia algo acerca de una tarjeta en la [!UICONTROL Kanban] tablero, el [!UICONTROL Kanban] El tablero se queda en blanco en lugar de actualizar con el cambio. Si el usuario actualiza la página manualmente, la variable [!UICONTROL Kanban] El tablero vuelve y muestra el cambio correcto.
+Cuando un usuario cambia algo acerca de una tarjeta en el tablero [!UICONTROL Kanban], el tablero [!UICONTROL Kanban] se queda en blanco en lugar de actualizarse con el cambio. Si el usuario actualiza la página manualmente, el tablero [!UICONTROL Kanban] vuelve y muestra el cambio correcto.
 
-Se ha informado de este problema en las siguientes circunstancias:
+Se ha informado de esto en las siguientes circunstancias:
 
 * Edición de una tarjeta
 * Mover una tarjeta
@@ -52,7 +52,7 @@ Cuando se lanzó el diseñador de formularios personalizado en la versión beta,
 **El informe no se ordena correctamente al ordenar por campo personalizado**
 
 _Informes_
-Cuando un usuario ejecuta un informe de tareas, el informe parece ordenarse correctamente cuando se está cargando, pero cuando termina de cargarse, el usuario ve que el informe no se ordena correctamente.
+Cuando un usuario ejecuta un informe de tareas, este parece ordenarse correctamente cuando se está cargando, pero cuando termina se ve que no está bien ordenado.
 
 Esto parece ocurrir si se cumplen todas las siguientes circunstancias:
 

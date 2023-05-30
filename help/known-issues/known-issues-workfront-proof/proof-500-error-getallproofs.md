@@ -3,7 +3,7 @@ title: "Workfront Proof: Error 500 al acceder a Workfront Proof a través de API
 description: "Cuando un usuario accede a la acción getAllProofs de la API Proof, el servidor Workfront Proof devuelve el mensaje: 500 Internal Server Error"
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
