@@ -4,8 +4,8 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3820'
+ht-degree: 98%
 
 ---
 
@@ -41,7 +41,7 @@ Cuando un usuario intenta reordenar una tarea en una lista de tareas y la tarea 
 
 +++**Actualización de mantenimiento: 25 de mayo de 2023**
 
-el tablero **[!UICONTROL Kanban] se queda en blanco al editar tarjetas**
+El tablero **[!UICONTROL Kanban] se queda en blanco al editar tarjetas**
 
 _Agile_
 
@@ -185,7 +185,7 @@ Cuando se está viendo una prueba en el visualizador de revisión y se intenta r
 
 _Pruebas_
 
-Cuando un se está viendo una prueba, se comienza a añadir un comentario y se abre la herramienta Texto, la palabra &quot;textAnNotation&quot; aparece junto a las opciones de la herramienta. La herramienta Texto sigue funcionando como se espera y &quot;textAnNotation&quot; desaparece después de publicar el comentario.
+Cuando un se está viendo una prueba, se comienza a añadir un comentario y se abre la herramienta Texto, la palabra &quot;textAnnotation&quot; aparece junto a las opciones de la herramienta. La herramienta Texto sigue funcionando como se espera y &quot;textAnnotation&quot; desaparece después de publicar el comentario.
 
 **Mantener las imágenes como borrador al alejarse de una actualización para objetivos y problemas en la experiencia de comentarios beta**
 
