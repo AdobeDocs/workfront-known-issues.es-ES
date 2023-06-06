@@ -3,9 +3,9 @@ title: "Formularios personalizados: La lógica de visualización se pierde cuand
 description: ""
 hidefromtoc: true
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
