@@ -4,7 +4,7 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
 ht-degree: 100%
 
