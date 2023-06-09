@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 98%
+source-wordcount: '1255'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: &quot;[!UICONTROL Uy]Error &quot; al ver el informe de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [Pruebas: Las pruebas se crean lentamente en el entorno de vista previa](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Pruebas: Las pruebas se crean lentamente en el entorno de vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Formularios personalizados: la lógica de visualización se pierde cuando se edita el formulario personalizado en el nuevo diseñador de formularios (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: el tablero [!UICONTROL Kanban] se queda en blanco al editar tarjetas](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
@@ -126,6 +128,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [Pruebas: Las pruebas se crean lentamente en el entorno de vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: Error 500 al acceder a [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: La búsqueda no devuelve resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Pruebas: el cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
