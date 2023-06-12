@@ -3,7 +3,7 @@ title: '“Workfront Fusion: No se envían correos electrónicos de notificacion
 description: “Cuando se produce un evento en Workfront Fusion que debería activar un mensaje de correo electrónico de notificación (por ejemplo, en los casos en los que se produce un error), no se envía”.
 hidefromtoc: true
 source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
