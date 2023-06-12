@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
 source-wordcount: '3889'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en junio de 2023
 
-+++** Actualización de mantenimiento el 8 de junio de 2023**
++++**Actualización de mantenimiento el 8 de junio de 2023**
 
 Esta actualización incluye solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion] Actualización de mantenimiento el 8 de junio de 2023**
++++**[!DNL Adobe Workfront Fusion]Actualización de mantenimiento el 8 de junio de 2023**
 
 [!DNL Fusion] ha implementado una corrección que impide que se eliminen las conexiones de un usuario cuando este se elimina o desactiva en la [!UICONTROL Adobe Admin Console].
 
@@ -35,9 +35,9 @@ Esta actualización incluye solo correcciones de errores menores o menos importa
 
 +++
 
-+++** Actualización de mantenimiento el 1 de junio de 2023**
++++**Actualización de mantenimiento el 1 de junio de 2023**
 
-**No hay ningún mensaje de error al reordenar la tarea en [!UICONTROL Pendiente de aprobación] status**
+**No hay ningún mensaje de error al reordenar la tarea en el estado [!UICONTROL Pendiente de aprobación]**
 
 _Tareas_
 
@@ -47,7 +47,7 @@ Cuando un usuario intenta reordenar una tarea en una lista de tareas y la tarea 
 
 _Tareas_
 
-Cuando un usuario intenta reordenar una tarea en una lista de tareas y la tarea se encuentra en [!UICONTROL Pendiente de aprobación], la tarea parece moverse en la lista de tareas. Cuando se actualiza, el usuario ve que el elemento no se ha movido. El elemento no se puede mover porque una tarea predecesora no se puede mover a una tarea para la que es predecesora, pero no hay ningún mensaje que indique al usuario que el elemento no se puede mover, lo que puede llevar a confusión.
+Cuando un usuario intenta reordenar una tarea en una lista de tareas y la tarea se encuentra en [!UICONTROL Pendiente de aprobación], la tarea parece moverse en la lista de tareas. Cuando se actualiza, el usuario ve que el elemento no se ha movido. El elemento no se puede mover porque una tarea predecesora no se puede mover a una tarea de la que es predecesora, pero no hay ningún mensaje que indique al usuario que el elemento no se puede mover, lo que puede llevar a confusión.
 
 +++
 
