@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
 source-wordcount: '578'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -25,8 +25,8 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Inicio]: Los elementos no aparecen en [!UICONTROL Lista de trabajoss en Inicio]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 de junio de 2023 |
-| [Informes: &quot;[!UICONTROL Uy]Error &quot; al ver el informe de matriz](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 de junio de 2023 |
-| [Pruebas: Las pruebas se crean lentamente en el entorno de vista previa](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 de junio de 2023 |
+| [Informes: error &quot;[!UICONTROL Uy]&quot; al ver el informe de matriz](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 de junio de 2023 |
+| [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 de junio de 2023 |
 
 {style="table-layout:auto"}
 
@@ -50,7 +50,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: Las pruebas se crean lentamente en el entorno de vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
+| [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
 | [Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 de mayo de 2023 |
 | [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023 |
 | [Filtros: No se puede compartir un filtro de un informe en un tablero](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 de abril de 2023 |

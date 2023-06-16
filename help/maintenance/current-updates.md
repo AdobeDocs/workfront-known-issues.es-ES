@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
 source-wordcount: '3912'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -23,13 +23,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**Actualización de mantenimiento el 15 de junio de 2023**
 
-Esta actualización incluye solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 
 +++**Actualización de mantenimiento el 8 de junio de 2023**
 
-Esta actualización incluye solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 

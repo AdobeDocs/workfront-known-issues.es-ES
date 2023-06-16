@@ -4,7 +4,7 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
 source-wordcount: '1264'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 96%
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [[!UICONTROL Inicio]: Los elementos no aparecen en [!UICONTROL Lista de trabajoss en Inicio]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [Informes: &quot;[!UICONTROL Uy]Error &quot; al ver el informe de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [Pruebas: Las pruebas se crean lentamente en el entorno de vista previa](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
-      + [Pruebas: Las pruebas se crean lentamente en el entorno de vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
+      + [Informes: error &quot;[!UICONTROL Uy]&quot; al ver el informe de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
+      + [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Formularios personalizados: la lógica de visualización se pierde cuando se edita el formulario personalizado en el nuevo diseñador de formularios (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: el tablero [!UICONTROL Kanban] se queda en blanco al editar tarjetas](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Informes: el informe no se ordenaba correctamente al ordenar por cualquier campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
@@ -129,7 +129,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
-      + [Pruebas: Las pruebas se crean lentamente en el entorno de vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
+      + [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: Error 500 al acceder a [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: La búsqueda no devuelve resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Pruebas: el cuadro de opciones de texto muestra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
@@ -155,7 +155,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL no se puede ejecutar UPDATE]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
+      + [[!DNL Workfront Fusion]: error &quot;[!UICONTROL no se puede ejecutar ACTUALIZAR]&quot;](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: los correos electrónicos de notificaciones no se envían](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: las ejecuciones se bloquean o retrasan](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: el historial de ejecución del escenario no muestra todo el historial](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
