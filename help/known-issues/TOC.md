@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
-source-wordcount: '1264'
-ht-degree: 100%
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+workflow-type: tm+mt
+source-wordcount: '1287'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: El informe de utilización no se carga](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [Pruebas: Las opciones de aprobación no aparecen en [!UICONTROL Visor de corrección]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Plantillas de horas: Errores al registrar horas en una plantilla de horas](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Inicio]: Los elementos no aparecen en la [!UICONTROL Lista de trabajos en Inicio]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Informes: error &quot;[!UICONTROL Uy]&quot; al ver el informe de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
