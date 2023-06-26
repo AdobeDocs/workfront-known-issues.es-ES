@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
-workflow-type: ht
-source-wordcount: '3912'
-ht-degree: 100%
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+workflow-type: tm+mt
+source-wordcount: '4010'
+ht-degree: 99%
 
 ---
 
@@ -20,6 +20,26 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en junio de 2023
+
++++**Actualización de mantenimiento el 22 de junio de 2023**
+
+**&quot;[!UICONTROL Uy]Error &quot; al ver el informe de matriz**
+
+_Informes_
+
+Cuando un usuario ve un informe de matriz, ve el siguiente error:
+
+“[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.]”
+
+Esto se ha notificado cuando el informe se ordena por fecha y la opción &quot;[!UICONTROL Mostrar semanas sin resultados]&quot; está activada.
+
+**Las fechas se muestran incorrectamente en los informes de matriz**
+
+_Informes_
+
+Cuando un gráfico o informe de matriz se agrupa por fecha, las fechas cerca de los bordes de la agrupación pueden aparecer en la agrupación correcta, en la agrupación anterior o siguiente, o en ambas.
+
++++
 
 +++**Actualización de mantenimiento el 15 de junio de 2023**
 
