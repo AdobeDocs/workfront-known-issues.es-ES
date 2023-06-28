@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
+source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 97%
+source-wordcount: '1309'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: La barra de desplazamiento horizontal no está presente](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Proyectos / Tareas / Problemas: La cronología no se vuelve a calcular](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [Filtros: &quot;[!UICONTROL Habilitar en todo el sistema]&quot; y &quot;[!UICONTROL Ver todo el sistema]&quot; representan funciones diferentes](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Informes: El informe de utilización no se carga](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
