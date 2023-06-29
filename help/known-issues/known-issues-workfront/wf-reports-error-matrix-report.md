@@ -3,9 +3,9 @@ title: "Informes: Error ¡Uy! al ver el informe de matriz"
 description: '"Cuando un usuario ve un informe de matriz, ve el error ¡Uy!".'
 hidefromtoc: true
 source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
-> Este artículo se corrigió el 22 de junio de 2023
+> Este problema se corrigió el 22 de junio de 2023
 
 Cuando un usuario ve un informe de matriz, ve el siguiente error:
 
