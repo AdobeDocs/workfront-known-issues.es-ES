@@ -2,15 +2,19 @@
 title: "Formularios personalizados: La lógica de visualización se pierde cuando se edita el formulario personalizado en el nuevo diseñador de formularios (beta)"
 description: ""
 hidefromtoc: true
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 
 # Formularios personalizados: la lógica de visualización se pierde cuando se edita el formulario personalizado en el nuevo diseñador de formularios (beta)
+
+>[!NOTE]
+>
+>Este problema se corrigió el 14 de junio de 2023.
 
 Actualmente, la lógica de visualización no está disponible en el nuevo diseñador de formularios (beta). Por lo tanto, si se edita un formulario existente en el nuevo diseñador de formularios (beta), se perderá la lógica de visualización existente en el formulario.
 
