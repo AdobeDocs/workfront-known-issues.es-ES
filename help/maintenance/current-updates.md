@@ -29,7 +29,7 @@ Esta actualización contiene solo correcciones de errores menores o menos import
 
 +++**Actualización de mantenimiento el 22 de junio de 2023**
 
-**&quot;[!UICONTROL Uy]Error &quot; al ver el informe de matriz**
+**Error &quot;[!UICONTROL ¡Uy!]&quot; al ver el informe de matriz**
 
 _Informes_
 
@@ -39,7 +39,7 @@ Cuando un usuario ve un informe de matriz, ve el siguiente error:
 
 Esto se ha notificado cuando el informe se ordena por fecha y la opción &quot;[!UICONTROL Mostrar semanas sin resultados]&quot; está activada.
 
-**Las fechas se muestran incorrectamente en los informes de matriz**
+**Las fechas no se muestran correctamente en los informes de matriz**
 
 _Informes_
 
