@@ -4,9 +4,9 @@ description: “Cuando un usuario está en la aplicación de G Suite e intenta a
 hidefromtoc: true
 exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
 source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->Una nueva versión de Adobe Workfront para Google se publicó en Google Marketplace el 26 de junio de 2023.
+>Una nueva versión de Adobe Workfront para Google se ha publicado en Google Marketplace el 26 de junio de 2023.
 
 Cuando un usuario está en la aplicación de G Suite e intenta abrir el complemento Workfront for G Suite, el complemento no se abre y el usuario ve el mensaje “Se ha producido un error, inténtelo de nuevo”. Intentarlo de nuevo no es eficaz.
 
