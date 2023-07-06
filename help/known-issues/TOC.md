@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1309'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 96%
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Tableros: La barra de desplazamiento horizontal no está presente](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [Proyectos / Tareas / Problemas: La cronología no se vuelve a calcular](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [Filtros: &quot;[!UICONTROL Habilitar en todo el sistema]&quot; y &quot;[!UICONTROL Ver todo el sistema]&quot; representan funciones diferentes](known-issues-workfront/wf-filters-enable-system-wide.md)
-      + [Informes: El informe de utilización no se carga](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [Pruebas: Las opciones de aprobación no aparecen en [!UICONTROL Visor de corrección]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Proyectos / Tareas / Problemas: La cronología no se recalcula](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [Filtros: “[!UICONTROL Habilitar en todo el sistema]” y “[!UICONTROL Ver en todo el sistema]” representan funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [Informes: El informe de utilización no carga](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [Pruebas: Las opciones de aprobación no aparecen en el [!UICONTROL Visualizador de revisión]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [Plantillas de horas: Errores al registrar horas en una plantilla de horas](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Inicio]: Los elementos no aparecen en la [!UICONTROL Lista de trabajos en Inicio]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Informes: error &quot;[!UICONTROL Uy]&quot; al ver el informe de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
