@@ -1,21 +1,21 @@
 ---
-title: "Filtros: Habilitar en todo el sistema y Ver en todo el sistema representan diferentes funcionalidades"
-description: '"Si un usuario comparte un filtro y habilita la variable [!UICONTROL Ver todo el sistema] opción, el filtro se comparte con cada usuario del sistema. Sin embargo, si un administrador ve este filtro en [!UICONTROL Configurar], verán que este filtro se muestra [!UICONTROL false] en el [!UICONTROL Visible en todo el sistema] columna. Para que este filtro sea un sistema predeterminado, el administrador debe habilitar la variable [!UICONTROL Habilitar en todo el sistema] en Configuración. Esto puede causar cierta confusión debido a la similitud de la redacción".'
+title: '“Filtros: Habilitar en todo el sistema y Ver en todo el sistema representan funcionalidades diferentes”'
+description: “Si un usuario comparte un filtro y habilita la opción [!UICONTROL Ver en todo el sistema], lo comparte con cada usuario del sistema. Sin embargo, cuando un administrador ve este filtro en [!UICONTROL Configuración], muestra [!UICONTROL falso] en la columna [!UICONTROL Visible en todo el sistema]. Para que este filtro sea predeterminado del sistema, el administrador debe habilitar la opción [!UICONTROL Habilitar en todo el sistema] en Configuración. Esto puede causar cierta confusión debido a la similitud de la redacción”.
 hidefromtoc: true
 source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Filtros: &quot;[!UICONTROL Habilitar en todo el sistema]&quot; y &quot;[!UICONTROL Ver todo el sistema]&quot; representan funciones diferentes
+# Filtros: “[!UICONTROL Habilitar en todo el sistema]” y “[!UICONTROL Ver en todo el sistema]” representan funcionalidades diferentes
 
-Si un usuario comparte un filtro y habilita la variable &quot;[!UICONTROL Ver todo el sistema]&quot;, el filtro se comparte con todos los usuarios del sistema. Sin embargo, si un administrador ve este filtro en [!UICONTROL Configurar], verán que este filtro muestra &quot;[!UICONTROL false]&quot; en el &quot;[!UICONTROL Visible en todo el sistema]&quot; columna. Para que este filtro sea un sistema predeterminado, el administrador debe habilitar la opción &quot;[!UICONTROL Habilitar en todo el sistema]&quot; opción en [!UICONTROL Configurar]. Esto puede causar cierta confusión debido a la similitud de la redacción.
+“Si un usuario comparte un filtro y habilita la opción “[!UICONTROL Ver en todo el sistema]”, lo comparte con cada usuario del sistema. Sin embargo, cuando un administrador ve este filtro en [!UICONTROL Configuración], muestra “[!UICONTROL falso]” en la columna “[!UICONTROL Visible en todo el sistema]”. Para que este filtro sea predeterminado del sistema, el administrador debe habilitar la opción “[!UICONTROL Habilitar en todo el sistema]” en [!UICONTROL Configuración]. Esto puede causar cierta confusión debido a la similitud de la redacción.
 
-* [!UICONTROL Filtrar] > [!UICONTROL Compartir] > [!UICONTROL Ver todo el sistema] **acciones** el filtro eliminará todos los usuarios del sistema.
-* [!UICONTROL Configurar] > [!UICONTROL Filtros] > [!UICONTROL Habilitar en todo el sistema] convierte el filtro en una **valor predeterminado del sistema** filtro.
+* [!UICONTROL Filtrar] > [!UICONTROL Compartir] > [!UICONTROL Ver en todo el sistema] **comparte** el filtro con todos los usuarios del sistema.
+* [!UICONTROL Configuración] > [!UICONTROL Filtros] > [!UICONTROL Habilitar en todo el sistema] convierte el filtro en un **filtro predeterminado del sistema**.
 
 _Informado por primera vez el 24 de mayo de 2023._
 
