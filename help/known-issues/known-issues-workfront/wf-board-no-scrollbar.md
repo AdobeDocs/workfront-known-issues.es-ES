@@ -1,18 +1,18 @@
 ---
-title: "Tableros: La barra de desplazamiento horizontal no está presente"
-description: '"Cuando un usuario está viendo un panel e intenta desplazarse horizontalmente, la barra de desplazamiento no está presente y el usuario no puede desplazarse horizontalmente".'
+title: '“Tableros: La barra de desplazamiento horizontal no está presente”'
+description: “Cuando un usuario está viendo un tablero e intenta desplazarse horizontalmente, la barra de desplazamiento no está presente y no puede”.
 hidefromtoc: true
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
 # Tableros: La barra de desplazamiento horizontal no está presente
 
-Cuando un usuario está viendo un panel e intenta desplazarse horizontalmente, la barra de desplazamiento no está presente y el usuario no puede desplazarse horizontalmente.
+Cuando un usuario está viendo un tablero e intenta desplazarse horizontalmente, la barra de desplazamiento no está presente y no puede.
 
 **Solución alternativa**
 
