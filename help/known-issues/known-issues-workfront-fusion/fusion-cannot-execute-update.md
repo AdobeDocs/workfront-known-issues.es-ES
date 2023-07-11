@@ -3,7 +3,7 @@ title: "Workfront Fusion: no se puede ejecutar el error ACTUALIZAR"
 description: "La ejecución de un escenario falla con el error No se puede ejecutar ACTUALIZAR en una transacción de solo lectura."
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
