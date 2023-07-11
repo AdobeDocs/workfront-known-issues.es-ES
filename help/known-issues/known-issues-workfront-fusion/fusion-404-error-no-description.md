@@ -1,12 +1,12 @@
 ---
 title: 'Workfront Fusion: el módulo Fusion devuelve un error 404 sin más información'
-description: Cuando un módulo de Workfront Fusion devuelve un error 404, no da más detalles sobre la causa del error. Esto se debe a que el error 404 se envía a Workfront Fusion desde la aplicación a la que se conecta el módulo, y esa aplicación no ha proporcionado detalles adicionales a Workfront Fusion.
+description: Cuando un módulo de Workfront Fusion devuelve un error 404, no da más detalles sobre la causa del error. Esto se debe a que el error 404 se envía a Workfront Fusion desde la aplicación a la que se conecta el módulo, y esa aplicación no le ha proporcionado detalles adicionales a Workfront Fusion.
 hidefromtoc: true
 exl-id: 07a93454-2647-4c60-bdfd-3779e3c6f9b3
 source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -18,6 +18,6 @@ ht-degree: 66%
 
 Cuando un módulo [!DNL Workfront Fusion] devuelve un error 404, no da más detalles sobre la causa del error. Esto se debe a que el error 404 se envía a [!DNL Workfront Fusion] desde la aplicación a la que se conecta el módulo, y esa aplicación no le ha proporcionado detalles adicionales a [!DNL Workfront Fusion].
 
-Este es un problema con la aplicación a la que Fusion está intentando conectarse y debe resolverse en esa aplicación.
+Se trata de un problema con la aplicación a la que Fusion está intentando conectarse y debe resolverse en esa aplicación.
 
 _Notificado por primera vez el 9 de agosto de 2022._
