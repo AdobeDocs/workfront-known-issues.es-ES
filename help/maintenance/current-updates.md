@@ -2,10 +2,10 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3d5489cd6a5474d4a53800f7bea1475aa8ddc482
+source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
 workflow-type: tm+mt
-source-wordcount: '4035'
-ht-degree: 100%
+source-wordcount: '4193'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,38 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 >Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en julio de 2023
+
++++**Actualización de mantenimiento del 13 de julio de 2023**
+
+**La cronología no se vuelve a calcular**
+
+_Proyectos / Tareas / Problemas_
+
+Cuando se produce un evento que debería activar un cálculo de la cronología, esta no se recalcula. Esto afecta a los nuevos cálculos que se producen en los cambios y a los recalculaciones programadas. Esto puede repercutir en la precisión del Distribuidor de cargas de trabajo.
+
+**Las aprobaciones de revisión bloqueadas aún se muestran en la Lista de trabajos**
+
+_Pruebas_
+
+Las aprobaciones de pruebas que han pasado la fecha límite y están bloqueadas siguen apareciendo en la lista de trabajo en el Inicio del aprobador, en lugar de desaparecer.
+
+**El informe de utilización no se carga**
+
+_Informes_
+
+Cuando un cliente intenta ver un informe de utilización, el usuario ve un indicador de carga giratorio, pero el informe no se carga. El informe ha devuelto un error 500, pero el usuario no ve ninguna indicación de que haya fallado.
+
+**La página Editar usuario está en blanco**
+
+<!--no article-->
+
+_Usuarios_
+
+Cuando un usuario intenta editar a otro usuario, la página Editar usuario está en blanco y el usuario no puede editar al otro usuario.
+
++++
 
 ## Actualizaciones en junio de 2023
 
