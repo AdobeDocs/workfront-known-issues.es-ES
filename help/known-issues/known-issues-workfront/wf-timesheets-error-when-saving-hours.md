@@ -3,7 +3,7 @@ title: '“Plantillas de horas: Errores al registrar horas en una plantilla de h
 description: “Cuando un usuario intenta registrar horas en una tarea de su plantilla de horas, las horas no se guardan automáticamente y el usuario ve un error”.
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
