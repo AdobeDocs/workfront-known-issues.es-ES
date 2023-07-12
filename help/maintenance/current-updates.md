@@ -2,9 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
+source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
 workflow-type: tm+mt
-source-wordcount: '4193'
+source-wordcount: '4227'
 ht-degree: 98%
 
 ---
@@ -48,6 +48,12 @@ Cuando un cliente intenta ver un informe de utilización, el usuario ve un indic
 _Usuarios_
 
 Cuando un usuario intenta editar a otro usuario, la página Editar usuario está en blanco y el usuario no puede editar al otro usuario.
+
+**Horas redistribuidas inesperadamente**
+
+_Distribuidor de cargas de trabajo_
+
+Cuando las asignaciones de horas se realizan en tareas específicas, esas horas pueden volver a calcularse y redistribuirse inesperadamente. Esto puede ocurrir después de tabular entre fechas o páginas, o después de actualizar la página.
 
 +++
 
