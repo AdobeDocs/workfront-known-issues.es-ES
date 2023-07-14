@@ -4,7 +4,7 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '567'
 ht-degree: 100%
 

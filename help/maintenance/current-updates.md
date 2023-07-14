@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
 source-wordcount: '4193'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -23,13 +23,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**Actualización de mantenimiento del 13 de julio de 2023**
 
-**La cronología no se vuelve a calcular**
+**La cronología no se recalcula**
 
-_Proyectos / Tareas / Problemas_
+_Proyectos / tareas / problemas_
 
 Cuando se produce un evento que debería activar un cálculo de la cronología, esta no se recalcula. Esto afecta a los nuevos cálculos que se producen en los cambios y a los recalculaciones programadas. Esto puede repercutir en la precisión del Distribuidor de cargas de trabajo.
 
-**Las aprobaciones de revisión bloqueadas aún se muestran en la Lista de trabajos**
+**Las aprobaciones de prueba bloqueadas siguen apareciendo en la lista de trabajo**
 
 _Pruebas_
 
@@ -47,7 +47,7 @@ Cuando un cliente intenta ver un informe de utilización, el usuario ve un indic
 
 _Usuarios_
 
-Cuando un usuario intenta editar a otro usuario, la página Editar usuario está en blanco y el usuario no puede editar al otro usuario.
+Cuando se intenta editar otro usuario o usuaria, la página Editar usuario se queda en blanco y no se puede editar ese usuario o usuaria.
 
 +++
 
