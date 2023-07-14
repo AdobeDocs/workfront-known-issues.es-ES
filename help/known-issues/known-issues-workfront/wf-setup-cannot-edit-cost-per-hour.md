@@ -1,26 +1,26 @@
 ---
-title: "Configuración: No se puede editar el Rol de trabajo Coste/Hora o Facturación/Hora"
-description: '"Cuando un usuario está editando un Rol e intenta editar los campos Costo/Hora o Facturación/Hora, los campos están en blanco y el usuario no puede editarlos".'
+title: "Configuración: no se puede editar Coste/Hora o Facturación/Hora de la función"
+description: "Cuando está editando una función e intenta editar los campos Coste/Hora o Facturación/Hora, los campos están en blanco y no se pueden editar."
 hidefromtoc: true
 source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Configuración: no se puede editar el rol de coste/hora o facturación/hora
+# Configuración: no se puede editar Coste/Hora o Facturación/Hora de la función
 
 >[!NOTE]
 >
->Este problema solo se encuentra en el entorno de vista previa.
+>Este problema solo existe en el entorno de vista previa.
 
-Cuando un usuario está editando un Rol e intenta editar los campos Costo/Hora o Facturación/Hora, los campos están en blanco y el usuario no puede editarlos.
+Cuando está editando una función e intenta editar los campos Coste/Hora o Facturación/Hora, los campos están en blanco y no se pueden editar.
 
 **Solución alternativa**
 
-Edite el campo en línea en la lista de Funciones del puesto.
+Edite el campo en línea en la lista de funciones.
 
 _Notificado por primera vez el 29 de junio de 2023._
 
