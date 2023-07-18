@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
 workflow-type: tm+mt
-source-wordcount: '1328'
-ht-degree: 99%
+source-wordcount: '1335'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Integraciones de documentos: no se pueden ver todas las carpetas en [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Inicio]: [!UICONTROL Lista de trabajoss en Inicio] está en blanco/carga lenta](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configuración: no se puede editar Coste/Hora o Facturación/Hora de la función](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Tableros: La barra de desplazamiento horizontal no está presente](known-issues-workfront/wf-board-no-scrollbar.md)
