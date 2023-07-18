@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: ht
-source-wordcount: '1319'
-ht-degree: 100%
+source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+workflow-type: tm+mt
+source-wordcount: '1328'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Inicio]: [!UICONTROL Lista de trabajoss en Inicio] está en blanco/carga lenta](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configuración: no se puede editar Coste/Hora o Facturación/Hora de la función](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Tableros: La barra de desplazamiento horizontal no está presente](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Proyectos / Tareas / Problemas: La cronología no se recalcula](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
