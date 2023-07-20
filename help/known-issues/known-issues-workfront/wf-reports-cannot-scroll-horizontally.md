@@ -3,8 +3,9 @@ title: "Informes: no se puede desplazar el informe horizontalmente cuando se ve 
 description: Si un usuario está viendo un informe en un panel e intenta desplazarlo horizontalmente, o bien el informe no se desplaza, o bien las cabeceras de las columnas quedan por detrás de las columnas reales. Si el informe tiene un gran número de columnas, la página puede bloquearse si se desplaza horizontalmente.
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
-source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 

@@ -3,8 +3,9 @@ title: "Prueba de Workfront: La búsqueda no devuelve resultados"
 description: Cuando un usuario busca una prueba en Workfront Proof, la búsqueda no devuelve ningún resultado. La búsqueda puede sugerir pruebas para que el usuario las seleccione, pero si el usuario finaliza la búsqueda, estas sugerencias no aparecen en los resultados.
 hidefromtoc: true
 exl-id: d00c9e40-49f9-4d7b-a6f8-9b506b5c5bc5
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 

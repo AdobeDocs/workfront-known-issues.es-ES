@@ -1,14 +1,15 @@
 ---
-title: “Las pruebas se muestran menos nítidas que la imagen original”
-description: “Cuando un usuario crea una prueba y luego la ve en el visualizador de pruebas, esta se ve menos nítida (más borrosa) que la imagen original”.
+title: Las pruebas se muestran menos nítidas que la imagen original
+description: Cuando un usuario crea una prueba y luego la ve en el visualizador de pruebas, esta se ve menos nítida (más borrosa) que la imagen original.
 hidefromtoc: true
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
+exl-id: b9ab4de1-7e89-4577-8fd5-7c87855dea86
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 
 ---
-
 
 # Pruebas: Las pruebas se muestran en el visualizador de pruebas menos nítidas que la imagen original
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 Cuando un usuario crea una prueba y luego la ve en el visualizador de pruebas, esta se ve menos nítida (más borrosa) que la imagen original.
 
 _Notificado por primera vez el 1 de noviembre de 2022._
-

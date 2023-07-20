@@ -3,8 +3,9 @@ title: 'Plantillas de horas: la lista desplegable de Tipo de hora no se abre'
 description: Cuando un usuario intenta abrir la lista desplegable Tipo de hora en una plantilla de horas, la pantalla parpadea, pero no se abre la lista desplegable. Esto ocurre cuando el monitor está configurado con una resolución inusual o cuando el zoom de la ventana del explorador no está configurado en 100 %.
 hidefromtoc: true
 exl-id: 50660f78-b963-4eb9-b95f-3fdc129d9ecb
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 

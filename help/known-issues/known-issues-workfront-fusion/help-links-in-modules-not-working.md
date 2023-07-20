@@ -3,8 +3,9 @@ title: Los enlaces de ayuda de Fusion en la aplicación no conducen a páginas d
 description: Los enlaces de ayuda en [!DNL Workfront Fusion] no conducen actualmente a las páginas de ayuda previstas. En lugar de eso, todos los enlaces de ayuda de Fusion conducen a la página de inicio de la documentación de Workfront. Desde esta página de aterrizaje, puede buscar la información que necesite.
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 

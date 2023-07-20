@@ -2,8 +2,9 @@
 title: Actualizaciones de mantenimiento de Workfront para 2021
 description: Historial de actualizaciones de mantenimiento de 2021 para [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -1236,7 +1237,7 @@ Cuando un usuario crea un proyecto a partir de una plantilla, su configuración 
 
 _[!UICONTROL Página de inicio]_
 
-Cuando un usuario hace clic en un objeto de la [!UICONTROL Lista de trabajos en Inicio], la cabecera del objeto aparece en el panel derecho, pero no aparecen los detalles del objeto. Finalmente, el usuario ve el mensaje “[!UICONTROL Las páginas no responden”].
+Cuando un usuario hace clic en un objeto de la [!UICONTROL Lista de trabajos en Inicio], el encabezado del objeto aparece en el panel derecho, pero no aparecen los detalles del objeto. Finalmente, el usuario ve el mensaje “[!UICONTROL Las páginas no responden”].
 
 +++
 

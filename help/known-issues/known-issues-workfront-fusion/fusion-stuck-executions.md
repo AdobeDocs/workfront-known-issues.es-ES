@@ -2,8 +2,9 @@
 title: "Workfront Fusion: Las ejecuciones se bloquean o retrasan"
 description: '"Una ejecución puede quedarse atascada y continuar ejecutándose aunque no se estén procesando datos. Como el escenario está atascado, las ejecuciones posteriores de ese escenario pueden retrasarse".'
 hidefromtoc: true
-source-git-commit: 9d4cabdf936594d4460204c9b4a405ca4bcf99f2
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 

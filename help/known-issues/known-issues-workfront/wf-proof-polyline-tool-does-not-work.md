@@ -3,8 +3,9 @@ title: 'Pruebas: no se puede usar la herramienta Polyline al comentar una prueba
 description: 'Cuando se está viendo una prueba en el visor de revisión y se intenta realizar un comentario con la herramienta Polyline, esta no marca la prueba. '
 hidefromtoc: true
 exl-id: 1cd2209f-c430-40ae-ad78-41f4a558beba
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 

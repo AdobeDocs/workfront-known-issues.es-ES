@@ -3,8 +3,9 @@ title: 'Distribuidor de cargas de trabajo: las horas no se ajustan para tener en
 description: Si una persona programa los días libres y tiene tareas asignadas, el Distribuidor de cargas de trabajo no actualiza la cronología para tenerlos en cuenta. En su lugar, el Distribuidor de cargas de trabajo muestra que la persona tiene un exceso de asignaciones para dichos días. Para ajustar las horas, el rol de administrador debe ir al proyecto y volver a calcular la cronología.
 hidefromtoc: true
 exl-id: 0b3c75c4-43cf-4de2-a2ab-e67c24db6930
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

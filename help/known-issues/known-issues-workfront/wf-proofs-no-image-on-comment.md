@@ -2,7 +2,8 @@
 title: "Pruebas: No hay mensaje de imagen al hacer clic en la prueba"
 description: '"Cuando un usuario en el Visor de pruebas de escritorio hace clic en un comentario, la imagen asociada con el comentario no se abre y el usuario ve un mensaje".'
 hidefromtoc: true
-source-git-commit: 79ebbfd795616da4431fcbcca7676e03b5e2d927
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 4%

@@ -3,8 +3,9 @@ title: '“Planificador de recursos: no se puede guardar después de agregar la 
 description: Cuando un usuario del [!UICONTROL Planificador de recursos] añade una hora y luego intenta guardar, el botón [!UICONTROL Guardar] no responde. Si el usuario hace clic en [!UICONTROL Cancelar], verá un mensaje acerca de cambios no guardados.
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

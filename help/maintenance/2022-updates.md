@@ -1,8 +1,10 @@
 ---
 title: Actualizaciones de mantenimiento de Workfront  en 2022
 description: Actualizaciones de mantenimiento de 2022 para [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -247,7 +249,7 @@ Se han notificado los siguientes problemas en relación con adiciones a una iter
 * Algunas subtareas de una tarea agregadas a una iteración no aparecen en la página [!UICONTROL Iteración].
 * Cuando un usuario intenta agregar un tarea que falta a la iteración, la tarea no se agrega y el usuario recibe el siguiente mensaje:
 
-   “[!UICONTROL Se produjo el siguiente error: No se pudo mover ninguno de los elementos seleccionados porque no se han asignado a un equipo Agile o no son elementos Agile]”
+  “[!UICONTROL Se produjo el siguiente error: No se pudo mover ninguno de los elementos seleccionados porque no se han asignado a un equipo Agile o no son elementos Agile]”
 
 **Las tareas asignadas mediante la edición masiva no aparecen en el registro de asuntos pendientes del equipo**
 

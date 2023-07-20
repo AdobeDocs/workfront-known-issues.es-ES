@@ -3,8 +3,9 @@ title: '“Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en
 description: Las aprobaciones de pruebas que han pasado la fecha límite y están bloqueadas siguen apareciendo en la lista de trabajo en el Inicio del aprobador, en lugar de desaparecer.
 hidefromtoc: true
 exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

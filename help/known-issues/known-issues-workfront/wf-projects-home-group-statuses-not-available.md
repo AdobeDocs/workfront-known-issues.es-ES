@@ -1,14 +1,15 @@
 ---
-title: "Proyectos: los estados personalizados del grupo de inicio no están disponibles al crear un proyecto a partir de una plantilla"
-description: ""
+title: 'Proyectos: los estados personalizados del grupo de inicio no están disponibles al crear un proyecto a partir de una plantilla'
+description: ''
 hidefromtoc: true
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
-workflow-type: ht
+exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla
 
@@ -19,4 +20,3 @@ Cuando se crea un proyecto a partir de una plantilla y esta no tiene ningún gru
 Guarde el proyecto y, a continuación, edite el estado. Los estados personalizados del [!UICONTROL grupo de inicio] se pueden ver después de guardar el proyecto.
 
 _Notificado por primera vez el 30 de marzo de 2023._
-

@@ -2,9 +2,10 @@
 title: 'Plantillas de horas: el filtro no se aplica cuando se actualiza la página'
 description: Cuando un usuario está viendo una lista de plantillas de horas con un filtro y actualiza o navega fuera de la página y vuelve, el filtro no se aplica. Sí parece estar seleccionado en la lista de filtros.
 hidefromtoc: true
+feature: Timesheets
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

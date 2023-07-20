@@ -1,10 +1,11 @@
 ---
 title: Problemas conocidos de  [!DNL Adobe Workfront Goals]
-description: Problemas conocidos notificados para  [!DNL Adobe Workfront Goals]
+description: Problemas conocidos notificados para  [!DNL Adobe Workfront Goals]
 keywords: nuevo archivo, añadir archivo
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
-source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: ht
+feature: Workfront Goals
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 

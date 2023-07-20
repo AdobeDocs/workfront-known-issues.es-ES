@@ -2,8 +2,9 @@
 title: '“Pruebas: Las opciones de aprobación no aparecen en el visualizador de revisión”'
 description: “Cuando un usuario intenta aprobar una prueba en el visualizador de revisión de escritorio, poco después de solicitarse la aprobación, las opciones de aprobación no están visibles y no puede. Aparecen varias horas después de solicitarse la aprobación”.
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

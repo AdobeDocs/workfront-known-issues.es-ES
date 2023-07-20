@@ -3,8 +3,9 @@ title: "Inicio: el comportamiento del botón de respuesta en prueba es inconsist
 description: Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] está viendo una prueba en el panel derecho de [!UICONTROL Inicio] y hace clic en [!UICONTROL Responder en prueba] sobre un comentario, se muestra un cuadro de texto donde puede dejar una actualización en el área de [!UICONTROL Actualizaciones del documento] en lugar de que se le dirija al Visor de pruebas como estaba previsto.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
