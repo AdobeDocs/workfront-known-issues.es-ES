@@ -3,10 +3,10 @@ title: Problemas conocidos de la nueva experiencia [!DNL Adobe Workfront]
 description: Problemas conocidos reportados para la nueva experiencia de  [!DNL Adobe Workfront]
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 97%
+source-wordcount: '604'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,8 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: Las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 de julio de 2023 |
+| [Pruebas: Mensaje &quot;Sin imagen&quot; al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julio de 2023 |
 | [[!UICONTROL Inicio]: [!UICONTROL Lista de trabajoss en Inicio] está en blanco/carga lenta](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18 de julio de 2023 |
 | [Tableros: La barra de desplazamiento horizontal no está presente](known-issues-workfront/wf-board-no-scrollbar.md) | 28 de junio de 2023 |
 | [[!UICONTROL Inicio]: Los elementos no aparecen en la [!UICONTROL Lista de trabajos en Inicio]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 de junio de 2023 |
