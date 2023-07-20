@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1357'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Configurar]: no se pueden exportar los registros de auditoría](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Pruebas: Las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [Pruebas: Mensaje &quot;Sin imagen&quot; al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Integraciones de documentos: no se pueden ver todas las carpetas en [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
