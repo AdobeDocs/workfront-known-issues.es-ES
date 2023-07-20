@@ -1,14 +1,15 @@
 ---
 title: '“Documentos: Error de tipo ''Esa página no existe'' al abrir o descargar un documento”'
-description: “Cuando un usuario intenta abrir o descargar un documento en Workfront, no puede abrirlo ni descargarlo y le aparece un error”
+description: Cuando un usuario intenta abrir o descargar un documento en Workfront, no puede abrirlo o descargarlo y ve un error
 hidefromtoc: true
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: 8d25c1a4-bd9d-48cf-8ebe-a9ff49335173
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
-
 
 # Documentos: Error de tipo “Esa página no existe” al abrir o descargar un documento
 

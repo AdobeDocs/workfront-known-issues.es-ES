@@ -3,8 +3,9 @@ title: '“Inicio: Problemas en el resumen del Inicio al usar navegadores distin
 description: Cuando un usuario está viendo su página de inicio y utiliza un explorador que no sea Chrome, puede que vea los distintos problemas.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 

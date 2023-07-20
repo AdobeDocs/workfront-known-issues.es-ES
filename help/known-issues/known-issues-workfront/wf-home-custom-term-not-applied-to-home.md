@@ -3,8 +3,9 @@ title: "Inicio: La terminología personalizada no se aplica al área de Inicio"
 description: El área de Inicio muestra los nombres predeterminados de los objetos, en lugar de la terminología establecida por la organización. Se ha informado de este problema en diversas áreas.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 

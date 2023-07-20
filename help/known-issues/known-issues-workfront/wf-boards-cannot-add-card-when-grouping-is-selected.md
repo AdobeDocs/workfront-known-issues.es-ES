@@ -1,14 +1,15 @@
 ---
-title: '“Tableros: No se pueden agregar tarjetas cuando se aplica la agrupación”'
-description: “Cuando un usuario está viendo un tablero que tiene una agrupación aplicada e intenta agregar una tarjeta, el usuario solo puede introducir el nombre de la tarjeta. El resto de los campos de tarjeta están desactivados, incluido el botón Guardar”.
+title: 'Tableros: No se pueden agregar tarjetas al aplicar la agrupación'
+description: Cuando un usuario está viendo un tablero que tiene una agrupación aplicada, e intenta agregar una tarjeta, el usuario solo puede introducir el nombre de la tarjeta. El resto de los campos de tarjeta están desactivados, incluido el botón Guardar.
 hidefromtoc: true
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+feature: Agile
+exl-id: 2e6856d1-1e28-4da7-bb3c-3256d9ec5211
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL Tableros]: No se pueden agregar tarjetas al aplicar la agrupación
 
@@ -25,4 +26,3 @@ Si el usuario cambia la agrupación a [!UICONTROL Ninguna], el problema continú
 Cambie la agrupación a [!UICONTROL Ninguna] y, a continuación, actualice la página.
 
 _Informado por primera vez el 14 de febrero de 2023._
-

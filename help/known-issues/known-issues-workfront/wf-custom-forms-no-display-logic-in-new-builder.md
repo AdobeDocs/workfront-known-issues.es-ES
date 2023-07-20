@@ -2,8 +2,9 @@
 title: "Formularios personalizados: La lógica de visualización se pierde cuando se edita el formulario personalizado en el nuevo diseñador de formularios (beta)"
 description: ""
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
+feature: Custom Forms
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 

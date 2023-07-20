@@ -2,9 +2,10 @@
 title: "Inicio: Nueva opción de Tarea que muestra usuarios desactivados en Asignar a campo"
 description: Cuando un usuario que está en la nueva experiencia de  [!DNL Adobe Workfront] crea una nueva tarea o problema en el área de Inicio e intenta asignar un usuario, los usuarios desactivados aparecen como selecciones en la lista desplegable de [!UICONTROL escritura anticipada].
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
+feature: Get Started with Workfront, Tasks
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 

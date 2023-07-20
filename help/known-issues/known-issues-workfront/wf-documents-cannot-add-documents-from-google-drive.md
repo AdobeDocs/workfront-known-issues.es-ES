@@ -1,14 +1,15 @@
 ---
-title: '“Documentos: No se pueden agregar documentos desde la unidad de Google”'
-description: “Cuando un usuario intenta agregar un documento a Workfront desde Google Drive, el selector de archivos no muestra ningún archivo y el usuario no puede seleccionar el archivo deseado.”
+title: "Documentos: No se pueden agregar documentos desde la unidad de Google"
+description: Cuando un usuario intenta agregar un documento a Workfront desde Google Drive, el selector de archivos no muestra ningún archivo y el usuario no puede seleccionar el archivo deseado.
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+feature: Digital Content and Documents, Workfront Integrations and Apps
+exl-id: 74447447-b4e5-426d-a293-18b3d6f421a0
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 63%
 
 ---
-
 
 # Documentos: No se pueden agregar documentos desde [!DNL Google Drive]
 
@@ -25,4 +26,3 @@ Cuando un usuario intenta agregar un documento a [!DNL Workfront] desde [!DNL Go
 Descargue el archivo desde [!DNL Google Drive] en el equipo y, a continuación, cargue el archivo desde el equipo a [!DNL Workfront].
 
 _Notificado por primera vez el 15 de diciembre de 2022._
-

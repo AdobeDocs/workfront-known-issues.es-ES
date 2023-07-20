@@ -2,9 +2,10 @@
 title: '“Formularios personalizados: mensaje de expresión personalizada no válida al añadir una referencia al propietario en un campo calculado”'
 description: 'Cuando un usuario añade un campo calculado a un formulario personalizado de nivel de problema e intenta añadir referencias a un propietario (como “ownerID”), el campo no se guarda y el usuario ve el siguiente mensaje: “La expresión personalizada no es válida, inténtelo de nuevo”.'
 hidefromtoc: true
+feature: Custom Forms
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 

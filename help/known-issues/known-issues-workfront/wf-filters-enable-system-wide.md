@@ -1,9 +1,10 @@
 ---
 title: '“Filtros: Habilitar en todo el sistema y Ver en todo el sistema representan funcionalidades diferentes”'
 description: “Si un usuario comparte un filtro y habilita la opción [!UICONTROL Ver en todo el sistema], lo comparte con cada usuario del sistema. Sin embargo, cuando un administrador ve este filtro en [!UICONTROL Configuración], muestra [!UICONTROL falso] en la columna [!UICONTROL Visible en todo el sistema]. Para que este filtro sea predeterminado del sistema, el administrador debe habilitar la opción [!UICONTROL Habilitar en todo el sistema] en Configuración. Esto puede causar cierta confusión debido a la similitud de la redacción”.
+feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 

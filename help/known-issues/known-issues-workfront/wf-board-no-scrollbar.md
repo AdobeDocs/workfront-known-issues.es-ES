@@ -1,9 +1,10 @@
 ---
 title: '“Tableros: La barra de desplazamiento horizontal no está presente”'
 description: “Cuando un usuario está viendo un tablero e intenta desplazarse horizontalmente, la barra de desplazamiento no está presente y no puede”.
+feature: Agile
 hidefromtoc: true
-source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 

@@ -1,10 +1,11 @@
 ---
 title: 'Pruebas: El campo [!UICONTROL Etapas de prueba activas] está en blanco'
 description: Cuando un usuario crea una prueba y luego la visualiza en un informe como el de [!UICONTROL Versión del documento] o el de [!UICONTROL Aprobación de la prueba], ve que el campo [!UICONTROL Etapas activas de la prueba] está en blanco. Esto ocurre cuando la prueba se crea después de cargar el documento, ya sea como una [!UICONTROL Prueba simple] o una [!UICONTROL Prueba avanzada] con un [!UICONTROL Flujo de trabajo básico].
+feature: Digital Content and Documents
 hidefromtoc: true
 exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 

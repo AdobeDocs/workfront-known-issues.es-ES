@@ -1,9 +1,10 @@
 ---
 title: '“Documentos: No se puede cargar el archivo MP4”'
 description: “Cuando un usuario intenta cargar un archivo MP4, dicho archivo no se carga y el usuario ve el mensaje de error ‘No se pudo cargar el archivo’”.
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 

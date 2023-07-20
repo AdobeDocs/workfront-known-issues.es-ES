@@ -1,14 +1,15 @@
 ---
-title: '“Documentos: no se puede restaurar el documento eliminado”'
-description: “Cuando un usuario intenta restaurar un documento eliminado anteriormente, no puede restaurarlo y verá el error ¡Uy!”.
+title: 'Documentos: no se puede restaurar el documento eliminado'
+description: Cuando un usuario intenta restaurar un documento eliminado anteriormente, no puede restaurar el documento y ve el error ¡Uy!
 hidefromtoc: true
-source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: ded3b89e-47fd-4145-bd7c-21b48eed8a06
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
-
 
 # Documentos: no se puede restaurar el documento eliminado
 
@@ -23,4 +24,3 @@ Cuando un usuario intenta restaurar un documento eliminado anteriormente, no pod
 “[!UICONTROL ¡Uy! Intentemos de nuevo. ¡Uy! Se ha producido un error. Póngase en contacto con [!DNL Workfront] para que podamos averiguar qué ha fallado y solucionarlo]”.
 
 _Notificado por primera vez el 1 de junio de 2023._
-

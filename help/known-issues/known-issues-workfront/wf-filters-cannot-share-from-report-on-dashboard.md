@@ -3,7 +3,8 @@ title: 'Filtros: No se puede compartir un filtro de un informe en un tablero'
 description: Cuando un usuario está viendo un informe en un tablero e intenta compartir un filtro de ese informe, no puede. Al hacer clic en los tres puntos, el tablero salta al siguiente informe y, cuando el usuario se desplaza hacia atrás hasta el informe deseado, verá que la opción Compartir no se ha abierto.
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+feature: Reports and Dashboards
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 100%
