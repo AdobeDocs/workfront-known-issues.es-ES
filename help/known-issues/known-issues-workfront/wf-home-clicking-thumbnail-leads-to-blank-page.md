@@ -5,7 +5,7 @@ hidefromtoc: true
 exl-id: 7512869b-8efe-4806-abaf-6ee89be1a3de
 feature: Get Started with Workfront, Digital Content and Documents
 source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
