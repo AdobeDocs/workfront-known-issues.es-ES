@@ -1,12 +1,12 @@
 ---
-title: "Integraciones de documentos: No se pueden ver todas las carpetas en OneDrive"
-description: '"Cuando un usuario intenta tener acceso a un documento a través de la integración de OneDrive en Workfront, no puede ver todas las carpetas de OneDrive ni tener acceso a los documentos de las carpetas que faltan".'
+title: "Integraciones de documentos: no se pueden ver todas las carpetas en OneDrive"
+description: "Cuando un usuario intenta tener acceso a un documento a través de la integración de OneDrive en Workfront, no puede ver todas las carpetas de OneDrive ni tener acceso a los documentos de las carpetas que faltan."
 feature: Digital Content and Documents
 hidefromtoc: true
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 27%
 >
 >El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
-Cuando un usuario intenta acceder a un documento a través de [!DNL OneDrive] integración en [!DNL Workfront], el usuario no puede ver todos los [!DNL OneDrive] y no pueden tener acceso a los documentos de las carpetas que faltan.
+Cuando un usuario intenta acceder a un documento a través de la [!DNL OneDrive] integración en [!DNL Workfront], el usuario no puede ver todas las carpetas de [!DNL OneDrive] y no pueden tener acceso a los documentos de las carpetas que faltan.
 
 **Solución alternativa**
 
