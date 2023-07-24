@@ -4,7 +4,7 @@ description: “Cuando se produce un evento que debería activar un cálculo de 
 hidefromtoc: true
 feature: Projects, Tasks
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
