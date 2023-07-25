@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '1376'
-ht-degree: 95%
+source-wordcount: '1385'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: Las aprobaciones de documentos no aparecen en el área de Aprobaciones](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documentos: Actualmente no se admiten archivos EPS](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documentos: Error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Proyectos / Problemas: El proyecto no resuelve el problema correctamente](known-issues-workfront/wf-projects-resolving-issue.md)
@@ -24,7 +25,7 @@ ht-degree: 95%
       + [Pruebas: Las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [Pruebas: Mensaje &quot;Sin imagen&quot; al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Integraciones de documentos: no se pueden ver todas las carpetas en [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
-      + [[!UICONTROL Inicio]: [!UICONTROL Lista de trabajoss en Inicio] está en blanco/carga lenta](known-issues-workfront/wf-home-blank-slow-to-load.md)
+      + [[!UICONTROL Inicio]: la [!UICONTROL Lista de trabajos en Inicio] está en blanco/su carga es lenta](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configuración: no se puede editar Coste/Hora o Facturación/Hora de la función](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Tableros: La barra de desplazamiento horizontal no está presente](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Proyectos / Tareas / Problemas: La cronología no se recalcula](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
