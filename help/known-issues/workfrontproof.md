@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 89%
+source-wordcount: '332'
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,6 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: Las aprobaciones de documentos no aparecen en [!UICONTROL Aprobaciones] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julio de 2023 |
-| [Documentos: Error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 de julio de 2023 |
 | [Pruebas: Las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 de julio de 2023 |
 | [Pruebas: Mensaje &quot;Sin imagen&quot; al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julio de 2023 |
 
@@ -38,7 +37,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: Actualmente no se admiten archivos EPS](known-issues-workfront/wf-documents-not-supporting-eps.md) | 21 de julio de 2023 |
 | [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julio de 2023 |
 | [Pruebas: Las opciones de aprobación no aparecen en el [!UICONTROL Visualizador de revisión]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junio de 2023 |
 
