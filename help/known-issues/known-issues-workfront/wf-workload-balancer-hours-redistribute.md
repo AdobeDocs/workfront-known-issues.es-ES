@@ -4,7 +4,7 @@ description: “Cuando se realizan asignaciones por horas en tareas específicas
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
