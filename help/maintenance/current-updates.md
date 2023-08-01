@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
 workflow-type: tm+mt
-source-wordcount: '4303'
-ht-degree: 99%
+source-wordcount: '4410'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,28 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 >Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en julio de 2023
+
++++**(Planificado) Actualización de mantenimiento del 27 de abril de 2023**
+
+**El proyecto no resuelve el problema correctamente**
+
+_Proyectos/problemas_
+
+Cuando se cambia el estado de un proyecto que es el objeto de resolución de un problema, el estado del problema se cambia a un estado que no coincide con la misma clave que el estado del proyecto.
+
+**Error &quot;¡Uy!&quot; en los informes de la matriz**
+
+_Informes_
+
+Cuando un usuario intenta ver un informe de matriz, el informe no se carga y el usuario ve el siguiente error:
+
+“[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.]”
+
+Se ha informado de este problema a los usuarios de EMEA.
+
++++
 
 ## Actualizaciones en julio de 2023
 
