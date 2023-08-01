@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4410'
-ht-degree: 98%
+source-wordcount: '4451'
+ht-degree: 97%
 
 ---
 
@@ -20,9 +20,9 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
-## Actualizaciones en julio de 2023
+## Actualizaciones en agosto de 2023
 
-+++**(Planificado) Actualización de mantenimiento del 27 de abril de 2023**
++++**(Planificado) Actualización de mantenimiento el 3 de agosto de 2023**
 
 **El proyecto no resuelve el problema correctamente**
 
@@ -45,6 +45,12 @@ Se ha informado de este problema a los usuarios de EMEA.
 ## Actualizaciones en julio de 2023
 
 +++**Actualización de mantenimiento del 27 de julio de 2023**
+
+**Los elementos de etiquetas y listas de comprobación no funcionan correctamente en la vista del tablero del proyecto**
+
+_Tableros_
+
+Las etiquetas y los elementos de la lista de comprobación se han eliminado de la vista del tablero de los proyectos, ya que no forman parte de las tareas de Workfront y no se pueden compartir entre los usuarios.
 
 **&quot;[!UICONTROL Habilitar en todo el sistema]&quot; y &quot;[!UICONTROL Ver todo el sistema]&quot; representan funciones diferentes**
 
