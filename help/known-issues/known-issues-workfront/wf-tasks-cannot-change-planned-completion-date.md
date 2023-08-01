@@ -1,11 +1,11 @@
 ---
-title: 'Tareas: No se puede cambiar la fecha planificada de finalización de una tarea'
+title: 'Tareas: no se puede cambiar la fecha planificada de finalización de una tarea'
 description: 'Cuando un usuario intenta cambiar la variable Fecha planificada de finalización de una tarea, el campo no responde. '
 hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
