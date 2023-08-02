@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 93%
+source-wordcount: '665'
+ht-degree: 90%
 
 ---
 
@@ -25,9 +25,12 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: la prueba aprobada permanece en el equipo del aprobador [!UICONTROL Lista de trabajoss en Inicio]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 de agosto de 2023 |
+| [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 de agosto de 2023 |
+| [Pruebas: No se puede seleccionar texto en listas o puntos de viñeta](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 de agosto de 2023 |
 | [Tareas / Problemas: El usuario asignado no recibe acceso al objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 de julio de 2023 |
 | [Documentos: Las aprobaciones de documentos no aparecen en [!UICONTROL Aprobaciones] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julio de 2023 |
-| s | [Pruebas: Mensaje &quot;Sin imagen&quot; al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julio de 2023 |
+| s | [Pruebas: mensaje “No hay imagen” al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julio de 2023 |
 | [Tableros: La barra de desplazamiento horizontal no está presente](known-issues-workfront/wf-board-no-scrollbar.md) | 28 de junio de 2023 |
 
 {style="table-layout:auto"}
@@ -38,7 +41,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proyectos / Problemas: El proyecto no resuelve el problema correctamente](known-issues-workfront/wf-projects-resolving-issue.md) | 27 de julio de 2023 |
+| [Pruebas: al crear una nueva versión de prueba, se eliminan todas las versiones de prueba](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 de agosto de 2023 |
+| [Inicio: No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 de agosto de 2023 |
+| [Proyectos / Problemas: el proyecto no resuelve el problema correctamente](known-issues-workfront/wf-projects-resolving-issue.md) | 27 de julio de 2023 |
 | [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julio de 2023 |
 | [[!UICONTROL Inicio]: Los elementos no aparecen en la [!UICONTROL Lista de trabajos en Inicio]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 de julio de 2023 |
 | [Pruebas: Las opciones de aprobación no aparecen en el [!UICONTROL Visualizador de revisión]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junio de 2023 |
@@ -54,7 +59,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Configuración: no se puede editar Coste/Hora o Facturación/Hora de la función](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 de julio de 2023 |
-| [[!UICONTROL Configurar]: no se pueden exportar los registros de auditoría](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 de julio de 2023 |
+| [[!UICONTROL Configuración]: no se pueden exportar los registros de auditoría](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 de julio de 2023 |
 | [Integraciones de documentos: no se pueden ver todas las carpetas en [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 de julio de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
 | [Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 de mayo de 2023 |

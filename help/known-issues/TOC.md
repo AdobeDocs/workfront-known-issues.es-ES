@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1046'
 ht-degree: 93%
 
 ---
@@ -17,14 +17,19 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: al crear una nueva versión de prueba, se eliminan todas las versiones de prueba](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [Pruebas: la prueba aprobada permanece en el equipo del aprobador [!UICONTROL Lista de trabajoss en Inicio]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [Inicio: No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [Pruebas: No se puede seleccionar texto en listas o puntos de viñeta](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Tareas / Problemas: El usuario asignado no recibe acceso al objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documentos: Las aprobaciones de documentos no aparecen en [!UICONTROL Aprobaciones] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [Documentos: Actualmente no se admiten archivos EPS](known-issues-workfront/wf-documents-not-supporting-eps.md)
-      + [Documentos: Error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [Proyectos / Problemas: El proyecto no resuelve el problema correctamente](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [Documentos: actualmente no se admiten archivos EPS](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [Proyectos / Problemas: el proyecto no resuelve el problema correctamente](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL Configurar]: no se pueden exportar los registros de auditoría](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [Pruebas: Las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [Pruebas: Mensaje &quot;Sin imagen&quot; al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [Pruebas: las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [Pruebas: mensaje &quot;No hay imagen&quot; al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Integraciones de documentos: no se pueden ver todas las carpetas en [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Inicio]: la [!UICONTROL Lista de trabajos en Inicio] está en blanco/su carga es lenta](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configuración: no se puede editar Coste/Hora o Facturación/Hora de la función](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

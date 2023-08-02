@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4451'
-ht-degree: 97%
+source-wordcount: '4509'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,24 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 ## Actualizaciones en agosto de 2023
 
 +++**(Planificado) Actualización de mantenimiento el 3 de agosto de 2023**
+
+**Dificultad para localizar elementos en la columna de admisión**
+
+_Tableros_
+
+La columna de admisión de un tablero se ordenaba anteriormente por la prioridad definida en las tareas y problemas, lo que dificultaba la localización de elementos específicos.
+
+El orden predeterminado ahora es el siguiente:
+
+Tareas:
+
+* Pedido principal: Nombre del proyecto
+* Orden secundario: estructura de desglose de trabajo
+
+Problemas
+
+* Pedido principal: Nombre del proyecto
+* Pedido secundario: Número de referencia
 
 **El proyecto no resuelve el problema correctamente**
 
