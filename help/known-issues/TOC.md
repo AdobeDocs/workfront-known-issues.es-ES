@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '1046'
-ht-degree: 93%
+source-wordcount: '1068'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: No se pueden ajustar las marcas de prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [Pruebas: No se pueden generar las pruebas](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [Pruebas: al crear una nueva versión de prueba, se eliminan todas las versiones de prueba](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
       + [Pruebas: la prueba aprobada permanece en el equipo del aprobador [!UICONTROL Lista de trabajoss en Inicio]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
       + [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
@@ -137,6 +139,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: módulo de suspensión que provoca que se cuelguen escenarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]: El escenario falla con &quot;[!UICONTROL leer ECONNRESET]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: No se puede introducir el valor en [!DNL Workfront] > [!UICONTROL Ver eventos] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: error &quot;[!UICONTROL no se puede ejecutar ACTUALIZAR]&quot;](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: los correos electrónicos de notificaciones no se envían](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
