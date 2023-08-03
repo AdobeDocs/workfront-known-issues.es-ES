@@ -4,9 +4,9 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '656'
 ht-degree: 90%
 
 ---
@@ -43,7 +43,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | -----------------------------------------------------------------| ----------------- |
 | [Pruebas: al crear una nueva versión de prueba, se eliminan todas las versiones de prueba](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 de agosto de 2023 |
 | [Inicio: No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 de agosto de 2023 |
-| [Proyectos / Problemas: el proyecto no resuelve el problema correctamente](known-issues-workfront/wf-projects-resolving-issue.md) | 27 de julio de 2023 |
 | [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julio de 2023 |
 | [[!UICONTROL Inicio]: Los elementos no aparecen en la [!UICONTROL Lista de trabajos en Inicio]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 de julio de 2023 |
 | [Pruebas: Las opciones de aprobación no aparecen en el [!UICONTROL Visualizador de revisión]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junio de 2023 |
