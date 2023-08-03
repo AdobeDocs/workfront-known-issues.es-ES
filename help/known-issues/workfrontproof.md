@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 87%
+source-wordcount: '362'
+ht-degree: 86%
 
 ---
 
@@ -31,7 +31,6 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | [Pruebas: No se puede seleccionar texto en listas o puntos de viñeta](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 de agosto de 2023 |
 | [Documentos: Las aprobaciones de documentos no aparecen en [!UICONTROL Aprobaciones] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julio de 2023 |
 | [Pruebas: las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 de julio de 2023 |
-| [Pruebas: mensaje “No hay imagen” al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julio de 2023 |
 
 {style="table-layout:auto"}
 
@@ -41,9 +40,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: mensaje “No hay imagen” al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 de agosto de 2023 |
 | [Pruebas: No se pueden ajustar las marcas de prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
-| [Pruebas: las aprobaciones de pruebas bloqueadas siguen apareciendo en la lista de trabajo](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julio de 2023 |
-| [Pruebas: Las opciones de aprobación no aparecen en el [!UICONTROL Visualizador de revisión]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junio de 2023 |
 
 {style="table-layout:auto"}
 
@@ -53,6 +51,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 de junio de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de mayo de 2023 |
