@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 91%
+source-wordcount: '1078'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Proyectos: El proyecto anclado no muestra información en algunas columnas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Pruebas: No se pueden ajustar las marcas de prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [Pruebas: No se pueden generar las pruebas](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [Pruebas: al crear una nueva versión de prueba, se eliminan todas las versiones de prueba](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
