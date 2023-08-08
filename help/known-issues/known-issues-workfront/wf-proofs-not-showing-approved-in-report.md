@@ -4,7 +4,7 @@ description: '"Cuando se está viendo un informe que incluye decisiones de aprob
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
