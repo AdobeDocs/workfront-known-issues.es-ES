@@ -1,17 +1,17 @@
 ---
-title: "Documentos: Actualmente no se admiten archivos EPS"
-description: '"Actualmente, Workfront no admite la creación de pruebas a partir de archivos EPS".'
+title: "Documentos: actualmente no se admiten archivos EPS"
+description: "Actualmente, Workfront no admite la creación de pruebas a partir de archivos EPS."
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
 
-# Documentos: Actualmente no se admiten archivos EPS
+# Documentos: actualmente no se admiten archivos EPS
 
 <!--WF, WFP-->
 
