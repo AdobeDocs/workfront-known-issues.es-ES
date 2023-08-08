@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4657'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,32 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en agosto de 2023
+
++++**(Planificado) Actualización de mantenimiento el 10 de agosto de 2023**
+
+**No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia**
+
+_Página de inicio_
+
+Cuando un usuario está en la nueva [!UICONTROL Inicio] La experiencia intenta eliminar un elemento de la [!UICONTROL Tareas pendientes] , el elemento no se elimina y aparece el siguiente error:
+
+&quot;[!UICONTROL Hubo un problema al eliminar su tarea, inténtelo de nuevo.]&quot;
+
+Esto puede ocurrir cuando hay horas registradas en [!UICONTROL Tareas pendientes] elemento.
+
+**El proyecto anclado no muestra información en algunas columnas**
+
+_Proyectos_
+
+Cuando un usuario navega a un proyecto anclado mediante el fijador, las listas de objetos (como la lista de tareas) pueden mostrar columnas en blanco. Por ejemplo, un [!UICONTROL Asignaciones] puede que no muestre ninguna asignación, aunque se hayan realizado asignaciones.
+
+**Módulo de suspensión que provoca que se cuelguen escenarios**
+
+_[!DNL Workfront Fusion]_
+
+El [!UICONTROL Herramientas] > [!UICONTROL Suspensión] en un escenario puede provocar el bloqueo de la ejecución de un escenario. Estas ejecuciones muestran el estado Ejecutando en [!UICONTROL Historial de escenarios]y no finalizan.
+
++++
 
 +++**Actualización de mantenimiento del 3 de agosto de 2023**
 
