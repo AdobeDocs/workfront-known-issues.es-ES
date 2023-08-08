@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
 source-wordcount: '1084'
-ht-degree: 89%
+ht-degree: 92%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 89%
       + [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
       + [Inicio: No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-cannot-delete-todo.md)
       + [Pruebas: No se puede seleccionar texto en listas o puntos de viñeta](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
-      + [Tareas / Problemas: El usuario asignado no recibe acceso al objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
-      + [Documentos: Las aprobaciones de documentos no aparecen en [!UICONTROL Aprobaciones] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [Tareas / Problemas: el usuario asignado no recibe acceso al objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
+      + [Documentos: las aprobaciones de documentos no aparecen en el área de [!UICONTROL Aprobaciones]](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documentos: actualmente no se admiten archivos EPS](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Proyectos / Problemas: el proyecto no resuelve el problema correctamente](known-issues-workfront/wf-projects-resolving-issue.md)
@@ -83,7 +83,7 @@ ht-degree: 89%
       + [Pruebas: El estado de la prueba no se actualiza en las listas de [!UICONTROL documentos]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Formularios personalizados: Los formularios personalizados de objetos cruzados requieren el acceso de [!UICONTROL Administrar] o [!UICONTROL Editar] para editar los campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Pruebas: Las pruebas se muestran en el visualizador de pruebas menos nítidas que la imagen original](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [Pruebas: al imprimir un resumen de impresión, la miniatura de la imagen no se muestra](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [Pruebas: no se muestra la miniatura de la imagen del resumen de impresión](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Tareas: No se puede cambiar la [!UICONTROL Fecha planificada de finalización] de una tarea](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API: No se puede ordenar por campos dinámicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Problemas: La navegación de la izquierda muestra “(0)” problemas cuando hay problemas](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
@@ -143,7 +143,7 @@ ht-degree: 89%
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: módulo de suspensión que provoca que se cuelguen escenarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: El escenario falla con &quot;[!UICONTROL leer ECONNRESET]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
-      + [[!DNL Workfront Fusion]: No se puede introducir el valor en [!DNL Workfront] > [!UICONTROL Ver eventos] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
+      + [[!DNL Workfront Fusion]: no se puede introducir un valor en el filtro  [!DNL Workfront] > [!UICONTROL Ver eventos]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: error &quot;[!UICONTROL no se puede ejecutar ACTUALIZAR]&quot;](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: los correos electrónicos de notificaciones no se envían](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: las ejecuciones se bloquean o retrasan](known-issues-workfront-fusion/fusion-stuck-executions.md)

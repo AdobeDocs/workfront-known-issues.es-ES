@@ -70,7 +70,7 @@ _Tableros_
 
 Las etiquetas y los elementos de la lista de comprobación se han eliminado de la vista del tablero de los proyectos, ya que no forman parte de las tareas de Workfront y no se pueden compartir entre los usuarios.
 
-**&quot;[!UICONTROL Habilitar en todo el sistema]&quot; y &quot;[!UICONTROL Ver todo el sistema]&quot; representan funciones diferentes**
+**&quot;[!UICONTROL Habilitar en todo el sistema]” y “[!UICONTROL Ver en todo el sistema]” representan funcionalidades diferentes**
 
 _Filtros_
 
