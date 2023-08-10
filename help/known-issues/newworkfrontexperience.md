@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
-source-wordcount: '716'
-ht-degree: 82%
+source-wordcount: '695'
+ht-degree: 84%
 
 ---
 
@@ -46,11 +46,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
 | [Pruebas: &quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; configuración se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
 | [Proyectos: No se puede navegar al proyecto con una dirección URL que utilice [!UICONTROL ID de referencia]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 de agosto de 2023 |
-| [Proyectos: El proyecto anclado no muestra información en algunas columnas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4 de agosto de 2023 |
 | [Pruebas: mensaje “No hay imagen” al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 de agosto de 2023 |
 | [Pruebas: No se pueden ajustar las marcas de prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
 | [Pruebas: al crear una nueva versión de prueba, se eliminan todas las versiones de prueba](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 de agosto de 2023 |
-| [Inicio: No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 de agosto de 2023 |
 | [[!UICONTROL Inicio]: Los elementos no aparecen en la [!UICONTROL Lista de trabajos en Inicio]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 de julio de 2023 |
 | [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de marzo de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
