@@ -3,9 +3,9 @@ title: '“Pruebas: Las opciones de aprobación no aparecen en el visualizador d
 description: “Cuando un usuario intenta aprobar una prueba en el visualizador de revisión de escritorio, poco después de solicitarse la aprobación, las opciones de aprobación no están visibles y no puede. Aparecen varias horas después de solicitarse la aprobación”.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se ha cerrado porque no se ha podido reproducir.
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
 Cuando un usuario intenta aprobar una prueba en el [!UICONTROL Visualizador de revisión de escritorio], poco después de solicitar la aprobación, las opciones de aprobación no están visibles y no puede. Aparecen varias horas después de solicitarse la aprobación.
 
