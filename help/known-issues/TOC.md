@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '1127'
-ht-degree: 88%
+source-wordcount: '1147'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: Los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL Inicio]: &quot;[!UICONTROL Menciones]&quot; widget en nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Distribuidor de cargas de trabajo]: [!UICONTROL Total de horas] no coincide con la suma de [!UICONTROL Horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [Informes: Problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md)
