@@ -4,7 +4,7 @@ description: “Cuando un usuario está viendo un tablero e intenta desplazarse 
 feature: Agile
 hidefromtoc: true
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
