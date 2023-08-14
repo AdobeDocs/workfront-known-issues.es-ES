@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: El escenario falla con &quot;[!UICONTROL leer ECONNRESET]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 de agosto de 2023 |
+| [[!DNL Workfront Fusion]: el escenario falla y aparece un error de “[!UICONTROL lectura de ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 de agosto de 2023 |
 
 {style="table-layout:auto"}
 
