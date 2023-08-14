@@ -1,12 +1,12 @@
 ---
-title: "Pruebas: La prueba se muestra con la parte superior cortada"
-description: '"Cuando un usuario ve una prueba en el visor de pruebas, ve que la parte superior de la prueba parece estar cortada. Cuando el usuario descarga la prueba, ve la prueba completa sin nada cortado. ”'
+title: '“Pruebas: la prueba se muestra con la parte superior cortada”'
+description: “Cuando el usuario ve una prueba en el visualizador de revisión, la parte superior de la prueba aparece cortada. Cuando el usuario descarga la prueba, ve la prueba completa sin ningún corte. ”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 <!--WF and WFP TOCs-->
 
-Cuando un usuario ve una prueba en el visor de pruebas, ve que la parte superior de la prueba parece estar cortada. Cuando el usuario descarga la prueba, ve la prueba completa sin nada cortado.
+Cuando el usuario ve una prueba en el visualizador de revisión, la parte superior de la prueba aparece cortada. Cuando el usuario descarga la prueba, ve la prueba completa sin ningún corte.
 
 _Notificado por primera vez el 28 de julio de 2023._
 
