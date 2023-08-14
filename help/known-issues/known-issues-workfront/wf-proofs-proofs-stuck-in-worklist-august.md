@@ -1,21 +1,21 @@
 ---
-title: "Pruebas: la prueba aprobada permanece en la Lista de trabajos en Inicio del aprobador"
-description: '"Cuando un usuario aprueba una prueba, su aprobación permanece en la Lista de trabajoss en Inicio del usuario. Las pruebas aprobadas deben eliminarse automáticamente de la Lista de trabajos en Inicio".'
+title: '“Pruebas: la prueba aprobada permanece en la Lista de trabajos en Inicio del aprobador”'
+description: “Cuando el usuario aprueba una prueba, su aprobación permanece en la Lista de trabajos en Inicio del usuario. Las pruebas aprobadas deben eliminarse automáticamente de la Lista de trabajos en Inicio”.
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Pruebas: la prueba aprobada permanece en el equipo del aprobador [!UICONTROL Lista de trabajoss en Inicio]
+# Pruebas: la prueba aprobada permanece en la [!UICONTROL Lista de trabajos en Inicio] del aprobador
 
 <!--WF and WFP TOCs-->
 
-Cuando un usuario aprueba una prueba, su aprobación permanece en el [!UICONTROL Lista de trabajoss en Inicio]. Las pruebas aprobadas deben eliminarse automáticamente del [!UICONTROL Lista de trabajoss en Inicio].
+Cuando el usuario aprueba una prueba, su aprobación permanece en la [!UICONTROL Lista de trabajos en Inicio] del usuario. Las pruebas aprobadas deberían eliminarse automáticamente de la [!UICONTROL Lista de trabajos en Inicio].
 
 _Notificado por primera vez el 21 de julio de 2023._
 
