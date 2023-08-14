@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
 source-wordcount: '1147'
-ht-degree: 87%
+ht-degree: 94%
 
 ---
 
@@ -24,15 +24,15 @@ ht-degree: 87%
       + [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [Pruebas: &quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; configuración se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [Proyectos: No se puede navegar al proyecto con una dirección URL que utilice [!UICONTROL ID de referencia]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
-      + [Tableros: Problemas al cargar un tablero](known-issues-workfront/wf-boards-issues-with-loading.md)
-      + [Proyectos: El proyecto anclado no muestra información en algunas columnas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
-      + [Pruebas: No se pueden ajustar las marcas de prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md)
-      + [Pruebas: No se pueden generar las pruebas](known-issues-workfront/wf-proofs-fail-to-generate.md)
+      + [Tableros: problemas al cargar un tablero](known-issues-workfront/wf-boards-issues-with-loading.md)
+      + [Proyectos: el proyecto anclado no muestra información en algunas columnas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
+      + [Pruebas: no se pueden ajustar las marcas de la prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [Pruebas: al crear una nueva versión de prueba, se eliminan todas las versiones de prueba](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
-      + [Pruebas: la prueba aprobada permanece en el equipo del aprobador [!UICONTROL Lista de trabajoss en Inicio]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [Pruebas: la prueba aprobada permanece en la [!UICONTROL Lista de trabajos en Inicio] del aprobador ](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
       + [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
-      + [Inicio: No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-cannot-delete-todo.md)
-      + [Pruebas: No se puede seleccionar texto en listas o puntos de viñeta](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
+      + [Inicio: no se pueden eliminar elementos de [!UICONTROL Tareas pendientes] en la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [Pruebas: no se puede seleccionar texto en listas o viñetas](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Tareas / Problemas: el usuario asignado no recibe acceso al objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documentos: las aprobaciones de documentos no aparecen en el área de [!UICONTROL Aprobaciones]](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documentos: actualmente no se admiten archivos EPS](known-issues-workfront/wf-documents-not-supporting-eps.md)
@@ -148,8 +148,8 @@ ht-degree: 87%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: módulo de suspensión que provoca que se cuelguen escenarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
-      + [[!DNL Workfront Fusion]: El escenario falla con &quot;[!UICONTROL leer ECONNRESET]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
+      + [[!DNL Workfront Fusion]: el módulo de suspensión hace que se cuelguen los escenarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]: el escenario falla y aparece un error de “[!UICONTROL lectura de ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: no se puede introducir un valor en el filtro  [!DNL Workfront] > [!UICONTROL Ver eventos]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: error &quot;[!UICONTROL no se puede ejecutar ACTUALIZAR]&quot;](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: los correos electrónicos de notificaciones no se envían](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)

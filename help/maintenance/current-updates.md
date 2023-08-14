@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
 source-wordcount: '4657'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -28,45 +28,45 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 _Página de inicio_
 
-Cuando un usuario está en la nueva [!UICONTROL Inicio] La experiencia intenta eliminar un elemento de la [!UICONTROL Tareas pendientes] , el elemento no se elimina y aparece el siguiente error:
+Cuando el usuario intenta eliminar un elemento del widget [!UICONTROL Tareas pendientes] en la nueva experiencia de [!UICONTROL Inicio], no se elimina y aparece el siguiente error:
 
-&quot;[!UICONTROL Hubo un problema al eliminar su tarea, inténtelo de nuevo.]&quot;
+“[!UICONTROL Hubo un problema al eliminar su tarea, inténtelo de nuevo.]”
 
-Esto puede ocurrir cuando hay horas registradas en [!UICONTROL Tareas pendientes] elemento.
+Esto puede ocurrir cuando hay horas registradas en el elemento de [!UICONTROL Tareas pendientes].
 
 **El proyecto anclado no muestra información en algunas columnas**
 
 _Proyectos_
 
-Cuando un usuario navega a un proyecto anclado mediante el fijador, las listas de objetos (como la lista de tareas) pueden mostrar columnas en blanco. Por ejemplo, un [!UICONTROL Asignaciones] puede que no muestre ninguna asignación, aunque se hayan realizado asignaciones.
+Cuando el usuario navega a un proyecto anclado utilizando el pin, las listas de objetos (como la lista de tareas) pueden mostrar columnas en blanco. Por ejemplo, una columna [!UICONTROL Asignaciones] puede que no muestre ninguna asignación, aunque se hayan realizado.
 
-**Módulo de suspensión que provoca que se cuelguen escenarios**
+**el módulo de suspensión hace que se cuelguen los escenarios**
 
 _[!DNL Workfront Fusion]_
 
-El [!UICONTROL Herramientas] > [!UICONTROL Suspensión] en un escenario puede provocar el bloqueo de la ejecución de un escenario. Estas ejecuciones muestran el estado Ejecutando en [!UICONTROL Historial de escenarios]y no finalizan.
+El módulo [!UICONTROL Herramientas] > [!UICONTROL Suspensión] en un escenario puede hacer que se cuelgue la ejecución de un escenario. Estas ejecuciones muestran el estado En ejecución en el [!UICONTROL Historial del escenario] y no finalizan.
 
 +++
 
 +++**Actualización de mantenimiento del 3 de agosto de 2023**
 
-**Dificultad para localizar elementos en la columna de admisión**
+**Dificultad para localizar elementos en la columna de entrada**
 
 _Tableros_
 
-La columna de admisión de un tablero se ordenaba anteriormente por la prioridad definida en las tareas y problemas, lo que dificultaba la localización de elementos específicos.
+La columna de entrada de un tablero se ordenaba anteriormente por la prioridad definida en las tareas y problemas, lo que dificultaba la localización de elementos específicos.
 
 El orden predeterminado ahora es el siguiente:
 
 Tareas:
 
-* Pedido principal: Nombre del proyecto
-* Orden secundario: estructura de desglose de trabajo
+* Orden principal: nombre del proyecto
+* Orden secundario: estructura del desglose de trabajo
 
 Problemas
 
-* Pedido principal: Nombre del proyecto
-* Pedido secundario: Número de referencia
+* Orden principal: nombre del proyecto
+* Orden secundario: número de referencia
 
 **El proyecto no resuelve el problema correctamente**
 
@@ -74,11 +74,11 @@ _Proyectos/problemas_
 
 Cuando se cambia el estado de un proyecto que es el objeto de resolución de un problema, el estado del problema se cambia a un estado que no coincide con la misma clave que el estado del proyecto.
 
-**Error &quot;¡Uy!&quot; en los informes de la matriz**
+**Error “¡Uy!” en los informes de matriz**
 
 _Informes_
 
-Cuando un usuario intenta ver un informe de matriz, el informe no se carga y el usuario ve el siguiente error:
+Cuando un usuario intenta abrir una informe de matriz, el informe no se carga y el usuario ve el siguiente mensaje de error:
 
 “[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.]”
 
@@ -90,7 +90,7 @@ Se ha informado de este problema a los usuarios de EMEA.
 
 +++**Actualización de mantenimiento del 27 de julio de 2023**
 
-**Los elementos de etiquetas y listas de comprobación no funcionan correctamente en la vista del tablero del proyecto**
+**Las etiquetas y los elementos de la lista de comprobación no funcionan correctamente en la vista del tablero del proyecto**
 
 _Tableros_
 
