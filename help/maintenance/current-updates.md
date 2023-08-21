@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
 source-wordcount: '4799'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -28,13 +28,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 _Proyectos_
 
-Cuando un usuario intenta navegar a un proyecto mediante una dirección URL que incluye un [!UICONTROL ID de referencia] número, se redirigirán a una página con un mensaje de error. Navegación a una tarea mediante una URL con un [!UICONTROL ID de referencia] funciona según lo esperado.
+Cuando un usuario intenta navegar a un proyecto mediante una dirección URL que incluye un número [!UICONTROL ID de referencia], se le redirigirá a una página con un mensaje de error. La navegación a una tarea mediante una URL con un [!UICONTROL ID de referencia] funciona según lo esperado.
 
 **&quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; configuración se muestra de forma inexacta**
 
 _Pruebas_
 
-Cuando un usuario está viendo la configuración de prueba en [!DNL Workfront], el &quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; la casilla de verificación no muestra con precisión la configuración actual correcta. Cuando se marca la casilla, lo que indica que las notificaciones de prueba por correo electrónico están desactivadas, las notificaciones están activadas. Lo contrario también es cierto.
+Cuando un usuario está viendo la configuración de prueba en [!DNL Workfront], la casilla de verificación “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” no muestra con precisión la configuración actual correcta. Cuando se marca la casilla, lo que indica que las notificaciones de prueba por correo electrónico están desactivadas, las notificaciones están activadas. Lo contrario también es cierto.
 
 **No se pueden ajustar las marcas de revisión**
 
@@ -46,7 +46,7 @@ Cuando el usuario realiza un comentario en el visualizador de revisión, realiza
 
 +++**Actualización de mantenimiento el 10 de agosto de 2023**
 
-**No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia**
+**No se pueden eliminar elementos de [!UICONTROL Tareas pendientes] en la nueva experiencia de [!UICONTROL Inicio]**
 
 _Página de inicio_
 
