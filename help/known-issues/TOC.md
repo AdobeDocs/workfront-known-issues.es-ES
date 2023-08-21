@@ -3,9 +3,9 @@ user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1147'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Pruebas: Los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md)
-      + [[!UICONTROL Inicio]: &quot;[!UICONTROL Menciones]&quot; widget en nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [Pruebas: los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en la nueva página de [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Distribuidor de cargas de trabajo]: [!UICONTROL Total de horas] no coincide con la suma de [!UICONTROL Horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
-      + [Informes: Problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [Informes: problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [Pruebas: &quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; configuración se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
-      + [Proyectos: No se puede navegar al proyecto con una dirección URL que utilice [!UICONTROL ID de referencia]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
+      + [Pruebas: la configuración “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [Proyectos: No se puede navegar al proyecto con una dirección URL que utilice un [!UICONTROL ID de referencia]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Tableros: problemas al cargar un tablero](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Proyectos: el proyecto anclado no muestra información en algunas columnas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Pruebas: no se pueden ajustar las marcas de la prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md)
