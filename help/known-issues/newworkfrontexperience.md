@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '696'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: Los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 de agosto de 2023 |
-| [[!UICONTROL Inicio]: &quot;[!UICONTROL Menciones]&quot; widget en nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 de agosto de 2023 |
+| [Pruebas: los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 de agosto de 2023 |
+| [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en el nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 de agosto de 2023 |
 | [[!UICONTROL Distribuidor de cargas de trabajo]: [!UICONTROL Total de horas] no coincide con la suma de [!UICONTROL Horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 de agosto de 2023 |
-| [Informes: Problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 de agosto de 2023 |
+| [Informes: problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 de agosto de 2023 |
 | [Tableros: problemas al cargar un tablero](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 de agosto de 2023 |
 | [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 de agosto de 2023 |
 | [Tareas / Problemas: el usuario asignado no recibe acceso al objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 de julio de 2023 |
