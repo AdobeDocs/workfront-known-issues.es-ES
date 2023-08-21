@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1c3330160603619726529e903e917653bda64f93
+source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 98%
+source-wordcount: '1157'
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,6 @@ ht-degree: 98%
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [[!UICONTROL Planificador de recursos]: El planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md)
-      + [Pruebas: No se puede crear la prueba desde el PDF](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
       + [Pruebas: los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en la nueva página de [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Distribuidor de cargas de trabajo]: [!UICONTROL Total de horas] no coincide con la suma de [!UICONTROL Horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
