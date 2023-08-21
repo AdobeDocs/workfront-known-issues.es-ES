@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: Los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 de agosto de 2023 |
+| [Pruebas: los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 de agosto de 2023 |
 | [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 de agosto de 2023 |
 | [Documentos: las aprobaciones de documentos no aparecen en el área de [!UICONTROL Aprobaciones]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julio de 2023 |
 
@@ -42,7 +42,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 de agosto de 2023 |
 | [Pruebas: no se puede seleccionar texto en listas o viñetas](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 de agosto de 2023 |
 | [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
-| [Pruebas: &quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; configuración se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
+| [Pruebas: la configuración “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
 | [Pruebas: mensaje “No hay imagen” al hacer clic en la prueba](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 de agosto de 2023 |
 | [Pruebas: no se pueden ajustar las marcas de la prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
 
