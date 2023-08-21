@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '4657'
-ht-degree: 99%
+source-wordcount: '4799'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,29 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en agosto de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 10 de agosto de 2023**
++++**Actualización de mantenimiento el 17 de agosto de 2023**
+
+**No se puede navegar al proyecto con una dirección URL que utilice [!UICONTROL ID de referencia]**
+
+_Proyectos_
+
+Cuando un usuario intenta navegar a un proyecto mediante una dirección URL que incluye un [!UICONTROL ID de referencia] número, se redirigirán a una página con un mensaje de error. Navegación a una tarea mediante una URL con un [!UICONTROL ID de referencia] funciona según lo esperado.
+
+**&quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; configuración se muestra de forma inexacta**
+
+_Pruebas_
+
+Cuando un usuario está viendo la configuración de prueba en [!DNL Workfront], el &quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; la casilla de verificación no muestra con precisión la configuración actual correcta. Cuando se marca la casilla, lo que indica que las notificaciones de prueba por correo electrónico están desactivadas, las notificaciones están activadas. Lo contrario también es cierto.
+
+**No se pueden ajustar las marcas de revisión**
+
+_Pruebas_
+
+Cuando el usuario realiza un comentario en el visualizador de revisión, realiza una marca en la prueba y luego hace clic fuera, el usuario ya no puede ajustar la marca.
+
++++
+
++++**Actualización de mantenimiento el 10 de agosto de 2023**
 
 **No se puede eliminar [!UICONTROL Tareas pendientes] elemento en nuevo [!UICONTROL Inicio] experiencia**
 
