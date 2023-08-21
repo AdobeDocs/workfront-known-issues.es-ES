@@ -4,9 +4,9 @@ description: “Cuando el usuario intenta eliminar un elemento del widget Tareas
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Este problema se resolvió el 10 de agosto de 2023.
+>Este problema se corrigió el 10 de agosto de 2023.
 
 Cuando el usuario intenta eliminar un elemento del widget [!UICONTROL Tareas pendientes] en la nueva experiencia de [!UICONTROL Inicio], no se elimina y aparece el siguiente error:
 
