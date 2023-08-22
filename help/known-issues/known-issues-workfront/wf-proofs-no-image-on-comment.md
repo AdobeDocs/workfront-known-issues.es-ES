@@ -3,15 +3,19 @@ title: "Pruebas: mensaje No hay imagen al hacer clic en la prueba"
 description: "Cuando en el Visualizador de revisión de escritorio se hace clic en un comentario, la imagen asociada al comentario no se abre y se ve un mensaje."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 89%
 
 ---
 
 
 # Pruebas: mensaje &quot;No hay imagen&quot; al hacer clic en la prueba
+
+>[!NOTE]
+>
+>Este problema se corrigió el 4 de agosto de 2023. Es posible que las pruebas creadas antes de la corrección sigan experimentando el problema.
 
 Cuando en el Visualizador de revisión de escritorio se hace clic en un comentario, la imagen asociada al comentario no se abre y se ve el siguiente mensaje:
 

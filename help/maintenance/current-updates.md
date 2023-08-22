@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '4799'
+source-wordcount: '4918'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,22 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en agosto de 2023
+
++++**(Planificado) Actualización de mantenimiento el 24 de agosto de 2023**
+
+**No se puede seleccionar texto en listas o viñetas**
+
+_Pruebas_
+
+Cuando el usuario está viendo una prueba en el visualizador de revisión e intenta seleccionar texto que está en una lista o en una viñeta, la herramienta de selección de texto no funciona y el texto no se puede seleccionar.
+
+**Al crear una nueva versión de prueba, se eliminan todas las versiones de prueba**
+
+_Pruebas_
+
+Cuando un usuario crea una prueba a partir de un documento, se crea la prueba. Sin embargo, si el usuario crea otra versión de la prueba, se eliminan tanto la versión antigua como la nueva. Hay una opción [!UICONTROL Crear prueba] en el documento original, y las versiones de prueba se pueden encontrar en el área [!UICONTROL Papelera] del área [!UICONTROL Revisión] [!DNL Workfront].
+
++++
 
 +++**Actualización de mantenimiento el 17 de agosto de 2023**
 
