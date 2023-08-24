@@ -40,23 +40,23 @@ Cuando un usuario crea una prueba a partir de un documento, se crea la prueba. S
 
 +++**Actualización de mantenimiento el 17 de agosto de 2023**
 
-**No se puede navegar al proyecto con una dirección URL que utilice [!UICONTROL ID de referencia]**
+**No se puede navegar al proyecto con una URL que utilice un [!UICONTROL ID de referencia]**
 
 _Proyectos_
 
 Cuando un usuario intenta navegar a un proyecto mediante una dirección URL que incluye un número [!UICONTROL ID de referencia], se le redirigirá a una página con un mensaje de error. La navegación a una tarea mediante una URL con un [!UICONTROL ID de referencia] funciona según lo esperado.
 
-**&quot;[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]&quot; configuración se muestra de forma inexacta**
+**La configuración “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” se muestra de forma inexacta**
 
 _Pruebas_
 
 Cuando un usuario está viendo la configuración de prueba en [!DNL Workfront], la casilla de verificación “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” no muestra con precisión la configuración actual correcta. Cuando se marca la casilla, lo que indica que las notificaciones de prueba por correo electrónico están desactivadas, las notificaciones están activadas. Lo contrario también es cierto.
 
-**No se pueden ajustar las marcas de revisión**
+**No se pueden ajustar las marcas de la prueba**
 
 _Pruebas_
 
-Cuando el usuario realiza un comentario en el visualizador de revisión, realiza una marca en la prueba y luego hace clic fuera, el usuario ya no puede ajustar la marca.
+Cuando el usuario hace un comentario en el visualizador de revisión, realiza una marca en la prueba y luego hace clic fuera, el usuario ya no puede ajustar la marca.
 
 +++
 
