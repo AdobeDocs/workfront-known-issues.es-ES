@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 96%
+source-wordcount: '705'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Inicio]: los filtros no se aplican a los widgets del nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 23 de agosto de 2023 |
 | [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en el nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 de agosto de 2023 |
 | [Informes: problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 de agosto de 2023 |
 | [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 de agosto de 2023 |
@@ -46,10 +47,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [[!UICONTROL Planificador de recursos]: El planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 de agosto de 2023 |
 | [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 de agosto de 2023 |
 | [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 de agosto de 2023 |
-| [Pruebas: no se puede seleccionar texto en listas o viñetas](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 de agosto de 2023 |
 | [Documentos: las aprobaciones de documentos no aparecen en el área de [!UICONTROL Aprobaciones]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 de agosto de 2023 |
 | [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
-| [Pruebas: al crear una nueva versión de prueba, se eliminan todas las versiones de prueba](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 de agosto de 2023 |
 | [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de marzo de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 

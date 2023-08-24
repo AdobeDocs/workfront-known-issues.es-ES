@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '358'
 ht-degree: 98%
 
 ---
@@ -40,7 +40,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Pruebas: No se puede crear la prueba desde el PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 de agosto de 2023 |
 | [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 de agosto de 2023 |
 | [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 de agosto de 2023 |
-| [Pruebas: no se puede seleccionar texto en listas o viñetas](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 de agosto de 2023 |
 | [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
 | [Pruebas: la configuración “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
 | [Pruebas: no se pueden ajustar las marcas de la prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
