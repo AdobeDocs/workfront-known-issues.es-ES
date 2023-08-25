@@ -4,9 +4,9 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: '673'
 ht-degree: 94%
 
 ---
@@ -25,11 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Inicio]: los filtros no se aplican a los widgets del nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 23 de agosto de 2023 |
 | [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en el nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 de agosto de 2023 |
-| [Informes: problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 de agosto de 2023 |
-| [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 de agosto de 2023 |
-| [Tareas / Problemas: el usuario asignado no recibe acceso al objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 de julio de 2023 |
 
 {style="table-layout:auto"}
 
@@ -39,6 +35,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Inicio]: los filtros no se aplican a los widgets del nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25 de agosto de 2023 |
+| [Informes: problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 25 de agosto de 2023 |
 | [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL total de horas] no coincide con la suma de las [!UICONTROL horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 de agosto de 2023 |
 | [Pruebas: los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 23 de agosto de 2023 |
 | [Inicio: no se pueden eliminar elementos de [!UICONTROL Tareas pendientes] en la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 de agosto de 2023 |
@@ -49,7 +47,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 de agosto de 2023 |
 | [Documentos: las aprobaciones de documentos no aparecen en el área de [!UICONTROL Aprobaciones]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 de agosto de 2023 |
 | [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
-| [Proyectos: los estados personalizados del [!UICONTROL grupo de inicio] no están disponibles al crear un proyecto a partir de una plantilla](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de marzo de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
 {style="table-layout:auto"}
