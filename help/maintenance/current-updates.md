@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '5068'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,35 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en agosto de 2023
+
++++**(Planificado) Actualización de mantenimiento el 31 de agosto de 2023**
+
+**Los filtros no se aplican a los widgets del nuevo [!UICONTROL Inicio] experiencia**
+
+_[!UICONTROL Página de inicio]_
+
+Cuando un usuario aplica un filtro a un widget en el nuevo [!UICONTROL Inicio] en la experiencia, el widget muestra los elementos que el filtro debe excluir.
+
+Se ha informado de este problema en el entorno de espacio aislado personalizado. Los mismos widgets en los entornos de Previsualización y Producción filtran como se espera.
+
+**Problemas al cargar informes de matriz**
+
+_Informes_
+
+Cuando un usuario intenta cargar un informe de matriz como gráfico, puede producirse una de las siguientes situaciones:
+
+* Parte de la información del informe no se carga
+* El informe muestra el error “[!UICONTROL No se puede cargar contenido del servidor]”
+
+**El planificador no se carga cuando se aplica el filtro**
+
+_[!UICONTROL Planificador de recursos]_
+
+Cuando un usuario intenta cargar el [!UICONTROL Planificador de recursos], el planificador no se carga y el usuario ve el siguiente mensaje de error:
+
+&quot;[!UICONTROL Se produjo el siguiente error: Error al conectar con el servicio WorkPerDay]&quot;
+
++++
 
 +++**Actualización de mantenimiento el 24 de agosto de 2023**
 
