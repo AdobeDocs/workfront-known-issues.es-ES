@@ -4,9 +4,9 @@ description: "Cuando en el Visualizador de revisión de escritorio se hace clic 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
