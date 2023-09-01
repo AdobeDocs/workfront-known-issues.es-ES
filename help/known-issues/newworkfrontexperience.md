@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '673'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,14 +35,14 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Inicio]: los filtros no se aplican a los widgets del nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25 de agosto de 2023 |
+| [[!UICONTROL Inicio]: los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25 de agosto de 2023 |
 | [Informes: problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 25 de agosto de 2023 |
 | [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL total de horas] no coincide con la suma de las [!UICONTROL horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 de agosto de 2023 |
 | [Pruebas: los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 23 de agosto de 2023 |
 | [Inicio: no se pueden eliminar elementos de [!UICONTROL Tareas pendientes] en la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 de agosto de 2023 |
 | [Tableros: problemas al cargar un tablero](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 de agosto de 2023 |
-| [Pruebas: No se puede crear la prueba desde el PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 de agosto de 2023 |
-| [[!UICONTROL Planificador de recursos]: El planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 de agosto de 2023 |
+| [Pruebas: no se puede crear una prueba a partir de un PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 de agosto de 2023 |
+| [[!UICONTROL Planificador de recursos]: el planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 de agosto de 2023 |
 | [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 de agosto de 2023 |
 | [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 de agosto de 2023 |
 | [Documentos: las aprobaciones de documentos no aparecen en el área de [!UICONTROL Aprobaciones]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 de agosto de 2023 |
