@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5068'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,15 +24,15 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**(Planificado) Actualización de mantenimiento el 31 de agosto de 2023**
 
-**Los filtros no se aplican a los widgets del nuevo [!UICONTROL Inicio] experiencia**
+**Inicio: los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]**
 
 _[!UICONTROL Página de inicio]_
 
-Cuando un usuario aplica un filtro a un widget en el nuevo [!UICONTROL Inicio] en la experiencia, el widget muestra los elementos que el filtro debe excluir.
+Cuando se aplica un filtro a un widget en la nueva experiencia de [!UICONTROL Inicio], el widget muestra los elementos que el filtro debería haber excluido.
 
-Se ha informado de este problema en el entorno de espacio aislado personalizado. Los mismos widgets en los entornos de Previsualización y Producción filtran como se espera.
+Se ha informado de este problema en el entorno de zona protegida personalizado. Los mismos widgets en los entornos de vista previa y producción filtran como estaba previsto.
 
-**Problemas al cargar informes de matriz**
+**Informes: problemas al cargar informes de matriz**
 
 _Informes_
 
@@ -41,13 +41,13 @@ Cuando un usuario intenta cargar un informe de matriz como gráfico, puede produ
 * Parte de la información del informe no se carga
 * El informe muestra el error “[!UICONTROL No se puede cargar contenido del servidor]”
 
-**El planificador no se carga cuando se aplica el filtro**
+**Planificador de recursos: el planificador no se carga cuando se aplica el filtro**
 
 _[!UICONTROL Planificador de recursos]_
 
-Cuando un usuario intenta cargar el [!UICONTROL Planificador de recursos], el planificador no se carga y el usuario ve el siguiente mensaje de error:
+Cuando se intenta cargar el [!UICONTROL Planificador de recursos], el planificador no se carga y se ve el siguiente mensaje de error:
 
-&quot;[!UICONTROL Se produjo el siguiente error: Error al conectar con el servicio WorkPerDay]&quot;
+“[!UICONTROL Se produjo el siguiente error: Error al conectar con el servicio WorkPerDay]“
 
 +++
 
@@ -57,7 +57,7 @@ Cuando un usuario intenta cargar el [!UICONTROL Planificador de recursos], el pl
 
 _Pruebas_
 
-Cuando el usuario está viendo una prueba en el visualizador de revisión e intenta seleccionar texto que está en una lista o en una viñeta, la herramienta de selección de texto no funciona y el texto no se puede seleccionar.
+Cuando se ve una prueba en el visualizador de revisión y se intenta seleccionar texto que está en una lista o en una viñeta, la herramienta de selección de texto no funciona y el texto no se puede seleccionar.
 
 **Al crear una nueva versión de prueba, se eliminan todas las versiones de prueba**
 
