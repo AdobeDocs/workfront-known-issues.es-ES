@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: ht
-source-wordcount: '1183'
-ht-degree: 100%
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+workflow-type: tm+mt
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Inicio]: Nuevo [!UICONTROL Inicio] la vista previa del widget no muestra el nombre correcto del objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Inicio]: [!UICONTROL Solicitudes] el widget no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Formularios personalizados: no se puede eliminar el campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Inicio]: La funcionalidad de búsqueda no funciona en la versión heredada [!UICONTROL Lista de trabajoss en Inicio]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Pruebas: El formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Proyectos: El proyecto está en blanco cuando se carga desde el nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Inicio]: los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes](known-issues-workfront/wf-layout-templates-classic.md)
       + [Pruebas: no se puede crear una prueba a partir de un PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

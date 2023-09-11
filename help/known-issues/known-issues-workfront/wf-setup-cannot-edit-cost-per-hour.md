@@ -3,9 +3,9 @@ title: "Configuración: no se puede editar Coste/Hora o Facturación/Hora de la 
 description: "Cuando está editando una función e intenta editar los campos Coste/Hora o Facturación/Hora, los campos están en blanco y no se pueden editar."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
+>Este problema se corrigió el 24 de agosto de 2023
 
 Cuando está editando una función e intenta editar los campos Coste/Hora o Facturación/Hora, los campos están en blanco y no se pueden editar.
 

@@ -3,8 +3,8 @@ title: "Agile: El tablero Kanban se queda en blanco al editar tarjetas"
 description: "Cuando un usuario cambia algo acerca de una tarjeta en el tablero [!UICONTROL Kanban], el tablero [!UICONTROL Kanban] se queda en blanco en lugar de actualizarse con el cambio. Si el usuario actualiza la página manualmente, el tablero [!UICONTROL Kanban] vuelve, y muestra el cambio correcto."
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
+source-git-commit: ec999273c30f4d0fad244f1977a50af1e68b5638
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -29,4 +29,7 @@ Se ha informado de esto en las siguientes circunstancias:
 Actualice la página.
 
 _Informado por primera vez el 14 de mayo de 2023._
+
+
+
 

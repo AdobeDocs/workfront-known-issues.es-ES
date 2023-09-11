@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: ht
-source-wordcount: '673'
-ht-degree: 100%
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+workflow-type: tm+mt
+source-wordcount: '648'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,10 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Inicio]: [!UICONTROL Solicitudes] el widget no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 de septiembre de 2023 |
+| [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1 de septiembre de 2023 |
+| [Pruebas: El formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1 de septiembre de 2023 |
+| [Proyectos: El proyecto está en blanco cuando se carga desde el nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 de septiembre de 2023 |
 | [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en el nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 de agosto de 2023 |
 
 {style="table-layout:auto"}
@@ -35,18 +39,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Inicio]: los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25 de agosto de 2023 |
-| [Informes: problemas al cargar informes de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 25 de agosto de 2023 |
+| [[!UICONTROL Planificador de recursos]: el planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 de septiembre de 2023 |
+| [Formularios personalizados: no se puede eliminar el campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 de septiembre de 2023 |
 | [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL total de horas] no coincide con la suma de las [!UICONTROL horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 de agosto de 2023 |
-| [Pruebas: los colores de prueba se muestran incorrectamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 23 de agosto de 2023 |
-| [Inicio: no se pueden eliminar elementos de [!UICONTROL Tareas pendientes] en la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 de agosto de 2023 |
 | [Tableros: problemas al cargar un tablero](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 de agosto de 2023 |
-| [Pruebas: no se puede crear una prueba a partir de un PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 de agosto de 2023 |
-| [[!UICONTROL Planificador de recursos]: el planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 de agosto de 2023 |
-| [Pruebas: la prueba se muestra con la parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 de agosto de 2023 |
-| [Pruebas: las pruebas no se generan](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 de agosto de 2023 |
-| [Documentos: las aprobaciones de documentos no aparecen en el área de [!UICONTROL Aprobaciones]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 de agosto de 2023 |
-| [Pruebas: superponer texto en una prueba](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
 {style="table-layout:auto"}
@@ -57,10 +53,10 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Inicio]: Nuevo [!UICONTROL Inicio] la vista previa del widget no muestra el nombre correcto del objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 de septiembre de 2023 |
 | [Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes](known-issues-workfront/wf-layout-templates-classic.md) | 21 de agosto de 2023 |
 | [Pruebas: Las opciones de aprobación no aparecen en el [!UICONTROL Visualizador de revisión]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 de agosto de 2023 |
 | [Pruebas: las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |
-| [Configuración: no se puede editar Coste/Hora o Facturación/Hora de la función](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 de julio de 2023 |
 | [[!UICONTROL Configuración]: no se pueden exportar los registros de auditoría](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 de julio de 2023 |
 | [Integraciones de documentos: no se pueden ver todas las carpetas en [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 de julio de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
