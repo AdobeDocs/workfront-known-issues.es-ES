@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
-workflow-type: ht
-source-wordcount: '5068'
-ht-degree: 100%
+source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
+workflow-type: tm+mt
+source-wordcount: '5189'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,35 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
+## Actualizaciones en septiembre de 2023
+
++++**Actualización de mantenimiento del 11 de septiembre de 2023**&#39;
+
+**Las tareas personales no se muestran en las plantillas de horas**
+
+_Plantillas de horas_
+
+Las tareas personales ya no se muestran en la plantilla de horas de forma predeterminada. Las tareas personales se muestran en la hoja de horas cuando están ancladas o cuando se han registrado horas. Antes de este cambio, las tareas personales se mostraban en las plantillas de horas de forma predeterminada.
+
++++
+
++++**Actualización de mantenimiento del 7 de septiembre de 2023**
+
+**El proyecto está en blanco cuando se carga desde el nuevo [!UICONTROL Inicio] experiencia**
+
+_Proyectos_
+
+Cuando un usuario hace clic en un proyecto desde su [!UICONTROL Inicio] en la nueva experiencia de Inicio, la página del proyecto no se puede cargar.
+
+Esto ocurre cuando el usuario ha iniciado sesión como otro usuario y luego ha cerrado la sesión como el otro usuario y ha vuelto a la suya propia [!UICONTROL Inicio] página.
+
++++
+
+**Inicio: los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]**
+
 ## Actualizaciones en agosto de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 31 de agosto de 2023**
++++**Actualización de mantenimiento del 31 de agosto de 2023**
 
 **Inicio: los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]**
 
