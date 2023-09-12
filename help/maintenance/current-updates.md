@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '5189'
-ht-degree: 98%
+source-wordcount: '5290'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,28 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en septiembre de 2023
+
++++**(Planificado) Actualización de mantenimiento el 14 de septiembre de 2023**
+
+**&quot;[!UICONTROL No hay fábrica]Error &quot; al añadir un documento**
+
+_Documentos_
+
+Cuando un usuario intenta agregar un documento desde un origen externo, [!DNL Workfront] no puede acceder al origen y aparece el siguiente error:
+
+&quot;[!UICONTROL Se produjo el siguiente error: No se encontró ningún generador para el tipo de autenticación nulo]&quot;
+
+**Error “¡Uy!” en los informes de matriz**
+
+_Informes_
+
+Cuando un usuario intenta abrir una informe de matriz, el informe no se carga y el usuario ve el siguiente mensaje de error:
+
+“[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.]”
+
+Esto ocurre al agrupar un informe por intervalos de fechas.
+
++++
 
 +++**Actualización de mantenimiento del 11 de septiembre de 2023**
 
