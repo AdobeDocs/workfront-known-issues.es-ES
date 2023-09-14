@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
+source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 95%
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1 de septiembre de 2023 |
-| [Pruebas: El formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1 de septiembre de 2023 |
+| Ninguno |  |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 de septiembre de 2023 |
+| [Pruebas: El formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 de septiembre de 2023 |
 | [Pruebas: la configuración “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
 | [Pruebas: no se pueden ajustar las marcas de la prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
 

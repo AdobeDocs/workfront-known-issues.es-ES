@@ -4,7 +4,7 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
 workflow-type: tm+mt
 source-wordcount: '648'
 ht-degree: 91%
@@ -26,8 +26,6 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Inicio]: [!UICONTROL Solicitudes] el widget no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 de septiembre de 2023 |
-| [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1 de septiembre de 2023 |
-| [Pruebas: El formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1 de septiembre de 2023 |
 | [Proyectos: El proyecto está en blanco cuando se carga desde el nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 de septiembre de 2023 |
 | [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en el nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 de agosto de 2023 |
 
@@ -39,6 +37,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 de septiembre de 2023 |
+| [Pruebas: El formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 de septiembre de 2023 |
 | [[!UICONTROL Planificador de recursos]: el planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 de septiembre de 2023 |
 | [Formularios personalizados: no se puede eliminar el campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 de septiembre de 2023 |
 | [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL total de horas] no coincide con la suma de las [!UICONTROL horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 de agosto de 2023 |
