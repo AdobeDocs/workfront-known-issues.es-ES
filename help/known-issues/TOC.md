@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '1242'
-ht-degree: 95%
+source-wordcount: '1297'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: No se puede mover el documento a una carpeta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
+      + [Pruebas: Las pruebas aparecen desaturadas o recortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [Actualizaciones: Los comentarios realizados en la nueva experiencia de comentarios no son visibles en la experiencia heredada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [Actualizaciones: el comentario se muestra como enviado por el usuario incorrecto](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [Tableros: No se puede asignar un usuario en un tablero de un flujo de trabajo](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [Filtros: Botones etiquetados como &quot;[!UICONTROL OBSOLETO]&quot; al compartir un filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
       + [[!UICONTROL Inicio]: Nuevo [!UICONTROL Inicio] la vista previa del widget no muestra el nombre correcto del objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Inicio]: [!UICONTROL Solicitudes] el widget no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Formularios personalizados: no se puede eliminar el campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
