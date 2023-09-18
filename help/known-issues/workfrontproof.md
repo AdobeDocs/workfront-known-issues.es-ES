@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 92%
+source-wordcount: '352'
+ht-degree: 90%
 
 ---
 
@@ -35,6 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: Las pruebas tardan demasiado en generarse](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 de septiembre de 2023 |
 | [Documentos: No se puede mover el documento a una carpeta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 de septiembre de 2023 |
 | [Pruebas: Las pruebas aparecen desaturadas o recortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 de septiembre de 2023 |
 | [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 de septiembre de 2023 |

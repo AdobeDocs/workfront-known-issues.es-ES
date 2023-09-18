@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 84%
+source-wordcount: '726'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: Las tarjetas sin título se muestran y aparecen en el registro de pendientes](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 15 de septiembre de 2023 |
 | [Filtros: Botones etiquetados como &quot;[!UICONTROL OBSOLETO]&quot; al compartir un filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 de septiembre de 2023 |
 | [[!UICONTROL Inicio]: [!UICONTROL Solicitudes] el widget no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 de septiembre de 2023 |
 | [Proyectos: El proyecto está en blanco cuando se carga desde el nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 de septiembre de 2023 |
@@ -38,6 +39,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: Las pruebas tardan demasiado en generarse](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 de septiembre de 2023 |
 | [Documentos: No se puede mover el documento a una carpeta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 de septiembre de 2023 |
 | [Pruebas: Las pruebas aparecen desaturadas o recortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 de septiembre de 2023 |
 | [Actualizaciones: Los comentarios realizados en la nueva experiencia de comentarios no son visibles en la experiencia heredada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 de septiembre de 2023 |

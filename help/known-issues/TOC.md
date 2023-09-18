@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '1297'
-ht-degree: 91%
+source-wordcount: '1312'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: Las tarjetas sin título se muestran y aparecen en el registro de pendientes](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
+      + [Pruebas: Las pruebas tardan demasiado en generarse](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
       + [Documentos: No se puede mover el documento a una carpeta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
       + [Pruebas: Las pruebas aparecen desaturadas o recortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
       + [Actualizaciones: Los comentarios realizados en la nueva experiencia de comentarios no son visibles en la experiencia heredada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
