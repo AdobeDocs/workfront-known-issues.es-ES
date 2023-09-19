@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
+source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
-source-wordcount: '5289'
-ht-degree: 97%
+source-wordcount: '5601'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,63 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en septiembre de 2023
+
++++**(Planificado) Actualización de mantenimiento el 21 de septiembre de 2023**
+
+**No se puede asignar un usuario en un tablero de un flujo de trabajo**
+
+_Tableros_
+
+Cuando un usuario intenta asignar otro usuario a una tarea desde un panel que forma parte de un flujo de trabajo y comienza a escribir el nombre del usuario, este no aparece en la lista desplegable de usuarios disponibles. Esto ocurre incluso cuando el usuario está activo y es miembro tanto del tablero como del flujo de trabajo.
+
+El usuario también puede observar que los usuarios desactivados aparecen en la lista desplegable.
+
+**Los formularios personalizados se cargan lentamente**
+
+_Formularios personalizados_
+
+Cuando un usuario intenta cargar un formulario personalizado, este se carga lentamente.
+
+**No se puede mover el documento a otra carpeta**
+
+_Documentos_
+
+Cuando un usuario mueve un documento a una carpeta de objetos, no puede mover el objeto a otra carpeta.
+
+**Error de XML al descargar**
+
+_Documentos_
+
+Cuando se intenta descargar un documento, este no se descarga y se ve una página con el siguiente mensaje seguido de texto XML.
+
+&quot;[!UICONTROL Parece ser que el archivo XML no tiene asociada ninguna información de estilo. El árbol de documentos se encuentra a continuación.]&quot;
+
+**No se pueden descargar documentos desde entornos de vista previa o de espacio aislado**
+
+_Documentos_
+
+Cuando un usuario intenta descargar un documento desde un entorno que no sea de producción, el documento no se descarga y el usuario ve el siguiente error:
+
+“[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo.]”
+
+**Las pruebas aparecen desaturadas o recortadas**
+
+_Pruebas_
+
+Se han notificado los siguientes problemas al crear una prueba a partir de una dirección URL.
+
+* La prueba aparece desaturada o desvanecida.
+* La prueba se recorta.
+
+Esto puede dificultar las decisiones sobre las pruebas, ya que estas no se representan con precisión.
+
+**Las pruebas tardan demasiado en generarse**
+
+_Pruebas_
+
+Cuando un usuario intenta generar una prueba, esta tarda demasiado en generarse. La generación de pruebas puede tardar varios días.
+
++++
 
 +++**Actualización de mantenimiento del 14 de septiembre de 2023**
 
