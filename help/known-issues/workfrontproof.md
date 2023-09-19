@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 90%
+source-wordcount: '368'
+ht-degree: 86%
 
 ---
 
@@ -51,6 +51,8 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Proof: Los datos del panel no siempre son precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 de septiembre de 2023 |
+| [Workfront Proof: los datos de búsqueda no siempre son precisos](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 de septiembre de 2023 |
 | [Pruebas: las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 de junio de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
