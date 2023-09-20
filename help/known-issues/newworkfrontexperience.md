@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
-source-wordcount: '738'
-ht-degree: 81%
+source-wordcount: '744'
+ht-degree: 80%
 
 ---
 
@@ -40,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: faltan elementos en la página de objeto](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 de septiembre de 2023 |
 | [Pruebas: Las pruebas tardan demasiado en generarse](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 de septiembre de 2023 |
 | [Documentos: No se puede mover el documento a una carpeta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 de septiembre de 2023 |
 | [Pruebas: Las pruebas aparecen desaturadas o recortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 de septiembre de 2023 |
