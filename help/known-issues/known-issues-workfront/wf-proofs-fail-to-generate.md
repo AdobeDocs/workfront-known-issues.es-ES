@@ -4,7 +4,7 @@ description: “Cuando el usuario intenta crear una prueba a partir de un docume
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 

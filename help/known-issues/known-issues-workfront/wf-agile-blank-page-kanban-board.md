@@ -4,7 +4,7 @@ description: "Cuando un usuario cambia algo acerca de una tarjeta en el tablero 
 feature: Agile
 hidefromtoc: true
 source-git-commit: ec999273c30f4d0fad244f1977a50af1e68b5638
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
