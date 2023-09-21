@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '337'
 ht-degree: 92%
 
 ---
@@ -25,7 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prueba: comentario adicional en blanco al realizar un comentario en una prueba](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 de septiembre de 2023 |
+| Ninguno |  |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: el formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 de septiembre de 2023 |
+| [Prueba: comentario adicional en blanco al realizar un comentario en una prueba](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 de septiembre de 2023 |
 | [Pruebas: la configuración “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” se muestra de forma inexacta](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
 | [Pruebas: no se pueden ajustar las marcas de la prueba](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
 
