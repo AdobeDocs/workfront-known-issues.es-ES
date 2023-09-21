@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '744'
-ht-degree: 80%
+ht-degree: 88%
 
 ---
 
@@ -28,8 +28,8 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 | [Prueba: comentario adicional en blanco al realizar un comentario en una prueba](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 de septiembre de 2023 |
 | [Tableros: Las tarjetas sin título se muestran y aparecen en el registro de pendientes](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 15 de septiembre de 2023 |
 | [Filtros: Botones etiquetados como &quot;[!UICONTROL OBSOLETO]&quot; al compartir un filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 de septiembre de 2023 |
-| [[!UICONTROL Inicio]: [!UICONTROL Solicitudes] el widget no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 de septiembre de 2023 |
-| [Proyectos: El proyecto está en blanco cuando se carga desde el nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 de septiembre de 2023 |
+| [[!UICONTROL Inicio]: el widget [!UICONTROL Solicitudes] no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 de septiembre de 2023 |
+| [Proyectos: el proyecto está en blanco cuando se carga desde la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 de septiembre de 2023 |
 | [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en el nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 de agosto de 2023 |
 
 {style="table-layout:auto"}
@@ -48,7 +48,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Tableros: No se puede asignar un usuario en un tablero de un flujo de trabajo](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15 de septiembre de 2023 |
 | [Actualizaciones: el comentario se muestra como enviado por el usuario incorrecto](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 de septiembre de 2023 |
 | [Documentos: error de XML al descargar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 de septiembre de 2023 |
-| [Pruebas: El formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 de septiembre de 2023 |
+| [Pruebas: el formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 de septiembre de 2023 |
 | [[!UICONTROL Planificador de recursos]: el planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 de septiembre de 2023 |
 | [Formularios personalizados: no se puede eliminar el campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 de septiembre de 2023 |
 | [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL total de horas] no coincide con la suma de las [!UICONTROL horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 de agosto de 2023 |
@@ -63,7 +63,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Inicio]: Nuevo [!UICONTROL Inicio] la vista previa del widget no muestra el nombre correcto del objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 de septiembre de 2023 |
+| [[!UICONTROL Inicio]: la vista previa del nuevo widget [!UICONTROL Inicio] no muestra el nombre correcto del objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 de septiembre de 2023 |
 | [Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes](known-issues-workfront/wf-layout-templates-classic.md) | 21 de agosto de 2023 |
 | [Pruebas: Las opciones de aprobación no aparecen en el [!UICONTROL Visualizador de revisión]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 de agosto de 2023 |
 | [Pruebas: las pruebas no se muestran en los informes como aprobados](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |

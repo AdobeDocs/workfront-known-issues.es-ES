@@ -5,7 +5,7 @@ role: User
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '1342'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 88%
       + [Actualizaciones: el comentario se muestra como enviado por el usuario incorrecto](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
       + [Tableros: No se puede asignar un usuario en un tablero de un flujo de trabajo](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
       + [Filtros: Botones etiquetados como &quot;[!UICONTROL OBSOLETO]&quot; al compartir un filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
-      + [[!UICONTROL Inicio]: Nuevo [!UICONTROL Inicio] la vista previa del widget no muestra el nombre correcto del objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL Inicio]: [!UICONTROL Solicitudes] el widget no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL Inicio]: la nueva vista previa del widget de [!UICONTROL Inicio] no muestra el nombre correcto del objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Inicio]: el widget [!UICONTROL Solicitudes] no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Formularios personalizados: no se puede eliminar el campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
-      + [[!UICONTROL Inicio]: La funcionalidad de búsqueda no funciona en la versión heredada [!UICONTROL Lista de trabajoss en Inicio]](known-issues-workfront/wf-home-search-not-working-legacy.md)
-      + [Pruebas: El formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
-      + [Proyectos: El proyecto está en blanco cuando se carga desde el nuevo [!UICONTROL Inicio] experiencia](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [[!UICONTROL Inicio]: la funcionalidad de Búsqueda no funciona en la [!UICONTROL Lista de trabajos de Inicio] heredada](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Pruebas: el formato del texto en la prueba estática no coincide con el formato del sitio web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Proyectos: el proyecto está en blanco cuando se carga desde la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Inicio]: los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes](known-issues-workfront/wf-layout-templates-classic.md)
       + [Pruebas: no se puede crear una prueba a partir de un PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

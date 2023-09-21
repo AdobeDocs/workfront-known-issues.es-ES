@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
 source-wordcount: '5601'
-ht-degree: 93%
+ht-degree: 94%
 
 ---
 
@@ -113,13 +113,13 @@ Las tareas personales ya no se muestran en la plantilla de horas de forma predet
 
 +++**Actualización de mantenimiento del 7 de septiembre de 2023**
 
-**El proyecto está en blanco cuando se carga desde el nuevo [!UICONTROL Inicio] experiencia**
+**El proyecto está en blanco cuando se carga desde la nueva experiencia de [!UICONTROL Inicio]**
 
 _Proyectos_
 
-Cuando un usuario hace clic en un proyecto desde su [!UICONTROL Inicio] en la nueva experiencia de Inicio, la página del proyecto no se puede cargar.
+Cuando un usuario hace clic en un proyecto desde su página de [!UICONTROL Inicio] en la nueva experiencia de Inicio, la página del proyecto no se puede cargar.
 
-Esto ocurre cuando el usuario ha iniciado sesión como otro usuario y luego ha cerrado la sesión como el otro usuario y ha vuelto a la suya propia [!UICONTROL Inicio] página.
+Esto ocurre cuando el usuario ha iniciado sesión como otro usuario y luego ha cerrado la sesión como el otro usuario y ha vuelto a su propia página de [!UICONTROL Inicio].
 
 +++
 
