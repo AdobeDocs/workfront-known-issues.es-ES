@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5631'
-ht-degree: 93%
+source-wordcount: '5776'
+ht-degree: 91%
 
 ---
 
@@ -21,6 +21,32 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en septiembre de 2023
+
++++**(Planificado) Actualización de mantenimiento el 28 de septiembre de 2023**
+
+**No se puede eliminar el campo personalizado**
+
+_Formularios personalizados_
+
+Cuando un usuario intenta eliminar un campo personalizado, no puede eliminarlo y ve el mensaje &quot;[!UICONTROL Error de base de datos debido a infracción de restricción].&quot;
+
+**Los comentarios realizados en la nueva experiencia de comentarios no son visibles en la experiencia heredada**
+
+_Actualizaciones_
+
+Cuando un usuario hace un comentario en la nueva experiencia de comentario y ese comentario aparece en el área de Comentarios de la nueva experiencia, es posible que el mismo comentario no aparezca en la experiencia de comentario heredada. Esto puede hacer que los usuarios que utilicen la experiencia heredada no reciban comentarios.
+
+**Faltan elementos en la página de objeto**
+
+_Workfront_
+
+Cuando un usuario navega a una sección personalizada sobre un objeto en [!DNL Workfront], es posible que a la página que se carga le falten algunos elementos. Estos elementos pueden incluir:
+
+* El panel de navegación izquierdo
+* Nombre del objeto al que pertenece la sección personalizada
+* Campos e información en el encabezado
+
++++
 
 +++**Actualización de mantenimiento del 21 de septiembre de 2023**
 
