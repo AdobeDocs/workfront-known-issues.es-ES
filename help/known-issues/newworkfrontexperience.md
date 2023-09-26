@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 95%
+source-wordcount: '644'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: La barra de desplazamiento horizontal no está presente](known-issues-workfront/wf-board-no-scrollbar.md) | 26 de septiembre de 2023 |
 | [[!UICONTROL Inicio]: el widget [!UICONTROL Solicitudes] no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 de septiembre de 2023 |
 
 {style="table-layout:auto"}
@@ -35,6 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Distribuidor de cargas de trabajo: el usuario se muestra como sobreasignado debido a una capacidad inexacta](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 de septiembre de 2023 |
 | [Prueba: comentario adicional en blanco al realizar un comentario en una prueba](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 de septiembre de 2023 |
 | [[!DNL Workfront]: faltan elementos en la página de objeto](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 de septiembre de 2023 |
 | [Actualizaciones: Los comentarios realizados en la nueva experiencia de comentarios no son visibles en la experiencia heredada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 de septiembre de 2023 |
