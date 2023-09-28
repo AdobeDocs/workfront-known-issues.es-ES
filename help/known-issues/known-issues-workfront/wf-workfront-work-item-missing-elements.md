@@ -3,15 +3,19 @@ title: "[!DNL Workfront]: falta elementos en la página de objeto"
 description: "Cuando un usuario navega a una sección personalizada sobre un objeto en [!DNL Workfront], es posible que a la página que se carga le falten algunos elementos."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 402424b48ce4de8c6907803ede4c60fcf1014e53
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 13%
+source-wordcount: '101'
+ht-degree: 18%
 
 ---
 
 
 # [!DNL Workfront]: faltan elementos en la página de objeto
+
+>[!NOTE]
+>
+>Este problema se corrigió el 28 de septiembre de 2023.
 
 Cuando un usuario navega a una sección personalizada sobre un objeto en [!DNL Workfront], es posible que a la página que se carga le falten algunos elementos. Estos elementos pueden incluir:
 
