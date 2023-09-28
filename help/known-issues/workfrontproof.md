@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 92%
+source-wordcount: '338'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| Ninguno |  |
+| [Integraciones de documentos: Error al arrastrar un recurso a una carpeta en una integración de Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 de septiembre de 2023 |
 
 {style="table-layout:auto"}
 
