@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 89%
+source-wordcount: '1402'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: las tarjetas no muestran el recuento correcto de elementos de la lista de comprobación](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [Notificaciones: No se envían correos electrónicos de recordatorio automático](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Integraciones de documentos: Error al arrastrar un recurso a una carpeta en una integración de Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [Usuarios: mensaje de error que se muestra incorrectamente al recordar al usuario que debe registrarse](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
