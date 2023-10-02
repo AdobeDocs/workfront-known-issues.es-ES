@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 89%
+source-wordcount: '686'
+ht-degree: 88%
 
 ---
 
@@ -40,6 +40,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: El tablero se carga lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2 de octubre de 2023 |
+| [Tableros: No se pueden mover las tarjetas](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2 de octubre de 2023 |
 | [Usuarios: mensaje de error que se muestra incorrectamente al recordar al usuario que debe registrarse](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 de septiembre de 2023 |
 | [[!UICONTROL Planificador de recursos]: el planificador no se carga cuando se aplica el filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 de septiembre de 2023 |
 | [Distribuidor de cargas de trabajo: el usuario se muestra como sobreasignado debido a una capacidad inexacta](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 de septiembre de 2023 |

@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1410'
 ht-degree: 88%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: El tablero se carga lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [Tableros: No se pueden mover las tarjetas](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Tableros: las tarjetas no muestran el recuento correcto de elementos de la lista de comprobación](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [Notificaciones: No se envían correos electrónicos de recordatorio automático](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Integraciones de documentos: Error al arrastrar un recurso a una carpeta en una integración de Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
