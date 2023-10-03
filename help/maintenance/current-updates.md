@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5802'
+source-wordcount: '5791'
 ht-degree: 91%
 
 ---
@@ -163,11 +163,9 @@ _Proyectos_
 
 Cuando un usuario hace clic en un proyecto desde su página de [!UICONTROL Inicio] en la nueva experiencia de Inicio, la página del proyecto no se puede cargar.
 
-Esto ocurre cuando el usuario ha iniciado sesión como otro usuario y luego ha cerrado la sesión como el otro usuario y ha vuelto a su propia página de [!UICONTROL Inicio].
+Esto ocurre cuando el usuario ha iniciado sesión como otro usuario y luego ha cerrado la sesión como el otro usuario y ha vuelto a su página de [!UICONTROL Inicio] propia.
 
 +++
-
-**Inicio: los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]**
 
 ## Actualizaciones en agosto de 2023
 
