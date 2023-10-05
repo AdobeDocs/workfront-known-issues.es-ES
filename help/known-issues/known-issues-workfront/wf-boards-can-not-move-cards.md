@@ -1,17 +1,21 @@
 ---
 title: "Tableros: No se pueden mover las tarjetas"
-description: '"Cuando un usuario intenta mover una tarjeta en un tablero, la tarjeta no se mueve".'
+description: Cuando un usuario intenta mover una tarjeta en un tablero, la tarjeta no se mueve.
 hidefromtoc: true
 feature: Agile
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+exl-id: cfdd7d96-7861-4671-af02-028dfb0a90a4
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
-
 # Tableros: No se pueden mover las tarjetas
+
+>[!NOTE]
+>
+>Este problema se corrigió el 5 de octubre de 2023.
 
 Cuando un usuario intenta mover una tarjeta en un tablero, la tarjeta no se mueve. Esto ocurre en las siguientes circunstancias:
 

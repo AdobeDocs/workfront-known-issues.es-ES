@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '5791'
-ht-degree: 91%
+source-wordcount: '5929'
+ht-degree: 89%
 
 ---
 
@@ -22,7 +22,37 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en octubre de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 5 de octubre de 2023**
++++**Actualización de mantenimiento del 5 de octubre de 2023**
+
+**El tablero se carga lentamente**
+
+_Tableros_
+
+Cuando un usuario carga un tablero, este se carga muy lentamente. Esto puede ocurrir aunque el tablero tenga un número pequeño de tarjetas.
+
+Las tarjetas archivadas, incluso si no se muestran, afectaban al tiempo de carga del tablero.
+
+**No se pueden mover tarjetas entre columnas**
+
+_Tableros_
+
+Cuando un usuario intenta mover una tarjeta en un tablero, la tarjeta no se mueve. Esto ocurre en las siguientes circunstancias:
+
+* Arrastrar y soltar
+* Opción Mover en la tarjeta
+* Edición de la tarjeta
+
+**No se pueden mover las tarjetas fuera de la columna de entrada**
+
+_Tableros_
+
+El usuario puede arrastrar una tarjeta de la columna de entrada a otra columna del tablero, pero las tarjetas posteriores no se pueden mover fuera de la columna de entrada.
+
+**Agrupar por afecta al rendimiento del tablero**
+
+_Tableros_
+
+Cuando el usuario intenta agrupar las tarjetas por usuarios asignados o etiquetas, el rendimiento del tablero se vuelve muy lento.
 
 **No se envían los correos electrónicos de recordatorio automático**
 
