@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: 60959758457f54f6120171639b0c6abcce581310
 workflow-type: tm+mt
-source-wordcount: '1460'
-ht-degree: 85%
+source-wordcount: '1467'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: Las actualizaciones privadas se muestran en los campos de expresión de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [Distribuidor de cargas de trabajo: los cambios manuales de horas no son precisos después de actualizar la página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [Inicio: las tareas delegadas no se comparten y no aparecen en la Lista de trabajoss en Inicio](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)

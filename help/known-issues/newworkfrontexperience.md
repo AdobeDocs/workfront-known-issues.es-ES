@@ -4,10 +4,10 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: 60959758457f54f6120171639b0c6abcce581310
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 84%
+source-wordcount: '712'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Informes: Las actualizaciones privadas se muestran en los campos de expresión de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 de octubre de 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] módulo](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 de octubre de 2023 |
 | [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 de octubre de 2023 |
 | [Inicio de sesión: Se muestra un error al restablecer la contraseña aunque la acción se haya realizado correctamente](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 de octubre de 2023 |
