@@ -4,9 +4,9 @@ description: Problemas conocidos reportados para la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60959758457f54f6120171639b0c6abcce581310
+source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '725'
 ht-degree: 83%
 
 ---
@@ -25,6 +25,7 @@ Actualmente se están examinando estos problemas que se han notificado recientem
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL total de horas] no coincide con la suma de las [!UICONTROL horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 6 de octubre de 2023 |
 | [Informes: Las actualizaciones privadas se muestran en los campos de expresión de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 de octubre de 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] módulo](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 de octubre de 2023 |
 | [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 de octubre de 2023 |
