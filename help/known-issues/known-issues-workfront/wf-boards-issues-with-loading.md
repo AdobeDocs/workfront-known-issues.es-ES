@@ -3,11 +3,11 @@ title: 'Tableros: problemas al cargar un tablero'
 description: Cuando un usuario intenta cargar un tablero, pueden producirse problemas.
 hidefromtoc: true
 feature: Agile
-exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
+exl-id: 5417ba49-890d-4590-aeae-61a4e8e9fead
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 53%
+ht-degree: 89%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 53%
 Cuando el usuario intenta cargar un tablero, puede producirse lo siguiente:
 
 * El tablero se carga muy lentamente
-* El tablero no se carga y el usuario ve el error &quot;[!UICONTROL Se ha producido un error al cargar este tablero. Actualice la página para intentarlo de nuevo o, si el problema persiste, póngase en contacto con el servicio de asistencia técnica utilizando el ID de error siguiente.]&quot;
+* El tablero no se carga y el usuario ve el error “[!UICONTROL Se ha producido un error al cargar este tablero. Actualice la página para intentarlo de nuevo o contacte con el equipo de asistencia con el ID de error si el problema persiste]”.
 
 Este problema parece limitarse a los tableros que se encuentran en Secuencias de trabajo.
 

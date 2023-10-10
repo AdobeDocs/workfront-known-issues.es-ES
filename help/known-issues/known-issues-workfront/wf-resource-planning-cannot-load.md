@@ -17,9 +17,9 @@ ht-degree: 100%
 >
 >Este problema se corrigió el 21 de septiembre de 2023.
 
-Cuando se intenta cargar el [!UICONTROL Planificador de recursos], el planificador no se carga y se ve el siguiente mensaje de error:
+Cuando se intenta cargar el [!UICONTROL Planificador de recursos], no se carga y se aparece el siguiente mensaje de error:
 
-“[!UICONTROL Se produjo el siguiente error: Error al conectar con el servicio WorkPerDay]“
+“[!UICONTROL Se produjo el siguiente error: Error al conectar con el servicio WorkPerDay]”
 
 _Notificado por primera vez el 2 de agosto de 2023._
 
