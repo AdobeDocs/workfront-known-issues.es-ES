@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '5929'
-ht-degree: 97%
+source-wordcount: '6044'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,26 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en octubre de 2023
+
++++**(Planificado) Actualización de mantenimiento el 12 de octubre de 2023**
+
+**Los campos calculados no conservan el valor cuando el problema se convierte en tarea**
+
+_Formularios personalizados_
+
+Los campos calculados que se hacen referencia a sí mismos no conservan sus valores cuando un problema se convierte en una tarea.
+
+Cuando se convierte el problema en una tarea, el valor deseado se muestra correctamente en la ventana de edición. Sin embargo, una vez completada la conversión, el campo calculado muestra una &quot;N/a&quot;.
+
+**Error al cambiar los filtros en [!UICONTROL Inicio]**
+
+_Inicio_
+
+Cuando un usuario cambia los filtros en [!UICONTROL Inicio], el [!UICONTROL Inicio] El área de no se carga y aparece el siguiente error:
+
+“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+
++++
 
 +++**Actualización de mantenimiento del 5 de octubre de 2023**
 

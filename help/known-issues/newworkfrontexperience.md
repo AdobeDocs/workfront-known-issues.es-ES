@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 83%
+source-wordcount: '756'
+ht-degree: 82%
 
 ---
 
@@ -46,6 +46,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Plantillas de horas: la tarea personal aparece en la plantilla de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 de octubre de 2023 |
 | [Pruebas: No se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 de octubre de 2023 |
 | [Distribuidor de cargas de trabajo: los cambios manuales de horas no son precisos después de actualizar la página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 de octubre de 2023 |
 | [Inicio: las tareas delegadas no se comparten y no aparecen en la Lista de trabajoss en Inicio](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 de octubre de 2023 |
