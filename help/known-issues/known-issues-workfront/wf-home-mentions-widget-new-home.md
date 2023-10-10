@@ -4,7 +4,7 @@ description: “Cuando un usuario ve el widget Menciones en la nueva experiencia
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 >
 >Este problema se ha cerrado porque funciona como se diseñó.
 
-Cuando un usuario ve el widget “[!UICONTROL Menciones]” en la experiencia de la nueva página de [!UICONTROL Inicio], ven comentarios en los que no están etiquetados ni mencionados. El widget incluye comentarios donde:
+Cuando un usuario ve el widget “[!UICONTROL Menciones]” en la experiencia de la nueva página de [!UICONTROL Inicio], ven comentarios en los que no están etiquetados ni mencionados. El widget incluye los siguientes comentarios:
 
 * El usuario es asignado a una tarea o problema
 * El usuario realizó la asignación en la tarea o el problema

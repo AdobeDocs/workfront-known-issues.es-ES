@@ -4,20 +4,20 @@ description: “Las plantillas de diseño de la experiencia clásica de Workfron
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 
 # Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes
 
-Plantillas de diseño de la versión clásica [!DNL Workfront] ya no están disponibles en la [!DNL Workfront] interfaz, pero aún puede afectar a [!DNL Workfront] datos. Esto puede causar incoherencias en los campos afectados por las plantillas de diseño (como [!UICONTROL Compartido con]) en informes o paneles.
+Las plantillas de diseño de la experiencia clásica de [!DNL Workfront] ya no están disponibles en la interfaz de [!DNL Workfront], pero pueden seguir afectando a los datos de [!DNL Workfront]. Esto puede provocar incoherencias en los campos afectados por las plantillas de diseño (como el campo [!UICONTROL Compartido con]) en los informes o paneles.
 
 **Solución alternativa**
 
-Elimine las plantillas de diseño del tipo Clásico mediante una llamada de API. Debe haber iniciado sesión en Workfront.
+Elimine las plantillas de diseño de la experiencia clásica mediante una llamada de API. Debe haber iniciado sesión en Workfront.
 
 >[!NOTE]
 >

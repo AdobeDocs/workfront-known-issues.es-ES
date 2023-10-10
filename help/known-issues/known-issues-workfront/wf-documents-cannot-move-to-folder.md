@@ -1,17 +1,17 @@
 ---
-title: "Documentos: No se puede mover el documento a una carpeta diferente"
+title: "Documentos: no se puede mover el documento a una carpeta diferente"
 description: "Cuando un usuario mueve un documento a una carpeta de objetos, no puede mover el objeto a otra carpeta."
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 
-# Documentos: No se puede mover el documento a una carpeta diferente
+# Documentos: no se puede mover el documento a una carpeta diferente
 
 >[!NOTE]
 >

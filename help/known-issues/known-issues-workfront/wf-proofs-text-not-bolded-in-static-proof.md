@@ -1,10 +1,10 @@
 ---
-title: "Pruebas: el formato del texto en la prueba estática no coincide con el formato del sitio web"
-description: "Cuando un usuario crea una prueba estática desde un sitio web, el texto en negrita en el sitio web no aparece en negrita en la prueba."
+title: '“Pruebas: el formato del texto en la prueba estática no coincide con el formato del sitio web”'
+description: “Cuando un usuario crea una prueba estática desde un sitio web, el texto en negrita en el sitio web no aparece en negrita en la prueba”.
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
