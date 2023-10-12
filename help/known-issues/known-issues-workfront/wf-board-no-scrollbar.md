@@ -1,19 +1,21 @@
 ---
-title: '“Tableros: la barra de desplazamiento horizontal no está presente”'
-description: “Cuando un usuario está viendo un tablero e intenta desplazarse horizontalmente, la barra de desplazamiento no está presente y no puede”.
+title: 'Tableros: la barra de desplazamiento horizontal no está presente'
+description: Cuando un usuario está viendo un tablero e intenta desplazarse horizontalmente, la barra de desplazamiento no está presente y no puede.
 feature: Agile
 hidefromtoc: true
-source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
-workflow-type: ht
-source-wordcount: '75'
+exl-id: ab136be3-38a1-4078-859b-099a31fd93a1
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
-
 # Tableros: la barra de desplazamiento horizontal no está presente
 
-<!--Reopened Sept 26, 2023-->
+>[!NOTE]
+>
+>Este problema se corrigió el 12 de octubre de 2023.
 
 Cuando un usuario está viendo un tablero e intenta desplazarse horizontalmente, la barra de desplazamiento no está presente y no puede.
 
@@ -22,4 +24,3 @@ Cuando un usuario está viendo un tablero e intenta desplazarse horizontalmente,
 Haga clic en el tablero y utilice las flechas derecha e izquierda para desplazarse
 
 _Notificado por primera vez el 26 de septiembre de 2023._
-

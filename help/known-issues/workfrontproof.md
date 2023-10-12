@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 86%
+source-wordcount: '349'
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Pruebas: las pruebas completadas permanecen activadas [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 de octubre de 2023 |
 | [Pruebas: No se puede crear una nueva versión de una prueba](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 de octubre de 2023 |
 | [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 de octubre de 2023 |
-| [Integraciones de documentos: Error al arrastrar un recurso a una carpeta en una integración de Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 de septiembre de 2023 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +37,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: No se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 de octubre de 2023 |
 | [Prueba: comentario adicional en blanco al realizar un comentario sobre una prueba](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 de septiembre de 2023 |
 
 {style="table-layout:auto"}

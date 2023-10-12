@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '1494'
-ht-degree: 90%
+source-wordcount: '1508'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas: [!UICONTROL Horas planificadas] se reasignan cuando se asigna un usuario adicional a una tarea](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Plantillas de horas: la tarea personal aparece en la plantilla de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Pruebas: No se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [Pruebas: las pruebas completadas permanecen activadas [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
