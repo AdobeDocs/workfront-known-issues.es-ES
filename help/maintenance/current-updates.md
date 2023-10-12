@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '6044'
+source-wordcount: '6083'
 ht-degree: 95%
 
 ---
@@ -22,7 +22,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en octubre de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 12 de octubre de 2023**
++++**Actualización de mantenimiento del 12 de octubre de 2023**
+
+**Flujos de trabajo eliminados para las cuentas que no los utilizan**
+
+_Tableros_
+
+En el caso de las cuentas que nunca han creado un flujo de trabajo en la aplicación Tableros, el área Flujos de trabajo se ha eliminado del panel Tableros. Las cuentas que sí utilizan flujos de trabajo siguen teniendo acceso a ellas.
 
 **Los campos calculados no conservan el valor cuando el problema se convierte en tarea**
 
