@@ -4,22 +4,20 @@ description: Cuando un usuario intenta generar una prueba, esta no se crea y el 
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 8%
 
 ---
 
 # Pruebas: No se puede generar la prueba
 
->[!NOTE]
->
->Este problema se corrigió el 12 de octubre de 2023.
-
 Cuando un usuario intenta generar una prueba, esta no se crea y aparece el siguiente error:
 
 &quot;[!UICONTROL Error al generar la revisión]&quot;
+
+Esto ocurre cuando la configuración del nivel de acceso del usuario[!UICONTROL  Ver información de contacto] se establece en Deshabilitado.
 
 **Solución alternativa**
 

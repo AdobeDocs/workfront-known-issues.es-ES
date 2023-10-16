@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '768'
-ht-degree: 80%
+source-wordcount: '773'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: No se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 16 de octubre de 2023 |
 | [[!DNL Workfront]: la marca no se aplica](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 de octubre de 2023 |
 | [Tableros: vista de tablero en [!UICONTROL Tareas] El área del proyecto no se carga](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13 de octubre de 2023 |
 | [Pruebas: las pruebas completadas permanecen activadas [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 de octubre de 2023 |
