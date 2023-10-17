@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '6083'
-ht-degree: 95%
+source-wordcount: '6211'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,30 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en octubre de 2023
+
++++**(Planificado) Actualización de mantenimiento el 19 de octubre de 2023**
+
+A los usuarios no se les notifican las respuestas en un hilo de comentarios
+
+_Notificaciones_
+
+Cuando un usuario responde a un comentario, los demás usuarios que deberían recibir notificaciones para la respuesta no las reciben. Es posible que algunos usuarios reciban la notificación, mientras que otros no.
+
+**Comentario adicional en blanco al realizar un comentario en una prueba**
+
+_Pruebas_
+
+Cuando un usuario hace un comentario sobre una prueba, esta también produce otro comentario en blanco.
+
+Se ha informado de este problema en pruebas de vídeo.
+
+**[!UICONTROL Horas planificadas] se reasignan cuando se asigna un usuario adicional a una tarea**
+
+_Tareas_
+
+Cuando se asigna a un usuario una tarea que tiene [!UICONTROL Horas planificadas] asignado a otras personas asignadas a la tarea, el [!UICONTROL Horas planificadas] se distribuyen equitativamente a todas las personas asignadas en la tarea.
+
++++
 
 +++**Actualización de mantenimiento del 12 de octubre de 2023**
 
