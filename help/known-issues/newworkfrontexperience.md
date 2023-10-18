@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 79%
+source-wordcount: '799'
+ht-degree: 77%
 
 ---
 
@@ -44,6 +44,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Actualizaciones: &quot;[!UICONTROL Eliminado]&quot; se muestra como nombre de usuario en las actualizaciones del sistema cuando el problema se convierte en tarea](known-issues-workfront/wf-updates-deleted-requested-team.md) | 18 de octubre de 2023 |
+| [Inicio de sesión: la página de inicio de sesión redirige a la página de aterrizaje de cierre de sesión](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 de octubre de 2023 |
 | [Notificaciones: no se notifica a los usuarios de las respuestas en un hilo de comentarios](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13 de octubre de 2023 |
 | [Pruebas: [!UICONTROL Actividad de revisión] La pestaña no se abre](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13 de octubre de 2023 |
 | [Tareas: [!UICONTROL Horas planificadas] se reasignan cuando se asigna un usuario adicional a una tarea](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 de octubre de 2023 |

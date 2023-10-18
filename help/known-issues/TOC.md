@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 86%
+source-wordcount: '1385'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Actualizaciones: &quot;[!UICONTROL Eliminado]&quot; se muestra como nombre de usuario en las actualizaciones del sistema cuando el problema se convierte en tarea](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [Inicio de sesión: la página de inicio de sesión redirige a la página de aterrizaje de cierre de sesión](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [Notificaciones: no se notifica a los usuarios de las respuestas en un hilo de comentarios](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]: la marca no se aplica](known-issues-workfront/wf-workfront-branding-not-applied.md)
       + [Tableros: vista de tablero en [!UICONTROL Tareas] El área del proyecto no se carga](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
