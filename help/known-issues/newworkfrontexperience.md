@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '799'
-ht-degree: 77%
+source-wordcount: '735'
+ht-degree: 82%
 
 ---
 
@@ -44,11 +44,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Actualizaciones: &quot;[!UICONTROL Eliminado]&quot; se muestra como nombre de usuario en las actualizaciones del sistema cuando el problema se convierte en tarea](known-issues-workfront/wf-updates-deleted-requested-team.md) | 18 de octubre de 2023 |
 | [Inicio de sesión: la página de inicio de sesión redirige a la página de aterrizaje de cierre de sesión](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 de octubre de 2023 |
-| [Notificaciones: no se notifica a los usuarios de las respuestas en un hilo de comentarios](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13 de octubre de 2023 |
-| [Pruebas: [!UICONTROL Actividad de revisión] La pestaña no se abre](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13 de octubre de 2023 |
-| [Tareas: [!UICONTROL Horas planificadas] se reasignan cuando se asigna un usuario adicional a una tarea](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 de octubre de 2023 |
 | [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL total de horas] no coincide con la suma de las [!UICONTROL horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 de octubre de 2023 |
 | [Inicio de sesión: Se muestra un error al restablecer la contraseña aunque la acción se haya realizado correctamente](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12 de octubre de 2023 |
 | [Informes: Las actualizaciones privadas se muestran en los campos de expresión de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 de octubre de 2023 |
@@ -56,7 +52,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Distribuidor de cargas de trabajo: los cambios manuales de horas no son precisos después de actualizar la página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 de octubre de 2023 |
 | [Inicio: las tareas delegadas no se comparten y no aparecen en la Lista de trabajoss en Inicio](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 de octubre de 2023 |
 | [Distribuidor de cargas de trabajo: el usuario se muestra con un exceso de asignaciones debido a una capacidad inexacta](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 de septiembre de 2023 |
-| [Prueba: comentario adicional en blanco al realizar un comentario sobre una prueba](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 de septiembre de 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso de soporte en Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
 {style="table-layout:auto"}

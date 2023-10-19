@@ -1,19 +1,23 @@
 ---
-title: '“Prueba: comentario adicional en blanco al hacer un comentario sobre una prueba”'
-description: “Cuando un usuario hace un comentario sobre una prueba, esta también produce otro comentario en blanco”.
+title: 'Prueba: comentario adicional en blanco al realizar un comentario sobre una prueba'
+description: Cuando un usuario hace un comentario sobre una prueba, esta también produce otro comentario en blanco.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
-workflow-type: ht
-source-wordcount: '69'
+exl-id: 3f22277a-b9fa-449f-b03a-a669fa710306
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+workflow-type: tm+mt
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
 
-
 # Prueba: comentario adicional en blanco al realizar un comentario sobre una prueba
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Este problema se corrigió el 19 de octubre de 2023.
 
 Cuando un usuario hace un comentario sobre una prueba, esta también produce otro comentario en blanco.
 

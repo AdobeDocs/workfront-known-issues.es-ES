@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 93%
+source-wordcount: '6298'
+ht-degree: 92%
 
 ---
 
@@ -38,11 +38,23 @@ Cuando un usuario hace un comentario sobre una prueba, esta también produce otr
 
 Se ha informado de este problema en pruebas de vídeo.
 
+**[!UICONTROL Actividad de revisión] La pestaña no se abre**
+
+_Pruebas_
+
+Cuando un usuario está viendo una prueba y hace clic en el [!UICONTROL Actividad de revisión] pestaña, la pestaña devuelve el usuario a la [!UICONTROL Detalles de revisión] pestaña.
+
 **[!UICONTROL Horas planificadas] se reasignan cuando se asigna un usuario adicional a una tarea**
 
 _Tareas_
 
 Cuando se asigna a un usuario una tarea que tiene [!UICONTROL Horas planificadas] asignado a otras personas asignadas a la tarea, el [!UICONTROL Horas planificadas] se distribuyen equitativamente a todas las personas asignadas en la tarea.
+
+**&quot;[!UICONTROL Eliminado]&quot; se muestra como nombre de usuario en las actualizaciones del sistema cuando el problema se convierte en tarea**
+
+_Actualizaciones_
+
+Cuando un usuario que ha iniciado sesión como otro usuario convierte un problema en una tarea y el problema se asigna a un equipo, las actualizaciones del sistema muestran &quot;[!UICONTROL Eliminado]&quot; como el usuario que solicitó que el equipo trabaje en la tarea.
 
 +++
 
