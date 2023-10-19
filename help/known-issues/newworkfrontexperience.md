@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 82%
+source-wordcount: '753'
+ht-degree: 80%
 
 ---
 
@@ -25,6 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: El botón Compartir no funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 de octubre de 2023 |
+| [Documentos: &quot;[!UICONTROL Enviar a]La opción &quot; &quot; provoca una página en blanco y un mensaje de error](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 de octubre de 2023 |
 | [Pruebas: No se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 16 de octubre de 2023 |
 | [[!DNL Workfront]: la marca no se aplica](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 de octubre de 2023 |
 | [Tableros: vista de tablero en [!UICONTROL Tareas] El área del proyecto no se carga](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13 de octubre de 2023 |
