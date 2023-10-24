@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
 workflow-type: tm+mt
-source-wordcount: '6298'
-ht-degree: 92%
+source-wordcount: '6454'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,34 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en octubre de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 19 de octubre de 2023**
++++**(Planificado) Actualización de mantenimiento el 26 de octubre de 2023**
+
+**La búsqueda no funciona**
+
+_Tableros_
+
+Cuando un usuario intenta buscar en tableros, la búsqueda no devuelve todas las tarjetas que cumplen los criterios de búsqueda.
+
+**No se puede ver la prueba interactiva en el visor web**
+
+_Pruebas_
+
+Cuando un usuario intenta ver una prueba en el visualizador de pruebas web, la prueba no se muestra y el usuario ve el siguiente error:
+
+&quot;[!UICONTROL Falta el parámetro de consulta o el valor de la cookie Key-Pair-Id]&quot;
+
+
+**El usuario está duplicado al compartir una solicitud**
+
+_Solicitudes_
+
+Al compartir una solicitud, si se modifica el nivel de acceso de un usuario con el que se comparte la solicitud, el usuario que se encuentra justo encima de ese usuario en la lista se convierte en ese usuario.
+
+Por ejemplo, si la solicitud se comparte con el usuario A y el usuario B y se modifica el acceso del usuario B, el usuario A cambia al usuario B y ahora hay dos usuarios B en la lista. Además, solo se ha modificado el acceso del usuario B principal.
+
++++
+
++++**Actualización de mantenimiento del 19 de octubre de 2023**
 
 A los usuarios no se les notifican las respuestas en un hilo de comentarios
 
