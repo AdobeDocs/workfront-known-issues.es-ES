@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 82%
+source-wordcount: '1444'
+ht-degree: 81%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas: &quot;[!UICONTROL Uy]Error &quot; en el encabezado de la tarea](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [Inicio de sesión: Mensaje de error al iniciar sesión](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Tableros: La búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md)
       + [Tableros: Las tarjetas esperadas no se muestran en el tablero](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
       + [Inicio: Los proyectos y las tareas no se cargan en Inicio](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
@@ -158,6 +160,7 @@ ht-degree: 82%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: No se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof: los datos del panel no siempre son precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: los datos de búsqueda no siempre son precisos](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Pruebas: las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
