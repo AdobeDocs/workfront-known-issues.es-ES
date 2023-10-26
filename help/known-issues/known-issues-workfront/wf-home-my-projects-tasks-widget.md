@@ -3,15 +3,19 @@ title: "Inicio: Los proyectos y las tareas no se cargan en Inicio"
 description: "Los proyectos y las tareas no se cargan en Inicio"
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # Inicio: Los proyectos y las tareas no se cargan en Inicio
+
+>[!NOTE]
+>
+>Este problema se corrigió el 20 de octubre de 2023.
 
 Se han notificado los siguientes comportamientos en relación con la carga de proyectos y tareas en Inicio:
 

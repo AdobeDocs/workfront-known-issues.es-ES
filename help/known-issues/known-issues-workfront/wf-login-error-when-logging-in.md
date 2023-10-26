@@ -3,15 +3,19 @@ title: "Inicio de sesión: Mensaje de error al iniciar sesión"
 description: '"Cuando un usuario intenta iniciar sesión en [!DNL Workfront], verán un mensaje de error".'
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
 # Inicio de sesión: Mensaje de error al iniciar sesión
+
+>[!NOTE]
+>
+>Este problema se corrigió el 26 de octubre de 2023.
 
 Cuando un usuario intenta iniciar sesión en [!DNL Workfront], verán el siguiente mensaje de error:
 
