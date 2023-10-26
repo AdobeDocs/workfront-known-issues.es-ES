@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 79%
+source-wordcount: '746'
+ht-degree: 81%
 
 ---
 
@@ -26,7 +26,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: Duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de octubre de 2023 |
-| [Tableros: La búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de octubre de 2023 |
 | [Tableros: Las tarjetas esperadas no se muestran en el tablero](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 20 de octubre de 2023 |
 | [Inicio: Los proyectos y las tareas no se cargan en Inicio](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 20 de octubre de 2023 |
 | [Documentos: El botón Compartir no funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 de octubre de 2023 |
@@ -43,12 +42,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Tareas: &quot;[!UICONTROL Uy]Error &quot; en el encabezado de la tarea](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de octubre de 2023 |
 | [Inicio de sesión: Mensaje de error al iniciar sesión](known-issues-workfront/wf-login-error-when-logging-in.md) | 25 de octubre de 2023 |
 | [Pruebas: las pruebas completadas permanecen activadas [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de octubre de 2023 |
 | [Pruebas: No se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de octubre de 2023 |
 | [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 de octubre de 2023 |
-| [Pruebas: No se puede crear una nueva versión de una prueba](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 de octubre de 2023 |
 | [Inicio de sesión: la página de inicio de sesión redirige a la página de aterrizaje de cierre de sesión](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 de octubre de 2023 |
 | [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL total de horas] no coincide con la suma de las [!UICONTROL horas planificadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 de octubre de 2023 |
 | [Informes: Las actualizaciones privadas se muestran en los campos de expresión de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 de octubre de 2023 |

@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6454'
-ht-degree: 90%
+source-wordcount: '6537'
+ht-degree: 89%
 
 ---
 
@@ -38,6 +38,13 @@ Cuando un usuario intenta ver una prueba en el visualizador de pruebas web, la p
 
 &quot;[!UICONTROL Falta el parámetro de consulta o el valor de la cookie Key-Pair-Id]&quot;
 
+**No se puede crear una nueva versión de una revisión**
+
+_Pruebas_
+
+Cuando un usuario intenta crear una nueva versión de una prueba, la nueva versión no se crea y el usuario ve el siguiente mensaje de error:
+
+&quot;[!UICONTROL Error al generar la revisión]&quot;
 
 **El usuario está duplicado al compartir una solicitud**
 
@@ -46,6 +53,14 @@ _Solicitudes_
 Al compartir una solicitud, si se modifica el nivel de acceso de un usuario con el que se comparte la solicitud, el usuario que se encuentra justo encima de ese usuario en la lista se convierte en ese usuario.
 
 Por ejemplo, si la solicitud se comparte con el usuario A y el usuario B y se modifica el acceso del usuario B, el usuario A cambia al usuario B y ahora hay dos usuarios B en la lista. Además, solo se ha modificado el acceso del usuario B principal.
+
+**&quot;[!UICONTROL Uy]Error &quot; en el encabezado de la tarea**
+
+_Tareas_
+
+Cuando un usuario ve una tarea, su encabezado no contiene información. En su lugar, el usuario ve el siguiente mensaje de error:
+
+“[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
 
 +++
 
