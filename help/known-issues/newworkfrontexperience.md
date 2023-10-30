@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 80%
+source-wordcount: '791'
+ht-degree: 77%
 
 ---
 
@@ -39,6 +39,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Solicitudes: Se muestra una moneda personalizada incorrecta en la página Nueva solicitud](known-issues-workfront/wf-requests-custom-currency.md) | 30 de octubre de 2023 |
+| [Informes: Las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas informadas a través de la API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de octubre de 2023 |
+| [Paneles: el usuario no puede acceder [!UICONTROL Paneles de lienzo]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 de octubre de 2023 |
 | [[!DNL Workfront Proof]: Marca de tiempo inexacta en [!UICONTROL Resumen de revisión]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de octubre de 2023 |
 | [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de octubre de 2023 |
 | [Documentos: El botón Compartir no funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 de octubre de 2023 |
