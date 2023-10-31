@@ -5,7 +5,7 @@ role: User
 source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
 source-wordcount: '1490'
-ht-degree: 78%
+ht-degree: 87%
 
 ---
 
@@ -37,13 +37,13 @@ ht-degree: 78%
       + [Tareas: [!UICONTROL Horas planificadas] se reasignan cuando se asigna un usuario adicional a una tarea](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Plantillas de horas: la tarea personal aparece en la plantilla de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Pruebas: No se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
-      + [Pruebas: las pruebas completadas permanecen activadas [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [Pruebas: las pruebas completadas permanecen en el widget [!UICONTROL Esperando mi aprobación]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [Pruebas: No se puede crear una nueva versión de una prueba](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
       + [Informes: Las actualizaciones privadas se muestran en los campos de expresión de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [Distribuidor de cargas de trabajo: los cambios manuales de horas no son precisos después de actualizar la página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [Inicio: las tareas delegadas no se comparten y no aparecen en la Lista de trabajoss en Inicio](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [Inicio: las tareas delegadas no se comparten y no aparecen en la Lista de trabajos en Inicio](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [Inicio de sesión: Se muestra un error al restablecer la contraseña aunque la acción se haya realizado correctamente](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [Inicio de sesión: se muestra un error al restablecer la contraseña aunque la acción se haya realizado correctamente](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [Tableros: El tablero se carga lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [Tableros: No se pueden mover las tarjetas](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Tableros: las tarjetas no muestran el recuento correcto de elementos de la lista de comprobación](known-issues-workfront/wf-boards-checklist-item-count.md)
@@ -191,7 +191,7 @@ ht-degree: 78%
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: Duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: Error al enviar la invitación con [!DNL Workfront] > [!UICONTROL Varias acciones] módulo](known-issues-workfront-fusion/fusion-send-invite-error.md)
+      + [[!DNL Workfront Fusion]: Error al enviar la invitación con el módulo  [!DNL Workfront] > [!UICONTROL Acciones diversas]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: el módulo de suspensión hace que se cuelguen los escenarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: el escenario falla y aparece un error de “[!UICONTROL lectura de ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: no se puede introducir un valor en el filtro  [!DNL Workfront] > [!UICONTROL Ver eventos]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

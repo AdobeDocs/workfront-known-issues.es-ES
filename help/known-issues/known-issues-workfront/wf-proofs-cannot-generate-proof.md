@@ -1,19 +1,19 @@
 ---
-title: "Pruebas: No se puede generar la prueba"
-description: Cuando un usuario intenta generar una prueba, esta no se crea y el usuario ve un error.
+title: 'Pruebas: No se puede generar la prueba'
+description: Cuando un usuario intenta generar una prueba, esta no se crea y aparece el siguiente error.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 8%
+ht-degree: 83%
 
 ---
 
 # Pruebas: No se puede generar la prueba
 
-Cuando un usuario intenta generar una prueba, esta no se crea y aparece el siguiente error:
+Cuando un usuario intenta crear una prueba, esta no se crea y aparece el siguiente mensaje de error:
 
 &quot;[!UICONTROL Error al generar la revisión]&quot;
 

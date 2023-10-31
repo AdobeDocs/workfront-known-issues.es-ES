@@ -7,7 +7,7 @@ exl-id: 5965a409-b14d-4ceb-90f4-55d7cffd3d19
 source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ Cuando un usuario intenta arrastrar un recurso a una carpeta vinculada a través
 
 **Solución alternativa**
 
-Agregue el recurso a la carpeta mediante el botón Agregar nuevo.
+Añada el recurso a la carpeta mediante el botón Agregar nuevo.
 
 _Notificado por primera vez el 18 de septiembre de 2023._

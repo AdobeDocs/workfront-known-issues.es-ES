@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 82%
+ht-degree: 92%
 
 ---
 
@@ -38,10 +38,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof]: Marca de tiempo inexacta en [!UICONTROL Resumen de revisión]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de octubre de 2023 |
-| [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de octubre de 2023 |
-| [Pruebas: las pruebas completadas permanecen activadas [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de octubre de 2023 |
-| [Pruebas: No se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de octubre de 2023 |
-| [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 de octubre de 2023 |
+| [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de octubre de 2023 |
+| [Pruebas: las pruebas completadas permanecen en el widget [!UICONTROL Esperando mi aprobación]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de octubre de 2023 |
+| [Pruebas: no se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de octubre de 2023 |
+| [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 de octubre de 2023 |
 
 {style="table-layout:auto"}
 
