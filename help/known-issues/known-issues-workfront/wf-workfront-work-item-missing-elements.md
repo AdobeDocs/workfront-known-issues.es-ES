@@ -4,7 +4,7 @@ description: “Cuando un usuario navega a una sección personalizada en un obje
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 

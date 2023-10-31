@@ -1,17 +1,17 @@
 ---
-title: "Inicio: Las tareas delegadas no se comparten y no aparecen en la Lista de trabajoss en Inicio"
-description: ""
+title: "Inicio: Las tareas delegadas no se comparten y no aparecen en la Lista de trabajos en Inicio"
+description: ''
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
-workflow-type: tm+mt
+exl-id: 96ce3212-47de-459a-a0ad-55985bfeff96
+source-git-commit: 9eb50a49cbe61f679c3625f413a347286f0b2ea9
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
-# Inicio: las tareas delegadas no se comparten y no aparecen en la Lista de trabajoss en Inicio
+# Inicio: las tareas delegadas no se comparten y no aparecen en la Lista de trabajos en Inicio
 
 Cuando un usuario delega una tarea a otro usuario desde la lista de trabajos en Inicio, esa tarea no se comparte con el usuario delegado y no aparece en la lista de trabajos en Inicio del usuario delegado. Esto ocurre cuando el usuario delegado aún no tiene acceso a la tarea delegada.
 
