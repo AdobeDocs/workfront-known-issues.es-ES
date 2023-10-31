@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
 workflow-type: tm+mt
-source-wordcount: '6537'
+source-wordcount: '6638'
 ht-degree: 92%
 
 ---
@@ -20,9 +20,29 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
+## Actualizaciones en noviembre de 2023
+
++++**(Planificado) Actualización de mantenimiento del 2 de noviembre de 2023**
+
+**Las actualizaciones privadas se muestran en los campos de expresión de valor **
+_Informes_
+
+Cuando un campo de un informe incluye una expresión de valor que hace referencia a una actualización privada, los usuarios que no están incluidos en la actualización privada pueden verlo en el informe.
+
+
+**El usuario se muestra como sobreasignado debido a una capacidad inexacta**
+
+_Distribuidor de cargas de trabajo_
+
+Un usuario puede mostrarse en el Distribuidor de cargas de trabajo con exceso de asignaciones. Si un usuario pasa el ratón sobre la sobreasignación, verá que la capacidad del usuario está configurada en 0.
+
+Si el usuario cambia el intervalo de fechas, la asignación es precisa. Sin embargo, si el usuario actualiza la página, la capacidad puede volver a ser inexacta.
+
++++
+
 ## Actualizaciones en octubre de 2023
 
-+++**(Planificado) Actualización de mantenimiento el 26 de octubre de 2023**
++++**Actualización de mantenimiento del 26 de octubre de 2023**
 
 **La búsqueda no funciona**
 
