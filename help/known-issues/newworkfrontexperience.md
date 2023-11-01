@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
+source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 86%
+source-wordcount: '817'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Actualizaciones: no se muestran los comentarios adjuntos a las actualizaciones del sistema](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 de noviembre de 2023 |
+| [Tableros: Error en la sección de comentarios de una tarjeta](known-issues-workfront/wf-boards-comment-section-error.md) | 1 de noviembre de 2023 |
 | [[!UICONTROL Workfront Proof]: Correos electrónicos y notificaciones retrasados](known-issues-workfront-proof/proof-delayed-notification.md) | 26 de octubre de 2023 |
 | [Workfront Fusion: Duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de octubre de 2023 |
 | [Tableros: La búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de octubre de 2023 |
