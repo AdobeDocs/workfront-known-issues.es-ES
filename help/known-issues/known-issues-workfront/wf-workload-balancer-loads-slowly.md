@@ -3,15 +3,19 @@ title: "Distribuidor de cargas de trabajo: El Distribuidor de cargas de trabajo 
 description: '"Cuando un usuario abre el Distribuidor de cargas de trabajo, la carga puede tardar uno o más minutos en completarse".'
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
+source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 8%
+source-wordcount: '54'
+ht-degree: 18%
 
 ---
 
 
 # [!UICONTROL Distribuidor de cargas de trabajo]: [!UICONTROL Distribuidor de cargas de trabajo] se carga lentamente
+
+>[!NOTE]
+>
+>Este problema se corrigió el 2 de noviembre de 2023.
 
 Cuando un usuario abre el [!UICONTROL Distribuidor de cargas de trabajo], la carga puede tardar uno o más minutos.
 
