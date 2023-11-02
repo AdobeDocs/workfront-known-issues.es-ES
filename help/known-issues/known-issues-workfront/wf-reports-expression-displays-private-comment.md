@@ -4,14 +4,18 @@ description: Cuando un campo de un informe incluye una expresión de valor que h
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 5771f981-a98d-46e7-8265-af104a7aaf4e
-source-git-commit: 4d5c6516446b081eba7c90143147270e38e1f7d1
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 # Informes: Las actualizaciones privadas se muestran en los campos de expresión de valor
+
+>[!NOTE]
+>
+>Este problema se corrigió el 2 de noviembre de 2023.
 
 Cuando un campo de un informe incluye una expresión de valor que hace referencia a una actualización privada, los usuarios que no están incluidos en la actualización privada pueden verlo en el informe.
 
