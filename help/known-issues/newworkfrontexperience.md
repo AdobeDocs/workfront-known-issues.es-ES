@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 744835ec6f1f9af2d536b8f4e3fbc4ef1660fa27
+source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
 workflow-type: tm+mt
-source-wordcount: '765'
-ht-degree: 85%
+source-wordcount: '775'
+ht-degree: 84%
 
 ---
 
@@ -39,6 +39,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Actualizaciones: líneas adicionales en comentarios realizados a través de API o [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 de noviembre de 2023 |
 | [Solicitudes: Se muestra una moneda personalizada incorrecta en la página Nueva solicitud](known-issues-workfront/wf-requests-custom-currency.md) | 30 de octubre de 2023 |
 | [Informes: Las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas informadas a través de la API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de octubre de 2023 |
 | [Paneles: el usuario no puede acceder [!UICONTROL Paneles de lienzo]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 de octubre de 2023 |
