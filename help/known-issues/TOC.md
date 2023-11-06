@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '1554'
-ht-degree: 84%
+source-wordcount: '1566'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Plantillas: las tareas secundarias aparecen desordenadas cuando se mueven debajo de la tarea principal](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Inicio: Aprobación atascada en [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [Pruebas: Problemas con la activación de la fase](known-issues-workfront/wf-proofs-stage-activation-issues.md)
       + [Pruebas: Falta la ruta al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
