@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
 workflow-type: tm+mt
-source-wordcount: '1566'
-ht-degree: 83%
+source-wordcount: '1585'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o Lista de trabajos en Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Plantillas: las tareas secundarias aparecen desordenadas cuando se mueven debajo de la tarea principal](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Inicio: Aprobación atascada en [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [Pruebas: Problemas con la activación de la fase](known-issues-workfront/wf-proofs-stage-activation-issues.md)
