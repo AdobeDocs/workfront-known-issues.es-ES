@@ -1,17 +1,17 @@
 ---
-title: '"Tareas: [!UICONTROL Uy] error en el encabezado de la tarea'
-description: '"Cuando un usuario ve una tarea, el encabezado de la tarea no contiene información. En su lugar, el usuario ve un mensaje ¡Uy!".'
+title: '“Tareas: error [!UICONTROL  ¡Uy!] en el encabezado de la tarea”'
+description: 'Cuando un usuario ve una tarea, su encabezado no contiene información. En su lugar, el usuario ve el mensaje: ¡Uy!'
 hidefromtoc: true
 feature: Tasks
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
-workflow-type: tm+mt
+exl-id: 2bcbceb4-0618-44d6-9855-8c084fb8abe9
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-
-# Tareas: &quot;[!UICONTROL Uy]Error &quot; en el encabezado de la tarea
+# Tareas: error &quot;[!UICONTROL Uy]&quot; en el encabezado de la tarea
 
 >[!NOTE]
 >

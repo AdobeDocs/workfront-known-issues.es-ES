@@ -1,17 +1,17 @@
 ---
-title: "Notificaciones: No se notifica a los usuarios de las respuestas en un hilo de comentarios"
-description: '"Cuando un usuario responde a un comentario, otros usuarios que deberían recibir notificaciones para la respuesta no las reciben. Es posible que algunos usuarios reciban la notificación, mientras que otros no".'
+title: '“Notificaciones: a los usuarios no se les notifican las respuestas en un hilo de comentarios”'
+description: Cuando un usuario responde a un comentario, los demás usuarios que deberían recibir notificaciones para la respuesta no las reciben. Es posible que algunos usuarios reciban la notificación, mientras que otros no.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+exl-id: f92285f8-fb52-4f93-9360-d7a090fa0d7e
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-
-# Notificaciones: no se notifica a los usuarios de las respuestas en un hilo de comentarios
+# Notificaciones: a los usuarios no se les notifican las respuestas en un hilo de comentarios
 
 >[!NOTE]
 >

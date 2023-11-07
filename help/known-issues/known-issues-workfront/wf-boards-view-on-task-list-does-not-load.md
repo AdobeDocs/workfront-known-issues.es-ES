@@ -1,17 +1,17 @@
 ---
-title: "Tableros: La vista de tablero del área Tareas del proyecto no se carga"
-description: '"Cuando un usuario intenta cargar las tareas de un proyecto en una vista de tablero, las tareas no se cargan. La vista de lista se carga según lo esperado".'
+title: '“Tableros: la vista de tablero del área Tareas del proyecto no se carga”'
+description: Cuando un usuario intenta cargar las tareas en un proyecto en una vista del tablero, las tareas no se cargan. La vista de lista se carga según lo esperado.
 hidefromtoc: true
 feature: Agile
-source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
-workflow-type: tm+mt
+exl-id: 7247d19d-eaaa-4a37-917b-9769f12eb9a2
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-
-# Tableros: vista de tablero en [!UICONTROL Tareas] El área del proyecto no se carga
+# Tableros: la vista de tablero en el área [!UICONTROL Tareas] del proyecto no se carga
 
 >[!NOTE]
 >
