@@ -1,5 +1,5 @@
 ---
-title: "Documentos: El botón Compartir no funciona"
+title: '“Documentos: el botón Compartir no funciona”'
 description: Cuando un usuario intenta compartir un documento desde la página de detalles del documento, el botón Compartir no responde.
 hidefromtoc: true
 feature: Digital Content and Documents
@@ -7,11 +7,11 @@ exl-id: 3838fef2-1e08-4ebd-9b7b-43ce96d75ed6
 source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
-# Documentos: El botón Compartir no funciona
+# Documentos: el botón Compartir no funciona
 
 >[!NOTE]
 >
@@ -21,6 +21,6 @@ Cuando un usuario intenta compartir un documento desde la página de detalles de
 
 **Solución alternativa**
 
-Compartir el documento desde la lista Documentos.
+Comparta el documento en la lista de documentos.
 
 _Notificado por primera vez el 18 de octubre de 2023._

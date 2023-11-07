@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
 workflow-type: tm+mt
 source-wordcount: '6637'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -48,17 +48,17 @@ Si el usuario cambia el intervalo de fechas, la asignación es precisa. Sin emba
 
 _Tableros_
 
-Cuando un usuario intenta buscar en tableros, la búsqueda no devuelve todas las tarjetas que cumplen los criterios de búsqueda.
+Cuando un usuario intenta buscar en los tableros, la búsqueda no devuelve todas las tarjetas que cumplen los criterios de búsqueda.
 
-**No se puede ver la prueba interactiva en el visor web**
+**No se puede ver la prueba interactiva en el visualizador web**
 
 _Pruebas_
 
 Cuando un usuario intenta ver una prueba en el visualizador de pruebas web, la prueba no se muestra y el usuario ve el siguiente error:
 
-&quot;[!UICONTROL Falta el parámetro de consulta o el valor de la cookie Key-Pair-Id]&quot;
+&quot;[!UICONTROL Falta el parámetro de consulta Key-Pair-Id o el valor de la cookie]&quot;
 
-**No se puede crear una nueva versión de una revisión**
+**No se puede crear una nueva versión de una prueba**
 
 _Pruebas_
 
@@ -70,11 +70,11 @@ Cuando un usuario intenta crear una nueva versión de una prueba, la nueva versi
 
 _Solicitudes_
 
-Al compartir una solicitud, si se modifica el nivel de acceso de un usuario con el que se comparte la solicitud, el usuario que se encuentra justo encima de ese usuario en la lista se convierte en ese usuario.
+Al compartir una solicitud, si se modifica el nivel de acceso de un usuario con el que se comparte la solicitud, el usuario que se encuentra justo encima de este en la lista se convierte en dicho usuario.
 
-Por ejemplo, si la solicitud se comparte con el usuario A y el usuario B y se modifica el acceso del usuario B, el usuario A cambia al usuario B y ahora hay dos usuarios B en la lista. Además, solo se ha modificado el acceso del usuario B principal.
+Por ejemplo, si la solicitud se comparte con el usuario A y el B y se modifica el acceso del usuario B, el usuario A cambia al B y ahora hay dos usuarios B en la lista. Además, solo se ha modificado el acceso del usuario B principal.
 
-**&quot;[!UICONTROL Uy]Error &quot; en el encabezado de la tarea**
+**Error &quot;[!UICONTROL ¡Uy!]&quot; en el encabezado de la tarea**
 
 _Tareas_
 
@@ -92,7 +92,7 @@ _Notificaciones_
 
 Cuando un usuario responde a un comentario, los demás usuarios que deberían recibir notificaciones para la respuesta no las reciben. Es posible que algunos usuarios reciban la notificación, mientras que otros no.
 
-**Comentario adicional en blanco al realizar un comentario en una prueba**
+**Prueba: comentario adicional en blanco al realizar un comentario sobre una prueba**
 
 _Pruebas_
 
@@ -100,47 +100,47 @@ Cuando un usuario hace un comentario sobre una prueba, esta también produce otr
 
 Se ha informado de este problema en pruebas de vídeo.
 
-**[!UICONTROL Actividad de revisión] La pestaña no se abre**
+La pestaña **[!UICONTROL Actividad de la prueba] no se abre**
 
 _Pruebas_
 
-Cuando un usuario está viendo una prueba y hace clic en el [!UICONTROL Actividad de revisión] pestaña, la pestaña devuelve el usuario a la [!UICONTROL Detalles de revisión] pestaña.
+Cuando un usuario está viendo una prueba y hace clic en la pestaña [!UICONTROL Actividad de la prueba], se muestran los [!UICONTROL Detalles de la prueba].
 
-**[!UICONTROL Horas planificadas] se reasignan cuando se asigna un usuario adicional a una tarea**
+Las **[!UICONTROL horas planificadas] se reasignan cuando se asigna un usuario adicional a una tarea**
 
 _Tareas_
 
-Cuando se asigna a un usuario una tarea que tiene [!UICONTROL Horas planificadas] asignado a otras personas asignadas a la tarea, el [!UICONTROL Horas planificadas] se distribuyen equitativamente a todas las personas asignadas en la tarea.
+Cuando se asigna a un usuario una tarea que tiene [!UICONTROL horas planificadas] asignadas a otras personas asignadas a la tarea, las [!UICONTROL horas planificadas] de la tarea se distribuyen equitativamente a todas las personas asignadas a la tarea.
 
 **&quot;[!UICONTROL Eliminado]&quot; se muestra como nombre de usuario en las actualizaciones del sistema cuando el problema se convierte en tarea**
 
 _Actualizaciones_
 
-Cuando un usuario que ha iniciado sesión como otro usuario convierte un problema en una tarea y el problema se asigna a un equipo, las actualizaciones del sistema muestran &quot;[!UICONTROL Eliminado]&quot; como el usuario que solicitó que el equipo trabaje en la tarea.
+Cuando un usuario que ha iniciado sesión como otro usuario convierte un problema en una tarea, y el problema se asigna a un equipo, las actualizaciones del sistema muestran “[!UICONTROL Eliminado]” como el usuario que solicitó que el equipo trabajara en la tarea.
 
 +++
 
 +++**Actualización de mantenimiento del 12 de octubre de 2023**
 
-**Flujos de trabajo eliminados para las cuentas que no los utilizan**
+**Secuencias de trabajo eliminados para las cuentas que no se utilizan**
 
 _Tableros_
 
-En el caso de las cuentas que nunca han creado un flujo de trabajo en la aplicación Tableros, el área Flujos de trabajo se ha eliminado del panel Tableros. Las cuentas que sí utilizan flujos de trabajo siguen teniendo acceso a ellas.
+En el caso de las cuentas que nunca han creado una secuencia de trabajo en la aplicación Tableros, el área Secuencias de trabajo se ha eliminado del panel Tableros. Las cuentas que sí utilizan secuencias de trabajo siguen teniendo acceso a ellas.
 
 **Los campos calculados no conservan el valor cuando el problema se convierte en tarea**
 
 _Formularios personalizados_
 
-Los campos calculados que se hacen referencia a sí mismos no conservan sus valores cuando un problema se convierte en una tarea.
+Los campos calculados que hacen referencia a sí mismos no conservan sus valores cuando un problema se convierte en una tarea.
 
-Cuando se convierte el problema en una tarea, el valor deseado se muestra correctamente en la ventana de edición. Sin embargo, una vez completada la conversión, el campo calculado muestra una &quot;N/a&quot;.
+Cuando se convierte el problema en una tarea, el valor deseado se muestra correctamente en la ventana de edición. Sin embargo, una vez completada la conversión, el campo calculado muestra “N/d”.
 
 **Error al cambiar los filtros en [!UICONTROL Inicio]**
 
 _Inicio_
 
-Cuando un usuario cambia los filtros en [!UICONTROL Inicio], el [!UICONTROL Inicio] El área de no se carga y aparece el siguiente error:
+Cuando un usuario cambia los filtros en [!UICONTROL Inicio], el área [!UICONTROL Inicio] no se carga y aparece el siguiente error:
 
 “[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
 
