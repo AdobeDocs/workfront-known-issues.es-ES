@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
 workflow-type: tm+mt
-source-wordcount: '6637'
-ht-degree: 99%
+source-wordcount: '6830'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,38 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en noviembre de 2023
+
++++**(Planificado) Actualización de mantenimiento del 9 de noviembre de 2023**
+
+**A mi widget de trabajo le faltan objetos cuando no está en la parte superior de la página**
+
+_Inicio_
+
+Si el widget Mi trabajo se encuentra en la parte superior de la nueva página de inicio, extrae todos los objetos esperados. Sin embargo, si este widget está por debajo de cualquier otro widget de la página, solo extrae 10 objetos.
+
+**No se puede generar la revisión**
+
+_Pruebas_
+
+Cuando un usuario intenta crear una prueba, esta no se crea y aparece el siguiente mensaje de error:
+
+&quot;[!UICONTROL Error al generar la revisión]&quot;
+
+Esto ocurre cuando la configuración del nivel de acceso del usuario[!UICONTROL Ver información de contacto] se establece en Deshabilitado.
+
+**Los campos se borran cuando se agrega un documento a una solicitud**
+
+_Solicitudes_
+
+Cuando un usuario está creando una solicitud, rellena los campos de un formulario y, a continuación, agrega o quita un documento, algunos campos del formulario se borran de datos y el usuario debe rellenarlos de nuevo antes de enviar la solicitud.
+
+**La tarea personal aparece en la hoja de horas**
+
+_Plantillas de horas_
+
+Cuando un usuario crea una tarea en el widget [!UICONTROL Todo] de la nueva experiencia de [!UICONTROL Inicio], dicha tarea aparece en la plantilla de horas del usuario. Esto ocurre incluso si la tarea no tiene horas registradas y el proyecto personal no está anclado.
+
++++
 
 +++**Actualización de mantenimiento del 2 de noviembre de 2023**
 
