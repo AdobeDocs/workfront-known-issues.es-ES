@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '1585'
-ht-degree: 94%
+source-wordcount: '1594'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o Lista de trabajos en Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Plantillas: las tareas secundarias aparecen desordenadas cuando se mueven debajo de la tarea principal](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Inicio: Aprobación atascada en [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)

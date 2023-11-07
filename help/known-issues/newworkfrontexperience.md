@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 88%
+source-wordcount: '848'
+ht-degree: 87%
 
 ---
 
@@ -70,6 +70,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 de noviembre de 2023 |
 | [[!UICONTROL Inicio]: el widget [!UICONTROL Solicitudes] no muestra todos los equipos asignados](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 de octubre de 2023 |
 | [[!DNL Workfront Proof]: no se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 de octubre de 2023 |
 | [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en el nuevo [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 de septiembre de 2023 |
