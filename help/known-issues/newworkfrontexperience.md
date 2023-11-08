@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '835'
-ht-degree: 88%
+source-wordcount: '842'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: Problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 de noviembre de 2023 |
 | [Solicitudes: los campos se borran cuando se agrega un documento a una solicitud](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3 de noviembre de 2023 |
 | [Actualizaciones: no se muestran los comentarios adjuntos a las actualizaciones del sistema](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 de noviembre de 2023 |
 | [Tableros: Error en la sección de comentarios de una tarjeta](known-issues-workfront/wf-boards-comment-section-error.md) | 1 de noviembre de 2023 |
