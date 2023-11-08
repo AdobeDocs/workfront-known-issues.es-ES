@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6830'
-ht-degree: 98%
+source-wordcount: '6904'
+ht-degree: 97%
 
 ---
 
@@ -51,6 +51,16 @@ Cuando un usuario está creando una solicitud, rellena los campos de un formular
 _Plantillas de horas_
 
 Cuando un usuario crea una tarea en el widget [!UICONTROL Todo] de la nueva experiencia de [!UICONTROL Inicio], dicha tarea aparece en la plantilla de horas del usuario. Esto ocurre incluso si la tarea no tiene horas registradas y el proyecto personal no está anclado.
+
++++
+
++++**Actualización de mantenimiento (Hot Fix) el 3 de noviembre de 2023**
+
+**Las tareas secundarias aparecen desordenadas cuando se mueven debajo de la tarea principal**
+
+_Plantillas_
+
+Cuando un usuario crea tareas en una plantilla y, a continuación, mueve esas tareas a una tarea principal, los números asignados a las tareas secundarias no aparecen en el orden esperado. Por lo tanto, cuando se actualiza la página, las tareas secundarias se ordenan por los números de tarea inesperados y, por lo tanto, las tareas secundarias no están ordenadas.
 
 +++
 
