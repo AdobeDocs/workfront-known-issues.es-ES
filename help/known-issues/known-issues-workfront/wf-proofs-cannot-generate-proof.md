@@ -4,14 +4,18 @@ description: Cuando un usuario intenta generar una prueba, esta no se crea y apa
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 # Pruebas: No se puede generar la prueba
+
+>[!NOTE]
+>
+>Este problema se corrigió el 9 de noviembre de 2023.
 
 Cuando un usuario intenta crear una prueba, esta no se crea y aparece el siguiente mensaje de error:
 

@@ -3,15 +3,19 @@ title: "Tableros: Error en la sección Comentarios de una tarjeta"
 description: "Cuando un usuario está viendo una tarjeta en un tablero, la variable [!UICONTROL Comentarios] no muestra comentarios ni permite al usuario hacer un comentario. En su lugar, la sección muestra un error."
 hidefromtoc: true
 feature: Agile
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 12%
+source-wordcount: '96'
+ht-degree: 17%
 
 ---
 
 
 # Tableros: Error en la sección de comentarios de una tarjeta
+
+>[!NOTE]
+>
+>Este problema se corrigió el 2 de noviembre de 2023.
 
 Cuando un usuario está viendo una tarjeta en un tablero, la variable [!UICONTROL Comentarios] no muestra comentarios ni permite al usuario hacer un comentario. En su lugar, la sección muestra el siguiente error:
 

@@ -3,15 +3,19 @@ title: '“Paneles: el usuario no puede acceder a [!UICONTROL Paneles de lienzo]
 description: “Cuando un usuario que debería tener acceso a un [!UICONTROL Tablero de lienzo] intenta acceder al [!UICONTROL Tablero de lienzo], el tablero no se carga y el usuario ve un mensaje”.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
-workflow-type: ht
-source-wordcount: '108'
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 
 # Paneles: el usuario no puede acceder a los [!UICONTROL Paneles de lienzo]
+
+>[!NOTE]
+>
+>Este problema se corrigió el 7 de noviembre de 2023.
 
 Cuando un usuario que debería tener acceso a un [!UICONTROL Tablero de lienzo] intenta acceder al [!UICONTROL Tablero de lienzo], el tablero no se carga y el usuario ve el siguiente mensaje:
 
