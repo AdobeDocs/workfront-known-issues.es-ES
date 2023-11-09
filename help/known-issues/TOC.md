@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
+source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
-source-wordcount: '1600'
-ht-degree: 93%
+source-wordcount: '1612'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Notificaciones: Notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md)
       + [Tableros: Problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o Lista de trabajos en Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
