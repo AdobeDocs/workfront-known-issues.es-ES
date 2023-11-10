@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
 source-wordcount: '1612'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 92%
       + [Notificaciones: Notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md)
       + [Tableros: Problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
-      + [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o Lista de trabajos en Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
+      + [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Plantillas: las tareas secundarias aparecen desordenadas cuando se mueven debajo de la tarea principal](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
-      + [Inicio: Aprobación atascada en [!UICONTROL Esperando mi aprobación] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [Inicio: Aprobación atascada en el widget [!UICONTROL A la espera de mi aprobación]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [Pruebas: Problemas con la activación de la fase](known-issues-workfront/wf-proofs-stage-activation-issues.md)
-      + [Pruebas: Falta la ruta al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
-      + [Solicitudes: los campos se borran cuando se agrega un documento a una solicitud](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
-      + [Actualizaciones: líneas adicionales en comentarios realizados a través de API o [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
+      + [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [Solicitudes: los campos se borran cuando se añade un documento a una solicitud](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
+      + [Actualizaciones: líneas adicionales en comentarios realizados a través de la API o  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Actualizaciones: no se muestran los comentarios adjuntos a las actualizaciones del sistema](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [Tableros: Error en la sección de comentarios de una tarjeta](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL Distribuidor de cargas de trabajo]: el [!UICONTROL Distribuidor de cargas de trabajo] se carga lentamente](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
@@ -202,7 +202,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Error de poca memoria](known-issues-workfront-fusion/fusion-low-memory-error.md)
+      + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: Error al enviar la invitación con el módulo  [!DNL Workfront] > [!UICONTROL Acciones diversas]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: el módulo de suspensión hace que se cuelguen los escenarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)

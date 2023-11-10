@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,8 +36,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Error de poca memoria](known-issues-workfront-fusion/fusion-low-memory-error.md) | 9 de noviembre de 2023 |
-| [Actualizaciones: líneas adicionales en comentarios realizados a través de API o [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 de noviembre de 2023 |
+| [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md) | 9 de noviembre de 2023 |
+| [Actualizaciones: líneas adicionales en comentarios realizados a través de la API o  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 de noviembre de 2023 |
 
 {style="table-layout:auto"}
 

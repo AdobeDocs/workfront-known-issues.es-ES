@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
 source-wordcount: '6903'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -44,7 +44,7 @@ Esto ocurre cuando la configuración del nivel de acceso del usuario[!UICONTROL 
 
 _Solicitudes_
 
-Cuando un usuario está creando una solicitud, rellena los campos de un formulario y, a continuación, agrega o quita un documento, algunos campos del formulario se borran de datos y el usuario debe rellenarlos de nuevo antes de enviar la solicitud.
+Cuando un usuario está creando una solicitud, rellena los campos de un formulario y, a continuación, añade o quita un documento, algunos campos del formulario se vacían de datos y el usuario debe rellenarlos de nuevo antes de enviar la solicitud.
 
 **La tarea personal aparece en la hoja de horas**
 
@@ -60,7 +60,7 @@ Cuando un usuario crea una tarea en el widget [!UICONTROL Todo] de la nueva expe
 
 _Plantillas_
 
-Cuando un usuario crea tareas en una plantilla y, a continuación, mueve esas tareas a una tarea principal, los números asignados a las tareas secundarias no aparecen en el orden esperado. Por lo tanto, cuando se actualiza la página, las tareas secundarias se ordenan por los números de tarea inesperados y, por lo tanto, las tareas secundarias no están ordenadas.
+Cuando un usuario crea tareas en una plantilla y, a continuación, mueve esas tareas debajo de una tarea principal, los números asignados a las tareas secundarias no aparecen en el orden previsto. Por lo tanto, cuando se actualiza la página, las tareas secundarias se ordenan por números de tareas inesperados y, como resultado, las tareas secundarias aparecen desordenadas.
 
 +++
 
@@ -72,7 +72,7 @@ _Informes_
 
 Cuando un campo de un informe incluye una expresión de valor que hace referencia a una actualización privada, los usuarios que no están incluidos en la actualización privada pueden verlo en el informe.
 
-**El usuario se muestra como sobreasignado debido a una capacidad inexacta**
+**El usuario se muestra con un exceso de asignaciones debido a una capacidad inexacta**
 
 _Distribuidor de cargas de trabajo_
 
