@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '1612'
-ht-degree: 98%
+source-wordcount: '1628'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas: Las fechas de las tareas aparecen atenuadas durante un tiempo prolongado al recalcular la escala de tiempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [Tableros: No se puede editar el color de etiqueta](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [Notificaciones: Notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md)
       + [Tableros: Problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
