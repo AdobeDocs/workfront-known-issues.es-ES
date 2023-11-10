@@ -1,17 +1,17 @@
 ---
-title: "Pruebas: Falta la ruta al acceder a la prueba desde el vínculo de correo electrónico"
-description: '"Cuando un usuario ve una prueba haciendo clic en el botón Ir a la prueba en un correo electrónico de notificación de prueba, falta el vínculo de ruta de exploración al objeto principal de la prueba".'
+title: '“Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico”'
+description: “Cuando un usuario ve una prueba haciendo clic en el botón Ir a la prueba en un correo electrónico de notificación de prueba, falta el vínculo de ruta de exploración al objeto principal de la prueba”.
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Pruebas: Falta la ruta al acceder a la prueba desde el vínculo de correo electrónico
+# Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico
 
 Cuando un usuario ve una prueba haciendo clic en el botón Ir a la prueba en un correo electrónico de notificación de prueba, falta el vínculo de ruta de exploración al objeto principal de la prueba.
 

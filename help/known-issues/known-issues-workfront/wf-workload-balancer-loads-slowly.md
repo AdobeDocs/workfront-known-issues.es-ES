@@ -4,7 +4,7 @@ description: “Cuando un usuario abre el Distribuidor de cargas de trabajo, la 
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
