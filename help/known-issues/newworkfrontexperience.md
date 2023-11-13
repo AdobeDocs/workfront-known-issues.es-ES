@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
+source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
-source-wordcount: '828'
-ht-degree: 94%
+source-wordcount: '838'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Inicio]: Las tareas no aparecen en [!UICONTROL Mi trabajo] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 de noviembre de 2023 |
 | [Tableros: No se puede editar el color de etiqueta](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 de noviembre de 2023 |
 | [Tableros: Problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 de noviembre de 2023 |
 | [Actualizaciones: no se muestran los comentarios adjuntos a las actualizaciones del sistema](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 de noviembre de 2023 |
