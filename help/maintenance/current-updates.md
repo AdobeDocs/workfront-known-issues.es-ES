@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
-source-wordcount: '6903'
+source-wordcount: '7087'
 ht-degree: 98%
 
 ---
@@ -21,6 +21,32 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en noviembre de 2023
+
++++**(Planificado) Actualización de mantenimiento del 16 de noviembre de 2023**
+
+**Las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas informadas a través de la API**
+
+_Informes_
+
+Cuando un usuario realiza una llamada de API al objeto RPBGHR para un proyecto determinado y compara los resultados de esa llamada con el informe de utilización de dicho proyecto, los resultados no coinciden.
+
+**Moneda personalizada incorrecta mostrada en la página Nueva solicitud**
+
+_Solicitudes_
+
+Cuando un usuario envía una solicitud y realiza una selección que cambia la lógica de visualización en el formulario de solicitud, la moneda mostrada vuelve a la moneda predeterminada en lugar de la personalizada que se establece en el proyecto que representa la cola de solicitudes.
+
+Cuando el usuario envía su solicitud, la moneda se muestra como la moneda personalizada correcta para el proyecto que representa la cola de solicitudes
+
+**Líneas adicionales en los comentarios realizados mediante API o[!DNL Workfront Fusion]**
+
+_Actualizaciones_
+
+Cuando un usuario envía un comentario a través de la API o de [!DNL Workfront Fusion], el comentario que aparece en el área de Actualizaciones muestra líneas adicionales. A veces hay tantas líneas que el usuario debe desplazarse hacia abajo para ver el comentario.
+
+Se ha informado de este problema en la nueva experiencia de comentarios.
+
++++
 
 +++**Actualización de mantenimiento del 9 de noviembre de 2023**
 
