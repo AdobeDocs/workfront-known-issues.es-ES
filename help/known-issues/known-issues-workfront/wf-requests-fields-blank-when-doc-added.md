@@ -4,7 +4,7 @@ description: “Cuando un usuario crea una solicitud, rellena los campos de un f
 hidefromtoc: true
 feature: Requests
 source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 

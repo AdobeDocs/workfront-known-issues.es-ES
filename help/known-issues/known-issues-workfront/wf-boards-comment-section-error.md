@@ -4,7 +4,7 @@ description: “Cuando un usuario está viendo una tarjeta en un tablero, la sec
 hidefromtoc: true
 feature: Agile
 source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 

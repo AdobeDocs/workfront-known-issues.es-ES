@@ -4,7 +4,7 @@ description: “Cuando un usuario crea tareas en una plantilla y, a continuació
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
 ht-degree: 100%
 
