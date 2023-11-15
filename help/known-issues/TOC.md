@@ -5,7 +5,7 @@ role: User
 source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
 source-wordcount: '1637'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 96%
       + [[!UICONTROL Inicio]: Las tareas no aparecen en [!UICONTROL Mi trabajo] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Tareas: Las fechas de las tareas aparecen atenuadas durante un tiempo prolongado al recalcular la escala de tiempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Tableros: No se puede editar el color de etiqueta](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
-      + [Notificaciones: Notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md)
-      + [Tableros: Problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
+      + [Notificaciones: notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md)
+      + [Tableros: problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Plantillas: las tareas secundarias aparecen desordenadas cuando se mueven debajo de la tarea principal](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)

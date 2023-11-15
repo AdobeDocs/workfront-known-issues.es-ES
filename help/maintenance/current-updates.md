@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
 source-wordcount: '7087'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -50,13 +50,13 @@ Se ha informado de este problema en la nueva experiencia de comentarios.
 
 +++**Actualización de mantenimiento del 9 de noviembre de 2023**
 
-**A mi widget de trabajo le faltan objetos cuando no está en la parte superior de la página**
+**Al widget Mi trabajo le faltan objetos cuando no está en la parte superior de la página**
 
 _Inicio_
 
 Si el widget Mi trabajo se encuentra en la parte superior de la nueva página de inicio, extrae todos los objetos esperados. Sin embargo, si este widget está por debajo de cualquier otro widget de la página, solo extrae 10 objetos.
 
-**No se puede generar la revisión**
+**No se puede generar la prueba**
 
 _Pruebas_
 
@@ -66,13 +66,13 @@ Cuando un usuario intenta crear una prueba, esta no se crea y aparece el siguien
 
 Esto ocurre cuando la configuración del nivel de acceso del usuario[!UICONTROL Ver información de contacto] se establece en Deshabilitado.
 
-**Los campos se borran cuando se agrega un documento a una solicitud**
+**Solicitudes: los campos se borran cuando se añade un documento a una solicitud**
 
 _Solicitudes_
 
 Cuando un usuario está creando una solicitud, rellena los campos de un formulario y, a continuación, añade o quita un documento, algunos campos del formulario se vacían de datos y el usuario debe rellenarlos de nuevo antes de enviar la solicitud.
 
-**La tarea personal aparece en la hoja de horas**
+**Plantillas de horas: la tarea personal aparece en la plantilla de horas**
 
 _Plantillas de horas_
 
@@ -80,7 +80,7 @@ Cuando un usuario crea una tarea en el widget [!UICONTROL Todo] de la nueva expe
 
 +++
 
-+++**Actualización de mantenimiento (Hot Fix) el 3 de noviembre de 2023**
++++**Actualización de mantenimiento de (Hot Fix) el 3 de noviembre de 2023**
 
 **Las tareas secundarias aparecen desordenadas cuando se mueven debajo de la tarea principal**
 
