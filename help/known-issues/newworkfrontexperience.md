@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 97%
+source-wordcount: '803'
+ht-degree: 96%
 
 ---
 
@@ -46,9 +46,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Inicio: Aprobación atascada en el widget [!UICONTROL A la espera de mi aprobación]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de noviembre de 2023 |
 | [Pruebas: Problemas con la activación de la fase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de noviembre de 2023 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |
-| [Actualizaciones: líneas adicionales en comentarios realizados a través de la API o  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 de noviembre de 2023 |
-| [Solicitudes: se muestra una moneda personalizada incorrecta en la página Nueva solicitud](known-issues-workfront/wf-requests-custom-currency.md) | 30 de octubre de 2023 |
-| [Informes: las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas notificadas a través de la API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de octubre de 2023 |
 | [[!DNL Workfront Proof]: marca de tiempo inexacta en [!UICONTROL Resumen de prueba]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de octubre de 2023 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de octubre de 2023 |
 | [Tableros: las tarjetas esperadas no se muestran en el tablero](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 de octubre de 2023 |
