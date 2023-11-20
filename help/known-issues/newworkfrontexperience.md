@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
+source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '793'
 ht-degree: 95%
 
 ---
@@ -40,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Informes: Error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 de noviembre de 2023 |
 | [Tareas: Las fechas de las tareas aparecen atenuadas durante un tiempo prolongado al recalcular la escala de tiempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de noviembre de 2023 |
 | [Notificaciones: notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md) | 8 de noviembre de 2023 |
 | [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de noviembre de 2023 |

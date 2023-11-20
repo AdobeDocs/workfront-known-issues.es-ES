@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
+source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
 workflow-type: tm+mt
-source-wordcount: '1644'
-ht-degree: 98%
+source-wordcount: '1650'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: Error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Plantillas: no se puede seleccionar una plantilla de [!UICONTROL Favoritos] lista](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Inicio]: Las tareas no aparecen en [!UICONTROL Mi trabajo] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Tareas: Las fechas de las tareas aparecen atenuadas durante un tiempo prolongado al recalcular la escala de tiempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
