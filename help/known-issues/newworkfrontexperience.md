@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+source-git-commit: 41df80641db82b225753338d8564e12b90566c40
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 98%
+source-wordcount: '814'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: La tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de noviembre de 2023 |
 | [Plantillas: no se puede seleccionar una plantilla de [!UICONTROL Favoritos] lista](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 de noviembre de 2023 |
 | [[!UICONTROL Inicio]: las tareas no aparecen en el widget [!UICONTROL Mi trabajo]](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 de noviembre de 2023 |
 | [Tableros: no se puede editar el color de la etiqueta](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 de noviembre de 2023 |
@@ -40,6 +41,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Formularios personalizados: no se pueden agregar ni eliminar por lotes formularios personalizados en tareas de plantilla](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 de noviembre de 2023 |
 | [Informes: Error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 de noviembre de 2023 |
 | [Tareas: las fechas de las tareas se muestran en gris durante un tiempo prolongado al recalcular la cronología](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de noviembre de 2023 |
 | [Notificaciones: notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md) | 8 de noviembre de 2023 |
