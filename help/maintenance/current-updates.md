@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
 source-wordcount: '7086'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**Actualización de mantenimiento del 16 de noviembre de 2023**
 
-**Las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas informadas a través de la API**
+**Informes: las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas notificadas a través de la API**
 
 _Informes_
 
 Cuando un usuario realiza una llamada de API al objeto RPBGHR para un proyecto determinado y compara los resultados de esa llamada con el informe de utilización de dicho proyecto, los resultados no coinciden.
 
-**Moneda personalizada incorrecta mostrada en la página Nueva solicitud**
+**Solicitudes: se muestra una moneda personalizada incorrecta en la página Nueva solicitud**
 
 _Solicitudes_
 
@@ -38,7 +38,7 @@ Cuando un usuario envía una solicitud y realiza una selección que cambia la l�
 
 Cuando el usuario envía su solicitud, la moneda se muestra como la moneda personalizada correcta para el proyecto que representa la cola de solicitudes
 
-**Líneas adicionales en los comentarios realizados mediante API o[!DNL Workfront Fusion]**
+**Líneas adicionales en los comentarios realizados a través de la API o[!DNL Workfront Fusion]**
 
 _Actualizaciones_
 
