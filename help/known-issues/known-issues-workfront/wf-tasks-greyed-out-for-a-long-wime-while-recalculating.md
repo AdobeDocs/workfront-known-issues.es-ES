@@ -1,21 +1,21 @@
 ---
-title: '"Tareas: Las fechas de las tareas aparecen atenuadas durante un tiempo prolongado al recalcular la escala de tiempo'
-description: '"Cuando un usuario realiza un cambio en una lista de tareas que pone en déclencheur el recálculo de una cronología, también se recalculan otras tareas afectadas por esa cronología. Mientras esto sucede, las fechas afectadas en estas otras tareas aparecen atenuadas. En este caso, las tareas permanecen atenuadas durante largos periodos de tiempo. ”'
+title: '“Tareas: las fechas de las tareas se muestran en gris durante un tiempo prolongado al recalcular la cronología'
+description: “Cuando se realiza un cambio en una lista de tareas que desencadena un nuevo cálculo de una cronología, también se vuelven a calcular otras tareas afectadas por esa cronología. Mientras esto sucede, las fechas afectadas en estas otras tareas se muestran en gris. Para este problema, las tareas se muestran en gris durante largos períodos de tiempo. ”
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Tareas: Las fechas de las tareas aparecen atenuadas durante un tiempo prolongado al recalcular la escala de tiempo
+# Tareas: las fechas de las tareas se muestran en gris durante un tiempo prolongado al recalcular la cronología
 
-Cuando un usuario realiza un cambio en una lista de tareas que déclencheur un recálculo de una cronología, también se recalculan otras tareas afectadas por esa cronología. Mientras esto sucede, las fechas afectadas en estas otras tareas aparecen atenuadas. En este caso, las tareas permanecen atenuadas durante largos periodos de tiempo.
+Cuando un usuario realiza un cambio en una lista de tareas que desencadena un nuevo cálculo de una cronología, también se vuelven a calcular otras tareas afectadas por esa cronología. Mientras esto sucede, las fechas afectadas en estas otras tareas se muestran en gris. Para este problema, las tareas se muestran en gris durante largos períodos de tiempo.
 
-Los cambios realizados en estas fechas atenuadas mientras están atenuadas se guardan.
+Los cambios realizados en estas fechas en gris mientras están en gris se guardan.
 
 **Solución alternativa**
 
