@@ -4,8 +4,8 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 8f575eb5ae601f5adc6f4c454ca0a8807c2ab6ef
 workflow-type: tm+mt
-source-wordcount: '1669'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 98%
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Formularios personalizados: no se pueden agregar ni eliminar por lotes formularios personalizados en tareas de plantilla](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Tableros: La tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
-      + [Informes: Error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-when-exporting.md)
-      + [Plantillas: no se puede seleccionar una plantilla de [!UICONTROL Favoritos] lista](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Informes: error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-when-exporting.md)
+      + [Plantillas: no se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Inicio]: las tareas no aparecen en el widget [!UICONTROL Mi trabajo]](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Tareas: las fechas de las tareas se muestran en gris durante un tiempo prolongado al recalcular la cronología](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Tableros: no se puede editar el color de la etiqueta](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
