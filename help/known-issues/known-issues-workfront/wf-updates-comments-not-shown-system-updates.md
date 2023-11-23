@@ -4,7 +4,7 @@ description: “Cuando un usuario realiza un comentario sobre una acción del si
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
