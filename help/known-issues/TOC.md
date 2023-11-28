@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
 workflow-type: tm+mt
 source-wordcount: '1672'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Documentos: No se puede acceder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
-      + [Formularios personalizados: no se pueden agregar ni eliminar por lotes formularios personalizados en tareas de plantilla](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
-      + [Tableros: La tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
+      + [Formularios personalizados: no se pueden añadir ni quitar de forma masiva formularios personalizados en tareas de plantilla](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
+      + [Tableros: la tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Informes: error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Plantillas: no se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Inicio]: las tareas no aparecen en el widget [!UICONTROL Mi trabajo]](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
