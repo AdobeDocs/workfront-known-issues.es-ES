@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1682'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas: La duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documentos: No se puede acceder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formularios personalizados: no se pueden añadir ni quitar de forma masiva formularios personalizados en tareas de plantilla](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Tableros: la tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)

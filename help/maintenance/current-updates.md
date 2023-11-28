@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en noviembre de 2023
+
++++**(Planificado) Actualización de mantenimiento del 30 de noviembre de 2023**
+
+**Las tareas no aparecen en [!UICONTROL Mi trabajo] widget**
+
+_[!UICONTROL Inicio]_
+
+Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo ] del usuario.
+
+**La página de inicio de sesión redirige a la página de aterrizaje de cierre**
+
+_Inicio de sesión_
+
+Cuando un usuario intenta iniciar la sesión en [!DNL Workfront], en lugar de la página de inicio de sesión, se le dirige a la página en la que aterrizaría si cerrara la sesión.
+
+**Error 500 al exportar un informe**
+
+_Informes_
+
+Cuando un usuario intenta exportar un informe, la exportación falla con el siguiente error:
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+Se ha informado de este problema en informes que utilizan un `valueexpression` para hacer referencia a la nota de texto `lastNote`.
+
++++
 
 +++**Actualización de mantenimiento del 16 de noviembre de 2023**
 
@@ -48,7 +76,7 @@ Se ha informado de este problema en la nueva experiencia de comentarios.
 
 +++
 
-    +++**Actualización de mantenimiento del 9 de noviembre de 2023**
++++**Actualización de mantenimiento del 9 de noviembre de 2023**
 
 **Al widget Mi trabajo le faltan objetos cuando no está en la parte superior de la página**
 
