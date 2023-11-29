@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '1693'
-ht-degree: 98%
+source-wordcount: '1705'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Pruebas: Las pruebas cuya aprobación está pendiente no aparecen en los informes](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Tareas: La duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documentos: No se puede acceder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)

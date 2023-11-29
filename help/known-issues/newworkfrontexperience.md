@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 97%
+source-wordcount: '854'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 de noviembre de 2023 |
 | [Tareas: La duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28 de noviembre de 2023 |
 | [Documentos: No se puede acceder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de noviembre de 2023 |
 | [Tableros: la tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de noviembre de 2023 |
