@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
+source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '837'
 ht-degree: 96%
 
 ---
@@ -30,7 +30,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Documentos: no se puede acceder a  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de noviembre de 2023 |
 | [Tableros: la tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de noviembre de 2023 |
 | [Plantillas: no se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 de noviembre de 2023 |
-| [[!UICONTROL Inicio]: las tareas no aparecen en el widget [!UICONTROL Mi trabajo]](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 de noviembre de 2023 |
 | [Tableros: no se puede editar el color de la etiqueta](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 de noviembre de 2023 |
 | [Tableros: problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 de noviembre de 2023 |
 | [[!UICONTROL  Workfront Proof]: correos electrónicos y notificaciones retrasados](known-issues-workfront-proof/proof-delayed-notification.md) | 26 de octubre de 2023 |
@@ -46,7 +45,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 |----------------------------------| ----------------- |
 | [Pruebas: Las pruebas cuya aprobación está pendiente no aparecen en los informes](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 de noviembre de 2023 |
 | [Formularios personalizados: no se pueden añadir ni quitar de forma masiva formularios personalizados en tareas de la plantilla](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 de noviembre de 2023 |
-| [Informes: Error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 de noviembre de 2023 |
 | [Tareas: las fechas de las tareas se muestran en gris durante un tiempo prolongado al recalcular la cronología](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de noviembre de 2023 |
 | [Notificaciones: notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md) | 8 de noviembre de 2023 |
 | [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de noviembre de 2023 |

@@ -1,17 +1,21 @@
 ---
-title: '“Inicio: las tareas no se muestran en el widget Mi trabajo”'
-description: “Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en Inicio, algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que hay tareas asignadas en el proyecto, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo] del usuario”.
+title: 'Inicio: las tareas no aparecen en el widget Mi trabajo'
+description: Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en Inicio, algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo ] del usuario.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
-workflow-type: ht
-source-wordcount: '132'
+exl-id: be920a9a-e9d0-482c-ae83-cb22626ec98c
+source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+workflow-type: tm+mt
+source-wordcount: '138'
 ht-degree: 100%
 
 ---
 
-
 # [!UICONTROL Inicio]: las tareas no aparecen en el widget [!UICONTROL Mi trabajo]
+
+>[!NOTE]
+>
+>Este problema se corrigió el 30 de noviembre de 2023.
 
 Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo ] del usuario.
 

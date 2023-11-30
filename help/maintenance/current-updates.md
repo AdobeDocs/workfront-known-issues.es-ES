@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '7227'
+source-wordcount: '7226'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en noviembre de 2023
 
-+++**(Planificado) Actualización de mantenimiento del 30 de noviembre de 2023**
++++**Actualización de mantenimiento del 30 de noviembre de 2023**
 
 **Las tareas no aparecen en [!UICONTROL Mi trabajo] widget**
 
