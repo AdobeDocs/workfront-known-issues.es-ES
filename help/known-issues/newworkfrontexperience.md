@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 95%
+source-wordcount: '868'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: Error en [!UICONTROL Comentarios] sección de tarjetas](known-issues-workfront/wf-boards-comments-section-error.md) | 1 de diciembre de 2023 |
 | [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 de noviembre de 2023 |
 | [Documentos: no se puede acceder a  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de noviembre de 2023 |
 | [Tableros: la tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de noviembre de 2023 |
@@ -40,6 +41,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Tareas / Problemas: Problemas al agregar elementos de trabajo en la vista del tablero de tareas o problemas](known-issues-workfront/wf-tasks-issues-board-view.md) | 1 de diciembre de 2023 |
 | [Plantillas de horas: la tarea personal aparece en la plantilla de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 de noviembre de 2023 |
 | [Informes: las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas notificadas a través de la API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de noviembre de 2023 |
 | [Tareas: La duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 de noviembre de 2023 |

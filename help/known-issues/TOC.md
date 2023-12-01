@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1713'
-ht-degree: 97%
+source-wordcount: '1734'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tareas / Problemas: Problemas al agregar elementos de trabajo en la vista del tablero de tareas o problemas](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [Tableros: Error en [!UICONTROL Comentarios] sección de tarjetas](known-issues-workfront/wf-boards-comments-section-error.md)
       + [Configuración: No se puede usar [!UICONTROL Kick-Start] para configurar agrupaciones](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Pruebas: Las pruebas cuya aprobación está pendiente no aparecen en los informes](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
