@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
 workflow-type: tm+mt
-source-wordcount: '7245'
-ht-degree: 99%
+source-wordcount: '7401'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,29 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 >Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado el problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en diciembre de 2023
+
++++**Actualización de mantenimiento el viernes, 07 de diciembre de 2023**
+
+**Aprobación atascada en [!UICONTROL Esperando mi aprobación] widget**
+
+_Inicio_
+
+Cuando se carga una nueva versión de un documento y la versión anterior tiene una aprobación incompleta, la versión antigua del documento se queda atascada en el widget del aprobador [!UICONTROL A la espera de mi aprobación]. La aprobación no se puede confirmar porque hay una nueva versión y no se puede eliminar del widget.
+
+**Problemas al agregar elementos de trabajo en la vista del tablero de tareas o problemas**
+
+_Tareas y problemas_
+
+Cuando un usuario está viendo la vista del Panel del área de Tareas o Problemas de un proyecto e intenta agregar una tarea o un problema, pueden ocurrir los siguientes problemas:
+
+* La ventana emergente cambia entre dos estilos de ventana diferentes
+* El usuario no puede cerrar la ventana emergente
+
+Se ha informado de que esto ocurre cuando un usuario selecciona un área de la navegación izquierda de la ventana emergente antes de introducir información.
+
++++
 
 ## Actualizaciones en noviembre de 2023
 
