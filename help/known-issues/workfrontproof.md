@@ -6,8 +6,8 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 97%
+source-wordcount: '385'
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: Las pruebas cuya aprobación está pendiente no aparecen en los informes](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 de noviembre de 2023 |
+| [Pruebas: las pruebas cuya aprobación está pendiente no aparecen en los informes](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 de noviembre de 2023 |
 | [Inicio: Aprobación atascada en el widget [!UICONTROL A la espera de mi aprobación]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de noviembre de 2023 |
 | [Pruebas: Problemas con la activación de la fase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de noviembre de 2023 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |

@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '7226'
+source-wordcount: '7245'
 ht-degree: 99%
 
 ---
@@ -22,15 +22,15 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en noviembre de 2023
 
-+++**Actualización de mantenimiento del 30 de noviembre de 2023**
++++**Actualización de mantenimiento del viernes, 30 de noviembre de 2023**
 
-**Las tareas no aparecen en [!UICONTROL Mi trabajo] widget**
+**Tareas que no aparecen en el widget [!UICONTROL Mi trabajo]**
 
 _[!UICONTROL Inicio]_
 
 Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo ] del usuario.
 
-**La página de inicio de sesión redirige a la página de aterrizaje de cierre**
+**La página de inicio de sesión redirige a la página de aterrizaje de cierre de sesión**
 
 _Inicio de sesión_
 
@@ -238,7 +238,7 @@ _Inicio_
 
 Cuando un usuario cambia los filtros en [!UICONTROL Inicio], el área [!UICONTROL Inicio] no se carga y aparece el siguiente error:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+&quot;[!UICONTROL Se ha producido un error y se está tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 +++
 

@@ -4,8 +4,8 @@ user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1734'
-ht-degree: 96%
+source-wordcount: '1743'
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
       + [Configuración: No se puede usar [!UICONTROL Kick-Start] para configurar agrupaciones](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Pruebas: Las pruebas cuya aprobación está pendiente no aparecen en los informes](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
-      + [Tareas: La duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
+      + [Tareas: la duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documentos: no se puede acceder a  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formularios personalizados: no se pueden añadir ni quitar de forma masiva formularios personalizados en tareas de plantilla](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Tableros: la tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
