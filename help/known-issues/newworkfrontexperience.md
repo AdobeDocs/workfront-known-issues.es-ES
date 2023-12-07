@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
+source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
 workflow-type: tm+mt
-source-wordcount: '889'
-ht-degree: 94%
+source-wordcount: '865'
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 |----------------------------------| ----------------- |
 | [Estado: [!UICONTROL Uy] error al ocultar el estado](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | jueves, 06 de diciembre de 2023 |
 | [Actualizaciones: Faltan algunas actualizaciones en la nueva experiencia de comentarios](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | jueves, 06 de diciembre de 2023 |
-| [Tareas / Problemas: Problemas al agregar elementos de trabajo en la vista del tablero de tareas o problemas](known-issues-workfront/wf-tasks-issues-board-view.md) | sábado, 01 de diciembre de 2023 |
 | [Plantillas de horas: la tarea personal aparece en la plantilla de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | viernes, 30 de noviembre de 2023 |
 | [Informes: las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas notificadas a través de la API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | viernes, 30 de noviembre de 2023 |
 | [Tareas: la duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | viernes, 30 de noviembre de 2023 |
@@ -52,7 +51,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Tareas: las fechas de las tareas se muestran en gris durante un tiempo prolongado al recalcular la cronología](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de noviembre de 2023 |
 | [Notificaciones: notificación por correo electrónico no recibida cuando el usuario está etiquetado en un comentario](known-issues-workfront/wf-notif-email-not-received.md) | 8 de noviembre de 2023 |
 | [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de noviembre de 2023 |
-| [Inicio: Aprobación atascada en el widget [!UICONTROL A la espera de mi aprobación]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de noviembre de 2023 |
 | [Pruebas: Problemas con la activación de la fase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de noviembre de 2023 |
 | [Tareas: error &quot;[!UICONTROL Uy]&quot; en el encabezado de la tarea](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de octubre de 2023 |
 | [Pruebas: no se puede generar la prueba](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de octubre de 2023 |
