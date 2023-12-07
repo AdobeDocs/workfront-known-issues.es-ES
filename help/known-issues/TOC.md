@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
+source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 97%
+source-wordcount: '1792'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Configuración: faltan los estados de problemas predeterminados en algunos tipos de problemas en la Configuración](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [Tableros: Las tarjetas no se mueven a la columna adecuada cuando se cambia el estado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [Inicio: los widgets Mis proyectos y Mis tareas muestran solo 25 elementos](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Estado: [!UICONTROL Uy] error al ocultar el estado](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Actualizaciones: Faltan algunas actualizaciones en la nueva experiencia de comentarios](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Tareas / Problemas: Problemas al agregar elementos de trabajo en la vista del tablero de tareas o problemas](known-issues-workfront/wf-tasks-issues-board-view.md)

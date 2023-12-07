@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
+source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 96%
+source-wordcount: '901'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Configuración: faltan los estados de problemas predeterminados en algunos tipos de problemas en la Configuración](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | viernes, 07 de diciembre de 2023 |
+| [Tableros: Las tarjetas no se mueven a la columna adecuada cuando se cambia el estado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | viernes, 07 de diciembre de 2023 |
 | [Tableros: Error en [!UICONTROL Comentarios] sección de tarjetas](known-issues-workfront/wf-boards-comments-section-error.md) | sábado, 01 de diciembre de 2023 |
 | [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 de noviembre de 2023 |
 | [Documentos: no se puede acceder a  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de noviembre de 2023 |
@@ -41,6 +43,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Inicio: los widgets Mis proyectos y Mis tareas muestran solo 25 elementos](known-issues-workfront/wf-home-widgets-show-25-items.md) | viernes, 07 de diciembre de 2023 |
 | [Estado: [!UICONTROL Uy] error al ocultar el estado](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | jueves, 06 de diciembre de 2023 |
 | [Actualizaciones: Faltan algunas actualizaciones en la nueva experiencia de comentarios](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | jueves, 06 de diciembre de 2023 |
 | [Plantillas de horas: la tarea personal aparece en la plantilla de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | viernes, 30 de noviembre de 2023 |
