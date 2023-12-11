@@ -5,7 +5,7 @@ role: User
 source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
 source-wordcount: '1792'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 95%
       + [Inicio: los widgets Mis proyectos y Mis tareas muestran solo 25 elementos](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Estado: [!UICONTROL Uy] error al ocultar el estado](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Actualizaciones: Faltan algunas actualizaciones en la nueva experiencia de comentarios](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [Tareas / Problemas: Problemas al agregar elementos de trabajo en la vista del tablero de tareas o problemas](known-issues-workfront/wf-tasks-issues-board-view.md)
-      + [Tableros: Error en [!UICONTROL Comentarios] sección de tarjetas](known-issues-workfront/wf-boards-comments-section-error.md)
-      + [Configuración: No se puede usar [!UICONTROL Kick-Start] para configurar agrupaciones](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
+      + [Tareas/Problemas: problemas al añadir elementos de trabajo en la vista Tablero de las tareas o problemas](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [Tableros: error en la sección [!UICONTROL Comentarios] de las tarjetas](known-issues-workfront/wf-boards-comments-section-error.md)
+      + [Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar las agrupaciones](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Pruebas: Las pruebas cuya aprobación está pendiente no aparecen en los informes](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Tareas: la duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
