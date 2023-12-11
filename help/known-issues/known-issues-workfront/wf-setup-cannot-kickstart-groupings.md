@@ -1,27 +1,27 @@
 ---
-title: "Configuración: No se puede utilizar [!UICONTROL Kick-Start] para configurar agrupaciones"
-description: '"Cuando un usuario intenta [!UICONTROL Kick-Start] En una agrupación, la importación no se ha realizado correctamente y el usuario ve un mensaje de error".'
+title: '“Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar las agrupaciones”'
+description: “Cuando un usuario intenta realizar [!UICONTROL Primeros pasos] en una agrupación, la importación no se realiza correctamente y aparece un mensaje de error”.
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
-workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 22%
+workflow-type: ht
+source-wordcount: '164'
+ht-degree: 100%
 
 ---
 
 
-# Configuración: No se puede usar [!UICONTROL Kick-Start] para configurar agrupaciones
+# Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar agrupaciones
 
 >[!NOTE]
 >
 >El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
-Cuando un usuario intenta [!UICONTROL Kick-Start] En una agrupación, la importación no se ha realizado correctamente y el usuario ve un mensaje de error similar a uno de los siguientes:
+Cuando un usuario intenta realizar [!UICONTROL Primeros pasos] en una agrupación, la importación no se realiza correctamente y aparece un mensaje de error similar a uno de los siguientes:
 
-* [!UICONTROL Se produjo el siguiente error: Los datos proporcionados parecen estar en el XML de Office 2007+. Llama a la parte del punto de interés que trata de los documentos de Office OLE2. Debe llamar a una parte diferente del punto de interés para procesar estos datos (por ejemplo, XSSF en lugar de HSSF)]
-* [!UICONTROL ¡Uy! Se ha producido un error. Archivo de preferencia no encontrado. Clave de preferencia: fila temporal: 3 hoja: UIGB]
+* [!UICONTROL Se ha producido el siguiente error: Los datos proporcionados parecen estar en Office 2007+ XML. Está llamando a la parte del POI que trata de los documentos de Office OLE2. Es necesario llamar a una parte diferente del POI para procesar estos datos (por ejemplo, XSSF en lugar de HSSF)]
+* [!UICONTROL ¡Uy! Se ha producido un error. Archivo de preferencia no encontrado. Clave de preferencia: fila temporal: hoja 3: UIGB]
 
-Esto puede ocurrir aunque los filtros y las vistas se hayan [!UICONTROL Iniciado].
+Esto puede ocurrir aunque los filtros y las vistas se hayan [!UICONTROL iniciado].
 
 _Notificado por primera vez el 1 de junio de 2023._
