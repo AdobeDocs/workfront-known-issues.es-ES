@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
+source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
 workflow-type: tm+mt
-source-wordcount: '7401'
-ht-degree: 98%
+source-wordcount: '7435'
+ht-degree: 99%
 
 ---
 
@@ -22,6 +22,15 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en diciembre de 2023
 
++++**Actualización de mantenimiento el viernes, 14 de diciembre de 2023**
+
+**Las pruebas cuya aprobación está pendiente no aparecen en los informes**
+
+_Pruebas_
+
+Cuando un usuario examina un informe en busca de aprobaciones de pruebas pendientes, algunas aprobaciones pendientes no aparecen en el informe.
++++
+
 +++**Actualización de mantenimiento el viernes, 07 de diciembre de 2023**
 
 **Aprobación atascada en [!UICONTROL Esperando mi aprobación] widget**
@@ -34,12 +43,12 @@ Cuando se carga una nueva versión de un documento y la versión anterior tiene 
 
 _Tareas y problemas_
 
-Cuando un usuario está viendo la vista del Panel del área de Tareas o Problemas de un proyecto e intenta agregar una tarea o un problema, pueden ocurrir los siguientes problemas:
+Cuando se está viendo la vista del Tablero del área de Tareas o Problemas de un proyecto y se intenta añadir una tarea o un problema, pueden ocurrir los siguientes problemas:
 
 * La ventana emergente cambia entre dos estilos de ventana diferentes
-* El usuario no puede cerrar la ventana emergente
+* No se puede cerrar la ventana emergente
 
-Se ha informado de que esto ocurre cuando un usuario selecciona un área de la navegación izquierda de la ventana emergente antes de introducir información.
+Se ha informado de que esto ocurre cuando se selecciona un área en la navegación izquierda de la ventana emergente antes de introducir información.
 
 +++
 
