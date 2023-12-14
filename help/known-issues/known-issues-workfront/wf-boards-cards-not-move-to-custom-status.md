@@ -1,17 +1,21 @@
 ---
-title: '“Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse”'
-description: “Cuando un usuario mueve una tarjeta a una columna diferente y luego la actualiza o regresa al tablero, la tarjeta vuelve a su columna original”.
+title: "Tableros: Las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarlas"
+description: Cuando un usuario mueve una tarjeta a una columna diferente y luego la actualiza o regresa al tablero, la tarjeta vuelve a su columna original.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 89%
 
 ---
 
-
 # Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse
+
+>[!NOTE]
+>
+>Este problema se ha cerrado porque funciona como se diseñó.
 
 Cuando un usuario mueve una tarjeta a una columna diferente y luego la actualiza o regresa al tablero, la tarjeta vuelve a su columna original.
 

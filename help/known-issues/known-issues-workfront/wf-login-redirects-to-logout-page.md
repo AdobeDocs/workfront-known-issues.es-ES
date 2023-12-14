@@ -4,14 +4,18 @@ description: Cuando un usuario intenta iniciar sesión en Workfront, en lugar de
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 6f7550db-7e21-4bfa-9daa-0efeb9296a57
-source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Inicio de sesión: la página de inicio de sesión redirige a la página de aterrizaje de cierre de sesión
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 30 de noviembre de 2023.
 
 Cuando un usuario intenta iniciar la sesión en [!DNL Workfront], en lugar de la página de inicio de sesión, se le dirige a la página en la que aterrizaría si cerrara la sesión.
 
