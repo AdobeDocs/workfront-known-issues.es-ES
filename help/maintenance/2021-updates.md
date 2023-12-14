@@ -5,7 +5,7 @@ exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: ht
-source-wordcount: '10019'
+source-wordcount: '10060'
 ht-degree: 100%
 
 ---
@@ -160,7 +160,7 @@ _[!DNL Workfront]_
 
 Cuando un usuario está trabajando en [!DNL Workfront], las páginas no se cargan y el usuario ve el siguiente mensaje de error:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y se está tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 Se ha informado de ello en
 
@@ -214,7 +214,7 @@ _[!DNL Workfront]_
 
 Cuando un usuario está trabajando en [!DNL Workfront], las páginas no se cargan y el usuario ve el siguiente mensaje de error:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 Se ha informado de ello en
 
@@ -294,7 +294,7 @@ _[!DNL Workfront]_
 
 Cuando un usuario está trabajando en [!DNL Workfront] con un navegador [!DNL Firefox], las páginas no se cargan y el usuario ve el siguiente mensaje de error:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 Este error se produce de forma aleatoria y puede afectar a cualquier zona de [!DNL Workfront].
 
@@ -494,7 +494,7 @@ _[!UICONTROL Distribuidor de cargas de trabajo]_
 
 Cuando un usuario intenta realizar una asignación desde el [!UICONTROL Distribuidor de cargas de trabajo], el trabajo no se asigna y se muestra el siguiente error:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 +++
 
@@ -509,7 +509,7 @@ _Página de inicio_
 
 Cuando un usuario navega rápidamente hacia o desde [!UICONTROL Inicio], la página no se carga y se muestra el siguiente error:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 Esto también puede ocurrir cuando se navega a [!UICONTROL Inicio] a través de un pin.
 
@@ -815,7 +815,7 @@ _[!UICONTROL Distribuidor de cargas de trabajo]_
 
 Cuando un usuario selecciona la opción [!UICONTROL porcentaje] para las [!UICONTROL horas asignadas] y hay trabajo en la sección de [!UICONTROL trabajo no asignado], aparece el siguiente error:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y se está tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 +++
 
@@ -1507,7 +1507,7 @@ _Notificaciones por correo electrónico_
 
 Cuando un usuario hace clic en el enlace “[!UICONTROL Ver todas las notificaciones]” de una notificación por correo electrónico, se le redirige a una página con el siguiente mensaje:
 
-“[!UICONTROL El usuario ya no existe. Es posible que haya escrito mal la dirección de Internet. Revise e intente ingresar la dirección nuevamente.]”
+“[!UICONTROL El usuario ya no existe. Es posible que haya escrito mal la dirección web. Compruébela e intente introducir de nuevo la dirección.]”
 
 **El usuario no es dirigido al comentario de prueba en el que está etiquetado**
 

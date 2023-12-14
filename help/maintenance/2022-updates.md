@@ -1,11 +1,11 @@
 ---
-title: Actualizaciones de mantenimiento de Workfront  en 2022
+title: Actualizaciones de mantenimiento de Workfont en 2022
 description: Actualizaciones de mantenimiento de 2022 para [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
 workflow-type: ht
-source-wordcount: '16739'
+source-wordcount: '16795'
 ht-degree: 100%
 
 ---
@@ -280,7 +280,7 @@ Se ha notificado este comportamiento cuando el usuario accede al informe de las 
 
 El acceso a los informes a través de un panel sí actualiza la información de la última visualización.
 
-**[!DNL Workfront]: Error 500 al realizar cambios en un objeto [!DNL Workfront]**+
+**[!DNL Workfront]: Error 500 al realizar cambios en un [!DNL Workfront]objeto**+
 
 *[!DNL Workfront]*
 
@@ -511,7 +511,7 @@ Error de tipo **“[!UICONTROL Los cambios recientes no se han guardado]” al g
 
 Cuando un usuario intenta editar una plantilla de horas de forma que se active un guardado automático, los cambios no se guardan y el usuario ve el siguiente mensaje:
 
-“[!UICONTROL No se han guardado sus cambios recientes. Actualice la página para verlos.]”
+“[!UICONTROL No se han guardado sus cambios recientes. Actualice la página para verlos.”]
 
 Se ha informado de esto al editar lo siguiente:
 
@@ -586,7 +586,7 @@ Cuando un usuario está viendo las actualizaciones y pasa el ratón por encima d
 
 Cuando un usuario intenta registrar horas en una tarea de su plantilla de horas, las horas no se guardan automáticamente y ve el siguiente error:
 
-“[!UICONTROL Lo lamentamos, no se pudo guardar debido a que otro usuario intentó guardar el proyecto al mismo tiempo. Intente guardar de nuevo.]”
+“[!UICONTROL Lo lamentamos, no se pudo guardar este proyecto debido a que otro usuario intentó guardarlo al mismo tiempo. Intente guardarlo de nuevo.]”
 
 **No se puede cerrar la tarjeta de usuario en el flujo de actualización del estado**
 
@@ -886,7 +886,7 @@ Toda la funcionalidad de [!DNL Workfront Classic] se eliminó el 14 de julio de 
 
 Cuando un usuario intenta abrir un elemento en su [!UICONTROL Lista de trabajos en Inicio], el elemento no se abre y el usuario ve el siguiente mensaje:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador.]”
 
 **Las tareas y los problemas delegados a un usuario no aparecen en la Lista de trabajos en Inicio del usuario**
 
@@ -1177,7 +1177,7 @@ Cuando un usuario está viendo un panel en un proyecto e intenta agregar una nue
 
 Cuando un usuario está viendo su [!UICONTROL Lista de trabajos en Inicio] y hace clic en un elemento de la sección [!UICONTROL Aprobaciones enviadas], la página muestra el siguiente error:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 Si el usuario actualiza la página y luego hace clic en cualquier elemento de la sección [!UICONTROL Lista de trabajos], aparece el error. El problema ya no afecta solo a los elementos de la sección [!UICONTROL Aprobaciones enviadas].
 
@@ -1510,7 +1510,7 @@ Cuando un usuario está en el área de [!UICONTROL Registros de facturación] de
 
 Cuando un usuario intenta realizar asignaciones en el [!DNL Workload Balancer] de un proyecto, se redirige al usuario a una página con el siguiente mensaje:
 
-“[!UICONTROL Se produjo un error y se está tratando de resolver el problema. Para continuar trabajando, intente actualizar esta página de explorador.]”
+“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 El usuario no puede salir de esta página hasta que actualice la página.
 

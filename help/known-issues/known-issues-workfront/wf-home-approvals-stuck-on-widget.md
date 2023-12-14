@@ -1,13 +1,13 @@
 ---
-title: "Inicio: La aprobación se ha quedado atascada en Espera de mi widget de aprobación"
-description: Cuando se carga una nueva versión de un documento y la versión anterior tiene una aprobación incompleta, la versión antigua del documento se queda atascada en el widget Esperando mi aprobación del aprobador. La aprobación no se puede confirmar porque hay una nueva versión y no se puede eliminar del widget.
+title: '“Inicio: La aprobación se ha quedado atascada en el widget A la espera de mi aprobación”'
+description: “Cuando se carga una nueva versión de un documento y la versión anterior tiene una aprobación incompleta, la versión antigua del documento se queda atascada en el widget del aprobador A la espera de mi aprobación. La aprobación no se puede confirmar porque hay una nueva versión y no se puede eliminar del widget.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
 source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
