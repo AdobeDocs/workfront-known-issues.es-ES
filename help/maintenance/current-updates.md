@@ -33,13 +33,13 @@ Cuando un usuario examina un informe en busca de aprobaciones de pruebas pendien
 
 +++**Actualización de mantenimiento el viernes, 07 de diciembre de 2023**
 
-**Aprobación atascada en [!UICONTROL Esperando mi aprobación] widget**
+**Aprobación atascada en el widget [!UICONTROL A la espera de mi aprobación]**
 
 _Inicio_
 
 Cuando se carga una nueva versión de un documento y la versión anterior tiene una aprobación incompleta, la versión antigua del documento se queda atascada en el widget del aprobador [!UICONTROL A la espera de mi aprobación]. La aprobación no se puede confirmar porque hay una nueva versión y no se puede eliminar del widget.
 
-**Problemas al agregar elementos de trabajo en la vista del tablero de tareas o problemas**
+**Problemas al añadir elementos de trabajo en la vista del tablero de tareas o problemas**
 
 _Tareas y problemas_
 
@@ -270,7 +270,7 @@ _Inicio_
 
 Cuando un usuario cambia los filtros en [!UICONTROL Inicio], el área [!UICONTROL Inicio] no se carga y aparece el siguiente error:
 
-&quot;[!UICONTROL Se ha producido un error y se está tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
+“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 +++
 
