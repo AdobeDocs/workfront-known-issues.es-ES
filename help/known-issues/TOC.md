@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
+source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
 workflow-type: tm+mt
-source-wordcount: '1808'
-ht-degree: 99%
+source-wordcount: '1813'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: Problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [Plantillas: Error al adjuntar una plantilla al proyecto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [Informes: el informe de horas presupuestado no se actualiza cada hora según lo esperado](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Configuración: faltan los estados de problemas predeterminados en algunos tipos de problemas en la Configuración](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
