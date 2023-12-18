@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 97%
+source-wordcount: '871'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Tareas: Se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |
+| [Tableros: no se puede adjuntar un documento a una tarjeta](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | martes, 18 de diciembre de 2023 |
 | [Pruebas: Problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Tableros: error en la sección [!UICONTROL Comentarios] de las tarjetas](known-issues-workfront/wf-boards-comments-section-error.md) | viernes, 14 de diciembre de 2023 |
 | [Informes: las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas notificadas a través de la API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | viernes, 14 de diciembre de 2023 |
