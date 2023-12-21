@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 93%
+source-wordcount: '377'
+ht-degree: 95%
 
 ---
 
@@ -36,7 +36,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Tableros: no se puede adjuntar un documento a una tarjeta](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | martes, 18 de diciembre de 2023 |
 | [Pruebas: Problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de octubre de 2023 |

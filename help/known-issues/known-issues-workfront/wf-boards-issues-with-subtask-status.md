@@ -1,17 +1,21 @@
 ---
-title: "Tableros: problemas al ver el estado de las subtareas"
-description: "Se ha informado de problemas relacionados con la visualización del estado de las subtareas en una tarjeta en los paneles."
+title: "Tableros: Problemas al ver el estado de las subtareas"
+description: Se ha informado de problemas relacionados con la visualización del estado de las subtareas en una tarjeta en los paneles.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 2fa805dcacc58ce19ddacd32dc51c3139a9432e4
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 81%
 
 ---
 
-
 # Tableros: problemas al ver el estado de las subtareas
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 21 de diciembre de 2023.
 
 Se ha informado de los siguientes problemas relacionados con la visualización del estado de las subtareas en una tarjeta en los paneles:
 

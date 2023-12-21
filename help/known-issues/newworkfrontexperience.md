@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 93%
+source-wordcount: '857'
+ht-degree: 94%
 
 ---
 
@@ -31,8 +31,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Informes: el informe de horas presupuestado no se actualiza cada hora según lo esperado](known-issues-workfront/wf-reports-report-not-updating.md) | viernes, 14 de diciembre de 2023 |
 | [Documentos: no se puede acceder a  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de noviembre de 2023 |
 | [Tableros: la tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de noviembre de 2023 |
-| [Plantillas: no se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 de noviembre de 2023 |
-| [Tableros: problemas al ver el estado de las subtareas](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 de noviembre de 2023 |
 | [Tableros: la búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de octubre de 2023 |
 
 {style="table-layout:auto"}
@@ -44,7 +42,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
 | [Tareas: Se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |
-| [Tableros: no se puede adjuntar un documento a una tarjeta](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | martes, 18 de diciembre de 2023 |
 | [Pruebas: Problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Tableros: error en la sección [!UICONTROL Comentarios] de las tarjetas](known-issues-workfront/wf-boards-comments-section-error.md) | viernes, 14 de diciembre de 2023 |
 | [Informes: las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas notificadas a través de la API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | viernes, 14 de diciembre de 2023 |
@@ -52,7 +49,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Actualizaciones: los comentarios realizados en la nueva experiencia de comentarios no son visibles en la experiencia heredada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | viernes, 14 de diciembre de 2023 |
 | [Configuración: faltan los estados de problemas predeterminados en algunos tipos de problemas en la Configuración](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | viernes, 07 de diciembre de 2023 |
 | [Estado: error [!UICONTROL Uy] al ocultar el estado](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | jueves, 06 de diciembre de 2023 |
-| [Actualizaciones: faltan algunas actualizaciones en la nueva experiencia de comentarios](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | jueves, 06 de diciembre de 2023 |
 | [Tareas: la duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | viernes, 30 de noviembre de 2023 |
 | [Formularios personalizados: no se pueden añadir ni quitar de forma masiva formularios personalizados en tareas de la plantilla](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 de noviembre de 2023 |
 | [Tareas: las fechas de las tareas se muestran en gris durante un tiempo prolongado al recalcular la cronología](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de noviembre de 2023 |
