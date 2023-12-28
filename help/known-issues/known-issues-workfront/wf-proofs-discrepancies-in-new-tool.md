@@ -1,21 +1,21 @@
 ---
-title: "Pruebas: Problemas al procesar archivos estáticos"
-description: '"Workfront ha cambiado recientemente su herramienta de procesamiento de pruebas de proveedor externo a una solución interna y ha descubierto algunas discrepancias en las capacidades de ambos sistemas. Estas discrepancias pueden causar problemas con el procesamiento de archivos estáticos, especialmente archivos de PDF, Word y PPT. Hay una solución disponible”.'
+title: '“Pruebas: problemas al procesar archivos estáticos”'
+description: “Workfront ha cambiado recientemente su herramienta de procesamiento de pruebas de proveedor externo a una solución interna y ha descubierto algunas discrepancias en las funcionalidades de ambos sistemas. Estas discrepancias pueden causar problemas con el procesamiento de archivos estáticos, especialmente archivos de PDF, Word y PPT. Hay una solución disponible”.
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: d07005982af8484714e574ee54034f438def6cc7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Pruebas: Problemas al procesar archivos estáticos
+# Pruebas: problemas al procesar archivos estáticos
 
 <!--WF and WFP TOCs-->
 
-Workfront ha cambiado recientemente su herramienta de procesamiento de pruebas de proveedor externo a una solución interna y ha descubierto algunas discrepancias en las capacidades de ambos sistemas. Estas discrepancias pueden causar problemas con el procesamiento de archivos estáticos, especialmente archivos de PDF, Word y PPT.
+Workfront ha cambiado recientemente su herramienta de procesamiento de pruebas de proveedor externo a una solución interna y ha descubierto algunas discrepancias en las funcionalidades de ambos sistemas. Estas discrepancias pueden causar problemas con el procesamiento de archivos estáticos, especialmente archivos de PDF, Word y PPT.
 
 Workfront está trabajando en la actualización de sus bibliotecas para que coincidan con la herramienta heredada y le informará sobre los cambios en las páginas de la versión de Workfront.
 
