@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '7697'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**Actualización de mantenimiento el viernes, 21 de diciembre de 2023**
 
-**Problemas al ver el estado de la subtarea**
+**Problemas al ver el estado de las subtareas**
 
 _Tableros_
 
@@ -41,7 +41,7 @@ Cuando un usuario intenta adjuntar un documento a una tarjeta conectada, el usua
 
 Se ha informado de este problema en tarjetas conectadas a problemas.
 
-**No se puede seleccionar la plantilla [!UICONTROL Favoritos] lista**
+**No se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]**
 
 _Plantillas_
 

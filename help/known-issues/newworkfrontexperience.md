@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '857'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: Las pruebas creadas a partir de documentos de Word no incluyen comentarios ni marcas](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | miércoles, 19 de diciembre de 2023 |
-| [Tareas: La ventana se cierra al crear una nueva tarea](known-issues-workfront/wf-tasks-new-window-closes.md) | miércoles, 19 de diciembre de 2023 |
-| [Plantillas: Error al adjuntar una plantilla al proyecto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sábado, 15 de diciembre de 2023 |
+| [Pruebas: las pruebas creadas a partir de documentos de Word no incluyen comentarios ni marcas](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | miércoles, 19 de diciembre de 2023 |
+| [Tareas: la ventana se cierra al crear una nueva tarea](known-issues-workfront/wf-tasks-new-window-closes.md) | miércoles, 19 de diciembre de 2023 |
+| [Plantillas: error al adjuntar plantilla a proyecto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sábado, 15 de diciembre de 2023 |
 | [Informes: el informe de horas presupuestado no se actualiza cada hora según lo esperado](known-issues-workfront/wf-reports-report-not-updating.md) | viernes, 14 de diciembre de 2023 |
 | [Documentos: no se puede acceder a  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de noviembre de 2023 |
 | [Tableros: la tarjeta aparece en varios sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de noviembre de 2023 |
@@ -41,8 +41,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Tareas: Se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |
-| [Pruebas: Problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
+| [Tareas: se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |
+| [Pruebas: problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Tableros: error en la sección [!UICONTROL Comentarios] de las tarjetas](known-issues-workfront/wf-boards-comments-section-error.md) | viernes, 14 de diciembre de 2023 |
 | [Informes: las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas notificadas a través de la API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | viernes, 14 de diciembre de 2023 |
 | [Tableros: las tarjetas no se mueven a la columna adecuada cuando se cambia el estado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | viernes, 14 de diciembre de 2023 |
