@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: ht
-source-wordcount: '1849'
-ht-degree: 100%
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+workflow-type: tm+mt
+source-wordcount: '1869'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: &quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [Equipos: Problemas con la configuración de los estados de equipo para [!UICONTROL Listo] botón](known-issues-workfront/wf-teams-statuses-missing.md)
       + [Pruebas: las pruebas creadas a partir de documentos de Word no incluyen comentarios ni marcas](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Tareas: la ventana se cierra al crear una nueva tarea](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Tareas: se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)

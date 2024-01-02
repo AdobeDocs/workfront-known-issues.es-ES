@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 100%
+source-wordcount: '879'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Tableros: &quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | miércoles, 02 de enero de 2024 |
+| [Equipos: Problemas con la configuración de los estados de equipo para [!UICONTROL Listo] botón](known-issues-workfront/wf-teams-statuses-missing.md) | miércoles, 02 de enero de 2024 |
 | [Tareas: se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |
 | [Pruebas: problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Tableros: error en la sección [!UICONTROL Comentarios] de las tarjetas](known-issues-workfront/wf-boards-comments-section-error.md) | viernes, 14 de diciembre de 2023 |
