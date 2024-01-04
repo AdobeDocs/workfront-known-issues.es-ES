@@ -1,19 +1,19 @@
 ---
-title: "Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes"
+title: '“Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes”'
 description: Las plantillas de diseño de la experiencia clásica de Workfront ya no están disponibles en la interfaz de Workfront, pero pueden afectar a los datos de Workfront. Esto puede provocar incoherencias en los campos afectados por las plantillas de diseño (como el campo Compartido con) en los informes o paneles.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
 source-git-commit: d00617f597b21bf28234fc7ffeed5183e029af92
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '193'
+ht-degree: 100%
 
 ---
 
 # Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes
 
-Plantillas de diseño de la versión clásica [!DNL Workfront] ya no están disponibles en la [!DNL Workfront] interfaz, pero aún puede afectar a [!DNL Workfront] datos. Esto puede provocar incoherencias en los campos afectados por las plantillas de diseño (como el campo [!UICONTROL Compartido con]) en los informes o paneles.
+Las plantillas de diseño de la experiencia clásica de [!DNL Workfront] ya no están disponibles en la interfaz de [!DNL Workfront], pero pueden seguir afectando a los datos de [!DNL Workfront]. Esto puede provocar incoherencias en los campos afectados por las plantillas de diseño (como el campo [!UICONTROL Compartido con]) en los informes o paneles.
 
 **Solución alternativa**
 
