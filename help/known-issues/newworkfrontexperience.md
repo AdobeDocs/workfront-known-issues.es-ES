@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 97%
+source-wordcount: '899'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Nuevo [!UICONTROL Inicio]: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | viernes, 04 de enero de 2024 |
+| [Tableros: Las tarjetas persisten al cambiar la iteración](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | viernes, 04 de enero de 2024 |
 | [Tableros: &quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | miércoles, 02 de enero de 2024 |
 | [Equipos: Problemas con la configuración de los estados de equipo para [!UICONTROL Listo] botón](known-issues-workfront/wf-teams-statuses-missing.md) | miércoles, 02 de enero de 2024 |
 | [Tareas: se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |
