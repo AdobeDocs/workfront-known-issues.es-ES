@@ -3,15 +3,19 @@ title: '“Estado: error ¡Uy! al ocultar el estado”'
 description: “Cuando un usuario intenta ocultar un estado, el estado no se oculta y el usuario ve el mensaje de error ¡Uy!”.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 
 # Estado: error [!UICONTROL Uy] al ocultar el estado
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 21 de diciembre de 2023.
 
 Cuando un usuario intenta ocultar un estado, el estado no se oculta y el usuario ve el mensaje de error siguiente:
 
