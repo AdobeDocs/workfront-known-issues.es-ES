@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -48,8 +48,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Inicio: Aprobación atascada en el widget [!UICONTROL A la espera de mi aprobación]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | viernes, 04 de enero de 2024 |
 | [Nuevo [!UICONTROL Inicio]: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | viernes, 04 de enero de 2024 |
 | [Tableros: Las tarjetas persisten al cambiar la iteración](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | viernes, 04 de enero de 2024 |
-| [Tableros: &quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | miércoles, 02 de enero de 2024 |
-| [Equipos: Problemas con la configuración de los estados de equipo para [!UICONTROL Listo] botón](known-issues-workfront/wf-teams-statuses-missing.md) | miércoles, 02 de enero de 2024 |
+| [Tableros: “[!UICONTROL No tiene acceso]” al ver comentarios en una tarjeta](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | miércoles, 02 de enero de 2024 |
+| [Equipos: problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]](known-issues-workfront/wf-teams-statuses-missing.md) | miércoles, 02 de enero de 2024 |
 | [Tareas: se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |
 | [Pruebas: problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Tableros: error en la sección [!UICONTROL Comentarios] de las tarjetas](known-issues-workfront/wf-boards-comments-section-error.md) | viernes, 14 de diciembre de 2023 |

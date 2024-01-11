@@ -5,7 +5,7 @@ role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '1914'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 96%
       + [Problemas: Los campos de tiempo ahorran tiempo incorrecto al editar problemas por lotes](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Nuevo [!UICONTROL Inicio]: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Tableros: Las tarjetas persisten al cambiar la iteración](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
-      + [Tableros: &quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
-      + [Equipos: Problemas con la configuración de los estados de equipo para [!UICONTROL Listo] botón](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [Tableros: “[!UICONTROL No tiene acceso]” al ver comentarios en una tarjeta](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [Equipos: problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]](known-issues-workfront/wf-teams-statuses-missing.md)
       + [Pruebas: las pruebas creadas a partir de documentos de Word no incluyen comentarios ni marcas](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Tareas: la ventana se cierra al crear una nueva tarea](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Tareas: se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
