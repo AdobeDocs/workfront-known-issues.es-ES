@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4117b2a85dac27960c95fa5ee984f4650937dfce
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 47%
+source-wordcount: '530'
+ht-degree: 58%
 
 ---
 
@@ -22,30 +22,54 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en enero de 2024
 
-<!--
++++**Actualización de mantenimiento del sábado, 12 de enero de 2024**
 
-+++**Maintenance Update on January 12, 2024**
+### Actualización de mantenimiento el 12 de enero de 2024
 
-### Maintenance Update on January 12, 2024
+#### Tableros
 
-#### Boards
+**No se puede adjuntar un documento a una tarjeta**
 
-**Issues when viewing subtask status**
+Cuando un usuario intenta adjuntar un documento a una tarjeta conectada, el usuario puede seleccionar el documento que desea adjuntar, pero el documento no aparece en el área del documento de la tarjeta y el documento no está adjunto al objeto al que está conectada la tarjeta.
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+Se ha informado de este problema en tarjetas conectadas a problemas.
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**La tarjeta aparece en varios sprints**
 
-**Card doesn't close when using Boards view in a Project**
+Cuando un usuario está viendo un sprint en los tableros, las tarjetas que están en diferentes sprints aparecen en el tablero. Este problema es intermitente.
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+**La tarjeta no se cierra al usar la vista Tableros en un proyecto**
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+Cuando un usuario está viendo la vista Tableros en una lista de tareas de un proyecto y crea una tarjeta, esta no se cierra ni se guarda. Esto evita que el usuario vuelva al proyecto.
+
+Para cerrar la tarjeta, el usuario debe editar la URL para eliminar &quot;tablero&quot; y cualquier elemento a la derecha de &quot;tablero&quot;.
+
+**Las tarjetas persisten al cambiar la iteración**
+
+Cuando un usuario está viendo una iteración en un panel y luego cambia la iteración, las tarjetas que se muestran para la nueva iteración son las tarjetas de una iteración que el usuario estaba viendo anteriormente.
+
+**Error en [!UICONTROL Comentarios] sección de tarjetas**
+
+Cuando un usuario está viendo una tarjeta y se desplaza a la sección [!UICONTROL Comentarios], los comentarios no se muestran y aparece el siguiente error:
+
+&quot;[!UICONTROL Se ha producido un error. Vuelva a intentarlo más tarde.]&quot;
+
+**Problemas al ver el estado de las subtareas**
+
+Se ha informado de los siguientes problemas relacionados con la visualización del estado de las subtareas en una tarjeta en los paneles:
+
+* El estado se muestra como &quot;Seleccionar estado&quot; incluso cuando la tarea ya tiene un estado. Este estado se puede ver al ver la tarea directamente.
+* Si el usuario intenta seleccionar un estado, la pantalla se queda en blanco y debe actualizarse.
+
+**&quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta**
+
+Cuando un usuario intenta ver los comentarios de una tarjeta que no está conectada a un objeto de [!DNL Workfront], verá el siguiente mensaje:
+
+“[!UICONTROL No tiene acceso para ver comentarios sobre este objeto]”
+
+Esto puede ocurrir incluso cuando el usuario podía ver los comentarios en la tarjeta anteriormente.
 
 +++
-
--->
 
 +++**Actualización de mantenimiento del jueves, 11 de enero de 2023**
 

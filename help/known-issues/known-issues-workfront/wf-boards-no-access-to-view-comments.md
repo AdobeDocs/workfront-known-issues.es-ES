@@ -3,15 +3,19 @@ title: '“Tableros: no tiene acceso al ver comentarios en una tarjeta”.'
 description: “Cuando un usuario intenta ver los comentarios en una tarjeta que no está conectada a un objeto de Workfront, verá un mensaje de error”.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 
 # Tableros: “[!UICONTROL No tiene acceso]” al ver comentarios en una tarjeta
+
+>[!NOTE]
+>
+>Este problema se corrigió el sábado, 12 de enero de 2024.
 
 Cuando un usuario intenta ver los comentarios de una tarjeta que no está conectada a un objeto de [!DNL Workfront], verá el siguiente mensaje:
 
