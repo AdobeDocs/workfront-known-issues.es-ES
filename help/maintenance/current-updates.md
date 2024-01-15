@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 58%
+source-wordcount: '172'
+ht-degree: 47%
 
 ---
 
@@ -22,54 +22,58 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en enero de 2024
 
-+++**Actualización de mantenimiento del sábado, 12 de enero de 2024**
+<!--
 
-### Actualización de mantenimiento el 12 de enero de 2024
++++**Maintenance Update on January 12, 2024**
 
-#### Tableros
+### Maintenance Update on January 12, 2024
 
-**No se puede adjuntar un documento a una tarjeta**
+#### Boards
 
-Cuando un usuario intenta adjuntar un documento a una tarjeta conectada, el usuario puede seleccionar el documento que desea adjuntar, pero el documento no aparece en el área del documento de la tarjeta y el documento no está adjunto al objeto al que está conectada la tarjeta.
+**Cannot attach a document to a card**
 
-Se ha informado de este problema en tarjetas conectadas a problemas.
+When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
 
-**La tarjeta aparece en varios sprints**
+This has been reported in cards connected to issues.
 
-Cuando un usuario está viendo un sprint en los tableros, las tarjetas que están en diferentes sprints aparecen en el tablero. Este problema es intermitente.
+**Card appears on multiple sprints**
 
-**La tarjeta no se cierra al usar la vista Tableros en un proyecto**
+When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
 
-Cuando un usuario está viendo la vista Tableros en una lista de tareas de un proyecto y crea una tarjeta, esta no se cierra ni se guarda. Esto evita que el usuario vuelva al proyecto.
+**Card doesn't close when using Boards view in a Project**
 
-Para cerrar la tarjeta, el usuario debe editar la URL para eliminar &quot;tablero&quot; y cualquier elemento a la derecha de &quot;tablero&quot;.
+When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
 
-**Las tarjetas persisten al cambiar la iteración**
+To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
 
-Cuando un usuario está viendo una iteración en un panel y luego cambia la iteración, las tarjetas que se muestran para la nueva iteración son las tarjetas de una iteración que el usuario estaba viendo anteriormente.
+**Cards persist when changing iteration**
 
-**Error en [!UICONTROL Comentarios] sección de tarjetas**
+When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
 
-Cuando un usuario está viendo una tarjeta y se desplaza a la sección [!UICONTROL Comentarios], los comentarios no se muestran y aparece el siguiente error:
+**Error in [!UICONTROL Comments] section of cards**
 
-&quot;[!UICONTROL Se ha producido un error. Vuelva a intentarlo más tarde.]&quot;
+When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
 
-**Problemas al ver el estado de las subtareas**
+"[!UICONTROL Something went wrong. Please try again later.]"
 
-Se ha informado de los siguientes problemas relacionados con la visualización del estado de las subtareas en una tarjeta en los paneles:
+**Issues when viewing subtask status**
 
-* El estado se muestra como &quot;Seleccionar estado&quot; incluso cuando la tarea ya tiene un estado. Este estado se puede ver al ver la tarea directamente.
-* Si el usuario intenta seleccionar un estado, la pantalla se queda en blanco y debe actualizarse.
+The following issues have been reported regarding viewing subtask status on a card in Boards:
 
-**&quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta**
+* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
+* If the user attempts to select a status, the screen goes blank and must be refreshed.
 
-Cuando un usuario intenta ver los comentarios de una tarjeta que no está conectada a un objeto de [!DNL Workfront], verá el siguiente mensaje:
+**"[!UICONTROL You have no access]" when viewing comments on a card**
 
-“[!UICONTROL No tiene acceso para ver comentarios sobre este objeto]”
+When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
 
-Esto puede ocurrir incluso cuando el usuario podía ver los comentarios en la tarjeta anteriormente.
+"[!UICONTROL You have no access to view comments on this object]"
+
+This may occur even when the user could previously see comments on the card.
 
 +++
+
+-->
 
 +++**Actualización de mantenimiento del jueves, 11 de enero de 2023**
 

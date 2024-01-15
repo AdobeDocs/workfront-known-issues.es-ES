@@ -3,9 +3,9 @@ title: '“Tableros: no se puede adjuntar un documento a una tarjeta”'
 description: “Cuando un usuario intenta adjuntar un documento a una tarjeta conectada, el usuario puede seleccionar el documento que desea adjuntar, pero el documento no aparece en el área del documento de la tarjeta y el documento no está adjunto al objeto al que está conectada la tarjeta”.
 hidefromtoc: true
 feature: Agile
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '149'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,10 @@ ht-degree: 100%
 
 # Tableros: no se puede adjuntar un documento a una tarjeta
 
+<!--
 >[!NOTE]
 >
->Este problema se corrigió el sábado, 12 de enero de 2024.
+>This issue was fixed on January 12, 2024.-->
 
 <!--WF and WFP TOCs-->
 
