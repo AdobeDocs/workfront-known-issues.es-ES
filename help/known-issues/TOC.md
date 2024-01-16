@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '1914'
-ht-degree: 100%
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+workflow-type: tm+mt
+source-wordcount: '1925'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Configurar]: no se pueden ocultar los estados opcionales](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [Documentos: Problemas al ver listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Tableros: la tarjeta no se cierra al usar la vista Tableros en un proyecto](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problemas: los campos de tiempo ahorran tiempo incorrecto al editar problemas por lotes](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)

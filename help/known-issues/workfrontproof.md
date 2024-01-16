@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '389'
-ht-degree: 100%
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+workflow-type: tm+mt
+source-wordcount: '396'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: Problemas al ver listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | miércoles, 16 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martes, 09 de enero de 2023 |
 
 {style="table-layout:auto"}

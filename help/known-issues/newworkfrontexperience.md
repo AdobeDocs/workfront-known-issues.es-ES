@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
 workflow-type: tm+mt
-source-wordcount: '825'
-ht-degree: 100%
+source-wordcount: '838'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: Problemas al ver listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | miércoles, 16 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martes, 09 de enero de 2023 |
 | [Tableros: la búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de octubre de 2023 |
 
@@ -36,6 +37,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Configurar]: no se pueden ocultar los estados opcionales](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md) | jueves, 10 de enero de 2024 |
 | [Problemas: los campos de tiempo ahorran tiempo incorrecto al editar problemas por lotes](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 05 de enero de 2024 |
 | [Pruebas: las pruebas creadas a partir de documentos de Word no incluyen comentarios ni marcas](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | viernes, 04 de enero de 2024 |
 | [Plantillas: error al adjuntar plantilla a proyecto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | viernes, 04 de enero de 2024 |
