@@ -3,8 +3,8 @@ title: '“Tableros: no tiene acceso al ver comentarios en una tarjeta”.'
 description: “Cuando un usuario intenta ver los comentarios en una tarjeta que no está conectada a un objeto de Workfront, verá un mensaje de error”.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: ht
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se corrigió el sábado, 12 de enero de 2024.-->
+>Este problema se corrigió el viernes, 18 de enero de 2024.
 
 Cuando un usuario intenta ver los comentarios de una tarjeta que no está conectada a un objeto de [!DNL Workfront], verá el siguiente mensaje:
 

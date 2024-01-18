@@ -3,15 +3,19 @@ title: '“Plantillas: error al adjuntar plantilla a proyecto”'
 description: “Cuando un usuario intenta adjuntar una plantilla a un proyecto, recibe un error. Hay una solución disponible”.
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # Plantillas: error al adjuntar plantilla a proyecto
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 18 de enero de 2024.
 
 Cuando un usuario intenta adjuntar una plantilla a un proyecto, recibe el siguiente error:
 

@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '945'
+ht-degree: 81%
 
 ---
 
@@ -22,58 +22,107 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en enero de 2024
 
-<!--
++++**Actualización de mantenimiento del viernes, 18 de enero de 2024**
 
-+++**Maintenance Update on January 12, 2024**
+### Actualización de mantenimiento el viernes, 18 de enero de 2024
 
-### Maintenance Update on January 12, 2024
+#### Tableros
 
-#### Boards
+**No se puede adjuntar un documento a una tarjeta**
 
-**Cannot attach a document to a card**
+Cuando un usuario intenta adjuntar un documento a una tarjeta conectada, el usuario puede seleccionar el documento que desea adjuntar, pero el documento no aparece en el área del documento de la tarjeta y el documento no está adjunto al objeto al que está conectada la tarjeta.
 
-When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
+Se ha informado de este problema en tarjetas conectadas a problemas.
 
-This has been reported in cards connected to issues.
+**La tarjeta aparece en varios sprints**
 
-**Card appears on multiple sprints**
+Cuando un usuario está viendo un sprint en los tableros, las tarjetas que están en diferentes sprints aparecen en el tablero. Este problema es intermitente.
 
-When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
+**La tarjeta no se cierra al usar la vista Tableros en un proyecto**
 
-**Card doesn't close when using Boards view in a Project**
+Cuando un usuario está viendo la vista Tableros en una lista de tareas de un proyecto y crea una tarjeta, esta no se cierra ni se guarda. Esto evita que el usuario vuelva al proyecto.
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+Para cerrar la tarjeta, el usuario debe editar la URL para quitar “tablero” y cualquier elemento a la derecha de “tablero”.
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+**Las tarjetas persisten al cambiar la iteración**
 
-**Cards persist when changing iteration**
+Cuando un usuario está viendo una iteración en un tablero y luego cambia la iteración, las tarjetas que se muestran para la nueva iteración son las tarjetas de una iteración que el usuario estaba viendo anteriormente.
 
-When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
+**Error en [!UICONTROL Comentarios] sección de tarjetas**
 
-**Error in [!UICONTROL Comments] section of cards**
+Cuando un usuario está viendo una tarjeta y se desplaza a la sección [!UICONTROL Comentarios], los comentarios no se muestran y aparece el siguiente error:
 
-When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
+&quot;[!UICONTROL Se ha producido un error. Vuelva a intentarlo más tarde.]&quot;
 
-"[!UICONTROL Something went wrong. Please try again later.]"
+**Problemas al ver el estado de las subtareas**
 
-**Issues when viewing subtask status**
+Se ha informado de los siguientes problemas relacionados con la visualización del estado de las subtareas en una tarjeta en los paneles:
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+* El estado se muestra como &quot;Seleccionar estado&quot; incluso cuando la tarea ya tiene un estado. Este estado se puede ver al ver la tarea directamente.
+* Si el usuario intenta seleccionar un estado, la pantalla se queda en blanco y debe actualizarse.
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**&quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta**
 
-**"[!UICONTROL You have no access]" when viewing comments on a card**
+Cuando un usuario intenta ver los comentarios de una tarjeta que no está conectada a un objeto de [!DNL Workfront], verá el siguiente mensaje:
 
-When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
+“[!UICONTROL No tiene acceso para ver comentarios sobre este objeto]”
 
-"[!UICONTROL You have no access to view comments on this object]"
+Esto puede ocurrir incluso cuando el usuario podía ver los comentarios en la tarjeta anteriormente.
 
-This may occur even when the user could previously see comments on the card.
+#### Formularios personalizados
+
+**No se pueden agregar ni eliminar por lotes formularios personalizados en tareas de plantilla**
+
+Si un usuario intenta añadir o quitar de forma masiva un formulario personalizado en una tarea de plantilla, el formulario no se añade ni se quita, y el usuario ve el siguiente error:
+
+[!UICONTROL Intentémoslo de nuevo. Parámetro no válido: valor &quot;XXXXXXXXXXXXXXXX&quot; de templateID]
+
+Si el usuario encuentra la plantilla con el GUID especificado e intenta añadir o quitar formularios personalizados en el resto de las tareas de la plantilla, el error volverá a producirse con otro templateID.
+
+Los formularios personalizados se pueden añadir o quitar en una sola tarea de plantilla. Este error solo se aplica a la adición o eliminación masiva.
+
+#### Portafolios
+
+**La terminología personalizada no se aplica a las páginas de grupo**
+
+Cuando un usuario establece una terminología personalizada en el nivel de Portfolio, la terminología no se aplica a la página de nivel de grupo.
+
+#### Configurar
+
+**No se pueden ocultar los estados opcionales**
+
+Cuando un usuario intenta ocultar estados opcionales en un sistema y nivel de grupo, el estado no se oculta. Si el usuario ve el estado, la opción para ocultarlo no está habilitada, aunque el usuario sí lo haya habilitado y haya guardado los cambios.
+
+**Faltan estados de problemas predeterminados en algunos tipos de problemas de la instalación**
+
+Cuando un usuario está viendo los estados de los problemas en la Configuración, ve que faltan los estados predeterminados para los problemas (Nuevo, En curso y Completado) en algunos tipos de problemas. Los estados predeterminados no tienen la opción de cambiar el tipo de problema, por lo que el usuario no puede volver a configurar los estados para mostrar para los tipos de problema afectados.
+
+#### Equipos
+
+**Problemas con la configuración de los estados de equipo para [!UICONTROL Listo] botón**
+
+Se han notificado los siguientes problemas relacionados con los estados del botón [!UICONTROL Listo] al editar o crear un equipo:
+
+* Es posible que falten algunos estados en el área del botón Listo de la ventana [!UICONTROL Nuevo equipo] o en el área [!UICONTROL Configuración del equipo] de un equipo existente.
+* Si el usuario intenta guardar el equipo, es posible que aparezca el error “Debe seleccionar al menos un estado en cada categoría”.
+
+#### Plantillas
+
+**Error al adjuntar una plantilla al proyecto**
+
+Cuando un usuario intenta adjuntar una plantilla a un proyecto, recibe el siguiente error:
+
+“¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo”.
+
+Esto ocurre cuando el usuario no tiene permiso de visualización en un formulario personalizado adjunto a la plantilla.
+
+#### Actualizaciones
+
+**Los comentarios no se transfieren entre la experiencia antigua y la nueva**
+
+Un comentario hecho en la experiencia de comentarios heredada puede no ser visible en la nueva experiencia de comentarios. También puede ocurrir lo contrario.
 
 +++
-
--->
 
 +++**Actualización de mantenimiento del jueves, 11 de enero de 2023**
 

@@ -3,15 +3,19 @@ title: '“Configuración: faltan los estados de problemas predeterminados en al
 description: “Cuando un usuario está viendo los estados de los problemas en la Configuración, ve que faltan los estados predeterminados para los problemas (Nuevo, En curso y Completado) en algunos tipos de problemas. Los estados predeterminados no tienen la opción de cambiar el tipo de problema, por lo que el usuario no puede volver a configurar los estados para mostrar para los tipos de problema afectados”.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
-workflow-type: ht
-source-wordcount: '136'
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
 
 
 # Configuración: faltan los estados de problemas predeterminados en algunos tipos de problemas en la Configuración
+
+>[!NOTE]
+>
+>Este problema se corrigió el jueves, 17 de enero de 2024.
 
 Cuando un usuario está viendo los estados de los problemas en la Configuración, ve que faltan los estados predeterminados para los problemas (Nuevo, En curso y Completado) en algunos tipos de problemas. Los estados predeterminados no tienen la opción de cambiar el tipo de problema, por lo que el usuario no puede volver a configurar los estados para mostrar para los tipos de problema afectados.
 
