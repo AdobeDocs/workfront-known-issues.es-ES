@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -83,7 +83,7 @@ This may occur even when the user could previously see comments on the card.
 
 **Las tarjetas completadas no se cargan correctamente en los paneles dinámicos**
 
-Anteriormente, la única manera de incluir el trabajo completado en un tablero dinámico era cargar las tarjetas como tarjetas archivadas. De lo contrario, las tarjetas completadas no se cargaban en el tablero. Esto causaba problemas para localizar las tarjetas.
+Anteriormente, la única manera de incluir el trabajo completado en un tablero dinámico era cargar las tarjetas como tarjetas archivadas. De lo contrario, las tarjetas completadas no se cargaban en el tablero. Esto causaba problemas para localizarlas.
 
 Ahora, al crear un tablero dinámico, las tarjetas completadas se cargan de forma predeterminada como tarjetas archivadas, pero puede seleccionar No archivar tarjetas completadas para cargar todas las tarjetas completadas en el tablero como tarjetas visibles en la columna Completado.
 

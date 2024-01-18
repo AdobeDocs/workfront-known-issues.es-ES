@@ -4,7 +4,7 @@ description: “Cuando un usuario intenta ver los comentarios en una tarjeta que
 hidefromtoc: true
 feature: Agile
 source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se corrigió el sábado, 12 de enero de 2024.—>
+>Este problema se corrigió el sábado, 12 de enero de 2024.-->
 
 Cuando un usuario intenta ver los comentarios de una tarjeta que no está conectada a un objeto de [!DNL Workfront], verá el siguiente mensaje:
 

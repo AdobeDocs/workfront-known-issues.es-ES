@@ -1,13 +1,13 @@
 ---
-title: "Tableros: Error en la sección de comentarios de las tarjetas"
-description: Cuando un usuario está viendo una tarjeta y se desplaza a la [!UICONTROL Comentarios], la sección, los comentarios no se muestran y el usuario ve un error.
+title: "Tableros: error en la sección Comentarios de las tarjetas"
+description: Cuando un usuario está viendo una tarjeta y se desplaza a la sección [!UICONTROL Comentarios], los comentarios no se muestran y aparece un error.
 hidefromtoc: true
 feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
 source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
