@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '766'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: Problemas al ver listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | miércoles, 16 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martes, 09 de enero de 2023 |
 | [Tableros: la búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de octubre de 2023 |
 
@@ -37,11 +36,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Documentos: Problemas al ver listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | viernes, 18 de enero de 2024 |
 | [Problemas: los campos de tiempo ahorran tiempo incorrecto al editar problemas por lotes](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 05 de enero de 2024 |
-| [Pruebas: las pruebas creadas a partir de documentos de Word no incluyen comentarios ni marcas](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | viernes, 04 de enero de 2024 |
 | [Tareas: la ventana se cierra al crear una nueva tarea](known-issues-workfront/wf-tasks-new-window-closes.md) | viernes, 04 de enero de 2024 |
 | [Plantillas: no se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | viernes, 04 de enero de 2024 |
-| [Inicio: Aprobación atascada en el widget [!UICONTROL A la espera de mi aprobación]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | viernes, 04 de enero de 2024 |
 | [Nuevo [!UICONTROL Inicio]: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | viernes, 04 de enero de 2024 |
 | [Tareas: se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |
 | [Pruebas: problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |

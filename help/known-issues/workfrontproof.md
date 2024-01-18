@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '384'
 ht-degree: 96%
 
 ---
@@ -26,7 +26,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront Proof]: No se pueden reordenar los recursos al crear una prueba](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | jueves, 17 de enero de 2024 |
-| [Documentos: Problemas al ver listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | miércoles, 16 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martes, 09 de enero de 2023 |
 
 {style="table-layout:auto"}
@@ -37,8 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: las pruebas creadas a partir de documentos de Word no incluyen comentarios ni marcas](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | viernes, 04 de enero de 2024 |
-| [Inicio: Aprobación atascada en el widget [!UICONTROL A la espera de mi aprobación]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | viernes, 04 de enero de 2024 |
+| [Documentos: Problemas al ver listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | viernes, 18 de enero de 2024 |
 | [Pruebas: problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de octubre de 2023 |
