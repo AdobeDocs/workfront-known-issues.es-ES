@@ -5,7 +5,7 @@ role: User
 source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
 source-wordcount: '1959'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 97%
       + [Integraciones: No se puede registrar el tiempo de la integración de Workfront para Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Actualizaciones: No se pueden ver ni descargar imágenes en los comentarios](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Notificaciones: El marcado de las notificaciones como vistas no persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
-      + [[!UICONTROL Configurar]: no se pueden ocultar los estados opcionales](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
-      + [Documentos: Problemas al ver listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md)
+      + [[!UICONTROL Configuración]: no se pueden ocultar los estados opcionales](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [Documentos: problemas en la visualización de listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Tableros: la tarjeta no se cierra al usar la vista Tableros en un proyecto](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problemas: los campos de tiempo ahorran tiempo incorrecto al editar problemas por lotes](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
@@ -214,7 +214,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
-      + [[!UICONTROL Workfront Proof]: No se pueden reordenar los recursos al crear una prueba](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
+      + [[!UICONTROL Workfront Proof]: no se pueden reordenar los recursos al crear una prueba](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca de tiempo inexacta en [!UICONTROL Resumen de prueba]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront Proof]: correos electrónicos y notificaciones retrasados](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: no se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md)
