@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 96%
+source-wordcount: '821'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,12 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Notificaciones: El marcado de las notificaciones como vistas no persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | viernes, 19 de enero de 2023 |
-| [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martes, 09 de enero de 2023 |
-| [Tableros: la búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de octubre de 2023 |
+| [Documentos: No se puede mover el documento de la carpeta a la raíz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | miércoles, 23 de enero de 2024 |
+| [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
+| [Administración de recursos: cálculos financieros incorrectos debido a problemas de rol](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | miércoles, 23 de enero de 2024 |
+| [Notificaciones: El marcado de las notificaciones como vistas no persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | sábado, 19 de enero de 2024 |
+| [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
+| [Tableros: la búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md) | lunes, 20 de octubre de 2024 |
 
 {style="table-layout:auto"}
 
