@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '945'
-ht-degree: 81%
+source-wordcount: '1085'
+ht-degree: 80%
 
 ---
 
@@ -21,6 +21,24 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en enero de 2024
+
++++**Actualización de mantenimiento del viernes, 25 de enero de 2024**
+
+### Actualización de mantenimiento el viernes, 25 de enero de 2024
+
+#### Tableros
+
+**Las tarjetas no se mueven a la columna adecuada cuando se cambia el estado**
+
+Cuando el estado del objeto vinculado de una tarjeta conectada cambia directamente en el objeto, la tarjeta no se mueve a la columna adecuada. Si se cambia el estado del objeto en la tarjeta o se arrastra la tarjeta a la nueva columna, la tarjeta se comporta según lo esperado.
+
+#### Notificaciones
+
+**Marcar las notificaciones como vistas no persiste**
+
+Cuando un usuario marca sus notificaciones como vistas y luego navega a una página diferente dentro de [!DNL Workfront]Sin embargo, el icono de notificaciones sigue mostrando el número de notificaciones no leídas que existían antes de que el usuario las marcara como vistas y las notificaciones siguen apareciendo cuando el usuario hace clic en el icono. Esto continúa si el usuario los marca como vistos y navega a otra página o vuelve a la página original.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 18 de enero de 2024**
 
@@ -91,7 +109,7 @@ Cuando un usuario establece una terminología personalizada en el nivel de Portf
 
 **No se pueden ocultar los estados opcionales**
 
-Cuando un usuario intenta ocultar estados opcionales en un sistema y nivel de grupo, el estado no se oculta. Si el usuario ve el estado, la opción para ocultarlo no está habilitada, aunque el usuario sí lo haya habilitado y haya guardado los cambios.
+Cuando se intentan ocultar estados opcionales en un sistema y nivel de grupo, el estado no se oculta. Si el usuario ve el estado, la opción para ocultarlo no está habilitada, aunque el usuario sí la haya habilitado y haya guardado los cambios.
 
 **Faltan estados de problemas predeterminados en algunos tipos de problemas de la instalación**
 
