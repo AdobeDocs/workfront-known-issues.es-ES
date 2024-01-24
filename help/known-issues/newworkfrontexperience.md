@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 94%
+source-wordcount: '844'
+ht-degree: 91%
 
 ---
 
@@ -40,6 +40,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Actualizaciones: Los comentarios realizados en la experiencia de comentarios heredada no son visibles en la nueva experiencia](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | jueves, 24 de enero de 2024 |
+| [Actualizaciones: Problemas con el etiquetado en la experiencia de comentarios heredada](known-issues-workfront/wf-updates-showing-first-name.md) | jueves, 24 de enero de 2024 |
 | [Integraciones: No se puede registrar el tiempo de la integración de Workfront para Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | sábado, 19 de enero de 2024 |
 | [Actualizaciones: No se pueden ver ni descargar imágenes en los comentarios](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sábado, 19 de enero de 2024 |
 | [Documentos: problemas en la visualización de listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | viernes, 18 de enero de 2024 |
