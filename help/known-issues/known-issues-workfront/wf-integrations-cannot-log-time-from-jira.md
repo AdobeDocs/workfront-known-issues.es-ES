@@ -3,15 +3,19 @@ title: "Integraciones: No se puede registrar el tiempo de la integración de Wor
 description: "Cuando un usuario intenta registrar el tiempo en la integración de Workfront para Jira, el tiempo no se registra y el usuario ve un error."
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 
 
 # Integraciones: No se puede registrar el tiempo de la integración de Workfront para Jira
+
+>[!NOTE]
+>
+>Este problema se corrigió el 19 de enero. 2024.
 
 Cuando un usuario intenta registrar el tiempo en la integración de Workfront para Jira, el tiempo no se registra y el usuario ve el siguiente error:
 

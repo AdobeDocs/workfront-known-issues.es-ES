@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 93%
+source-wordcount: '813'
+ht-degree: 94%
 
 ---
 
@@ -27,7 +27,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: No se puede mover el documento de la carpeta a la raíz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
-| [Administración de recursos: cálculos financieros incorrectos debido a problemas de rol](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
 | [Tableros: la búsqueda no funciona](known-issues-workfront/wf-boards-search-not-working.md) | lunes, 20 de octubre de 2024 |
 
@@ -39,12 +38,13 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Equipos: problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]](known-issues-workfront/wf-teams-statuses-missing.md) | viernes, 25 de enero de 2024 |
+| [Administración de recursos: cálculos financieros incorrectos debido a problemas de rol](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | viernes, 25 de enero de 2024 |
+| [Tableros: las tarjetas persisten al cambiar la iteración](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | viernes, 25 de enero de 2024 |
 | [Actualizaciones: Los comentarios realizados en la experiencia de comentarios heredada no son visibles en la nueva experiencia](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | jueves, 24 de enero de 2024 |
-| [Integraciones: No se puede registrar el tiempo de la integración de Workfront para Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | sábado, 19 de enero de 2024 |
 | [Actualizaciones: No se pueden ver ni descargar imágenes en los comentarios](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sábado, 19 de enero de 2024 |
 | [Documentos: problemas en la visualización de listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | viernes, 18 de enero de 2024 |
 | [Problemas: los campos de tiempo ahorran tiempo incorrecto al editar problemas por lotes](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 05 de enero de 2024 |
-| [Tareas: la ventana se cierra al crear una nueva tarea](known-issues-workfront/wf-tasks-new-window-closes.md) | viernes, 04 de enero de 2024 |
 | [Plantillas: no se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | viernes, 04 de enero de 2024 |
 | [Nuevo [!UICONTROL Inicio]: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | viernes, 04 de enero de 2024 |
 | [Tareas: se ha anulado la asignación del usuario a una o varias tareas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martes, 18 de diciembre de 2023 |

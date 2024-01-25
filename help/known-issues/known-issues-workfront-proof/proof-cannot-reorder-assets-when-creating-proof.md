@@ -3,15 +3,19 @@ title: "Workfront Proof: no se pueden reordenar los recursos al crear una prueba
 description: “cuando un usuario de Workfront Proof intenta reordenar los recursos que se combinarán en una prueba, no puede arrastrar los archivos y el orden de dichos archivos no cambia”.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
-workflow-type: ht
-source-wordcount: '93'
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Workfront Proof]: no se pueden reordenar los recursos al crear una prueba
+
+>[!NOTE]
+>
+>Este problema se ha cerrado.
 
 cuando un usuario está en [!UICONTROL Workfront Proof] intenta reordenar los recursos que se combinarán en una prueba, no puede arrastrar los archivos y el orden de dichos archivos no cambia.
 

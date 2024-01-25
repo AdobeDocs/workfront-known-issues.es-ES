@@ -3,9 +3,9 @@ title: '“Tableros: las tarjetas persisten al cambiar la iteración”'
 description: “Cuando un usuario está viendo una iteración en un tablero y luego cambia la iteración, las tarjetas que se muestran para la nueva iteración son las tarjetas de una iteración que el usuario estaba viendo anteriormente”.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Tableros: las tarjetas persisten al cambiar la iteración
 
+<!--
+
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 18 de enero de 2024.
+>This issue was fixed on January 18, 2024.
+
+-->
 
 Cuando un usuario está viendo una iteración en un tablero y luego cambia la iteración, las tarjetas que se muestran para la nueva iteración son las tarjetas de una iteración que el usuario estaba viendo anteriormente.
 
