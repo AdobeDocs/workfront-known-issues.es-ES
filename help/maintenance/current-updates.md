@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 80%
+source-wordcount: '1158'
+ht-degree: 75%
 
 ---
 
@@ -37,6 +37,19 @@ Cuando el estado del objeto vinculado de una tarjeta conectada cambia directamen
 **Marcar las notificaciones como vistas no persiste**
 
 Cuando un usuario marca sus notificaciones como vistas y luego navega a una página diferente dentro de [!DNL Workfront]Sin embargo, el icono de notificaciones sigue mostrando el número de notificaciones no leídas que existían antes de que el usuario las marcara como vistas y las notificaciones siguen apareciendo cuando el usuario hace clic en el icono. Esto continúa si el usuario los marca como vistos y navega a otra página o vuelve a la página original.
+
+#### Actualizaciones
+
+**Problemas con el etiquetado en la experiencia de comentarios heredada**
+
+Cuando se etiqueta a un usuario en un comentario en la experiencia de comentarios heredada, se producen los siguientes problemas:
+
+* En el comentario solo está presente el nombre del usuario
+* El nombre del usuario no está marcado con un símbolo @
+* El nombre del usuario no es azul
+* El nombre del usuario no es un vínculo al perfil de ese usuario
+
+El usuario recibe una notificación por correo electrónico con respecto a la etiqueta, tal como se espera.
 
 +++
 
@@ -142,9 +155,9 @@ Un comentario hecho en la experiencia de comentarios heredada puede no ser visib
 
 +++
 
-+++**Actualización de mantenimiento del jueves, 11 de enero de 2023**
++++**Actualización de mantenimiento del viernes, 11 de enero de 2024**
 
-### Actualización de mantenimiento el 11 de enero de 2023
+### Actualización de mantenimiento el viernes, 11 de enero de 2024
 
 #### Tableros
 

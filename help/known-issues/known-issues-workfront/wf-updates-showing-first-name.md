@@ -3,15 +3,19 @@ title: "Actualizaciones: Problemas con el etiquetado en la experiencia de coment
 description: "Cuando se etiqueta a un usuario en un comentario en la experiencia de comentarios heredada, se producen varios problemas."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
 # Actualizaciones: Problemas con el etiquetado en la experiencia de comentarios heredada
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 25 de enero de 2024.
 
 Cuando se etiqueta a un usuario en un comentario en la experiencia de comentarios heredada, se producen los siguientes problemas:
 
