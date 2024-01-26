@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 93%
+source-wordcount: '828'
+ht-degree: 92%
 
 ---
 
@@ -38,6 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Plantillas: Error al copiar las plantillas](known-issues-workfront/wf-templates-cannot-copy-template.md) | sábado, 26 de enero de 2024 |
 | [[!UICONTROL Administración de recursos]: no se puede cambiar la fecha en [!UICONTROL Utilización] área](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | viernes, 25 de enero de 2024 |
 | [Equipos: problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]](known-issues-workfront/wf-teams-statuses-missing.md) | viernes, 25 de enero de 2024 |
 | [Administración de recursos: cálculos financieros incorrectos debido a problemas de rol](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | viernes, 25 de enero de 2024 |

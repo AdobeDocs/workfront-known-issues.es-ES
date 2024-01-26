@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '2012'
-ht-degree: 96%
+source-wordcount: '2017'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Plantillas: Error al copiar las plantillas](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Administración de recursos]: no se puede cambiar la fecha en [!UICONTROL Utilización] área](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Actualizaciones: Los comentarios realizados en la experiencia de comentarios heredada no son visibles en la nueva experiencia](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [Actualizaciones: Problemas con el etiquetado en la experiencia de comentarios heredada](known-issues-workfront/wf-updates-showing-first-name.md)
