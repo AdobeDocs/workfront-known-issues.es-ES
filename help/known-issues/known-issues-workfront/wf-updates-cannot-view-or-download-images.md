@@ -1,19 +1,19 @@
 ---
-title: "Actualizaciones: No se pueden ver ni descargar imágenes en los comentarios"
-description: "Cuando un usuario intenta ver o descargar una imagen de un comentario en Workfront, ve un error."
+title: '“Actualizaciones: no se pueden ver ni descargar imágenes en los comentarios”'
+description: “Cuando un usuario intenta ver o descargar una imagen de un comentario en Workfront, verá un error”.
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Actualizaciones: No se pueden ver ni descargar imágenes en los comentarios
+# Actualizaciones: no se pueden ver ni descargar imágenes en los comentarios
 
-Cuando un usuario intenta ver o descargar una imagen de un comentario en Workfront, ve el siguiente error:
+Cuando un usuario intenta ver o descargar una imagen de un comentario en Workfront, verá el siguiente error:
 
 `Access to <domain>.my.workfront.com was denied`
 

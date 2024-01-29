@@ -4,7 +4,7 @@ description: “Cuando un usuario está viendo la vista Tableros en una lista de
 hidefromtoc: true
 feature: Agile, Tasks, Projects
 source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 

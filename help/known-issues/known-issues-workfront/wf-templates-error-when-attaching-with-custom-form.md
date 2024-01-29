@@ -4,7 +4,7 @@ description: “Cuando un usuario intenta adjuntar una plantilla a un proyecto, 
 hidefromtoc: true
 feature: Projects
 source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 

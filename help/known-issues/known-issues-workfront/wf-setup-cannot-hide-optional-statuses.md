@@ -4,7 +4,7 @@ description: “Cuando se intentan ocultar estados opcionales en un sistema y ni
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 

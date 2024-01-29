@@ -4,7 +4,7 @@ description: “Cuando un usuario está viendo los estados de los problemas en l
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
 ht-degree: 100%
 
