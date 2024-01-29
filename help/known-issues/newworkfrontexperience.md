@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
 workflow-type: tm+mt
 source-wordcount: '807'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -43,7 +43,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Administración de recursos: cálculos financieros incorrectos debido a problemas de rol](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | viernes, 25 de enero de 2024 |
 | [Tableros: las tarjetas persisten al cambiar la iteración](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | viernes, 25 de enero de 2024 |
 | [Actualizaciones: Los comentarios realizados en la experiencia de comentarios heredada no son visibles en la nueva experiencia](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | jueves, 24 de enero de 2024 |
-| [Actualizaciones: No se pueden ver ni descargar imágenes en los comentarios](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sábado, 19 de enero de 2024 |
+| [Actualizaciones: no se pueden ver ni descargar imágenes en los comentarios](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sábado, 19 de enero de 2024 |
 | [Documentos: problemas en la visualización de listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | viernes, 18 de enero de 2024 |
 | [Problemas: los campos de tiempo ahorran tiempo incorrecto al editar problemas por lotes](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 05 de enero de 2024 |
 | [Plantillas: no se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | viernes, 04 de enero de 2024 |

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
 source-wordcount: '1158'
-ht-degree: 75%
+ht-degree: 92%
 
 ---
 
@@ -36,7 +36,7 @@ Cuando el estado del objeto vinculado de una tarjeta conectada cambia directamen
 
 **Marcar las notificaciones como vistas no persiste**
 
-Cuando un usuario marca sus notificaciones como vistas y luego navega a una página diferente dentro de [!DNL Workfront]Sin embargo, el icono de notificaciones sigue mostrando el número de notificaciones no leídas que existían antes de que el usuario las marcara como vistas y las notificaciones siguen apareciendo cuando el usuario hace clic en el icono. Esto continúa si el usuario los marca como vistos y navega a otra página o vuelve a la página original.
+Cuando un usuario marca sus notificaciones como vistas y luego navega a una página diferente dentro de [!DNL Workfront], el icono de notificaciones sigue mostrando el número de notificaciones no leídas que existían antes de que el usuario las marcara como vistas, y las notificaciones siguen apareciendo en la lista cuando el usuario hace clic en el icono. Esto continúa si el usuario las marca como vistas y navega a otra página o vuelve a la página original.
 
 #### Actualizaciones
 
@@ -79,7 +79,7 @@ Para cerrar la tarjeta, el usuario debe editar la URL para quitar “tablero” 
 
 Cuando un usuario está viendo una iteración en un tablero y luego cambia la iteración, las tarjetas que se muestran para la nueva iteración son las tarjetas de una iteración que el usuario estaba viendo anteriormente.
 
-**Error en [!UICONTROL Comentarios] sección de tarjetas**
+**Error en la sección [!UICONTROL Comentarios] de las tarjetas**
 
 Cuando un usuario está viendo una tarjeta y se desplaza a la sección [!UICONTROL Comentarios], los comentarios no se muestran y aparece el siguiente error:
 
@@ -92,7 +92,7 @@ Se ha informado de los siguientes problemas relacionados con la visualización d
 * El estado se muestra como &quot;Seleccionar estado&quot; incluso cuando la tarea ya tiene un estado. Este estado se puede ver al ver la tarea directamente.
 * Si el usuario intenta seleccionar un estado, la pantalla se queda en blanco y debe actualizarse.
 
-**&quot;[!UICONTROL No tiene acceso]&quot; al ver comentarios en una tarjeta**
+**“[!UICONTROL No tiene acceso]” al ver comentarios en una tarjeta**
 
 Cuando un usuario intenta ver los comentarios de una tarjeta que no está conectada a un objeto de [!DNL Workfront], verá el siguiente mensaje:
 
@@ -102,7 +102,7 @@ Esto puede ocurrir incluso cuando el usuario podía ver los comentarios en la ta
 
 #### Formularios personalizados
 
-**No se pueden agregar ni eliminar por lotes formularios personalizados en tareas de plantilla**
+**No se pueden añadir ni quitar de forma masiva formularios personalizados en tareas de la plantilla**
 
 Si un usuario intenta añadir o quitar de forma masiva un formulario personalizado en una tarea de plantilla, el formulario no se añade ni se quita, y el usuario ve el siguiente error:
 
@@ -114,9 +114,9 @@ Los formularios personalizados se pueden añadir o quitar en una sola tarea de p
 
 #### Portafolios
 
-**La terminología personalizada no se aplica a las páginas de grupo**
+**La terminología personalizada no se aplica a la página de grupo**
 
-Cuando un usuario establece una terminología personalizada en el nivel de Portfolio, la terminología no se aplica a la página de nivel de grupo.
+Cuando un usuario establece terminología personalizada en el nivel de portafolio, la terminología no se aplica a la página de nivel de grupo.
 
 #### Configurar
 
@@ -124,13 +124,13 @@ Cuando un usuario establece una terminología personalizada en el nivel de Portf
 
 Cuando se intentan ocultar estados opcionales en un sistema y nivel de grupo, el estado no se oculta. Si el usuario ve el estado, la opción para ocultarlo no está habilitada, aunque el usuario sí la haya habilitado y haya guardado los cambios.
 
-**Faltan estados de problemas predeterminados en algunos tipos de problemas de la instalación**
+**Faltan los estados de problemas predeterminados en algunos tipos de problemas en la Configuración**
 
 Cuando un usuario está viendo los estados de los problemas en la Configuración, ve que faltan los estados predeterminados para los problemas (Nuevo, En curso y Completado) en algunos tipos de problemas. Los estados predeterminados no tienen la opción de cambiar el tipo de problema, por lo que el usuario no puede volver a configurar los estados para mostrar para los tipos de problema afectados.
 
 #### Equipos
 
-**Problemas con la configuración de los estados de equipo para [!UICONTROL Listo] botón**
+**Problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]**
 
 Se han notificado los siguientes problemas relacionados con los estados del botón [!UICONTROL Listo] al editar o crear un equipo:
 
@@ -139,7 +139,7 @@ Se han notificado los siguientes problemas relacionados con los estados del bot�
 
 #### Plantillas
 
-**Error al adjuntar una plantilla al proyecto**
+**Error al adjuntar plantilla a proyecto**
 
 Cuando un usuario intenta adjuntar una plantilla a un proyecto, recibe el siguiente error:
 
@@ -149,9 +149,9 @@ Esto ocurre cuando el usuario no tiene permiso de visualización en un formulari
 
 #### Actualizaciones
 
-**Los comentarios no se transfieren entre la experiencia antigua y la nueva**
+**Los comentarios no se transfieren entre la experiencia anterior y la nueva**
 
-Un comentario hecho en la experiencia de comentarios heredada puede no ser visible en la nueva experiencia de comentarios. También puede ocurrir lo contrario.
+Es posible que un comentario realizado en la experiencia de comentarios anterior no sea visible en la nueva experiencia de comentarios. También puede ocurrir lo contrario.
 
 +++
 

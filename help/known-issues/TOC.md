@@ -5,7 +5,7 @@ role: User
 source-git-commit: 032a05ba535624c37c160675ac748c40ebd96477
 workflow-type: tm+mt
 source-wordcount: '1473'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 94%
       + [Documentos: No se puede mover el documento de la carpeta a la raíz](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [Administración de recursos: cálculos financieros incorrectos debido a problemas de rol](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
-      + [Integraciones: No se puede registrar el tiempo de la integración de Workfront para Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
-      + [Actualizaciones: No se pueden ver ni descargar imágenes en los comentarios](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
-      + [Notificaciones: El marcado de las notificaciones como vistas no persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
+      + [Integraciones: no se puede registrar el tiempo de la integración de Workfront para Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Actualizaciones: no se pueden ver ni descargar imágenes en los comentarios](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [Notificaciones: marcar las notificaciones como vistas no persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Configuración]: no se pueden ocultar los estados opcionales](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Documentos: problemas en la visualización de listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
