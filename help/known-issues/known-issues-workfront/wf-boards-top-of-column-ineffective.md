@@ -1,0 +1,22 @@
+---
+title: "Tableros: No se puede mover una tarjeta en una columna mediante las opciones de Mover"
+description: '"Cuando un usuario intenta mover una tarjeta en una columna utilizando las opciones Parte superior de la columna o Parte inferior de la columna en el menú de tres puntos, la tarjeta no se mueve".'
+hidefromtoc: true
+feature: Agile
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 5%
+
+---
+
+
+# Tableros: no se puede mover una tarjeta en una columna usando [!UICONTROL Mover] opciones
+
+Cuando un usuario intenta mover una tarjeta en una columna utilizando la variable &quot;[!UICONTROL Parte superior de la columna]&quot; o &quot;[!UICONTROL Parte inferior de la columna]&quot; en el menú de tres puntos, la tarjeta no se mueve.
+
+**Solución alternativa**
+
+Arrastre y suelte la tarjeta en la ubicación deseada.
+
+_Notificado por primera vez el sábado, 26 de enero de 2024._
