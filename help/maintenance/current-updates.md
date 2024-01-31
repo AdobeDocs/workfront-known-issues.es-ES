@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1158'
-ht-degree: 92%
+source-wordcount: '1333'
+ht-degree: 81%
 
 ---
 
@@ -20,7 +20,43 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
+## Actualizaciones en febrero de 2024
+
++++**(Planificado) Actualización de mantenimiento del viernes, 01 de febrero de 2024**
+
+### (Planificado) Actualización de mantenimiento el 1 de febrero de 2024
+
+#### Inicio de sesión
+
+**Los usuarios que utilizan SSO no son redirigidos a la ubicación original al iniciar sesión**
+
+Cuando un usuario está en una página de [!DNL Workfront] y inicia sesión con SSO, cuando se completa el inicio de sesión, se les dirige a [!UICONTROL Inicio] en lugar de la página en la que se encontraban antes de iniciar sesión.
+
+#### Plantillas
+
+**Error al copiar las plantillas**
+
+Cuando un usuario intenta copiar una plantilla nueva o existente, esta no se copia y aparece el siguiente error:
+
+&quot;[!UICONTROL El ID no puede ser nulo]&quot;
+
++++
+
 ## Actualizaciones en enero de 2024
+
++++**Actualización de mantenimiento (Hot Fix) el miércoles, 30 de enero de 2024**
+
+### Actualización de mantenimiento (Hot Fix) el 30 de enero de 2024
+
+#### Informes
+
+**El campo API externa no muestra todos los valores disponibles en listas e informes**
+
+Anteriormente, los usuarios podían ver el valor seleccionado (y editar el valor) para un campo de búsqueda externo en listas e informes, pero no veían el menú desplegable con las opciones procedentes de la API.
+
+Ahora, cuando se utiliza un campo personalizado de búsqueda externa en una lista o informe, está disponible la lista desplegable con todas las opciones de la API externa.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 25 de enero de 2024**
 
