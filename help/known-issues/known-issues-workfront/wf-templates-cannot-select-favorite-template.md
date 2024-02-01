@@ -3,15 +3,19 @@ title: '“Plantillas: no se puede seleccionar una plantilla de la lista [!UICON
 description: “Cuando un usuario intenta seleccionar una plantilla de la lista [!UICONTROL Favoritos], la lista desaparece cuando el usuario mueve el ratón a la lista y no se puede seleccionar una plantilla.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: b9cc44f0daffeec11b8b8b7e6239cf050faa047a
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # Plantillas: no se puede seleccionar una plantilla de la lista [!UICONTROL Favoritos]
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 25 de enero de 2024.
 
 Cuando un usuario intenta seleccionar una plantilla de la lista [!UICONTROL Favoritos], la lista desaparece cuando el usuario mueve el ratón a la lista y no se puede seleccionar una plantilla.
 

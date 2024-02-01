@@ -4,18 +4,14 @@ description: Cuando el estado del objeto vinculado de una tarjeta conectada camb
 hidefromtoc: true
 feature: Agile
 exl-id: b8c087a4-0424-411c-b18a-0ee53a7807e9
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
 
 # Tableros: las tarjetas no se mueven a la columna adecuada cuando se cambia el estado
-
->[!NOTE]
->
->Este problema se corrigió el viernes, 25 de enero de 2024.
 
 Cuando el estado del objeto vinculado de una tarjeta conectada cambia directamente en el objeto, la tarjeta no se mueve a la columna adecuada. Si se cambia el estado del objeto en la tarjeta o se arrastra la tarjeta a la nueva columna, la tarjeta se comporta según lo esperado.
 
