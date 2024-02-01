@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 90%
+source-wordcount: '832'
+ht-degree: 91%
 
 ---
 
@@ -40,7 +40,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 |----------------------------------| ----------------- |
 | [Problemas: El estado del problema no está en el menú desplegable](known-issues-workfront/wf-issues-status-not-available.md) | jueves, 31 de enero de 2024 |
 | [Actualizaciones: la opción de imagen desactivada está disponible al editar un comentario](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | jueves, 31 de enero de 2024 |
-| [Plantillas: Error al copiar las plantillas](known-issues-workfront/wf-templates-cannot-copy-template.md) | sábado, 26 de enero de 2024 |
 | [[!UICONTROL Administración de recursos]: no se puede cambiar la fecha en [!UICONTROL Utilización] área](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | viernes, 25 de enero de 2024 |
 | [Equipos: problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]](known-issues-workfront/wf-teams-statuses-missing.md) | viernes, 25 de enero de 2024 |
 | [Administración de recursos: cálculos financieros incorrectos debido a problemas de rol](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | viernes, 25 de enero de 2024 |

@@ -3,15 +3,19 @@ title: "Plantillas: Error al copiar las plantillas"
 description: "Cuando un usuario intenta copiar una plantilla nueva o existente, la plantilla no se copia y el usuario ve un error."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # Plantillas: Error al copiar las plantillas
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 01 de febrero de 2024.
 
 Cuando un usuario intenta copiar una plantilla nueva o existente, esta no se copia y aparece el siguiente error:
 

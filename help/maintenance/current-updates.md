@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '1333'
+source-wordcount: '1332'
 ht-degree: 81%
 
 ---
@@ -22,7 +22,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en febrero de 2024
 
-+++**(Planificado) Actualización de mantenimiento del viernes, 01 de febrero de 2024**
++++**Actualización de mantenimiento del viernes, 01 de febrero de 2024**
 
 ### (Planificado) Actualización de mantenimiento el 1 de febrero de 2024
 
