@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
 source-wordcount: '1332'
-ht-degree: 81%
+ht-degree: 90%
 
 ---
 
@@ -36,7 +36,7 @@ Cuando un usuario está en una página de [!DNL Workfront] y inicia sesión con 
 
 **Error al copiar las plantillas**
 
-Cuando un usuario intenta copiar una plantilla nueva o existente, esta no se copia y aparece el siguiente error:
+Cuando se intenta copiar una plantilla nueva o anterior, la plantilla no se copia y aparece el siguiente mensaje de error:
 
 &quot;[!UICONTROL El ID no puede ser nulo]&quot;
 
@@ -64,13 +64,13 @@ Ahora, cuando se utiliza un campo personalizado de búsqueda externa en una list
 
 #### Tableros
 
-**Las tarjetas no se mueven a la columna adecuada cuando se cambia el estado**
+**Tableros: las tarjetas no se mueven a la columna adecuada cuando se cambia el estado**
 
 Cuando el estado del objeto vinculado de una tarjeta conectada cambia directamente en el objeto, la tarjeta no se mueve a la columna adecuada. Si se cambia el estado del objeto en la tarjeta o se arrastra la tarjeta a la nueva columna, la tarjeta se comporta según lo esperado.
 
 #### Notificaciones
 
-**Marcar las notificaciones como vistas no persiste**
+**el marcado de las notificaciones como vistas no persiste**
 
 Cuando un usuario marca sus notificaciones como vistas y luego navega a una página diferente dentro de [!DNL Workfront], el icono de notificaciones sigue mostrando el número de notificaciones no leídas que existían antes de que el usuario las marcara como vistas, y las notificaciones siguen apareciendo en la lista cuando el usuario hace clic en el icono. Esto continúa si el usuario las marca como vistas y navega a otra página o vuelve a la página original.
 
@@ -85,7 +85,7 @@ Cuando se etiqueta a un usuario en un comentario en la experiencia de comentario
 * El nombre del usuario no es azul
 * El nombre del usuario no es un vínculo al perfil de ese usuario
 
-El usuario recibe una notificación por correo electrónico con respecto a la etiqueta, tal como se espera.
+El usuario recibe una notificación por correo electrónico con respecto a la etiqueta, de acuerdo con lo previsto.
 
 +++
 

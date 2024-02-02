@@ -5,7 +5,7 @@ role: User
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
 source-wordcount: '1516'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 93%
       + [Problemas: El estado del problema no está en el menú desplegable](known-issues-workfront/wf-issues-status-not-available.md)
       + [Actualizaciones: la opción de imagen desactivada está disponible al editar un comentario](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Tableros: no se puede mover una tarjeta en una columna usando [!UICONTROL Mover] opciones](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
-      + [Plantillas: Error al copiar las plantillas](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL Administración de recursos]: no se puede cambiar la fecha en [!UICONTROL Utilización] área](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
-      + [Actualizaciones: Los comentarios realizados en la experiencia de comentarios heredada no son visibles en la nueva experiencia](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
-      + [Actualizaciones: Problemas con el etiquetado en la experiencia de comentarios heredada](known-issues-workfront/wf-updates-showing-first-name.md)
-      + [Documentos: No se puede mover el documento de la carpeta a la raíz](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+      + [Plantillas: error al copiar las plantillas](known-issues-workfront/wf-templates-cannot-copy-template.md)
+      + [[!UICONTROL Administración de recursos]: no se puede cambiar la fecha en el área [!UICONTROL Utilización]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [Actualizaciones: los comentarios realizados en la experiencia de comentarios heredada no son visibles en la nueva experiencia](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [Actualizaciones: problemas con el etiquetado en la experiencia de comentarios heredada](known-issues-workfront/wf-updates-showing-first-name.md)
+      + [Documentos: no se puede mover el documento de la carpeta a la raíz](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md)
-      + [Administración de recursos: cálculos financieros incorrectos debido a problemas de rol](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
+      + [Administración de recursos: cálculos financieros incorrectos debido a problemas de función](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [Integraciones: no se puede registrar el tiempo de la integración de Workfront para Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Actualizaciones: no se pueden ver ni descargar imágenes en los comentarios](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Notificaciones: marcar las notificaciones como vistas no persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
