@@ -4,9 +4,9 @@ description: “Cuando un usuario intenta registrar el tiempo en la integración
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 

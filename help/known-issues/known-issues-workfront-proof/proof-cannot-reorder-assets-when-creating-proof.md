@@ -4,7 +4,7 @@ description: “cuando un usuario de Workfront Proof intenta reordenar los recur
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 

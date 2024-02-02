@@ -4,7 +4,7 @@ description: “Cuando un usuario intenta crear una nueva tarea con el botón + 
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
