@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Fusion
 keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
+source-git-commit: aad77d690cef72beb1543c442ee557e768777150
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 90%
+source-wordcount: '167'
+ht-degree: 86%
 
 ---
 
@@ -46,6 +46,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Falta el campo en el módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | martes, 05 de febrero de 2024 |
 | [Workfront Fusion: Formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | jueves, 31 de enero de 2024 |
 | [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 de noviembre de 2023 |
 | [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de octubre de 2023 |
