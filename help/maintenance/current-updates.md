@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 17e60b281dc05073247083257121d8809a271722
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '1332'
-ht-degree: 90%
+source-wordcount: '1447'
+ht-degree: 86%
 
 ---
 
@@ -22,9 +22,31 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en febrero de 2024
 
++++**(Planificado) Actualización de mantenimiento del viernes, 08 de febrero de 2024**
+
+### (Planificado) Actualización de mantenimiento el 8 de febrero de 2024
+
+#### Tableros
+
+**No se puede mover una tarjeta en una columna usando [!UICONTROL Mover] opciones**
+
+Cuando un usuario intenta mover una tarjeta en una columna utilizando la variable &quot;[!UICONTROL Parte superior de la columna]&quot; o &quot;[!UICONTROL Parte inferior de la columna]&quot; en el menú de tres puntos, la tarjeta no se mueve.
+
+**Las tarjetas persisten al cambiar la iteración**
+
+Cuando un usuario está viendo una iteración en un tablero y luego cambia la iteración, las tarjetas que se muestran para la nueva iteración son las tarjetas de una iteración que el usuario estaba viendo anteriormente.
+
+#### Informes
+
+**La columna &quot;Sin valor&quot; no muestra resultados**
+
+Cuando un informe de gráfico tiene un &quot;[!DNL No value]&quot;, la columna no muestra datos, aunque estos deban estar presentes.
+
++++
+
 +++**Actualización de mantenimiento del viernes, 01 de febrero de 2024**
 
-### (Planificado) Actualización de mantenimiento el 1 de febrero de 2024
+### Actualización de mantenimiento el 1 de febrero de 2024
 
 #### Inicio de sesión
 
