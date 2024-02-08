@@ -3,15 +3,19 @@ title: "Administración de recursos: cálculos financieros incorrectos debido a 
 description: '"Los cálculos de horas y finanzas pueden ser incorrectos y mostrar un coste de 0 aunque las horas se registren en una función que tenga una tasa de coste".'
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '135'
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 
 # Administración de recursos: cálculos financieros incorrectos debido a problemas de función
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 08 de febrero de 2024.
 
 Los cálculos de horas y finanzas pueden ser incorrectos y mostrar un coste de 0 aunque las horas se registren en una función que tenga una tasa de coste.
 

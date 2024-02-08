@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1518'
 ht-degree: 86%
 
 ---
@@ -22,9 +22,9 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en febrero de 2024
 
-+++**(Planificado) Actualización de mantenimiento del viernes, 08 de febrero de 2024**
++++**Actualización de mantenimiento del viernes, 08 de febrero de 2024**
 
-### (Planificado) Actualización de mantenimiento el 8 de febrero de 2024
+### Actualización de mantenimiento el 8 de febrero de 2024
 
 #### Tableros
 
@@ -41,6 +41,14 @@ Cuando un usuario está viendo una iteración en un tablero y luego cambia la it
 **La columna &quot;Sin valor&quot; no muestra resultados**
 
 Cuando un informe de gráfico tiene un &quot;[!DNL No value]&quot;, la columna no muestra datos, aunque estos deban estar presentes.
+
+#### Administración de recursos
+
+**Cálculos financieros incorrectos debido a problemas de rol**
+
+Los cálculos de horas y finanzas pueden ser incorrectos y mostrar un coste de 0 aunque las horas se registren en una función que tenga una tasa de coste.
+
+Esto se debe a que las funciones están creando automáticamente tasas duplicadas sin fechas de inicio o finalización. Como no tienen fechas de inicio o finalización, se tratan como un valor de 0 cuando se ejecutan los cálculos financieros.
 
 +++
 
