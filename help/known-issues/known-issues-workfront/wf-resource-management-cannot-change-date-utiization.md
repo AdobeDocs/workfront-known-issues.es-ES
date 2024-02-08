@@ -3,15 +3,19 @@ title: "[!UICONTROL Administración de recursos]: no se puede cambiar la fecha e
 description: '"Cuando un usuario está viendo el área [!UICONTROL Utilización] de [!UICONTROL Administración de recursos] e intenta cambiar el intervalo de fechas, las fechas no cambian y aparece un error".'
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
-workflow-type: ht
-source-wordcount: '101'
+source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Administración de recursos]: no se puede cambiar la fecha en el área [!UICONTROL Utilización]
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 01 de febrero de 2024.
 
 Cuando un usuario está viendo el área [!UICONTROL Utilización] de [!UICONTROL Administración de recursos] e intenta cambiar el intervalo de fechas, las fechas no cambian y el usuario ve el siguiente error:
 
