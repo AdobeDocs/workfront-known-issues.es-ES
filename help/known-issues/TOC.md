@@ -5,7 +5,7 @@ role: User
 source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
 source-wordcount: '1542'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 95%
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Usuarios: los niveles de acceso inferiores no están disponibles al crear un usuario](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
-      + [Problemas: El estado del problema no está en el menú desplegable](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Problemas: el estado del problema no está en el menú desplegable](known-issues-workfront/wf-issues-status-not-available.md)
       + [Actualizaciones: la opción de imagen desactivada está disponible al editar un comentario](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [Tableros: no se puede mover una tarjeta en una columna usando [!UICONTROL Mover] opciones](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [Tableros: no se puede mover una tarjeta en una columna usando las opciones [!UICONTROL Mover]](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Plantillas: error al copiar las plantillas](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Administración de recursos]: no se puede cambiar la fecha en el área [!UICONTROL Utilización]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Actualizaciones: los comentarios realizados en la experiencia de comentarios heredada no son visibles en la nueva experiencia](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
@@ -192,8 +192,8 @@ ht-degree: 95%
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: El módulo Workfront Proof > Watch Proof agota el tiempo de espera](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: Falta el campo en el módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
-      + [Workfront Fusion: Formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion: Error de tiempo de ejecución con respuesta 200 del módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
+      + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
+      + [Workfront Fusion: error de tiempo de ejecución con respuesta 200 del módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)

@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 82%
+ht-degree: 90%
 
 ---
 
@@ -37,7 +37,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: El módulo Workfront Proof > Watch Proof agota el tiempo de espera](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | miércoles, 06 de febrero de 2024 |
-| [Workfront Fusion: Error de tiempo de ejecución con respuesta 200 del módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | martes, 29 de enero de 2024 |
+| [Workfront Fusion: error de tiempo de ejecución con respuesta 200 del módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | martes, 29 de enero de 2024 |
 
 {style="table-layout:auto"}
 
@@ -48,7 +48,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: Falta el campo en el módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | martes, 05 de febrero de 2024 |
-| [Workfront Fusion: Formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | jueves, 31 de enero de 2024 |
+| [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | jueves, 31 de enero de 2024 |
 | [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 de noviembre de 2023 |
 | [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de octubre de 2023 |
 | [[!DNL Workfront Proof]: Error 500 al acceder a  [!DNL Workfront Proof]  mediante API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de mayo de 2023 |

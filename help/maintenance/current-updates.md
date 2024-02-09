@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
 source-wordcount: '1518'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 **No se puede mover una tarjeta en una columna usando [!UICONTROL Mover] opciones**
 
-Cuando un usuario intenta mover una tarjeta en una columna utilizando la variable &quot;[!UICONTROL Parte superior de la columna]&quot; o &quot;[!UICONTROL Parte inferior de la columna]&quot; en el menú de tres puntos, la tarjeta no se mueve.
+Cuando un usuario intenta mover una tarjeta en una columna utilizando las opciones “[!UICONTROL Parte superior de la columna]” o “[!UICONTROL Parte inferior de la columna]” en el menú de tres puntos, la tarjeta no se mueve.
 
 **Las tarjetas persisten al cambiar la iteración**
 
@@ -60,7 +60,7 @@ Esto se debe a que las funciones están creando automáticamente tasas duplicada
 
 **Los usuarios que utilizan SSO no son redirigidos a la ubicación original al iniciar sesión**
 
-Cuando un usuario está en una página de [!DNL Workfront] y inicia sesión con SSO, cuando se completa el inicio de sesión, se les dirige a [!UICONTROL Inicio] en lugar de la página en la que se encontraban antes de iniciar sesión.
+Cuando un usuario está en una página en [!DNL Workfront] e inicia sesión con SSO, cuando se completa el inicio de sesión, se le dirige a [!UICONTROL Inicio] en lugar de la página en la que se encontraban antes de iniciar sesión.
 
 #### Plantillas
 
