@@ -4,7 +4,7 @@ description: '"Cuando se intenta copiar una plantilla nueva o anterior, esta no 
 hidefromtoc: true
 feature: Projects
 source-git-commit: 17e60b281dc05073247083257121d8809a271722
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 

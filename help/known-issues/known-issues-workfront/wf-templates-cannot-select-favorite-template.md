@@ -4,7 +4,7 @@ description: â€œCuando un usuario intenta seleccionar una plantilla de la listaÂ
 hidefromtoc: true
 feature: Projects
 source-git-commit: b9cc44f0daffeec11b8b8b7e6239cf050faa047a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 

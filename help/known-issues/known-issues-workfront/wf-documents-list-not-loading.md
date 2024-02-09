@@ -4,7 +4,7 @@ description: “Se ha informado de problemas relacionados con la visualización 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 
