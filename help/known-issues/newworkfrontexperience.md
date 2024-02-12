@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 98%
+source-wordcount: '788'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: El filtrado para varios usuarios no devuelve todos los resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | martes, 12 de febrero de 2024 |
 | [Usuarios: los niveles de acceso inferiores no están disponibles al crear un usuario](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | viernes, 08 de febrero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
@@ -37,6 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Actualizaciones: la pantalla se queda en blanco al responder a un usuario de otra compañía](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | martes, 12 de febrero de 2024 |
 | [Documentos: no se puede mover el documento de la carpeta a la raíz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | viernes, 01 de febrero de 2024 |
 | [Tableros: las tarjetas no se mueven a la columna adecuada cuando se cambia el estado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | viernes, 01 de febrero de 2024 |
 | [Problemas: El estado del problema no está en el menú desplegable](known-issues-workfront/wf-issues-status-not-available.md) | jueves, 31 de enero de 2024 |
