@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '1518'
-ht-degree: 96%
+source-wordcount: '1690'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,30 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en febrero de 2024
+
++++**(Planificado) Actualización de mantenimiento del viernes, 15 de febrero de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 15 de febrero de 2024
+
+#### Problemas
+
+**Los campos de tiempo ahorran un tiempo incorrecto al editar problemas por lotes**
+
+Cuando un usuario edita problemas por lotes, selecciona una fecha y una hora para un campo de fecha y los guarda, la hora que se guarda en este campo del problema no es la hora que el usuario seleccionó. En su lugar, la hora parece convertirse a UTC cuando el usuario lo guarda.
+
+#### Tareas
+
+**Se ha anulado la asignación del usuario a una o varias tareas**
+
+Es posible que se quite la asignación automática a un usuario de una tarea a la que está asignado. Esto puede ocurrir en una o más tareas. La anulación de la asignación no se muestra en el área Actualizaciones del sistema de las tareas, pero sí en la sección Actualización de fuentes del menú de configuración.
+
+#### Actualizaciones
+
+**La opción de imagen desactivada está disponible al editar un comentario**
+
+Después de que un [!DNL Workfront] administrador ha desactivado la opción para añadir imágenes a los comentarios, esa opción no está disponible al crear un comentario. Sin embargo, si un usuario edita un comentario existente, la opción de imagen está disponible.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 08 de febrero de 2024**
 
