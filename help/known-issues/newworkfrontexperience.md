@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 92%
+source-wordcount: '827'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tableros: Problemas relacionados con las tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | jueves, 14 de febrero de 2024 |
 | [Integraciones: documentos no adjuntos al crear una solicitud desde [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | miércoles, 13 de febrero de 2024 |
 | [Pruebas: No se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | miércoles, 13 de febrero de 2024 |
 | [Tableros: Error 400 al añadir una tarea a un tablero](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | miércoles, 13 de febrero de 2024 |
