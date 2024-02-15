@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
 source-wordcount: '1690'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -48,11 +48,11 @@ Después de que un [!DNL Workfront] administrador ha desactivado la opción para
 
 +++**Actualización de mantenimiento del viernes, 08 de febrero de 2024**
 
-### Actualización de mantenimiento el 8 de febrero de 2024
+### Actualización de mantenimiento del 8 de febrero de 2024
 
 #### Tableros
 
-**No se puede mover una tarjeta en una columna usando [!UICONTROL Mover] opciones**
+**No se puede mover una tarjeta en una columna usando las opciones [!UICONTROL Mover]**
 
 Cuando un usuario intenta mover una tarjeta en una columna utilizando las opciones “[!UICONTROL Parte superior de la columna]” o “[!UICONTROL Parte inferior de la columna]” en el menú de tres puntos, la tarjeta no se mueve.
 
@@ -64,11 +64,11 @@ Cuando un usuario está viendo una iteración en un tablero y luego cambia la it
 
 **La columna &quot;Sin valor&quot; no muestra resultados**
 
-Cuando un informe de gráfico tiene un &quot;[!DNL No value]&quot;, la columna no muestra datos, aunque estos deban estar presentes.
+Cuando un informe de gráfico tiene una columna &quot;[!DNL No value]&quot;, la columna no muestra datos, aunque estos deban estar presentes.
 
 #### Administración de recursos
 
-**Cálculos financieros incorrectos debido a problemas de rol**
+**Administración de recursos: cálculos financieros incorrectos debido a problemas de función**
 
 Los cálculos de horas y finanzas pueden ser incorrectos y mostrar un coste de 0 aunque las horas se registren en una función que tenga una tasa de coste.
 
@@ -78,7 +78,7 @@ Esto se debe a que las funciones están creando automáticamente tasas duplicada
 
 +++**Actualización de mantenimiento del viernes, 01 de febrero de 2024**
 
-### Actualización de mantenimiento el 1 de febrero de 2024
+### Actualización de mantenimiento del 1 de febrero de 2024
 
 #### Inicio de sesión
 
