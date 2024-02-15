@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: El módulo Workfront Proof > Watch Proof agota el tiempo de espera](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | miércoles, 06 de febrero de 2024 |
+| [Workfront Fusion: el módulo Prueba de Workfront > Ver prueba agota el tiempo de espera](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | miércoles, 06 de febrero de 2024 |
 | [Workfront Fusion: error de tiempo de ejecución con respuesta 200 del módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | martes, 29 de enero de 2024 |
 
 {style="table-layout:auto"}
