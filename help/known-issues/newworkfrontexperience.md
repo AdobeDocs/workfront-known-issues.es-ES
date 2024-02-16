@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 91%
+source-wordcount: '815'
+ht-degree: 89%
 
 ---
 
@@ -42,6 +42,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Tableros: La tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de febrero de 2024 |
+| [Tableros: Las tarjetas no se ordenan](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de febrero de 2024 |
+| [Tableros: la pantalla se queda en blanco al ver los detalles de la tarjeta](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | sábado, 16 de febrero de 2024 |
 | [Pruebas: No se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | viernes, 15 de febrero de 2024 |
 | [Actualizaciones: la pantalla se queda en blanco al responder a un usuario de otra compañía](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | martes, 12 de febrero de 2024 |
 | [Tableros: las tarjetas no se mueven a la columna adecuada cuando se cambia el estado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | viernes, 01 de febrero de 2024 |
