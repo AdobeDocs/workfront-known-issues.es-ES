@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
-ht-degree: 93%
+source-wordcount: '1860'
+ht-degree: 92%
 
 ---
 
@@ -45,6 +45,12 @@ Cuando un administrador de grupo intenta cambiar el nivel de acceso de un usuari
 
 * El campo de nivel de acceso está desactivado.
 * El administrador del grupo no puede elegir un nivel de acceso inferior.
+
+#### Distribuidor de cargas de trabajo
+
+**Etiqueta para las horas no laborables**
+
+El Distribuidor de cargas de trabajo y el calendario personal de días libres ahora muestran &quot;[!UICONTROL Horas no laborables]&quot; para el tiempo que un usuario está despegando. Anteriormente, la pantalla mostraba &quot;[!UICONTROL Horas laborables]&quot; para el período no laborable.
 
 +++
 

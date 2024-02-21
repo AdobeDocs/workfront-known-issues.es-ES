@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 96%
+source-wordcount: '840'
+ht-degree: 94%
 
 ---
 
@@ -42,6 +42,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Formularios personalizados: Error al pegar texto en un campo de texto enriquecido](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | jueves, 21 de febrero de 2024 |
+| [Proyectos: La cronología se vuelve a calcular muy lentamente al cambiar una fecha en una tarea](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | jueves, 21 de febrero de 2024 |
 | [Tableros: La tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de febrero de 2024 |
 | [Tableros: Las tarjetas no se ordenan](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de febrero de 2024 |
 | [Tableros: la pantalla se queda en blanco al ver los detalles de la tarjeta](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | sábado, 16 de febrero de 2024 |
