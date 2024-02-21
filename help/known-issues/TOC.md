@@ -5,7 +5,7 @@ role: User
 source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
 source-wordcount: '1624'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -21,12 +21,12 @@ ht-degree: 94%
       + [Tableros: Las tarjetas no se ordenan](known-issues-workfront/wf-boards-not-sorting.md)
       + [Tableros: la pantalla se queda en blanco al ver los detalles de la tarjeta](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [Inicio: Espacio de trabajo y los anclajes no se cargan](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
-      + [Tableros: Problemas relacionados con las tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [Integraciones: documentos no adjuntos al crear una solicitud desde [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
-      + [Pruebas: No se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md)
+      + [Integraciones: Documentos no adjuntados al crear una solicitud desde  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [Pruebas: no se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] desde un documento de  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [Tableros: Error 400 al añadir una tarea a un tablero](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [Actualizaciones: la pantalla se queda en blanco al responder a un usuario de otra compañía](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
-      + [Tableros: El filtrado para varios usuarios no devuelve todos los resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
+      + [Tableros: el filtrado para varios usuarios no devuelve todos los resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Usuarios: los niveles de acceso inferiores no están disponibles al crear un usuario](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problemas: el estado del problema no está en el menú desplegable](known-issues-workfront/wf-issues-status-not-available.md)
       + [Actualizaciones: la opción de imagen desactivada está disponible al editar un comentario](known-issues-workfront/wf-updates-image-enabled-when-editing.md)

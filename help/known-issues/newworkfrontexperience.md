@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
 source-wordcount: '815'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -26,10 +26,10 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Inicio: Espacio de trabajo y los anclajes no se cargan](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | viernes, 15 de febrero de 2024 |
-| [Tableros: Problemas relacionados con las tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | jueves, 14 de febrero de 2024 |
-| [Integraciones: documentos no adjuntos al crear una solicitud desde [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | miércoles, 13 de febrero de 2024 |
+| [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | jueves, 14 de febrero de 2024 |
+| [Integraciones: Documentos no adjuntados al crear una solicitud desde  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | miércoles, 13 de febrero de 2024 |
 | [Tableros: Error 400 al añadir una tarea a un tablero](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | miércoles, 13 de febrero de 2024 |
-| [Tableros: El filtrado para varios usuarios no devuelve todos los resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | martes, 12 de febrero de 2024 |
+| [Tableros: el filtrado para varios usuarios no devuelve todos los resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | martes, 12 de febrero de 2024 |
 | [Usuarios: los niveles de acceso inferiores no están disponibles al crear un usuario](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | viernes, 08 de febrero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
@@ -45,8 +45,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Tableros: La tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de febrero de 2024 |
 | [Tableros: Las tarjetas no se ordenan](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de febrero de 2024 |
 | [Tableros: la pantalla se queda en blanco al ver los detalles de la tarjeta](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | sábado, 16 de febrero de 2024 |
-| [Pruebas: No se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | viernes, 15 de febrero de 2024 |
-| [Actualizaciones: la pantalla se queda en blanco al responder a un usuario de otra compañía](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | martes, 12 de febrero de 2024 |
+| [Pruebas: no se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] desde un documento de  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | viernes, 15 de febrero de 2024 |
+| [Actualizaciones: La pantalla se queda en blanco al responder a un usuario de otra compañía](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | martes, 12 de febrero de 2024 |
 | [Tableros: las tarjetas no se mueven a la columna adecuada cuando se cambia el estado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | viernes, 01 de febrero de 2024 |
 | [Problemas: El estado del problema no está en el menú desplegable](known-issues-workfront/wf-issues-status-not-available.md) | jueves, 31 de enero de 2024 |
 | [Equipos: problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]](known-issues-workfront/wf-teams-statuses-missing.md) | viernes, 25 de enero de 2024 |

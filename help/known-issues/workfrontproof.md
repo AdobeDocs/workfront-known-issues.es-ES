@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: No se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | viernes, 15 de febrero de 2024 |
+| [Pruebas: no se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] desde un documento de  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | viernes, 15 de febrero de 2024 |
 | [Pruebas: problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de octubre de 2023 |

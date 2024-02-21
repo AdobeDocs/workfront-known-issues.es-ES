@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
 source-wordcount: '1825'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -54,19 +54,19 @@ Cuando un administrador de grupo intenta cambiar el nivel de acceso de un usuari
 
 #### Problemas
 
-**Los campos de tiempo ahorran un tiempo incorrecto al editar problemas por lotes**
+**Los campos de tiempo guardan un tiempo incorrecto al editar problemas por lotes**
 
 Cuando un usuario edita problemas por lotes, selecciona una fecha y una hora para un campo de fecha y los guarda, la hora que se guarda en este campo del problema no es la hora que el usuario seleccionó. En su lugar, la hora parece convertirse a UTC cuando el usuario lo guarda.
 
 #### Tareas
 
-**Se ha anulado la asignación del usuario a una o varias tareas**
+**Al usuario se le han desasignado una o varias tareas**
 
 Es posible que se quite la asignación automática a un usuario de una tarea a la que está asignado. Esto puede ocurrir en una o más tareas. La anulación de la asignación no se muestra en el área Actualizaciones del sistema de las tareas, pero sí en la sección Actualización de fuentes del menú de configuración.
 
 #### Actualizaciones
 
-**La opción de imagen desactivada está disponible al editar un comentario**
+**La opción de imagen deshabilitada está disponible al editar un comentario**
 
 Después de que un [!DNL Workfront] administrador ha desactivado la opción para añadir imágenes a los comentarios, esa opción no está disponible al crear un comentario. Sin embargo, si un usuario edita un comentario existente, la opción de imagen está disponible.
 
