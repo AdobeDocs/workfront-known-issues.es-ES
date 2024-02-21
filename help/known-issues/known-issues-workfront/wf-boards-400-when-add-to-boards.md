@@ -1,19 +1,19 @@
 ---
 title: "Tableros: Error 400 al añadir una tarea a un tablero"
-description: '"Cuando un usuario está viendo un proyecto e intenta agregar una tarea a un tablero, la tarea no se agrega y el usuario ve un error. Hay una solución disponible”.'
+description: “Cuando se está visualizando un proyecto y se intenta añadir una tarea a un tablero, la tarea no se añade y aparece un error. Hay una solución disponible”.
 hidefromtoc: true
 feature: Agile
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
 # Tableros: Error 400 al añadir una tarea a un tablero
 
-Cuando un usuario está viendo un proyecto e intenta agregar una tarea a un tablero, la tarea no se agrega y el usuario ve el siguiente error:
+Cuando se intenta visualizar un proyecto y se intenta añadir una tarea a un tablero, la tarea no se añade y aparece el siguiente error:
 
 Error: &quot;400: undefined /boards-service/graphql&quot;.
 

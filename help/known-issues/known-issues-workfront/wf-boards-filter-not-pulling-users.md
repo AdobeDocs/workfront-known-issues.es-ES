@@ -1,19 +1,19 @@
 ---
 title: "Tableros: El filtrado para varios usuarios no devuelve todos los resultados"
-description: '"Cuando un usuario filtra para varios usuarios en Filtro de asignación en Tableros no devuelve todos los resultados esperados".'
+description: “Cuando un usuario filtra para varios usuarios en Asignación, el filtro de Tableros no devuelve todos los resultados esperados”.
 hidefromtoc: true
 feature: Agile
 source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Tableros: El filtrado para varios usuarios no devuelve todos los resultados
+# Tableros: el filtrado para varios usuarios no devuelve todos los resultados
 
-Cuando un usuario filtra para varios usuarios en Filtro de asignación en Tableros no devuelve todos los resultados esperados.
+Cuando un usuario filtra para varios usuarios en Asignación, el filtro de Tableros no devuelve todos los resultados esperados.
 
 **Solución alternativa**
 
