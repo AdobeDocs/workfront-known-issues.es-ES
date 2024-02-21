@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
-source-wordcount: '1690'
-ht-degree: 98%
+source-wordcount: '1825'
+ht-degree: 92%
 
 ---
 
@@ -22,9 +22,35 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 ## Actualizaciones en febrero de 2024
 
-+++**(Planificado) Actualización de mantenimiento del viernes, 15 de febrero de 2024**
++++**(Planificado) Actualización de mantenimiento del viernes, 22 de febrero de 2024**
 
-### (Planificado) Actualización de mantenimiento del viernes, 15 de febrero de 2024
+### (Planificado) Actualización de mantenimiento del viernes, 22 de febrero de 2024
+
+#### Inicio
+
+**[!UICONTROL Inicio]: [!UICONTROL Workspace] Los pines y no se cargan**
+
+Cuando un usuario inicia sesión, puede ocurrir lo siguiente:
+
+* El nuevo del usuario [!UICONTROL Espacio de trabajo principal] no se carga y ven el error &quot;[!UICONTROL No hemos podido cargar la información de su área de trabajo. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
+* Los anclajes del usuario no se cargan y ven el error &quot;[!UICONTROL Los anclajes no están disponibles debido a un error del sistema. Actualice el explorador para solucionar el problema.]&quot;
+
+#### Usuarios
+
+**El administrador del grupo no puede establecer ni cambiar el nivel de acceso de un usuario**
+
+<!--no article-->
+
+Cuando un administrador de grupo intenta cambiar el nivel de acceso de un usuario, puede producirse una de las siguientes situaciones:
+
+* El campo de nivel de acceso está desactivado.
+* El administrador del grupo no puede elegir un nivel de acceso inferior.
+
++++
+
++++**Actualización de mantenimiento del viernes, 15 de febrero de 2024**
+
+### Actualización de mantenimiento del viernes, 15 de febrero de 2024
 
 #### Problemas
 
