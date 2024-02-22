@@ -3,15 +3,19 @@ title: "Inicio: El espacio de trabajo y los anclajes no se cargan"
 description: '"Cuando un usuario inicia sesión, su espacio de trabajo principal y sus anclajes no se cargan y ve mensajes de error".'
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 21%
 
 ---
 
 
 # [!UICONTROL Inicio]: [!UICONTROL Workspace] Los pines y no se cargan
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 22 de febrero de 2024.
 
 Cuando un usuario inicia sesión, puede ocurrir lo siguiente:
 

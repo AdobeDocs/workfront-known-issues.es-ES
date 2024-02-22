@@ -3,15 +3,19 @@ title: "Tableros: La pantalla se queda en blanco al ver los detalles de la tarje
 description: '"Cuando un usuario hace clic en una tarjeta de Tableros, los detalles de la tarjeta se muestran brevemente antes de que la pantalla se ponga en blanco".'
 hidefromtoc: true
 feature: Agile
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '75'
+ht-degree: 13%
 
 ---
 
 
 # Tableros: la pantalla se queda en blanco al ver los detalles de la tarjeta
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 22 de febrero de 2024.
 
 Cuando un usuario hace clic en una tarjeta de un tablero, los detalles de la tarjeta se muestran brevemente antes de que la pantalla se ponga en blanco.
 

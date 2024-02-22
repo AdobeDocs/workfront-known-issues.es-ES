@@ -3,15 +3,19 @@ title: "Formularios personalizados: Error al pegar texto en un campo de texto en
 description: "Cuando un usuario intenta pegar texto desde otra aplicación (como Salesforce o Outlook) en un campo de texto enriquecido en Workfront, el texto no se pega en y el usuario ve un error."
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 3%
+source-wordcount: '114'
+ht-degree: 8%
 
 ---
 
 
 # Formularios personalizados: Error al pegar texto en un campo de texto enriquecido
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 22 de febrero de 2024.
 
 Cuando un usuario intenta pegar texto desde otra aplicación (como Salesforce o Outlook) en un campo de texto enriquecido en Workfront, el texto no se pega en y el usuario ve el siguiente error:
 
