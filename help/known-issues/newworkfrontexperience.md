@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 97%
+source-wordcount: '832'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proyectos: Error al usar filtros en una lista de productos](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | viernes, 22 de febrero de 2024 |
 | [Tableros: Error 400 al añadir una tarea a un tablero](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | miércoles, 13 de febrero de 2024 |
-| [Tableros: el filtrado para varios usuarios no devuelve todos los resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | martes, 12 de febrero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
 
@@ -38,6 +38,11 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Distribuidor de cargas de trabajo: las horas planificadas no se actualizan en el Distribuidor de cargas de trabajo](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | sábado, 23 de febrero de 2024 |
+| [Tableros: Los documentos cargados en las tarjetas muestran una marca de tiempo incorrecta](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | sábado, 23 de febrero de 2024 |
+| [Plantillas de horas: Error al ver el panel de resumen](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | sábado, 23 de febrero de 2024 |
+| [Tableros: Los totales de las listas de comprobación no son precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de febrero de 2024 |
+| [Tableros: el filtrado para varios usuarios no devuelve todos los resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | viernes, 22 de febrero de 2024 |
 | [Integraciones: Documentos no adjuntados al crear una solicitud desde  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | viernes, 22 de febrero de 2024 |
 | [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | viernes, 22 de febrero de 2024 |
 | [Usuarios: los niveles de acceso inferiores no están disponibles al crear un usuario](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | viernes, 22 de febrero de 2024 |

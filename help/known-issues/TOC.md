@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1647'
-ht-degree: 97%
+source-wordcount: '1686'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Distribuidor de cargas de trabajo: las horas planificadas no se actualizan en el Distribuidor de cargas de trabajo](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [Tableros: Los documentos cargados en las tarjetas muestran una marca de tiempo incorrecta](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Plantillas de horas: Error al ver el panel de resumen](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [Tableros: Los totales de las listas de comprobación no son precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [Proyectos: Error al usar filtros en una lista de productos](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Formularios personalizados: Error al pegar texto en un campo de texto enriquecido](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Proyectos: La cronología se vuelve a calcular muy lentamente al cambiar una fecha en una tarea](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Tableros: La tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
