@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '1686'
+source-wordcount: '1699'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: los cambios realizados en el modo de texto no se aplican a los informes o vistas](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Distribuidor de cargas de trabajo: las horas planificadas no se actualizan en el Distribuidor de cargas de trabajo](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [Tableros: Los documentos cargados en las tarjetas muestran una marca de tiempo incorrecta](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [Plantillas de horas: Error al ver el panel de resumen](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
