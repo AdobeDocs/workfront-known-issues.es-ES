@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
 source-wordcount: '1699'
-ht-degree: 94%
+ht-degree: 95%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 94%
       + [Proyectos: Error al usar filtros en una lista de productos](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Formularios personalizados: Error al pegar texto en un campo de texto enriquecido](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Proyectos: La cronología se vuelve a calcular muy lentamente al cambiar una fecha en una tarea](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
-      + [Tableros: La tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
-      + [Tableros: Las tarjetas no se ordenan](known-issues-workfront/wf-boards-not-sorting.md)
+      + [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [Tableros: las tarjetas no se ordenan](known-issues-workfront/wf-boards-not-sorting.md)
       + [Tableros: la pantalla se queda en blanco al ver los detalles de la tarjeta](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [Inicio: Espacio de trabajo y los anclajes no se cargan](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [Inicio: el espacio de trabajo y los anclajes no se cargan](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integraciones: Documentos no adjuntados al crear una solicitud desde  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Pruebas: no se puede crear una prueba con [!UICONTROL Flujo de trabajo avanzado] desde un documento de  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)

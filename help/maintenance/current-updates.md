@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
 source-wordcount: '1858'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -28,12 +28,12 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 #### Inicio
 
-**[!UICONTROL Inicio]: [!UICONTROL Workspace] Los pines y no se cargan**
+**[!UICONTROL Inicio]: el [!UICONTROL espacio de trabajo] y los anclajes no se cargan**
 
 Cuando un usuario inicia sesión, puede ocurrir lo siguiente:
 
-* El nuevo del usuario [!UICONTROL Espacio de trabajo principal] no se carga y ven el error &quot;[!UICONTROL No hemos podido cargar la información de su área de trabajo. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
-* Los anclajes del usuario no se cargan y ven el error &quot;[!UICONTROL Los anclajes no están disponibles debido a un error del sistema. Actualice el explorador para solucionar el problema.]&quot;
+* El nuevo [!UICONTROL Espacio de trabajo de inicio] del usuario no se carga y ven el error “[!UICONTROL No hemos podido cargar la información de su área de trabajo. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
+* Los anclajes del usuario no se cargan y ven el error “[!UICONTROL Los anclajes no están disponibles debido a un error del sistema. Intente actualizar el explorador para solucionar el problema.]”
 
 #### Usuarios
 
@@ -43,7 +43,7 @@ Cuando un usuario inicia sesión, puede ocurrir lo siguiente:
 
 Cuando un administrador de grupo intenta cambiar el nivel de acceso de un usuario, puede producirse una de las siguientes situaciones:
 
-* El campo de nivel de acceso está desactivado.
+* El campo de nivel de acceso está deshabilitado.
 * El administrador del grupo no puede elegir un nivel de acceso inferior.
 
 #### Distribuidor de cargas de trabajo
