@@ -4,7 +4,7 @@ description: '"Cuando se intenta mover una carpeta desde una carpeta creada por 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
 ht-degree: 100%
 
