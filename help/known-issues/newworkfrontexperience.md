@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '851'
 ht-degree: 91%
 
 ---
@@ -41,7 +41,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
 | [Distribuidor de cargas de trabajo: las horas planificadas no se actualizan en el Distribuidor de cargas de trabajo](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | sábado, 23 de febrero de 2024 |
-| [Tableros: Los documentos cargados en las tarjetas muestran una marca de tiempo incorrecta](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | sábado, 23 de febrero de 2024 |
 | [Plantillas de horas: Error al ver el panel de resumen](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | sábado, 23 de febrero de 2024 |
 | [Tableros: Los totales de las listas de comprobación no son precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de febrero de 2024 |
 | [Tableros: el filtrado para varios usuarios no devuelve todos los resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | viernes, 22 de febrero de 2024 |
