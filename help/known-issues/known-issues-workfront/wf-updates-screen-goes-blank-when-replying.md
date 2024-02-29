@@ -3,15 +3,19 @@ title: '“Actualizaciones: la pantalla se queda en blanco al responder a un usu
 description: “Cuando se intenta responder a un comentario de un usuario de otra compañía, la pantalla se queda en blanco”.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 
 # Actualizaciones: la pantalla se queda en blanco al responder a un usuario de otra compañía
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 29 de febrero de 2024.
 
 Cuando un usuario intenta responder a un comentario de un usuario de otra compañía, la pantalla se queda en blanco.
 
