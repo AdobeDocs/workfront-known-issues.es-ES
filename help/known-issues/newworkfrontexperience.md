@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
 workflow-type: tm+mt
-source-wordcount: '810'
-ht-degree: 93%
+source-wordcount: '823'
+ht-degree: 91%
 
 ---
 
@@ -39,6 +39,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Pruebas: Las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sábado, 01 de marzo de 2024 |
 | [Distribuidor de cargas de trabajo: las horas planificadas no se actualizan en el Distribuidor de cargas de trabajo](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | sábado, 23 de febrero de 2024 |
 | [Tableros: Los totales de las listas de comprobación no son precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de febrero de 2024 |
 | [Integraciones: Documentos no adjuntados al crear una solicitud desde  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | viernes, 22 de febrero de 2024 |
