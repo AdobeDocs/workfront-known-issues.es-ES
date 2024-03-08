@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1913'
-ht-degree: 97%
+source-wordcount: '2093'
+ht-degree: 96%
 
 ---
 
@@ -19,6 +19,45 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 >Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado el problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en marzo de 2024
+
++++**Actualización de mantenimiento del viernes, 07 de marzo de 2024**
+
+### Actualización de mantenimiento el 7 de marzo de 2024
+
+#### Tableros
+
+**Error 400 al añadir una tarea a un tablero**
+
+Cuando se intenta visualizar un proyecto y se intenta añadir una tarea a un tablero, la tarea no se añade y aparece el siguiente error:
+
+Error: &quot;400: undefined /boards-service/graphql&quot;
+
+#### Inicio
+
+**Error al editar en línea una tarea en el widget Mi tarea**
+
+Cuando un usuario intenta editar en línea una tarea en el widget Mis tareas, ve el siguiente error:
+
+&quot;Se produjo un error y se está tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador.”
+
+
+#### Distribuidor de cargas de trabajo
+
+**Las horas planificadas no se actualizan en el Distribuidor de cargas de trabajo**
+
+Cuando se actualizan las horas planificadas de un proyecto, no se actualizan en el Distribuidor de cargas de trabajo. Esto puede producirse aunque el cambio se refleje con precisión en el proyecto.
+
++++
+
+++**Actualización de mantenimiento de Workfront Fusion del 7 de marzo de 2024
+
+**El módulo Workfront Proof > Watch Proof agota el tiempo de espera**
+
+Los escenarios que utilizan el módulo Prueba de Workfront > Ver prueba pueden desactivarse debido al tiempo de espera del módulo Ver prueba.
+
++++
 
 ## Actualizaciones en febrero de 2024
 
@@ -55,16 +94,16 @@ Cuando un usuario inicia sesión, puede ocurrir lo siguiente:
 
 <!--no article-->
 
-Cuando un administrador de grupo intenta cambiar el nivel de acceso de un usuario, puede producirse una de las siguientes situaciones:
+Cuando un administrador de grupos intenta cambiar el nivel de acceso de un usuario, puede producirse una de las siguientes situaciones:
 
 * El campo de nivel de acceso está deshabilitado.
 * El administrador del grupo no puede elegir un nivel de acceso inferior.
 
 #### Distribuidor de cargas de trabajo
 
-**Etiqueta para las horas no laborables**
+**Etiqueta para horas no laborables**
 
-El Distribuidor de cargas de trabajo y el calendario personal de días libres ahora muestran &quot;[!UICONTROL Horas no laborables]&quot; para el tiempo que un usuario está despegando. Anteriormente, la pantalla mostraba &quot;[!UICONTROL Horas laborables]&quot; para el período no laborable.
+El distribuidor de cargas de trabajo y el calendario personal de días libres ahora muestran “[!UICONTROL Horas no laborables]” para el tiempo que un usuario se toma libre. Anteriormente, la pantalla mostraba &quot;[!UICONTROL Horas laborables]&quot; para el período no laborable.
 
 +++
 
