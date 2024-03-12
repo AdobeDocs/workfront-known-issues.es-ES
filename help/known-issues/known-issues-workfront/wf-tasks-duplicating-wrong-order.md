@@ -6,14 +6,14 @@ feature: Tasks
 source-git-commit: d68b7fa7c3aa816b7d0c83ed172c0728d8031caf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
 
-# Tareas: La creación o duplicación de tareas hace que la lista de tareas se muestre en un orden incorrecto
+# Tareas: la creación o duplicación de tareas hace que la lista de tareas se muestre en un orden incorrecto
 
-Cuando un usuario crea o duplica una tarea en una lista de tareas, la lista de tareas muestra las tareas en el orden incorrecto según el número de orden de la tarea. Las tareas están numeradas correctamente, pero se muestran en un orden incorrecto.
+Cuando un usuario crea o duplica una tarea en una lista de tareas, la lista de tareas muestra las tareas en un orden incorrecto según el número de orden de la tarea. Las tareas están numeradas correctamente, pero se muestran en un orden incorrecto.
 
 **Solución alternativa**
 
