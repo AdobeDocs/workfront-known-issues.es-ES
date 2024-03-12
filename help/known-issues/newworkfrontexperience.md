@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -41,7 +41,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Informes: los cambios realizados en el modo de texto no se aplican a los informes o las vistas](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martes, 26 de febrero de 2024 |
 | [Tareas: la creación o duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sábado, 08 de marzo de 2024 |
 | [Actualizaciones: Grandes espacios entre líneas](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | sábado, 08 de marzo de 2024 |
-| [Pruebas: Las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sábado, 01 de marzo de 2024 |
+| [Pruebas: las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sábado, 01 de marzo de 2024 |
 | [Tableros: los totales de las listas de comprobación no son precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de febrero de 2024 |
 | [Integraciones: Documentos no adjuntados al crear una solicitud desde  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | viernes, 22 de febrero de 2024 |
 | [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | viernes, 22 de febrero de 2024 |

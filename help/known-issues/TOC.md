@@ -5,7 +5,7 @@ role: User
 source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
 source-wordcount: '1725'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Actualizaciones: Los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Actualizaciones: Grandes espacios entre líneas](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
-      + [Pruebas: Las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
+      + [Pruebas: las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Informes: los cambios realizados en el modo de texto no se aplican a los informes o las vistas](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Distribuidor de cargas de trabajo: las horas planificadas no se actualizan en el Distribuidor de cargas de trabajo](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [Tableros: los documentos cargados en las tarjetas muestran una marca de tiempo incorrecta](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
