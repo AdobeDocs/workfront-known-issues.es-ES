@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
 workflow-type: tm+mt
-source-wordcount: '2093'
-ht-degree: 96%
+source-wordcount: '2235'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,32 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en marzo de 2024
+
++++**(Planificado) Actualización de mantenimiento del viernes, 14 de marzo de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 14 de marzo de 2024
+
+#### Integraciones
+
+**Documentos no adjuntos al crear una solicitud desde[!DNL Outlook]**
+
+Cuando se crea una solicitud desde [!DNL Outlook], los documentos adjuntos al correo electrónico no se adjuntan a la solicitud.
+
+#### Pruebas
+
+**Las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba**
+
+Cuando un usuario crea una prueba a partir de un documento vinculado, la plantilla de prueba no se aplica correctamente y es posible que a la prueba le falte información como el flujo de trabajo.
+
+Esto también se aplica a las pruebas creadas a través de la API y de Workfront Fusion.
+
+#### Usuarios
+
+**Niveles de acceso inferiores no disponibles al crear un usuario**
+
+Cuando un usuario está creando otro usuario, solo el primer nivel de acceso del usuario está disponible para el usuario recién creado. Todos los niveles de acceso con permisos inferiores a los del usuario que lo crea deben estar disponibles para asignarlos al nuevo usuario.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 07 de marzo de 2024**
 
