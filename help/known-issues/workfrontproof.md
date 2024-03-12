@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: Las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sábado, 01 de marzo de 2024 |
+| [Pruebas: las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sábado, 01 de marzo de 2024 |
 | [Pruebas: problemas al procesar archivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de diciembre de 2023 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de octubre de 2023 |

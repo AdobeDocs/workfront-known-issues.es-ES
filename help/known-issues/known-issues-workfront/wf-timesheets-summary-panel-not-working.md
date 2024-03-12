@@ -4,7 +4,7 @@ description: “Cuando un usuario está visualizando una plantilla de horas e in
 hidefromtoc: true
 feature: Timesheets
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
