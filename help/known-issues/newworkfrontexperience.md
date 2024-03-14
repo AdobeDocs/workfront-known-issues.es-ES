@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 98%
+source-wordcount: '818'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Actualizaciones: los comentarios del documento no aparecen en las actualizaciones del objeto principal](known-issues-workfront/wf-updates-document-comments-not-visible.md) | viernes, 14 de marzo de 2024 |
 | [Tareas: la creación o duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martes, 26 de febrero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
@@ -37,6 +38,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Pruebas: No se puede generar una prueba desde un sitio web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | viernes, 14 de marzo de 2024 |
+| [Buscar: no se puede editar desde la búsqueda](known-issues-workfront/wf-search-cannot-edit-from-search.md) | viernes, 14 de marzo de 2024 |
+| [Actualizaciones: Etiquetado de un usuario en ineficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | viernes, 14 de marzo de 2024 |
+| [Registrar hora: el usuario no puede registrar hora del día actual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | viernes, 14 de marzo de 2024 |
 | [Tableros: Error 400 al añadir una tarea a un tablero](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | viernes, 14 de marzo de 2024 |
 | [Actualizaciones: Los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 08 de marzo de 2024 |
 | [Informes: los cambios realizados en el modo de texto no se aplican a los informes o las vistas](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martes, 26 de febrero de 2024 |

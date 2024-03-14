@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 100%
+source-wordcount: '379'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Actualizaciones: los comentarios del documento no aparecen en las actualizaciones del objeto principal](known-issues-workfront/wf-updates-document-comments-not-visible.md) | viernes, 14 de marzo de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
 
 {style="table-layout:auto"}
