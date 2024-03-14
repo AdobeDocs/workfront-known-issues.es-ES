@@ -3,9 +3,9 @@ title: '“Equipos: problemas al configurar los estados de equipo para el botón
 description: “Se han notificado problemas relacionados con los estados del botón [!UICONTROL Listo] al editar o crear un equipo. Hay una solución disponible”.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # Equipos: problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 18, 2024.
-
--->
+>Este problema se ha cerrado porque no existe ningún error.
 
 Se han notificado los siguientes problemas relacionados con los estados del botón [!UICONTROL Listo] al editar o crear un equipo:
 

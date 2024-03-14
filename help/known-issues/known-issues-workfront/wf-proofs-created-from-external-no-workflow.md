@@ -3,9 +3,9 @@ title: "Pruebas: las pruebas creadas a partir de documentos vinculados no tienen
 description: “Cuando un usuario crea una prueba a partir de un documento vinculado, la plantilla de prueba no se aplica correctamente y es posible que a la prueba le falte información como el flujo de trabajo”.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # Pruebas: las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba
 
 <!--On WF, WFF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 14 de marzo de 2024.
 
 Cuando un usuario crea una prueba a partir de un documento vinculado, la plantilla de prueba no se aplica correctamente y es posible que a la prueba le falte información como el flujo de trabajo.
 

@@ -3,15 +3,19 @@ title: '“Usuarios: los niveles de acceso más bajos no están disponibles al c
 description: “Cuando un usuario está creando otro usuario, solo el primer nivel de acceso del usuario está disponible para el usuario recién creado. Todos los niveles de acceso con permisos inferiores a los del usuario que lo crea deben estar disponibles para asignarlos al nuevo usuario”.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 6424bc11d6ba773e8973cc5def56cc7ffcb82e89
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
 
 # Usuarios: los niveles de acceso inferiores no están disponibles al crear un usuario
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 14 de marzo de 2024.
 
 Cuando un usuario está creando otro usuario, solo el primer nivel de acceso del usuario está disponible para el usuario recién creado. Todos los niveles de acceso con permisos inferiores a los del usuario que lo crea deben estar disponibles para asignarlos al nuevo usuario.
 
