@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
 source-wordcount: '2205'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actua
 
 +++**Actualización de mantenimiento del viernes, 14 de marzo de 2024**
 
-### Actualización de mantenimiento el 14 de marzo de 2024
+### Actualización de mantenimiento del viernes, 14 de marzo de 2024
 
 #### Pruebas
 
@@ -44,7 +44,7 @@ Cuando un usuario está creando otro usuario, solo el primer nivel de acceso del
 
 +++**Actualización de mantenimiento del viernes, 07 de marzo de 2024**
 
-### Actualización de mantenimiento el 7 de marzo de 2024
+### Actualización de mantenimiento del 7 de marzo de 2024
 
 #### Tableros
 
@@ -58,9 +58,9 @@ Error: &quot;400: undefined /boards-service/graphql&quot;
 
 **Error al editar en línea una tarea en el widget Mi tarea**
 
-Cuando un usuario intenta editar en línea una tarea en el widget Mis tareas, ve el siguiente error:
+Cuando se intenta editar en línea una tarea en el widget Mis tareas, se ve el siguiente error:
 
-&quot;Se produjo un error y se está tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador.”
+“Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador.”
 
 
 #### Distribuidor de cargas de trabajo
@@ -71,9 +71,9 @@ Cuando se actualizan las horas planificadas de un proyecto, no se actualizan en 
 
 +++
 
-++**Actualización de mantenimiento de Workfront Fusion del 7 de marzo de 2024
++++**Actualización de mantenimiento de Workfront Fusion el 7 de marzo de 2024
 
-**El módulo Workfront Proof > Watch Proof agota el tiempo de espera**
+**El módulo Prueba de Workfront Fusion > Ver prueba excede el tiempo de espera**
 
 Los escenarios que utilizan el módulo Prueba de Workfront > Ver prueba pueden desactivarse debido al tiempo de espera del módulo Ver prueba.
 

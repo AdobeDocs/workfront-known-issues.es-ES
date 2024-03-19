@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
 source-wordcount: '1764'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 96%
       + [Actualizaciones: El etiquetado de un usuario no es eficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [Registrar hora: el usuario no puede registrar hora del día actual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [Actualizaciones: los comentarios del documento no aparecen en las actualizaciones del objeto principal](known-issues-workfront/wf-updates-document-comments-not-visible.md)
-      + [Actualizaciones: Los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [Actualizaciones: Grandes espacios entre líneas](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
+      + [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [Actualizaciones: grandes espacios entre líneas](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Pruebas: las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Informes: los cambios realizados en el modo de texto no se aplican a los informes o las vistas](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Distribuidor de cargas de trabajo: las horas planificadas no se actualizan en el Distribuidor de cargas de trabajo](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
