@@ -4,7 +4,7 @@ description: “Los escenarios que utilizan el módulo Prueba de Workfront > Ver
 hidefromtoc: true
 feature: Workfront Fusion, Workfront Proof
 source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 

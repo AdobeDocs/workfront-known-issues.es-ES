@@ -4,7 +4,7 @@ description: “Cuando se actualizan las horas planificadas de un proyecto, no s
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
