@@ -48,7 +48,7 @@ Esta corrección solo se aplica a la nueva experiencia de comentarios.
 
 #### Pruebas
 
-**Las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba**
+**Pruebas: Las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba**
 
 Cuando un usuario crea una prueba a partir de un documento vinculado, la plantilla de prueba no se aplica correctamente y es posible que a la prueba le falte información como el flujo de trabajo.
 
@@ -56,7 +56,7 @@ Esto también se aplica a las pruebas creadas a través de la API y de Workfront
 
 #### Usuarios
 
-**Niveles de acceso inferiores no disponibles al crear un usuario**
+**Los niveles de acceso inferiores no están disponibles al crear un usuario**
 
 Cuando un usuario está creando otro usuario, solo el primer nivel de acceso del usuario está disponible para el usuario recién creado. Todos los niveles de acceso con permisos inferiores a los del usuario que lo crea deben estar disponibles para asignarlos al nuevo usuario.
 
