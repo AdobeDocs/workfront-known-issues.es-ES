@@ -3,9 +3,9 @@ user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1764'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 97%
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Pruebas: No se puede generar una prueba desde un sitio web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
-      + [Buscar: no se puede editar desde la búsqueda](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [Búsqueda: No se puede editar desde la búsqueda](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Actualizaciones: El etiquetado de un usuario no es eficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
-      + [Registrar hora: el usuario no puede registrar hora del día actual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
-      + [Actualizaciones: los comentarios del documento no aparecen en las actualizaciones del objeto principal](known-issues-workfront/wf-updates-document-comments-not-visible.md)
+      + [Hora de registro: el usuario no puede registrar la hora del día actual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [Actualizaciones: Los comentarios del documento no aparecen en las actualizaciones del objeto principal](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Actualizaciones: grandes espacios entre líneas](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Pruebas: las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
