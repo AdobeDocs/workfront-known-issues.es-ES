@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2316'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 #### Actualizaciones
 
-**Espacios grandes entre líneas**
+**Grandes espacios entre líneas**
 
 Cuando se escribe una actualización con varias líneas utilizando la tecla Intro o Entrar o se pegan varias líneas en una actualización, la actualización aparece de acuerdo con lo previsto. Sin embargo, si esa actualización se visualiza en un informe, hay grandes espacios entre las líneas.
 
