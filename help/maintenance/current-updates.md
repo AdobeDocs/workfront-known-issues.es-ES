@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
-source-wordcount: '2316'
-ht-degree: 100%
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+workflow-type: tm+mt
+source-wordcount: '2644'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,71 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en marzo de 2024
+
++++**Actualización de mantenimiento del viernes, 28 de marzo de 2024**
+
+### Actualización de mantenimiento del viernes, 28 de marzo de 2024
+
+#### Integraciones
+
+**Documentos no adjuntos al crear una solicitud desde[!DNL Outlook]**
+
+Cuando se crea una solicitud desde [!DNL Outlook], los documentos adjuntos al correo electrónico no se adjuntan a la solicitud.
+
+Se ha informado de este problema en los siguientes tipos de archivos adjuntos:
+
+XLS
+PDF
+
+#### Pruebas
+
+**Las pruebas permanecen en el widget Mis aprobaciones**
+
+En el widget permanece una prueba que debería desaparecer del widget Mis aprobaciones. Esto puede ocurrir cuando varios usuarios toman decisiones sobre una prueba al mismo tiempo, o cuando un usuario toma una decisión y la cambia rápidamente.
+
+#### Administración de recursos
+
+**Discrepancia en horas presupuestadas**
+
+Es posible que las horas presupuestadas mostradas en una de las siguientes áreas no coincidan con las mostradas en otra de estas áreas:
+
+* Caso comercial
+* Informes
+* Herramienta de presupuesto de recursos
+
+#### Tareas
+
+**La información sobre herramientas de la predecesora no muestra el nombre de la tarea**
+
+Cuando un usuario está viendo una lista de tareas y pasa el ratón sobre un icono de predecesora para obtener más información, la información del objeto que aparece no muestra el nombre de la tarea predecesora.
+
+#### Actualizaciones
+
+**Los comentarios del documento no aparecen en las actualizaciones del objeto principal**
+
+Cuando un usuario realiza un comentario sobre un documento, ese comentario no aparece inmediatamente en el área de Actualizaciones del objeto principal del documento.
+
+Se ha informado de este problema en la nueva experiencia de comentarios. Los comentarios aparecen en la experiencia de comentarios existente según lo esperado.
+
+**Etiquetar a un usuario no es eficaz**
+
+Cuando se etiqueta a un usuario en un comentario, ese comentario no es visible para el usuario etiquetado. Además, el usuario etiquetado no recibe notificaciones sobre el comentario, ni por correo electrónico ni a través de una notificación en la aplicación.
+
+Se ha informado de este problema en la experiencia de comentarios existente.
+
++++
+
++++**Actualización de mantenimiento de Workfront Fusion el viernes, 28 de marzo de 2024**
+
+### Actualización de mantenimiento de Workfront Fusion el 28 de marzo de 2024
+
+**Error de tiempo de ejecución con respuesta 200 del módulo Workfront**
+
+Un módulo de Workfront puede devolver una respuesta `RuntimeError [200]`. Los 200 implican una respuesta correcta, pero el error muestra que la solicitud no se realizó correctamente.
+
+Esto puede ocurrir si la respuesta es extremadamente larga. Los datos se devuelven a Fusion, pero Fusion no los puede procesar.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 21 de marzo de 2024**
 
