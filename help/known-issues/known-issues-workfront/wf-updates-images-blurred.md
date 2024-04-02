@@ -3,7 +3,7 @@ title: "Actualizaciones: La vista previa de la imagen en las actualizaciones es 
 description: '"Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa".'
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 7edd83bf3f905690b25b4d66ea40455324660b55
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 4%
@@ -18,3 +18,4 @@ Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una ima
 Si el usuario descarga la imagen, esta aparece con la resolución esperada.
 
 _Notificado por primera vez el jueves, 27 de marzo de 2024._
+
