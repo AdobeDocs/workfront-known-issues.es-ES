@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
+source-git-commit: fda4921dbfc56b7a58e8cb783af2ebaceb38db9e
 workflow-type: tm+mt
-source-wordcount: '2736'
+source-wordcount: '2773'
 ht-degree: 92%
 
 ---
@@ -22,9 +22,20 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 ## Actualizaciones en abril de 2024
 
-+++**(Planificado) Actualización de mantenimiento del viernes, 04 de abril de 2024**
++++**Actualización de mantenimiento del viernes, 04 de abril de 2024**
 
-### (Planificado) Actualización de mantenimiento del viernes, 04 de abril de 2024
+### Actualización de mantenimiento el 4 de abril de 2024
+
+#### Integraciones
+
+**Documentos no adjuntos al crear una solicitud desde[!DNL Outlook]**
+
+Cuando se crea una solicitud desde [!DNL Outlook], los documentos adjuntos al correo electrónico no se adjuntan a la solicitud.
+
+Se ha informado de este problema en los siguientes tipos de archivos adjuntos:
+
+XLS
+PDF
 
 #### Registrar la hora
 
