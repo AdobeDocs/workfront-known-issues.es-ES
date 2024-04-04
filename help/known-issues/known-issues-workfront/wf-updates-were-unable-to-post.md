@@ -3,7 +3,7 @@ title: "Actualizaciones: no podemos publicar el mensaje de comentario al respond
 description: "Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve un mensaje."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 4%
@@ -18,3 +18,4 @@ Cuando un usuario intenta responder a un mensaje en la nueva experiencia de come
 &quot;[!UICONTROL No podemos publicar tu comentario en este momento. Espere un momento e inténtelo de nuevo.]&quot;
 
 _Notificado por primera vez el jueves, 27 de marzo de 2024._
+
