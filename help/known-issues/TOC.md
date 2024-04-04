@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
 workflow-type: tm+mt
-source-wordcount: '1510'
-ht-degree: 93%
+source-wordcount: '1591'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,16 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Actualizaciones: &quot;[!UICONTROL No podemos publicar su comentario]Mensaje &quot; al responder](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Actualizaciones: Los comentarios no muestran &quot;[!UICONTROL en nombre de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Calendarios: Error al actualizar el calendario](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [Actualizaciones: el texto no se conserva al salir y volver al comentario](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [Tareas: Error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Tareas: La información de la predecesora no incluye un vínculo](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront Proof: Las firmas electrónicas no funcionan](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Plantilla de diseño: la página de aterrizaje es incorrecta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Registrar tiempo: no se pueden editar horas en tareas o problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Formularios personalizados: Los campos de búsqueda externos no devuelven resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa](known-issues-workfront/wf-updates-images-blurred.md)
       + [Informes: El filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Tableros: el usuario no puede ver el tablero cuando se agrega su equipo al tablero](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)

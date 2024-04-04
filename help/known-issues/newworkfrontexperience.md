@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
 workflow-type: tm+mt
-source-wordcount: '745'
-ht-degree: 95%
+source-wordcount: '836'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Plantilla de diseño: la página de aterrizaje es incorrecta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | viernes, 04 de abril de 2024 |
 | [Tareas: la creación o duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martes, 26 de febrero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
@@ -37,6 +38,15 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Actualizaciones: Los comentarios no muestran &quot;[!UICONTROL en nombre de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | viernes, 04 de abril de 2024 |
+| [Calendarios: Error al actualizar el calendario](known-issues-workfront/wf-calendar-error-when-refresh.md) | viernes, 04 de abril de 2024 |
+| [Actualizaciones: el texto no se conserva al salir y volver al comentario](known-issues-workfront/wf-updates-text-missing-after-mention.md) | viernes, 04 de abril de 2024 |
+| [Tareas: Error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | viernes, 04 de abril de 2024 |
+| [Tareas: La información de la predecesora no incluye un vínculo](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | viernes, 04 de abril de 2024 |
+| [Workfront Proof: Las firmas electrónicas no funcionan](known-issues-workfront-proof/proof-esignatures-not-working.md) | viernes, 04 de abril de 2024 |
+| [Actualizaciones: &quot;[!UICONTROL No podemos publicar su comentario]Mensaje &quot; al responder](known-issues-workfront/wf-updates-were-unable-to-post.md) | viernes, 04 de abril de 2024 |
+| [Registrar tiempo: no se pueden editar horas en tareas o problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | viernes, 04 de abril de 2024 |
+| [Formularios personalizados: Los campos de búsqueda externos no devuelven resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | viernes, 04 de abril de 2024 |
 | [Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa](known-issues-workfront/wf-updates-images-blurred.md) | miércoles, 02 de abril de 2024 |
 | [Agile: Las tarjetas Kanban no muestran campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | viernes, 28 de marzo de 2024 |
 | [Proyecto: No se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
