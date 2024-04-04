@@ -1,17 +1,21 @@
 ---
 title: "Tableros: Error 400 al añadir una tarea a un tablero desde una página de equipo"
-description: “Cuando se está visualizando un proyecto y se intenta añadir una tarea a un tablero, la tarea no se añade y aparece un error. Hay una solución disponible”.
+description: Cuando un usuario está viendo un proyecto e intenta agregar una tarea a un tablero, la tarea no se agrega y el usuario ve un error. Hay una solución disponible.
 hidefromtoc: true
 feature: Agile
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
+exl-id: 6630fc4a-241b-4699-a076-f04768099372
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 47%
+source-wordcount: '122'
+ht-degree: 23%
 
 ---
 
-
 # Tableros: Error 400 al añadir una tarea a un tablero desde un panel Kanban
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 28 de marzo de 2024.
 
 Cuando un usuario está viendo la página del Panel Kanban de un equipo e intenta añadir una tarea a un panel en Tableros, la tarea no se añade y el usuario ve el siguiente error:
 
