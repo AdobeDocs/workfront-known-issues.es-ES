@@ -3,7 +3,7 @@ title: "Pruebas: La prueba evita la conversión de la tarea o el problema al pro
 description: '"Cuando un usuario intenta convertir una tarea o un problema que incluye una prueba generada por la web en un proyecto, el proyecto no se crea y el usuario ve un mensaje. Hay una solución disponible”.'
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: d45d86590821d5a6b7b6856afe2e65b2ff2c3da5
+source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -26,3 +26,4 @@ Realice el siguiente procedimiento:
 3. Utilice la función Mover documento para mover la prueba al nuevo proyecto.
 
 _Notificado por primera vez el viernes, 28 de marzo de 2024._
+
