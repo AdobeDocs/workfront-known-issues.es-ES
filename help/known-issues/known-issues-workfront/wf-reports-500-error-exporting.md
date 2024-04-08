@@ -1,17 +1,21 @@
 ---
-title: "Informes: error 500 al exportar un informe"
-description: '"Cuando un usuario intenta exportar un informe, el informe no se exporta y el usuario ve un error. Hay una solución disponible”.'
+title: '“Informes: error 500 al exportar un informe”'
+description: Cuando un usuario intenta exportar un informe, el informe no se exporta y el usuario ve un error. Hay una solución disponible.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
+exl-id: 5ebdf00e-122b-4646-b9d8-8775d6e7c1cf
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 23%
+source-wordcount: '105'
+ht-degree: 27%
 
 ---
 
-
 # Informes: error 500 al exportar un informe
+
+>[!NOTE]
+>
+>Este problema se corrigió el sábado, 05 de abril de 2024.
 
 Cuando un usuario intenta exportar un informe, el informe no se exporta y el usuario ve el siguiente error:
 
@@ -24,4 +28,3 @@ Esto ocurre cuando el informe hace referencia a un campo de moneda personalizado
 Elimine la columna que hace referencia al campo de moneda personalizado y vuelva a exportar el informe.
 
 _Notificado por primera vez el viernes, 04 de abril de 2024._
-
