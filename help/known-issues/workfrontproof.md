@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
 workflow-type: tm+mt
 source-wordcount: '366'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Proof: Las firmas electrónicas no funcionan](known-issues-workfront-proof/proof-esignatures-not-working.md) | viernes, 04 de abril de 2024 |
-| [Proyecto: No se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
+| [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |
 
 {style="table-layout:auto"}

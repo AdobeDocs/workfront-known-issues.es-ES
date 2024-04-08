@@ -1,17 +1,17 @@
 ---
-title: "Tareas: La información sobre herramientas de la predecesora no muestra el nombre de la tarea"
-description: "Cuando un usuario está viendo una lista de tareas y pasa el ratón sobre un icono de predecesora para obtener más información, la información del objeto que aparece no muestra el nombre de la tarea predecesora."
+title: "Tareas: la información sobre herramientas de la predecesora no muestra el nombre de la tarea"
+description: “Cuando un usuario está viendo una lista de tareas y pasa el ratón sobre un icono de predecesora para obtener más información, la información del objeto que aparece no muestra el nombre de la tarea predecesora”.
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 
-# Tareas: La información sobre herramientas de la predecesora no muestra el nombre de la tarea
+# Tareas: la información sobre herramientas de la predecesora no muestra el nombre de la tarea
 
 >[!NOTE]
 >

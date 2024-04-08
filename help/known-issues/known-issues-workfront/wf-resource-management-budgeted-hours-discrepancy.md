@@ -1,17 +1,17 @@
 ---
 title: "Administración de recursos: Discrepancia en las horas presupuestadas"
-description: '"Es posible que las horas presupuestadas mostradas en una de las áreas de Workfront no coincidan con las mostradas en otra área".'
+description: Es posible que las horas presupuestadas mostradas en una de las áreas de Workfront no coincidan con las mostradas en otra área.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 20%
+ht-degree: 64%
 
 ---
 
-
-# Administración de recursos: Discrepancia en las horas presupuestadas
+# Administración de recursos: discrepancia en las horas presupuestadas
 
 >[!NOTE]
 >
@@ -21,6 +21,6 @@ Es posible que las horas presupuestadas mostradas en una de las siguientes área
 
 * Caso comercial
 * Informes
-* Herramienta de presupuesto de recursos
+* Herramienta de presupuestación de recursos
 
 _Informado por primera vez el viernes, 22 de febrero de 2024._

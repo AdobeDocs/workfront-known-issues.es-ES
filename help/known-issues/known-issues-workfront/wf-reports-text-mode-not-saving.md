@@ -1,15 +1,15 @@
 ---
-title: '“Informes: los cambios realizados en el modo de texto no se aplican a los informes ni a las vistas”'
-description: “Cuando un usuario realiza un cambio en un informe o una vista en modo de texto, esos cambios no se guardan y se aplican al informe o la vista”.
+title: "Informes: los cambios realizados en el modo de texto no se aplican a los informes ni a las vistas"
+description: Cuando un usuario realiza un cambio en un informe o una vista en modo de texto, esos cambios no se guardan y se aplican al informe o la vista.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+exl-id: fcd0ba82-4c0f-4090-8450-123e0abb3be4
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 63%
+ht-degree: 77%
 
 ---
-
 
 # Informes: los cambios realizados en el modo de texto no se aplican a los informes o las vistas
 
@@ -17,6 +17,6 @@ ht-degree: 63%
 >
 >Este problema se corrigió el 28 de marzo. 2024.
 
-Cuando un usuario realiza un cambio en un informe o una vista en modo de texto, esos cambios no se guardan y se aplican al informe o la vista.
+“Cuando un usuario realiza un cambio en un informe o una vista en modo de texto, dichos cambios no se guardan ni se aplican al informe o la vista”.
 
 _Informado por primera vez el jueves, 21 de febrero de 2024._

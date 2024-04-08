@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '1608'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -32,13 +32,13 @@ ht-degree: 88%
       + [Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa](known-issues-workfront/wf-updates-images-blurred.md)
       + [Informes: El filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Tableros: el usuario no puede ver el tablero cuando se agrega su equipo al tablero](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
-      + [Agile: Las tarjetas Kanban no muestran campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
-      + [Pruebas: Las pruebas permanecen en el widget Mis aprobaciones](known-issues-workfront/wf-proofs-stuck-on-widget.md)
-      + [Proyecto: No se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [Administración de recursos: Discrepancia en las horas presupuestadas](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Agile: las tarjetas Kanban no muestran campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Pruebas: las pruebas completadas permanecen en el widget Mis aprobaciones](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Administración de recursos: discrepancia en las horas presupuestadas](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
       + [Pruebas: la prueba sencilla de la nueva versión del documento incluye el flujo de trabajo de la versión anterior](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
-      + [Tareas: La información sobre herramientas de la predecesora no muestra el nombre de la tarea](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [Tableros: Error 400 al añadir una tarea a un tablero desde un panel Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [Tareas: la información sobre herramientas de la predecesora no muestra el nombre de la tarea](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Tableros: error 400 al añadir una tarea a un tablero desde un tablero Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Pruebas: No se puede generar una prueba desde un sitio web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Búsqueda: No se puede editar desde la búsqueda](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Actualizaciones: El etiquetado de un usuario no es eficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

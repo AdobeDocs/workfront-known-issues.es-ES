@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 85%
+ht-degree: 87%
 
 ---
 
@@ -50,8 +50,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Registrar tiempo: no se pueden editar horas en tareas o problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | viernes, 04 de abril de 2024 |
 | [Formularios personalizados: Los campos de búsqueda externos no devuelven resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | viernes, 04 de abril de 2024 |
 | [Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa](known-issues-workfront/wf-updates-images-blurred.md) | miércoles, 02 de abril de 2024 |
-| [Agile: Las tarjetas Kanban no muestran campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | viernes, 28 de marzo de 2024 |
-| [Proyecto: No se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
+| [Agile: las tarjetas Kanban no muestran campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | viernes, 28 de marzo de 2024 |
+| [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
 | [Búsqueda: no se puede editar desde la búsqueda](known-issues-workfront/wf-search-cannot-edit-from-search.md) | viernes, 14 de marzo de 2024 |
 | [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 08 de marzo de 2024 |
 | [Tableros: los totales de las listas de comprobación no son precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de febrero de 2024 |
