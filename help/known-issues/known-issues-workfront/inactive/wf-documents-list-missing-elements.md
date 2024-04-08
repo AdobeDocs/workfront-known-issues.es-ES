@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 Se han notificado los siguientes problemas con respecto a la Lista de documentos:
 
 * Las miniaturas no se muestran.
-* Si un usuario cambia la carpeta seleccionada en la vista de lista, las opciones Filtrar, Ver y Agrupar ya no funcionarán.
+* Si un usuario cambia la carpeta seleccionada mientras está en la vista de Lista, las opciones de Filtro, Vista y Agrupación dejarán de funcionar.
 
 **Solución alternativa**
 

@@ -1,13 +1,13 @@
 ---
-title: "Inicio: El widget Menciones en la nueva página de inicio no se limita a los mensajes en los que se etiqueta al usuario."
-description: Cuando un usuario ve el widget Menciones en la nueva experiencia de Inicio, ve comentarios que no están etiquetados ni mencionados en.
+title: '“Inicio: el widget Menciones en la nueva página de inicio no se limita a los mensajes donde se etiqueta al usuario”.'
+description: Cuando un usuario ve el widget Menciones en la nueva experiencia de Inicio, ve comentarios en los que él no está etiquetado ni mencionado.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 

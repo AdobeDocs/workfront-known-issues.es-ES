@@ -1,13 +1,13 @@
 ---
-title: "Panel: Margen en blanco grande al imprimir el panel en el PDF"
+title: '“Panel: margen en blanco grande al imprimir el panel en el PDF”'
 description: Cuando un usuario imprime un panel en un PDF con orientación horizontal, el PDF muestra un gran margen en blanco en el lado derecho.
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91512e88-57c9-4a9a-81a7-7bc2da9095d0
 source-git-commit: 149c5401e25d2a67560a20e041b908ed65aea1c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
