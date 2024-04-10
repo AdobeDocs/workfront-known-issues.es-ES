@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
+source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 86%
+source-wordcount: '844'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Plantilla de diseño: la página de aterrizaje es incorrecta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | viernes, 04 de abril de 2024 |
 | [Tareas: la creación o duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martes, 26 de febrero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
