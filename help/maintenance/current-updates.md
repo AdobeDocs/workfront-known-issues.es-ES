@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fda4921dbfc56b7a58e8cb783af2ebaceb38db9e
+source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
 workflow-type: tm+mt
-source-wordcount: '2773'
+source-wordcount: '2905'
 ht-degree: 92%
 
 ---
@@ -21,6 +21,32 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en abril de 2024
+
++++**Actualización de mantenimiento del viernes, 04 de abril de 2024**
+
+### Actualización de mantenimiento el 4 de abril de 2024
+
+#### Buscar
+
+**No se puede editar desde la búsqueda**
+
+Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde.
+
+#### Actualizaciones
+
+**La vista previa de la imagen en las actualizaciones es borrosa**
+
+Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa.
+
+Si el usuario descarga la imagen, esta aparece con la resolución esperada.
+
+**&quot;[!UICONTROL No podemos publicar su comentario]Mensaje &quot; al responder**
+
+Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
+
+&quot;[!UICONTROL No podemos publicar tu comentario en este momento. Espere un momento e inténtelo de nuevo.]&quot;
+
++++
 
 +++**Actualización de mantenimiento del viernes, 04 de abril de 2024**
 
@@ -78,7 +104,7 @@ PDF
 
 **Las pruebas permanecen en el widget Mis aprobaciones**
 
-En el widget permanece una prueba que debería desaparecer del widget Mis aprobaciones. Esto puede ocurrir cuando varios usuarios toman decisiones sobre una prueba al mismo tiempo, o cuando un usuario toma una decisión y la cambia rápidamente.
+En el widget permanece una prueba que debería desaparecer del widget Mis aprobaciones. Esto puede ocurrir cuando varios usuarios toman decisiones sobre una prueba al mismo tiempo o cuando un usuario toma una decisión y la cambia rápidamente.
 
 #### Administración de recursos
 
@@ -88,7 +114,7 @@ Es posible que las horas presupuestadas mostradas en una de las siguientes área
 
 * Caso comercial
 * Informes
-* Herramienta de presupuesto de recursos
+* Herramienta de presupuestación de recursos
 
 #### Tareas
 

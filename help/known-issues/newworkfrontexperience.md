@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '840'
-ht-degree: 87%
+source-wordcount: '851'
+ht-degree: 86%
 
 ---
 
@@ -38,6 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Solicitudes: el campo calculado no se actualiza al rellenar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | miércoles, 09 de abril de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 05 de abril de 2024 |
 | [Actualizaciones: Los comentarios no muestran &quot;[!UICONTROL en nombre de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | viernes, 04 de abril de 2024 |
 | [Calendarios: Error al actualizar el calendario](known-issues-workfront/wf-calendar-error-when-refresh.md) | viernes, 04 de abril de 2024 |
