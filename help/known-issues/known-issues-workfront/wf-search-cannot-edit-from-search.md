@@ -1,17 +1,21 @@
 ---
-title: "Búsqueda: No se puede editar desde la búsqueda"
-description: “Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde”.
+title: "Buscar: No se puede editar desde la búsqueda"
+description: Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+exl-id: af302be1-91d1-4f42-8d7d-0d9f85d29131
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+workflow-type: tm+mt
+source-wordcount: '64'
+ht-degree: 92%
 
 ---
 
-
 # Búsqueda: No se puede editar desde la búsqueda
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 11 de abril de 2024.
 
 Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde.
 

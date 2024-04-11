@@ -3,10 +3,10 @@ title: "Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a
 description: “Cuando un usuario que tiene una licencia de solicitante está viendo el área de actualizaciones e intenta añadir una imagen, falta el icono para añadir una imagen y la opción para añadir una imagen no está disponible para el usuario”.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 92%
 
 ---
 
