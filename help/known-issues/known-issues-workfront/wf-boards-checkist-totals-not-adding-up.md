@@ -1,17 +1,21 @@
 ---
-title: "Tableros: los totales de las listas de comprobación no son precisos"
-description: “Cuando un usuario está visualizando una tarjeta con elementos de la lista de comprobación y realiza un cambio de modo que el total de la lista de comprobación debería cambiar, el total no cambia”.
+title: "Tableros: Los totales de las listas de comprobación no son precisos"
+description: Cuando un usuario está visualizando una tarjeta con elementos de la lista de comprobación y realiza un cambio de modo que el total de la lista de comprobación debería cambiar, el total no cambia.
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 93%
 
 ---
 
-
 # Tableros: los totales de las listas de comprobación no son precisos
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 11 de abril de 2024.
 
 Cuando un usuario está visualizando una tarjeta con elementos de la lista de comprobación y realiza un cambio de modo que el total de la lista de comprobación debería cambiar, el total no cambia.
 
