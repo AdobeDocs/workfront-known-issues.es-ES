@@ -1,13 +1,13 @@
 ---
-title: "Pruebas: Las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba"
+title: '“Pruebas: las pruebas creadas a partir de documentos vinculados no tienen aplicada una plantilla de prueba”'
 description: Cuando un usuario crea una prueba a partir de un documento vinculado, la plantilla de prueba no se aplica correctamente y es posible que a la prueba le falte información como el flujo de trabajo.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 62554ced-5262-45d0-9c6b-54eb3689b9dd
 source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

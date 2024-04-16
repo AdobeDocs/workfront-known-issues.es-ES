@@ -1,13 +1,13 @@
 ---
-title: "Pruebas: Las pruebas no se muestran en los informes como aprobados"
-description: Cuando un usuario está viendo un informe que incluye decisiones de aprobación de pruebas, el informe no muestra la decisión aprobada para todas las pruebas aprobadas. Cuando se visualiza la prueba en sí, se puede ver que se ha aprobado.
+title: '“Pruebas: las pruebas no se muestran en los informes como aprobadas”'
+description: Cuando un usuario está viendo un informe que incluye decisiones de aprobación de pruebas, el informe no muestra la decisión Aprobada para todas las pruebas aprobadas. Cuando se visualiza la prueba en sí, se puede ver que se ha aprobado.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 74fe37fa-6624-4c79-bf47-4a3ab5c6ee4c
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 

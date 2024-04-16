@@ -1,13 +1,13 @@
 ---
-title: "Pruebas: Las pruebas se crean lentamente en el entorno de vista previa"
+title: '“Pruebas: las pruebas se crean lentamente en el entorno de Vista previa”'
 description: Cuando un usuario crea una prueba en el entorno de Vista previa, la prueba se crea muy lentamente.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 4b659a0f-a693-4ebd-801b-d3ceb93cd85a
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 

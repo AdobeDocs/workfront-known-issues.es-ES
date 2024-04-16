@@ -1,12 +1,12 @@
 ---
-title: "Actualizaciones: El texto no se conserva al salir y volver al comentario"
-description: '"Cuando un usuario escribe un comentario que incluye un @mention y luego sale y vuelve al comentario antes de enviarlo, cualquier texto introducido después del @mention no aparece en el borrador del comentario".'
+title: '“Actualizaciones: el texto no se conserva al salir y volver al comentario”'
+description: “Cuando un usuario escribe un comentario que incluye un @mention y luego sale y vuelve al comentario antes de enviarlo, cualquier texto introducido después del @mention no aparece en el borrador del comentario”.
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 

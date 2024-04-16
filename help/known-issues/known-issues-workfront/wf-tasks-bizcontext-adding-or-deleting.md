@@ -1,19 +1,18 @@
 ---
-title: "Tareas: Error de Bizcontext al añadir o eliminar una tarea"
-description: "Cuando un usuario intenta agregar o eliminar una tarea, esta no se agrega ni se elimina y el usuario ve un error de Bizcontext."
+title: '“Tareas: error de Bizcontext al añadir o eliminar una tarea”'
+description: Cuando un usuario intenta añadir o eliminar una tarea, esta no se añade ni se elimina, y se muestra un error Bizcontext.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+exl-id: 581a73c4-2743-473b-9c42-84591e5800a1
+source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Tareas: error de Bizcontext al añadir o eliminar una tarea
 
-# Tareas: Error de Bizcontext al añadir o eliminar una tarea
-
-Cuando un usuario intenta agregar o eliminar una tarea, esta no se agrega ni se elimina y el usuario ve un error de Bizcontext.
+Cuando un usuario intenta añadir o eliminar una tarea, esta no se añade ni se elimina, y se muestra un error Bizcontext.
 
 _Notificado por primera vez el viernes, 07 de marzo de 2024._
-
