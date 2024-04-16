@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
-source-wordcount: '3037'
-ht-degree: 98%
+source-wordcount: '3258'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,40 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en abril de 2024
+
++++**Actualización de mantenimiento del viernes, 18 de abril de 2024**
+
+### Actualización de mantenimiento del viernes, 18 de abril de 2024
+
+#### Agile
+
+**Las tarjetas Kanban no muestran campos personalizados**
+
+Cuando un usuario está viendo un tablero Kanban que se ha configurado para incluir campos personalizados, es posible que esos campos personalizados no se muestren.
+
+#### Calendarios
+
+**Error al actualizar el calendario**
+
+Cuando un usuario está viendo un calendario y actualiza la página, aparece el error ¡Uy! Los datos del calendario se muestran según lo esperado, pero pueden quedar ocultos por el mensaje de error.
+
+#### Formularios personalizados
+
+**Los campos de búsqueda externos no devuelven resultados**
+
+Cuando un campo de búsqueda externo hace referencia a un campo de selección múltiple que tiene solo un valor seleccionado, el campo no devuelve el valor.
+
+Por ejemplo, si un campo de búsqueda externo hace referencia a un campo de selección múltiple que tiene seleccionados los valores &quot;rojo&quot; y &quot;azul&quot;, el campo funciona según lo esperado. Si el campo solo tiene seleccionado &quot;rojo&quot;, el campo de búsqueda externo no devuelve ningún valor.
+
+#### Proyectos
+
+**No se puede convertir el problema al proyecto si se adjunta la prueba web**
+
+Cuando un problema tiene adjunta una prueba web (una prueba de URL que utiliza un vínculo de un proveedor de documentos externo como SharePoint) y un usuario intenta convertir ese problema en un proyecto, la conversión falla y el proyecto no se crea. El usuario recibe el siguiente error:
+
+&quot;Se produjo un problema al copiar el archivo (GUID de archivo). Quite el archivo o póngase en contacto con la asistencia e inténtelo de nuevo”.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 11 de abril de 2024**
 
