@@ -1,5 +1,5 @@
 ---
-title: "Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto"
+title: '“Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto”'
 description: Cuando un usuario intenta convertir una tarea o un problema que incluye una prueba generada por la web en un proyecto, el proyecto no se crea y el usuario ve un mensaje. Hay una solución disponible.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
@@ -7,7 +7,7 @@ exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 5%
+ht-degree: 98%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Cuando un usuario intenta convertir una tarea o un problema que incluye una prueba generada por la web en un proyecto, el proyecto no se crea y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL Error al copiar el archivo] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Elimine el archivo o póngase en contacto con el soporte técnico e inténtelo de nuevo.]&quot;
+“[!UICONTROL Error al copiar el archivo] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Quite el archivo o póngase en contacto con asistencia e inténtelo de nuevo]”.
 
 **Solución** s
 

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
 source-wordcount: '3037'
-ht-degree: 89%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 +++**Actualización de mantenimiento del viernes, 11 de abril de 2024**
 
-### Actualización de mantenimiento el 11 de abril de 2024
+### Actualización de mantenimiento del viernes, 11 de abril de 2024
 
 #### Buscar
 
@@ -44,13 +44,13 @@ Si el usuario descarga la imagen, esta aparece con la resolución esperada.
 
 Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL No podemos publicar tu comentario en este momento. Espere un momento e inténtelo de nuevo.]&quot;
+“[!UICONTROL No podemos publicar su comentario en este momento. Espere un momento e inténtelo de nuevo.]”
 
 +++
 
 +++**Actualización de mantenimiento del viernes, 04 de abril de 2024**
 
-### Actualización de mantenimiento el 4 de abril de 2024
+### Actualización de mantenimiento del 4 de abril de 2024
 
 #### Buscar
 
@@ -70,17 +70,17 @@ Si el usuario descarga la imagen, esta aparece con la resolución esperada.
 
 Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
 
-&quot;[!UICONTROL No podemos publicar tu comentario en este momento. Espere un momento e inténtelo de nuevo.]&quot;
+“[!UICONTROL No podemos publicar su comentario en este momento. Espere un momento e inténtelo de nuevo.]”
 
 +++
 
 +++**Actualización de mantenimiento del viernes, 04 de abril de 2024**
 
-### Actualización de mantenimiento el 4 de abril de 2024
+### Actualización de mantenimiento del 4 de abril de 2024
 
 #### Integraciones
 
-**Documentos no adjuntos al crear una solicitud desde[!DNL Outlook]**
+**Documentos no adjuntados al crear una solicitud desde[!DNL Outlook]**
 
 Cuando se crea una solicitud desde [!DNL Outlook], los documentos adjuntos al correo electrónico no se adjuntan a la solicitud.
 
@@ -103,7 +103,7 @@ Cuando un usuario intenta registrar la hora en el área de Actualizaciones, el d
 
 Cuando un usuario intenta ver comentarios en la nueva experiencia de comentarios, no puede ver los comentarios y, en su lugar, ve el siguiente error:
 
-&quot;Se ha producido un error. Inténtelo de nuevo más tarde&quot;.
+“Se ha producido un error. Vuelva a intentarlo más tarde”.
 
 La experiencia de comentarios heredada funciona según lo esperado.
 
@@ -117,7 +117,7 @@ La experiencia de comentarios heredada funciona según lo esperado.
 
 #### Integraciones
 
-**Documentos no adjuntos al crear una solicitud desde[!DNL Outlook]**
+**Documentos no adjuntados al crear una solicitud desde[!DNL Outlook]**
 
 Cuando se crea una solicitud desde [!DNL Outlook], los documentos adjuntos al correo electrónico no se adjuntan a la solicitud.
 

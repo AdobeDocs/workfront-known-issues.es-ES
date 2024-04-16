@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '868'
-ht-degree: 82%
+ht-degree: 91%
 
 ---
 
@@ -42,17 +42,17 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Pruebas: Las pruebas creadas a partir de recursos de integraciones no tienen plantillas y flujos de trabajo correctamente aplicados](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | martes, 15 de abril de 2024 |
 | [Solicitudes: Error al abrir el borrador](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sábado, 12 de abril de 2024 |
 | [Listas: la lista no muestra todos los elementos](known-issues-workfront/wf-lists-does-not-display-all.md) | sábado, 12 de abril de 2024 |
-| [Workfront Proof: Las firmas electrónicas no funcionan](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
+| [Workfront Proof: las firmas electrónicas no funcionan](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
 | [Equipos: No se puede ver el propietario del equipo ni eliminarlo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
 | [Solicitudes: el campo calculado no se actualiza al rellenar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | miércoles, 09 de abril de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 05 de abril de 2024 |
-| [Actualizaciones: Los comentarios no muestran &quot;[!UICONTROL en nombre de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | viernes, 04 de abril de 2024 |
-| [Calendarios: Error al actualizar el calendario](known-issues-workfront/wf-calendar-error-when-refresh.md) | viernes, 04 de abril de 2024 |
+| [Actualizaciones: los comentarios no muestran “[!UICONTROL en nombre de]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | viernes, 04 de abril de 2024 |
+| [Calendarios: error al actualizar el calendario](known-issues-workfront/wf-calendar-error-when-refresh.md) | viernes, 04 de abril de 2024 |
 | [Actualizaciones: el texto no se conserva al salir y volver al comentario](known-issues-workfront/wf-updates-text-missing-after-mention.md) | viernes, 04 de abril de 2024 |
-| [Tareas: Error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | viernes, 04 de abril de 2024 |
-| [Tareas: La información de la predecesora no incluye un vínculo](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | viernes, 04 de abril de 2024 |
-| [Registrar tiempo: no se pueden editar horas en tareas o problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | viernes, 04 de abril de 2024 |
-| [Formularios personalizados: Los campos de búsqueda externos no devuelven resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | viernes, 04 de abril de 2024 |
+| [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | viernes, 04 de abril de 2024 |
+| [Tareas: la información de la predecesora no incluye un vínculo](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | viernes, 04 de abril de 2024 |
+| [Registro de tiempo: no se pueden editar horas en tareas o problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | viernes, 04 de abril de 2024 |
+| [Formularios personalizados: los campos de búsqueda externos no devuelven resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | viernes, 04 de abril de 2024 |
 | [Agile: las tarjetas Kanban no muestran campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | viernes, 28 de marzo de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
 | [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 08 de marzo de 2024 |
@@ -69,7 +69,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Informes: El filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | martes, 01 de abril de 2024 |
+| [Informes: el filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | martes, 01 de abril de 2024 |
 | [Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar agrupaciones](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | viernes, 30 de noviembre de 2023 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de noviembre de 2023 |
 | [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 de noviembre de 2023 |

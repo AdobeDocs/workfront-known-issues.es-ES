@@ -5,7 +5,7 @@ role: User
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '1670'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -26,19 +26,19 @@ ht-degree: 89%
       + [Solicitudes: el campo calculado no se actualiza al rellenar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Informes: error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-exporting.md)
-      + [Actualizaciones: &quot;[!UICONTROL No podemos publicar su comentario]Mensaje &quot; al responder](known-issues-workfront/wf-updates-were-unable-to-post.md)
-      + [Actualizaciones: Los comentarios no muestran &quot;[!UICONTROL en nombre de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
-      + [Calendarios: Error al actualizar el calendario](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [Actualizaciones: mensaje ”[!UICONTROL No podemos publicar su comentario]” al responder](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Actualizaciones: los comentarios no muestran “[!UICONTROL en nombre de]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Calendarios: error al actualizar el calendario](known-issues-workfront/wf-calendar-error-when-refresh.md)
       + [Actualizaciones: el texto no se conserva al salir y volver al comentario](known-issues-workfront/wf-updates-text-missing-after-mention.md)
-      + [Tareas: Error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
-      + [Tareas: La información de la predecesora no incluye un vínculo](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
-      + [Workfront Proof: Las firmas electrónicas no funcionan](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Tareas: la información de la predecesora no incluye un vínculo](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront Proof: las firmas electrónicas no funcionan](known-issues-workfront-proof/proof-esignatures-not-working.md)
       + [Plantilla de diseño: la página de aterrizaje es incorrecta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
-      + [Registrar tiempo: no se pueden editar horas en tareas o problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Registro de tiempo: no se pueden editar horas en tareas o problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
       + [Formularios personalizados: Los campos de búsqueda externos no devuelven resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa](known-issues-workfront/wf-updates-images-blurred.md)
-      + [Informes: El filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
-      + [Tableros: el usuario no puede ver el tablero cuando se agrega su equipo al tablero](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
+      + [Informes: el filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
+      + [Tableros: el usuario no puede ver el tablero cuando se añade su equipo al tablero](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [Agile: las tarjetas Kanban no muestran campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [Pruebas: las pruebas completadas permanecen en el widget Mis aprobaciones](known-issues-workfront/wf-proofs-stuck-on-widget.md)
       + [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
