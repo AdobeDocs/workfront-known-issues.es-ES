@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 91%
+source-wordcount: '848'
+ht-degree: 92%
 
 ---
 
@@ -38,23 +38,22 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Solicitudes: No se puede compartir la ruta de cola de solicitudes](known-issues-workfront/wf-requests-cannot-share-path.md) | viernes, 18 de abril de 2024 |
+| [Usuarios: No se pueden eliminar usuarios](known-issues-workfront/wf-users-unable-to-delete-users.md) | viernes, 18 de abril de 2024 |
+| [Actualizaciones: mensaje “[!UICONTROL No podemos publicar su comentario]” al responder](known-issues-workfront/wf-updates-were-unable-to-post.md) | viernes, 18 de abril de 2024 |
+| [Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa](known-issues-workfront/wf-updates-images-blurred.md) | viernes, 18 de abril de 2024 |
+| [Tableros: los totales de las listas de comprobación no son precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | viernes, 18 de abril de 2024 |
 | [Actualizaciones: las listas numeradas no se numeran correctamente](known-issues-workfront/wf-updates-not-numbering-correctly.md) | martes, 15 de abril de 2024 |
-| [Pruebas: Las pruebas creadas a partir de recursos de integraciones no tienen plantillas y flujos de trabajo correctamente aplicados](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | martes, 15 de abril de 2024 |
 | [Solicitudes: Error al abrir el borrador](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sábado, 12 de abril de 2024 |
 | [Listas: la lista no muestra todos los elementos](known-issues-workfront/wf-lists-does-not-display-all.md) | sábado, 12 de abril de 2024 |
-| [Workfront Proof: las firmas electrónicas no funcionan](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
 | [Equipos: No se puede ver el propietario del equipo ni eliminarlo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
 | [Solicitudes: el campo calculado no se actualiza al rellenar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | miércoles, 09 de abril de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 05 de abril de 2024 |
 | [Actualizaciones: los comentarios no muestran “[!UICONTROL en nombre de]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | viernes, 04 de abril de 2024 |
-| [Calendarios: error al actualizar el calendario](known-issues-workfront/wf-calendar-error-when-refresh.md) | viernes, 04 de abril de 2024 |
 | [Actualizaciones: el texto no se conserva al salir y volver al comentario](known-issues-workfront/wf-updates-text-missing-after-mention.md) | viernes, 04 de abril de 2024 |
 | [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | viernes, 04 de abril de 2024 |
 | [Tareas: la información de la predecesora no incluye un vínculo](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | viernes, 04 de abril de 2024 |
 | [Registro de tiempo: no se pueden editar horas en tareas o problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | viernes, 04 de abril de 2024 |
-| [Formularios personalizados: los campos de búsqueda externos no devuelven resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | viernes, 04 de abril de 2024 |
-| [Agile: las tarjetas Kanban no muestran campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | viernes, 28 de marzo de 2024 |
-| [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
 | [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 08 de marzo de 2024 |
 | [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | viernes, 22 de febrero de 2024 |
 | [Nuevo [!UICONTROL Inicio]: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | viernes, 04 de enero de 2024 |

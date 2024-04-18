@@ -3,9 +3,9 @@ title: '“Actualizaciones: la vista previa de la imagen en las actualizaciones 
 description: “Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa”.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa
 
+<!--
+
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 11 de abril de 2024.
+>This issue was fixed on April 11, 2024.
+
+-->
 
 Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa.
 
