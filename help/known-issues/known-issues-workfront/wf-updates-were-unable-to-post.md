@@ -3,9 +3,9 @@ title: '“Actualizaciones: no podemos publicar el mensaje de comentario al resp
 description: “Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve un mensaje”.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # Actualizaciones: mensaje “[!UICONTROL No podemos publicar su comentario]” al responder
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 11, 2024.
-
--->
+>Este problema se corrigió el viernes, 18 de abril de 2024.
 
 Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
 

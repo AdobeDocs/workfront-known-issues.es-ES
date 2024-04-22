@@ -1,20 +1,22 @@
 ---
 title: "Solicitudes: No se puede compartir la ruta de la cola de solicitudes"
-description: '"Cuando un usuario intenta compartir una ruta de acceso de la cola de solicitudes, el vínculo no abre la cola de solicitudes correcta. En su lugar, el vínculo va a la página Solicitudes".'
+description: Cuando un usuario intenta compartir una ruta de acceso de la cola de solicitudes, el vínculo no abre la cola de solicitudes correcta. En su lugar, el vínculo va a la página Solicitudes.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 38057e2464aa980e2c315a5ebb4b114fab529ced
+exl-id: 727bc2da-e239-4487-a317-4f2dda754b8c
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
-
 # Solicitudes: No se puede compartir la ruta de cola de solicitudes
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 18 de abril de 2024.
 
 Cuando un usuario intenta compartir una ruta de acceso de la cola de solicitudes, el vínculo no abre la cola de solicitudes correcta. En su lugar, el vínculo va a la página Solicitudes.
 
 _Notificado por primera vez el viernes, 18 de abril de 2024._
-
-
