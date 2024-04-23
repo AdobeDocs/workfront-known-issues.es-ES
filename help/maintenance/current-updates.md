@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '3258'
-ht-degree: 99%
+source-wordcount: '3360'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,26 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en abril de 2024
+
++++**(Planificado) Actualización de mantenimiento del viernes, 25 de abril de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 25 de abril de 2024
+
+#### Actualizaciones
+
+**Las listas numeradas no se numeran correctamente**
+
+Cuando un usuario envía un comentario que incluye una lista numerada, esa lista muestra una numeración incorrecta en la actualización.
+
+Se ha informado de este problema en la nueva experiencia de comentarios.
+
+**El texto no se conserva al salir y volver al comentario**
+
+Cuando un usuario escribe un comentario que incluye un @mention y luego sale y vuelve al comentario antes de enviarlo, cualquier texto introducido después del @mention no aparece en el borrador del comentario.
+
+Se ha informado de este problema en la nueva experiencia de comentarios.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 18 de abril de 2024**
 
