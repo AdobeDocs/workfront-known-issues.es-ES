@@ -1,13 +1,13 @@
 ---
-title: "Buscar: No se puede editar desde la búsqueda"
+title: '“Búsqueda: no se puede editar desde la búsqueda”'
 description: Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: af302be1-91d1-4f42-8d7d-0d9f85d29131
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

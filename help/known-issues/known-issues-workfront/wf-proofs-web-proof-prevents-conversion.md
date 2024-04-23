@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Cuando un usuario intenta convertir una tarea o un problema que incluye una prue
 
 “[!UICONTROL Error al copiar el archivo] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Quite el archivo o póngase en contacto con asistencia e inténtelo de nuevo]”.
 
-**Solución** s
+**Soluciones alternativas**
 
 Realice el siguiente procedimiento:
 

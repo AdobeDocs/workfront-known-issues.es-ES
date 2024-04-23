@@ -1,17 +1,17 @@
 ---
-title: "Equipos: No se puede ver el propietario del equipo ni eliminarlo"
+title: '“Equipos: no se puede ver el propietario del equipo ni eliminar el equipo”'
 description: '"Estas acciones no están disponibles para los administradores de grupo".'
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
 
-# Equipos: No se puede ver el propietario del equipo ni eliminarlo
+# Equipos: no se puede ver el propietario del equipo ni eliminar el equipo
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 27%
 
 Las siguientes acciones no están disponibles para los administradores de grupo
 
-* Ver o editar el propietario del equipo: El campo Propietario no está visible y no se puede editar.
+* Ver o editar el propietario del equipo: el campo Propietario no está visible y no se puede editar.
 * Eliminar el equipo: al intentar eliminar el equipo, se produce el error &quot;No cuenta con acceso suficiente para eliminar este equipo&quot;.
 
 Esto ocurre aunque el administrador del grupo tenga todos los permisos relacionados con equipos y usuarios.
