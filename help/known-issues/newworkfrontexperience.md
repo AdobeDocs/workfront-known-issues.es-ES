@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | -----------------------------------------------------------------| ----------------- |
 | [Notificaciones: las notificaciones de las aprobaciones de documentos no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martes, 22 de abril de 2024 |
 | [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | viernes, 18 de abril de 2024 |
-| [Actualizaciones: Los comentarios realizados mediante API no son visibles en el entorno de espacio aislado](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | martes, 15 de abril de 2024 |
+| [Actualizaciones: los comentarios realizados mediante la API no son visibles en el entorno de zona protegida](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | martes, 15 de abril de 2024 |
 | [Tareas: la creación o duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martes, 26 de febrero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
@@ -45,10 +45,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Usuarios: No se pueden eliminar usuarios](known-issues-workfront/wf-users-unable-to-delete-users.md) | viernes, 18 de abril de 2024 |
 | [Tableros: los totales de las listas de comprobación no son precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | viernes, 18 de abril de 2024 |
 | [Actualizaciones: las listas numeradas no se numeran correctamente](known-issues-workfront/wf-updates-not-numbering-correctly.md) | martes, 15 de abril de 2024 |
-| [Solicitudes: Error al abrir el borrador](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sábado, 12 de abril de 2024 |
+| [Solicitudes: error al abrir el borrador](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sábado, 12 de abril de 2024 |
 | [Listas: la lista no muestra todos los elementos](known-issues-workfront/wf-lists-does-not-display-all.md) | sábado, 12 de abril de 2024 |
-| [Equipos: No se puede ver el propietario del equipo ni eliminarlo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
-| [Solicitudes: el campo calculado no se actualiza al rellenar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | miércoles, 09 de abril de 2024 |
+| [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
+| [Solicitudes: el campo calculado no se actualiza al cumplimentar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | miércoles, 09 de abril de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 05 de abril de 2024 |
 | [Actualizaciones: los comentarios no muestran “[!UICONTROL en nombre de]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | viernes, 04 de abril de 2024 |
 | [Actualizaciones: el texto no se conserva al salir y volver al comentario](known-issues-workfront/wf-updates-text-missing-after-mention.md) | viernes, 04 de abril de 2024 |

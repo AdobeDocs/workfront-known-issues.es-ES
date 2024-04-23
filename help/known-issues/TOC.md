@@ -5,7 +5,7 @@ role: User
 source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '1719'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 93%
       + [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Solicitudes: No se puede compartir la ruta de cola de solicitudes](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Usuarios: No se pueden eliminar usuarios](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [Actualizaciones: Los comentarios realizados mediante API no son visibles en el entorno de espacio aislado](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [Actualizaciones: los comentarios realizados mediante la API no son visibles en el entorno de zona protegida](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Actualizaciones: las listas numeradas no se numeran correctamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [Pruebas: Las pruebas creadas a partir de recursos de integraciones no tienen plantillas y flujos de trabajo correctamente aplicados](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Solicitudes: Error al abrir el borrador](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
+      + [Pruebas: las pruebas creadas a partir de recursos de integraciones no tienen plantillas y flujos de trabajo correctamente aplicados](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [Solicitudes: error al abrir el borrador](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listas: la lista no muestra todos los elementos](known-issues-workfront/wf-lists-does-not-display-all.md)
-      + [Equipos: No se puede ver el propietario del equipo ni eliminarlo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
-      + [Solicitudes: el campo calculado no se actualiza al rellenar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
+      + [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
+      + [Solicitudes: el campo calculado no se actualiza al cumplimentar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Informes: error 500 al exportar un informe](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Actualizaciones: mensaje ”[!UICONTROL No podemos publicar su comentario]” al responder](known-issues-workfront/wf-updates-were-unable-to-post.md)

@@ -1,5 +1,5 @@
 ---
-title: "Tableros: Los totales de las listas de comprobación no son precisos"
+title: '“Tableros: los totales de las listas de comprobación no son precisos”'
 description: Cuando un usuario está visualizando una tarjeta con elementos de la lista de comprobación y realiza un cambio de modo que el total de la lista de comprobación debería cambiar, el total no cambia.
 hidefromtoc: true
 feature: Agile
@@ -7,7 +7,7 @@ exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
 source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

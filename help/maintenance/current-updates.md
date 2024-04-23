@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
 source-wordcount: '3258'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -68,13 +68,13 @@ Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lo
 
 #### Actualizaciones
 
-**La vista previa de la imagen en las actualizaciones es borrosa**
+**Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa**
 
 Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa.
 
 Si el usuario descarga la imagen, esta aparece con la resolución esperada.
 
-**&quot;[!UICONTROL No podemos publicar su comentario]Mensaje &quot; al responder**
+**Mensaje “[!UICONTROL No podemos publicar su comentario]” al responder**
 
 Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
 
@@ -94,13 +94,13 @@ Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lo
 
 #### Actualizaciones
 
-**La vista previa de la imagen en las actualizaciones es borrosa**
+**Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa**
 
 Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa.
 
 Si el usuario descarga la imagen, esta aparece con la resolución esperada.
 
-**&quot;[!UICONTROL No podemos publicar su comentario]Mensaje &quot; al responder**
+**Mensaje “[!UICONTROL No podemos publicar su comentario]” al responder**
 
 Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
 
