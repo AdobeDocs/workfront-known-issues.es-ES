@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e8c00ddda577af3496d2cfaec1b0289092656364
+source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 96%
+source-wordcount: '387'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [AEM Integraciones: El nombre de archivo es &quot;nulo&quot; cuando se envía a a través de la integración de con](known-issues-workfront/wf-integrations-aem-filename-null.md) | jueves, 24 de abril de 2024 |
 | [Notificaciones: las notificaciones de las aprobaciones de documentos no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martes, 22 de abril de 2024 |
 
 {style="table-layout:auto"}

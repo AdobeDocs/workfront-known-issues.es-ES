@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
-source-wordcount: '1728'
-ht-degree: 96%
+source-wordcount: '1744'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [AEM Integraciones: El nombre de archivo es &quot;nulo&quot; cuando se envía a a través de la integración de con](known-issues-workfront/wf-integrations-aem-filename-null.md)
+      + [Usuarios: No se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Tableros: Los campos nativos de Workfront no se muestran en la tarjeta](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [Notificaciones: las notificaciones de las aprobaciones de documentos no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Tableros: La tarjeta vuelve brevemente a la columna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)

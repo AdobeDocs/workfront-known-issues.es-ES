@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
-source-wordcount: '869'
-ht-degree: 95%
+source-wordcount: '887'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [AEM Integraciones: El nombre de archivo es &quot;nulo&quot; cuando se envía a a través de la integración de con](known-issues-workfront/wf-integrations-aem-filename-null.md) | jueves, 24 de abril de 2024 |
+| [Usuarios: No se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md) | jueves, 24 de abril de 2024 |
 | [Notificaciones: las notificaciones de las aprobaciones de documentos no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martes, 22 de abril de 2024 |
 | [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | viernes, 18 de abril de 2024 |
 | [Actualizaciones: los comentarios realizados mediante la API no son visibles en el entorno de zona protegida](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | martes, 15 de abril de 2024 |
