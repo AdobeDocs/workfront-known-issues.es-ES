@@ -1,15 +1,15 @@
 ---
-title: 'AEM "Integraciones: El nombre de archivo es nulo cuando se envía a a través de la integración de"'
-description: '"Cuando se envía un archivo grande (de más de 100 MB) a Adobe Experience Manager mediante la integración de Workfront AEM, el nombre de archivo en el que se encuentra el archivo es nulo en el caso de los archivos que se encuentran en la. ”'
+title: 'AEM "Integraciones: El nombre de archivo es nulo cuando se envía a a través de la integración"'
+description: '''Cuando se envía un archivo grande (de más de 100 MB) a Adobe Experience Manager mediante la integración de Workfront AEM, el nombre de archivo en el que se encuentra es nulo.'' '''
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
+exl-id: c2d15424-ae04-414f-9384-a7b083212313
+source-git-commit: 2110bda5b8f0bec53c0503ce6b3f8da6fce693ca
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 10%
 
 ---
-
 
 # AEM Integraciones: El nombre de archivo es &quot;nulo&quot; cuando se envía a a través de la integración de con
 
@@ -25,3 +25,4 @@ Realice una de las siguientes acciones:
 * AEM Introduzca el nombre de archivo directamente en la lista de nombres de archivo.
 
 _Notificado por primera vez el miércoles, 23 de abril de 2024._
+
