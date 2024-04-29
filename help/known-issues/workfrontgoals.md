@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Goals]
 keywords: nuevo archivo, añadir archivo
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 feature: Workfront Goals
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '50'
-ht-degree: 100%
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 95%
 
 ---
 
@@ -19,7 +19,13 @@ Esta página contiene los problemas conocidos actualmente en [!DNL Adobe Workfro
 >
 >Para más información sobre el tiempo activo o las interrupciones del servidor, consulte [https://status.adobe.com/es](https://status.adobe.com/es). Para más información sobre los problemas que se han solucionado recientemente, consulte [[!DNL Workfront] las actualizaciones de mantenimiento](../maintenance/current-updates.md).
 
-**Actualmente no hay problemas conocidos para[!DNL Workfront Goals]**
+## En curso
+
+Las soluciones para estos problemas están actualmente en curso o están programadas para un futuro próximo.
+
+| **Problema** | **Última modificación** |
+|----------------------------------| ----------------- |
+| [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martes, 29 de abril de 2024 |
 
 <!--
 
