@@ -4,7 +4,7 @@ description: “Cuando un usuario intenta responder a un mensaje en la nueva exp
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 
