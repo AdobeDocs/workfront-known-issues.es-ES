@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [AEM Integraciones: El nombre de archivo es &quot;nulo&quot; cuando se envía a a través de la integración de con](known-issues-workfront/wf-integrations-aem-filename-null.md) | jueves, 24 de abril de 2024 |
-| [Notificaciones: las notificaciones de las aprobaciones de documentos no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martes, 22 de abril de 2024 |
+| [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martes, 22 de abril de 2024 |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Inicio: El widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martes, 22 de abril de 2024 |
+| [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martes, 22 de abril de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sábado, 12 de abril de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |

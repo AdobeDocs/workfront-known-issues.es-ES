@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
 workflow-type: tm+mt
 source-wordcount: '3396'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -82,7 +82,7 @@ Por ejemplo, si un campo de búsqueda externo hace referencia a un campo de sele
 
 #### Proyectos
 
-**No se puede convertir el problema al proyecto si se adjunta la prueba web**
+**No se puede convertir el problema en un proyecto si se adjunta la prueba web**
 
 Cuando un problema tiene adjunta una prueba web (una prueba de URL que utiliza un vínculo de un proveedor de documentos externo como SharePoint) y un usuario intenta convertir ese problema en un proyecto, la conversión falla y el proyecto no se crea. El usuario recibe el siguiente error:
 

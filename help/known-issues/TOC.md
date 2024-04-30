@@ -5,7 +5,7 @@ role: User
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
 source-wordcount: '1747'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 95%
       + [AEM Integraciones: El nombre de archivo es &quot;nulo&quot; cuando se envía a a través de la integración de con](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Usuarios: No se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Tableros: Los campos nativos de Workfront no se muestran en la tarjeta](known-issues-workfront/wf-boards-native-fields-not-display.md)
-      + [Notificaciones: las notificaciones de las aprobaciones de documentos no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
-      + [Tableros: La tarjeta vuelve brevemente a la columna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
-      + [Inicio: El widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
+      + [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
+      + [Tableros: la tarjeta regresa brevemente a la columna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Proyectos, tareas y problemas: no se muestran los permisos heredados](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
-      + [Solicitudes: No se puede compartir la ruta de cola de solicitudes](known-issues-workfront/wf-requests-cannot-share-path.md)
-      + [Usuarios: No se pueden eliminar usuarios](known-issues-workfront/wf-users-unable-to-delete-users.md)
+      + [Solicitudes: no se puede compartir la ruta de la cola de solicitudes](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [Usuarios: no se pueden eliminar usuarios](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Actualizaciones: los comentarios realizados mediante la API no son visibles en el entorno de zona protegida](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Actualizaciones: las listas numeradas no se numeran correctamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Pruebas: las pruebas creadas a partir de recursos de integraciones no tienen plantillas y flujos de trabajo correctamente aplicados](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
