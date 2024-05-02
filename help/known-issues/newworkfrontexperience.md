@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: '823'
 ht-degree: 93%
 
 ---
@@ -46,7 +46,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Usuarios: No se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md) | viernes, 02 de mayo de 2024 |
 | [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martes, 29 de abril de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | miércoles, 23 de abril de 2024 |
-| [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martes, 22 de abril de 2024 |
 | [Usuarios: no se pueden eliminar usuarios](known-issues-workfront/wf-users-unable-to-delete-users.md) | viernes, 18 de abril de 2024 |
 | [Solicitudes: error al abrir el borrador](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sábado, 12 de abril de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
