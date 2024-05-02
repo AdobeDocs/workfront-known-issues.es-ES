@@ -1,17 +1,21 @@
 ---
 title: "Tableros: Los campos nativos de Workfront no se muestran en la tarjeta"
-description: '"Cuando un usuario está viendo una tarjeta configurada para mostrar campos nativos (no personalizados), esos campos no son visibles en la tarjeta".'
+description: Cuando un usuario está viendo una tarjeta configurada para mostrar campos nativos (no personalizados), esos campos no son visibles en la tarjeta.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+exl-id: 49adcc1d-1ad0-4d22-b910-2f7ddc768f45
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '86'
+ht-degree: 12%
 
 ---
 
-
 # Tableros: Los campos nativos de Workfront no se muestran en la tarjeta
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 02 de mayo de 2024.
 
 Cuando un usuario está viendo una tarjeta configurada para mostrar campos nativos (no personalizados), esos campos no son visibles en la tarjeta.
 
