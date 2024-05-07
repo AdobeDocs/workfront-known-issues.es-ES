@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
+source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 91%
+source-wordcount: '859'
+ht-degree: 90%
 
 ---
 
@@ -67,6 +67,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Plantillas de horas: la plantilla de horas anclada pasa a una página en blanco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 de mayo de 2024 |
 | [Informes: el filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | martes, 01 de abril de 2024 |
 | [Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar agrupaciones](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | viernes, 30 de noviembre de 2023 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de noviembre de 2023 |
