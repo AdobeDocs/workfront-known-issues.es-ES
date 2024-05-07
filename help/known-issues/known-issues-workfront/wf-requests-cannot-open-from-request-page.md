@@ -4,14 +4,18 @@ description: Cuando un usuario está creando una nueva solicitud y se muestran b
 hidefromtoc: true
 feature: Requests
 exl-id: 802753e8-0e8e-42b1-917e-95185567c95a
-source-git-commit: 7d41c6bef87cde7ef2cb12e9fc0342bff3fe2746
-workflow-type: ht
-source-wordcount: '111'
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+workflow-type: tm+mt
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
 
 # Solicitudes: error al abrir el borrador
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 02 de mayo de 2024.
 
 Cuando un usuario está creando una nueva solicitud y se muestran borradores relacionados con esa cola de solicitudes, al hacer clic para abrir un borrador no se abre el borrador y el usuario ve el siguiente error:
 

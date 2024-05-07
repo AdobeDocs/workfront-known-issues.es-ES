@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
 workflow-type: tm+mt
-source-wordcount: '1788'
+source-wordcount: '1812'
 ht-degree: 96%
 
 ---
@@ -17,15 +17,18 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: El filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Configuración: el titular &quot;Sesión iniciada como&quot; no aparece cuando se inicia sesión como otro usuario.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Los moderadores de pruebas no pueden editar permisos](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Tableros: el usuario no puede ver el tablero al que está asignado ese equipo](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [Actualizaciones: Etiquetar a un usuario con @ en el panel de resumen no es eficaz](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Proyectos: El proyecto creado con la plantilla no coincide con la prioridad de la plantilla](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Tableros: el elemento de la lista de comprobación no permanece marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Proyectos: Error al compartir un proyecto](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Pruebas: No se pueden tomar decisiones en la fase de flujo de trabajo privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [AEM Integraciones: El nombre de archivo es &quot;nulo&quot; cuando se envía a a través de la integración de con](known-issues-workfront/wf-integrations-aem-filename-null.md)
-      + [Usuarios: No se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md)
-      + [Tableros: Los campos nativos de Workfront no se muestran en la tarjeta](known-issues-workfront/wf-boards-native-fields-not-display.md)
+      + [Integraciones: el nombre de archivo es &quot;nulo&quot; cuando se envía a AEM mediante la integración](known-issues-workfront/wf-integrations-aem-filename-null.md)
+      + [Usuarios: no se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md)
+      + [Tableros: los campos nativos de Workfront no se muestran en la tarjeta](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Tableros: la tarjeta regresa brevemente a la columna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
@@ -36,7 +39,6 @@ ht-degree: 96%
       + [Actualizaciones: los comentarios realizados mediante la API no son visibles en el entorno de zona protegida](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Actualizaciones: las listas numeradas no se numeran correctamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Pruebas: las pruebas creadas a partir de recursos de integraciones no tienen plantillas y flujos de trabajo correctamente aplicados](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Solicitudes: error al abrir el borrador](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listas: la lista no muestra todos los elementos](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Solicitudes: el campo calculado no se actualiza al cumplimentar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
