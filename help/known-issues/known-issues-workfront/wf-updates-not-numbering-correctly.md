@@ -4,7 +4,7 @@ description: “Cuando un usuario envía un comentario que incluye una lista num
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 

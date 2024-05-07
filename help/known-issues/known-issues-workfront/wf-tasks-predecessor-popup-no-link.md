@@ -4,7 +4,7 @@ description: “Cuando un usuario pasa el ratón sobre una predecesora para ver 
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 

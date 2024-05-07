@@ -1,17 +1,17 @@
 ---
-title: "Proyecto: no se puede convertir el problema en un proyecto si el documento está adjunto"
+title: 'Proyecto: no se puede convertir el problema en un proyecto si se adjunta el documento'
 description: Cuando un problema tiene un documento y un usuario intenta convertir ese problema en un proyecto, la conversión falla y el proyecto no se crea. El usuario ve un error.
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: 09424954f13298fdfd1ae330c74ea3ff7084c956
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
-# Proyecto: no se puede convertir el problema en un proyecto si el documento está adjunto
+# Proyecto: no se puede convertir el problema en un proyecto si se adjunta el documento
 
 <!--
 
