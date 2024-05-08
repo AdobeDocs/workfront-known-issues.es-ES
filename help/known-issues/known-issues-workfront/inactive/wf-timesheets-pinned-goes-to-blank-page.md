@@ -3,7 +3,7 @@ title: "Plantillas de horas: la plantilla de horas anclada pasa a una página en
 description: '"Cuando un usuario hace clic en un fijador de Workfront que va a su plantilla de horas, el fijador va a una página en blanco. Hay una solución disponible”.'
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Cuando un usuario hace clic en un fijador de Workfront que va a su plantilla de horas, el fijador va a una página en blanco.
 
-Esto se debe a que la dirección URL de la plantilla de horas ha cambiado. el `/own` al final de la dirección URL ya no es la dirección URL correcta. Si el usuario ha anclado una URL que incluya `/own`, ese pin lleva a una página en blanco.
+Esto se debe a que la dirección URL de la plantilla de horas ha cambiado. El `/own` al final de la dirección URL ya no es la dirección URL correcta. Si el usuario ha anclado una URL que incluya `/own`, ese pin lleva a una página en blanco.
 
 **Solución alternativa**
 
