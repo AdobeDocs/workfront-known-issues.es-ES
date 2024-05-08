@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 90%
+source-wordcount: '876'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configuración: el titular &quot;Sesión iniciada como&quot; no aparece cuando se inicia sesión como otro usuario.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
+| [Proyectos: El proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla](known-issues-workfront/wf-projects-priority-not-transfer.md) | jueves, 08 de mayo de 2024 |
+| [Configuración: el titular &quot;Sesión iniciada como&quot; no aparece al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
 | [Tableros: El filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | miércoles, 07 de mayo de 2024 |
 | [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | viernes, 02 de mayo de 2024 |
 | [Tableros: el elemento de la lista de comprobación no permanece marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | viernes, 02 de mayo de 2024 |
