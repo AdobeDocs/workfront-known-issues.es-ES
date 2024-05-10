@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '864'
-ht-degree: 90%
+source-wordcount: '860'
+ht-degree: 91%
 
 ---
 
@@ -42,8 +42,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Actualizaciones: al copiar y pegar una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | sábado, 10 de mayo de 2024 |
 | [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | viernes, 09 de mayo de 2024 |
-| [Proyectos: El proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla](known-issues-workfront/wf-projects-priority-not-transfer.md) | viernes, 09 de mayo de 2024 |
 | [Los moderadores de pruebas no pueden editar permisos](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | miércoles, 07 de mayo de 2024 |
 | [Tableros: el usuario no puede ver el tablero al que está asignado ese equipo](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | miércoles, 07 de mayo de 2024 |
 | [Actualizaciones: Etiquetar a un usuario con @ en el panel de resumen no es eficaz](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | viernes, 02 de mayo de 2024 |

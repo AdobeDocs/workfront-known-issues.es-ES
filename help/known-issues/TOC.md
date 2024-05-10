@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '1850'
-ht-degree: 94%
+source-wordcount: '1862'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Actualizaciones: al copiar y pegar una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Proyectos: El proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Tableros: El filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Plantillas de horas: la plantilla de horas anclada pasa a una página en blanco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
