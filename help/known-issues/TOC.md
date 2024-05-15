@@ -5,7 +5,7 @@ role: User
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '1862'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 93%
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Actualizaciones: al copiar y pegar una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Proyectos: El proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla](known-issues-workfront/wf-projects-priority-not-transfer.md)
-      + [Tableros: El filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Tableros: el filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Plantillas de horas: la plantilla de horas anclada pasa a una página en blanco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Configuración: el titular &quot;Sesión iniciada como&quot; no aparece cuando se inicia sesión como otro usuario.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
-      + [Los moderadores de pruebas no pueden editar permisos](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [Tableros: el usuario no puede ver el tablero al que está asignado ese equipo](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [Actualizaciones: Etiquetar a un usuario con @ en el panel de resumen no es eficaz](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Proyectos: El proyecto creado con la plantilla no coincide con la prioridad de la plantilla](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [Tableros: el elemento de la lista de comprobación no permanece marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
-      + [Proyectos: Error al compartir un proyecto](known-issues-workfront/wf-projects-error-when-sharing-project.md)
-      + [Pruebas: No se pueden tomar decisiones en la fase de flujo de trabajo privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
+      + [Configuración: No aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Los moderadores de pruebas no pueden editar los permisos](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Tableros: el usuario no puede ver el tablero al que está asignado el equipo](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
+      + [Actualizaciones: etiquetar a un usuario con @ en el panel Resumen no funciona](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Proyectos: el proyecto creado con la plantilla no coincide con la prioridad de la plantilla](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
+      + [Tableros: el elemento de la lista de verificación no permanece marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [Proyectos: error al compartir un proyecto](known-issues-workfront/wf-projects-error-when-sharing-project.md)
+      + [Pruebas: no se pueden tomar decisiones en la fase privada del flujo de trabajo](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [Integraciones: el nombre de archivo es &quot;nulo&quot; cuando se envía a AEM mediante la integración](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Usuarios: no se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md)

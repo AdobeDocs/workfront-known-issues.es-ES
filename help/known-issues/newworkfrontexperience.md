@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '860'
-ht-degree: 91%
+ht-degree: 95%
 
 ---
 
@@ -27,9 +27,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | -----------------------------------------------------------------| ----------------- |
 | [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | jueves, 08 de mayo de 2024 |
 | [Configuración: el titular &quot;Sesión iniciada como&quot; no aparece al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
-| [Tableros: El filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | miércoles, 07 de mayo de 2024 |
+| [Tableros: el filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | miércoles, 07 de mayo de 2024 |
 | [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | viernes, 02 de mayo de 2024 |
-| [Tableros: el elemento de la lista de comprobación no permanece marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | viernes, 02 de mayo de 2024 |
+| [Tableros: el elemento de la lista de verificación no permanece marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | viernes, 02 de mayo de 2024 |
 | [Tareas: la creación o duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martes, 26 de febrero de 2024 |
 | [Pruebas: los GIF se representan como pruebas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | miércoles, 23 de enero de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | miércoles, 09 de enero de 2024 |
@@ -45,8 +45,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Actualizaciones: al copiar y pegar una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | sábado, 10 de mayo de 2024 |
 | [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | viernes, 09 de mayo de 2024 |
 | [Los moderadores de pruebas no pueden editar permisos](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | miércoles, 07 de mayo de 2024 |
-| [Tableros: el usuario no puede ver el tablero al que está asignado ese equipo](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | miércoles, 07 de mayo de 2024 |
-| [Actualizaciones: Etiquetar a un usuario con @ en el panel de resumen no es eficaz](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | viernes, 02 de mayo de 2024 |
+| [Tableros: el usuario no puede ver el tablero al que está asignado el equipo](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | miércoles, 07 de mayo de 2024 |
+| [Actualizaciones: etiquetar a un usuario con @ en el panel Resumen no funciona](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | viernes, 02 de mayo de 2024 |
 | [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martes, 29 de abril de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | miércoles, 23 de abril de 2024 |
 | [Usuarios: no se pueden eliminar usuarios](known-issues-workfront/wf-users-unable-to-delete-users.md) | viernes, 18 de abril de 2024 |
