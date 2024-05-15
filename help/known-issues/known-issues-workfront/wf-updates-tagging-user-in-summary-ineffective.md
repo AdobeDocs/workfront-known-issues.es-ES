@@ -1,23 +1,23 @@
 ---
-title: "Actualizaciones: El etiquetado de un usuario con @ en el panel de resumen no es eficaz"
-description: '"Cuando un usuario intenta etiquetar a otro usuario utilizando @ en el área de Actualizaciones de un Panel de resumen, hacer clic en el nombre del usuario en la lista desplegable no es eficaz. Intentar etiquetar al usuario por segunda vez funciona según lo esperado".'
+title: '“Actualizaciones: etiquetar a un usuario con @ en el panel Resumen no funciona”'
+description: “Cuando un usuario intenta etiquetar a otro utilizando @ en el área Actualizaciones de un panel Resumen, hacer clic en el nombre del usuario en el desplegable no surte efecto. Cuando se etiqueta al usuario por segunda vez, funciona como se espera”.
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Actualizaciones: Etiquetar a un usuario con @ en el panel de resumen no es eficaz
+# Actualizaciones: etiquetar a un usuario con @ en el panel Resumen no funciona
 
-Cuando un usuario intenta etiquetar a otro usuario utilizando @ en el área de Actualizaciones de un Panel de resumen, hacer clic en el nombre del usuario en la lista desplegable no es eficaz. Intentar etiquetar al usuario por segunda vez funciona según lo esperado.
+Cuando un usuario intenta etiquetar a otro utilizando @ en el área Actualizaciones de un panel Resumen, hacer clic en el nombre del usuario en el desplegable no surte efecto. Cuando se etiqueta al usuario por segunda vez, sí funciona como se espera”.
 
 **Solución alternativa**
 
-Etiquete al usuario de nuevo. El segundo intento funciona según lo esperado.
+Volver a etiquetar al usuario. El segundo intento funciona como se espera.
 
 O
 

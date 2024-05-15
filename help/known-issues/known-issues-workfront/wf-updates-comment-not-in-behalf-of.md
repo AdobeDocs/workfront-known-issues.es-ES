@@ -4,7 +4,7 @@ description: “Cuando un administrador ha iniciado sesión como usuario y reali
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 

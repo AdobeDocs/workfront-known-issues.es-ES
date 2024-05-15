@@ -1,17 +1,17 @@
 ---
-title: "Tableros: El filtro avanzado no devuelve las tarjetas esperadas"
-description: "Cuando un usuario intenta utilizar un filtro avanzado en un tablero, el filtro no devuelve todos los resultados que debería."
+title: '“Tableros: el filtro avanzado no devuelve las tarjetas esperadas”'
+description: Cuando un usuario intenta utilizar un filtro avanzado en un tablero, el filtro no devuelve todos los resultados que debería.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: d2c98b56-c52e-4e45-84b4-c9f0716c2182
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
-# Tableros: El filtro avanzado no devuelve las tarjetas esperadas
+# Tableros: el filtro avanzado no devuelve las tarjetas esperadas
 
 Cuando un usuario intenta utilizar un filtro avanzado en un tablero, el filtro no devuelve todos los resultados que debería.
 
