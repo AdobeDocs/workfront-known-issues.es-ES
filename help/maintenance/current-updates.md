@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5abc91229bcfbeef1a08ffd3db103de4978c3111
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '3425'
-ht-degree: 100%
+source-wordcount: '3529'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,24 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en mayo de 2024
+
++++**Actualización de mantenimiento del viernes, 16 de mayo de 2024**
+
+### Actualización de mantenimiento del viernes, 16 de mayo de 2024
+
+#### Configurar
+
+**Faltan los estados de problemas predeterminados en algunos tipos de problemas en la Configuración**
+
+Cuando un usuario está viendo los estados de los problemas en la Configuración, ve que faltan los estados predeterminados para los problemas (Nuevo, En curso y Completado) en algunos tipos de problemas. Los estados predeterminados no tienen la opción de cambiar el tipo de problema, por lo que el usuario no puede volver a configurar los estados para mostrar para los tipos de problema afectados.
+
+#### Usuarios
+
+**No se pueden eliminar usuarios**
+
+Cuando un usuario intenta eliminar usuarios, estos no se eliminan. Se ha informado de este problema en organizaciones que han migrado a Adobe Admin Console.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 09 de mayo de 2024**
 
