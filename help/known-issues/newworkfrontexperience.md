@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbc353adbacd58cb8b88e340d6c2337cf48b46cd
+source-git-commit: 850294cf3e6fecfa0018e3dafc2e9fd1f8ee95ef
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 94%
+source-wordcount: '875'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Solicitudes: No se puede acceder a los paneles de la página de solicitud (dirección URL &quot;../enviada&quot;)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | viernes, 16 de mayo de 2024 |
 | [Integraciones: Los usuarios reciben un error de solicitud incorrecto al utilizar SSO](known-issues-workfront/wf-outlook-wrong-request.md) | miércoles, 14 de mayo de 2024 |
 | [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | jueves, 08 de mayo de 2024 |
 | [Configuración: el titular &quot;Sesión iniciada como&quot; no aparece al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
