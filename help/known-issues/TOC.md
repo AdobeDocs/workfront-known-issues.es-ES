@@ -5,7 +5,7 @@ role: User
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
 source-wordcount: '1919'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 95%
       + [Documentos: extensión de archivo UNK al vincular documentos desde la integración](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Solicitudes: No se puede acceder a los paneles de la página de solicitud (dirección URL &quot;../enviada&quot;)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Integraciones: Los usuarios reciben un error de solicitud incorrecto al utilizar SSO](known-issues-workfront/wf-outlook-wrong-request.md)
-      + [Actualizaciones: al copiar y pegar una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [Proyectos: El proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [Actualizaciones: cuando se copia y pega una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
+      + [Proyectos: el proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Tableros: el filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Plantillas de horas: la plantilla de horas anclada pasa a una página en blanco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [Configuración: No aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
