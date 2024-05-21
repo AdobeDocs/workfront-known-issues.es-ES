@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: d3931cc536f625b78a888856f048663558dc771e
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 94%
+source-wordcount: '885'
+ht-degree: 92%
 
 ---
 
@@ -41,12 +41,13 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Actualizaciones: el usuario etiquetado no puede ver quién lo ha etiquetado](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | miércoles, 21 de mayo de 2024 |
+| [Inicio: Las horas planificadas se muestran en minutos](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | miércoles, 21 de mayo de 2024 |
 | [Documentos: Pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 20 de mayo de 2024 |
 | [Usuarios: Los atributos de usuario no están asignados desde el SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | martes, 20 de mayo de 2024 |
 | [Usuarios: no se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md) | martes, 20 de mayo de 2024 |
 | [Actualizaciones: cuando se copia y pega una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | sábado, 10 de mayo de 2024 |
 | [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | viernes, 09 de mayo de 2024 |
-| [Los moderadores de pruebas no pueden editar permisos](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | miércoles, 07 de mayo de 2024 |
 | [Actualizaciones: etiquetar a un usuario con @ en el panel Resumen no funciona](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | viernes, 02 de mayo de 2024 |
 | [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martes, 29 de abril de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | miércoles, 23 de abril de 2024 |
@@ -121,4 +122,5 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Calendario: algunas tareas no se muestran](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 de noviembre de 2020 |
 
 {style="table-layout:auto"}
+
 
