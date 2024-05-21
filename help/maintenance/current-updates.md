@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3529'
-ht-degree: 99%
+source-wordcount: '3628'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,22 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en mayo de 2024
+
++++ **(Planificado) Actualización de mantenimiento del viernes, 23 de mayo de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 23 de mayo de 2024
+
+#### Actualizaciones
+
+**El usuario etiquetado no puede ver quién lo ha etiquetado**
+
+Cuando se etiqueta a un usuario en una actualización, no puede ver quién lo ha etiquetado. Esto ocurre cuando la opción &quot;Las personas de otras compañías solo deben ver a los usuarios desde...&quot; está establecida en &quot;Su compañía&quot;.
+
+**Etiquetar a un usuario con @ en el panel de resumen no es eficaz**
+
+Cuando un usuario intenta etiquetar a otro utilizando @ en el área Actualizaciones de un panel Resumen, hacer clic en el nombre del usuario en el desplegable no surte efecto. Cuando se etiqueta al usuario por segunda vez, sí funciona como se espera”.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 16 de mayo de 2024**
 
