@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 98%
+source-wordcount: '3680'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,16 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 +++ **(Planificado) Actualización de mantenimiento del viernes, 23 de mayo de 2024**
 
 ### (Planificado) Actualización de mantenimiento del viernes, 23 de mayo de 2024
+
+#### Informes
+
+Cuando un usuario está viendo un informe y hace clic en el botón Atrás del explorador, puede producirse una de las siguientes situaciones:
+
+* El usuario permanece en la página Informe.
+* Se dirige al usuario a la página de aterrizaje del explorador.
+* Se dirige al usuario a la página Inicio de sesión.
+
+Se ha informado de este problema con el navegador Chrome.
 
 #### Actualizaciones
 
