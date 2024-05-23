@@ -4,22 +4,18 @@ description: Cuando un problema tiene un documento y un usuario intenta converti
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: 09424954f13298fdfd1ae330c74ea3ff7084c956
-workflow-type: ht
-source-wordcount: '119'
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
 # Proyecto: no se puede convertir el problema en un proyecto si se adjunta el documento
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 18, 2024.
-
--->
+>Este problema se corrigió el viernes, 23 de mayo de 2024.
 
 Cuando un problema tiene un documento y un usuario intenta convertir ese problema en un proyecto, la conversión falla y el proyecto no se crea. El usuario recibe el siguiente error:
 

@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d3931cc536f625b78a888856f048663558dc771e
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 92%
+source-wordcount: '834'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Programas: Todo el acceso al programa se pierde cuando se actualiza el acceso del usuario al programa](known-issues-workfront/wf-programs-permissions-not-inherited.md) | martes, 20 de mayo de 2024 |
-| [Documentos: extensión de archivo UNK al vincular documentos desde la integración](known-issues-workfront/wf-documents-unk-file-extension.md) | martes, 20 de mayo de 2024 |
 | [Integraciones: Los usuarios reciben un error de solicitud incorrecto al utilizar SSO](known-issues-workfront/wf-outlook-wrong-request.md) | miércoles, 14 de mayo de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
 | [Tareas: la creación o duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martes, 26 de febrero de 2024 |
@@ -41,16 +40,12 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Actualizaciones: el usuario etiquetado no puede ver quién lo ha etiquetado](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | miércoles, 21 de mayo de 2024 |
 | [Inicio: Las horas planificadas se muestran en minutos](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | miércoles, 21 de mayo de 2024 |
 | [Documentos: Pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 20 de mayo de 2024 |
-| [Usuarios: Los atributos de usuario no están asignados desde el SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | martes, 20 de mayo de 2024 |
 | [Usuarios: no se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md) | martes, 20 de mayo de 2024 |
 | [Actualizaciones: cuando se copia y pega una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | sábado, 10 de mayo de 2024 |
 | [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | viernes, 09 de mayo de 2024 |
-| [Actualizaciones: etiquetar a un usuario con @ en el panel Resumen no funciona](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | viernes, 02 de mayo de 2024 |
 | [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martes, 29 de abril de 2024 |
-| [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | miércoles, 23 de abril de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
 | [Solicitudes: el campo calculado no se actualiza al cumplimentar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | miércoles, 09 de abril de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 05 de abril de 2024 |
