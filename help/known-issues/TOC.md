@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
 source-wordcount: '1937'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 96%
       + [Grupos: No se puede agregar el subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Actualizaciones: el usuario etiquetado no puede ver quién lo ha etiquetado](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Inicio: Las horas planificadas se muestran en minutos](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
-      + [Documentos: Pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [Usuarios: Los atributos de usuario no están asignados desde el SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
-      + [Programas: Todo el acceso al programa se pierde cuando se actualiza el acceso del usuario al programa](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [Usuarios: los atributos de usuario no se asignan desde el SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [Programas: se pierde todo el acceso al programa cuando se actualiza el acceso de los usuarios al programa](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [Documentos: extensión de archivo UNK al vincular documentos desde la integración](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Solicitudes: No se puede acceder a los paneles de la página de solicitud (dirección URL &quot;../enviada&quot;)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
-      + [Integraciones: Los usuarios reciben un error de solicitud incorrecto al utilizar SSO](known-issues-workfront/wf-outlook-wrong-request.md)
+      + [Solicitudes: no se puede acceder a los paneles de la página de solicitud (URL “../enviada”)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
+      + [Integraciones: los usuarios reciben un error de solicitud incorrecto al utilizar SSO](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Actualizaciones: cuando se copia y pega una mención no se notifica al usuario mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Proyectos: el proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Tableros: el filtro avanzado no devuelve las tarjetas esperadas](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
