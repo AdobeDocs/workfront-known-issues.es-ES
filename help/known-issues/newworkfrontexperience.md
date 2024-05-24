@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: 8e019afd934a4a5339a9623c4fa2f4a880326bd9
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '845'
 ht-degree: 98%
 
 ---
@@ -40,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | sábado, 24 de mayo de 2024 |
 | [Formularios personalizados: Error al editar campos de texto descriptivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | sábado, 24 de mayo de 2024 |
 | [Grupos: No se puede agregar el subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | viernes, 23 de mayo de 2024 |
 | [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 20 de mayo de 2024 |
@@ -48,7 +49,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | viernes, 09 de mayo de 2024 |
 | [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martes, 29 de abril de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
-| [Solicitudes: el campo calculado no se actualiza al cumplimentar la solicitud](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | miércoles, 09 de abril de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 05 de abril de 2024 |
 | [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | viernes, 04 de abril de 2024 |
 | [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 08 de marzo de 2024 |
