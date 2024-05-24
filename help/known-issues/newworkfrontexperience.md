@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
+source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 99%
+source-wordcount: '841'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Formularios personalizados: Error al editar campos de texto descriptivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | sábado, 24 de mayo de 2024 |
 | [Grupos: No se puede agregar el subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | viernes, 23 de mayo de 2024 |
 | [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 20 de mayo de 2024 |
 | [Usuarios: no se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md) | martes, 20 de mayo de 2024 |
