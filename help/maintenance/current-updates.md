@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '3678'
-ht-degree: 97%
+source-wordcount: '3781'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,28 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en mayo de 2024
+
++++ **(Planificado) Actualización de mantenimiento del viernes, 30 de mayo de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 30 de mayo de 2024
+
+#### Formularios personalizados
+
+Error al editar campos de texto descriptivo
+
+Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el texto no se guarda y se muestra el siguiente error:
+
+&quot;El valor de clave duplicado viola la restricción única&quot;
+
+Se ha informado de este problema en el generador de formularios heredado.
+
+#### Actualizaciones
+
+**Al copiar y pegar una mención no se notifica al usuario mencionado**
+
+Cuando un usuario copia un comentario que incluye una mención en formato @ y luego pega ese comentario en el área de Actualizaciones de otro objeto, no se notifica al usuario mencionado sobre el comentario pegado.
+
++++
 
 +++ **Actualización de mantenimiento del viernes, 23 de mayo de 2024**
 

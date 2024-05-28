@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '1945'
+source-wordcount: '1952'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Usuarios: Usuarios que faltan al realizar asignaciones masivas](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Formularios personalizados: Error al editar campos de texto descriptivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Grupos: No se puede agregar el subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Actualizaciones: el usuario etiquetado no puede ver quién lo ha etiquetado](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
