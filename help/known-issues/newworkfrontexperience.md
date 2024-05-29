@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
+source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 97%
+source-wordcount: '869'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tareas: La función del trabajo no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | jueves, 29 de mayo de 2024 |
 | [Programas: se pierde todo el acceso al programa cuando se actualiza el acceso de los usuarios al programa](known-issues-workfront/wf-programs-permissions-not-inherited.md) | martes, 20 de mayo de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
 | [Tareas: la creación o duplicación de tareas hace que las tareas se muestren en un orden incorrecto](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martes, 26 de febrero de 2024 |
@@ -39,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Proyecto: no se puede convertir el problema en un proyecto si el documento está adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jueves, 29 de mayo de 2024 |
 | [Usuarios: Usuarios que faltan al realizar asignaciones masivas](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | miércoles, 28 de mayo de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | sábado, 24 de mayo de 2024 |
 | [Formularios personalizados: Error al editar campos de texto descriptivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | sábado, 24 de mayo de 2024 |
