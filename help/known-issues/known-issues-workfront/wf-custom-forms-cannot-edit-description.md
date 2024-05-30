@@ -1,17 +1,21 @@
 ---
 title: "Formularios personalizados: Error al editar campos de texto descriptivo"
-description: '"Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el texto no se guarda y el usuario ve un error. Hay una solución disponible”.'
+description: Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el texto no se guarda y el usuario ve un error. Hay una solución disponible.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
+source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 14%
 
 ---
 
-
 # Formularios personalizados: Error al editar campos de texto descriptivo
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 30 de mayo de 2024.
 
 Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el texto no se guarda y se muestra el siguiente error:
 
