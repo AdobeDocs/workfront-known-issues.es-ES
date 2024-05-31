@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '3779'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -56,7 +56,7 @@ Cuando un usuario está viendo un informe y hace clic en el botón Atrás del ex
 * Se dirige al usuario a la página de aterrizaje del explorador.
 * Se dirige al usuario a la página Inicio de sesión.
 
-Se ha informado de este problema con el navegador Chrome.
+Se ha informado al respecto con el explorador Chrome.
 
 #### Actualizaciones
 
@@ -64,7 +64,7 @@ Se ha informado de este problema con el navegador Chrome.
 
 Cuando se etiqueta a un usuario en una actualización, no puede ver quién lo ha etiquetado. Esto ocurre cuando la opción &quot;Las personas de otras compañías solo deben ver a los usuarios desde...&quot; está establecida en &quot;Su compañía&quot;.
 
-**Etiquetar a un usuario con @ en el panel de resumen no es eficaz**
+**Actualizaciones: etiquetar a un usuario con @ en el panel Resumen no funciona**
 
 Cuando un usuario intenta etiquetar a otro utilizando @ en el área Actualizaciones de un panel Resumen, hacer clic en el nombre del usuario en el desplegable no surte efecto. Cuando se etiqueta al usuario por segunda vez, sí funciona como se espera”.
 
