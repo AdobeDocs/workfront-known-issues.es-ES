@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3808'
-ht-degree: 100%
+source-wordcount: '3824'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 +++ **Actualización de mantenimiento del viernes, 06 de junio de 2024**
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+### Actualización de mantenimiento el 6 de junio de 2024
+
+#### Formularios personalizados
+
+**Limitación de los campos nativos en el diseñador de formularios**
+
+Ahora se admiten varios campos nativos en los formularios personalizados creados en el diseñador de formularios. Anteriormente, el límite era de un campo nativo por formulario.
 
 +++
 

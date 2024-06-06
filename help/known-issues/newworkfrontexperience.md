@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '866'
 ht-degree: 94%
 
 ---
@@ -43,14 +43,12 @@ Las soluciones para estos problemas están actualmente en curso o están program
 |----------------------------------| ----------------- |
 | [Documentos: Error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
 | [Pruebas: No se puede cerrar el visor de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jueves, 05 de junio de 2024 |
-| [Proyectos: El menú Compartir no se carga](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | jueves, 05 de junio de 2024 |
 | [[!UICONTROL Planificador de recursos]: No se puede compartir el filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | miércoles, 04 de junio de 2024 |
 | [La fecha real de finalización se muestra como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md) | miércoles, 04 de junio de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si el documento está adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jueves, 29 de mayo de 2024 |
 | [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | miércoles, 28 de mayo de 2024 |
 | [Grupos: no se puede añadir subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | viernes, 23 de mayo de 2024 |
 | [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 20 de mayo de 2024 |
-| [Usuarios: no se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md) | martes, 20 de mayo de 2024 |
 | [Actualizaciones: el vínculo del comentario se abre en una pantalla en blanco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | viernes, 09 de mayo de 2024 |
 | [[!DNL Workfront Goals]: no se puede eliminar la meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martes, 29 de abril de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
