@@ -1,23 +1,23 @@
 ---
-title: "Formularios personalizados: Error al editar campos de texto descriptivo"
+title: 'Formularios personalizados: error al editar campos de texto descriptivo'
 description: Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el texto no se guarda y el usuario ve un error. Hay una solución disponible.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# Formularios personalizados: Error al editar campos de texto descriptivo
+# Formularios personalizados: error al editar campos de texto descriptivo
 
 >[!NOTE]
 >
 >Este problema se corrigió el viernes, 30 de mayo de 2024.
 
-Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el texto no se guarda y se muestra el siguiente error:
+Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el cambio no se guarda y el usuario ve el siguiente error:
 
 &quot;El valor de clave duplicado viola la restricción única&quot;
 
