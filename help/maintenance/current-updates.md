@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
 source-wordcount: '3808'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ Esta actualización contiene solo correcciones de errores menores o menos import
 
 Error al editar campos de texto descriptivo
 
-Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el texto no se guarda y se muestra el siguiente error:
+Cuando un usuario intenta editar el texto descriptivo en un formulario personalizado, el cambio no se guarda y el usuario ve el siguiente error:
 
 &quot;El valor de clave duplicado viola la restricción única&quot;
 

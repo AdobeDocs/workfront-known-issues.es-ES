@@ -5,7 +5,7 @@ role: User
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '2008'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 96%
       + [Informes: Los vínculos públicos a un informe no funcionan](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Planificador de recursos]: No se puede compartir el filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [La fecha real de finalización se muestra como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md)
-      + [Tareas: La función del trabajo no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
-      + [Usuarios: Usuarios que faltan al realizar asignaciones masivas](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [Formularios personalizados: Error al editar campos de texto descriptivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
+      + [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
+      + [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
+      + [Formularios personalizados: error al editar campos de texto descriptivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Grupos: no se puede añadir subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Actualizaciones: el usuario etiquetado no puede ver quién lo ha etiquetado](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Inicio: las horas planificadas se muestran en minutos](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
