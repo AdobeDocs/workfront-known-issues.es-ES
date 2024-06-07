@@ -1,17 +1,21 @@
 ---
 title: "Informes: Los vínculos públicos a un informe no funcionan"
-description: '"Cuando un usuario hace clic en un vínculo público a un informe, aparece un error. El error específico depende del explorador que utilice el usuario. ”'
+description: '"Cuando un usuario hace clic en un vínculo público a un informe, aparece un error. El error específico depende del explorador que utilice el usuario. '''
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 4%
+source-wordcount: '116'
+ht-degree: 9%
 
 ---
 
-
 # Informes: Los vínculos públicos a un informe no funcionan
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 06 de junio de 2024.
 
 Cuando un usuario hace clic en un vínculo público a un informe, aparece un error. El error específico depende del explorador que utilice el usuario.
 

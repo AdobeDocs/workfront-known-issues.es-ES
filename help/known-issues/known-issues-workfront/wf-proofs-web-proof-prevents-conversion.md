@@ -4,18 +4,22 @@ description: Cuando un usuario intenta convertir una tarea o un problema que inc
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 94%
 
 ---
 
 # Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto
 
+>[!NOTE]
+>
+>El equipo de productos está evaluando actualmente la resolución de este problema. Cuando se resuelva, no se comunicará en las actualizaciones de mantenimiento, sino en los anuncios de productos.
+
 Cuando un usuario intenta convertir una tarea o un problema que incluye una prueba generada por la web en un proyecto, el proyecto no se crea y el usuario ve el siguiente mensaje:
 
-“[!UICONTROL Error al copiar el archivo] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Quite el archivo o póngase en contacto con asistencia e inténtelo de nuevo]”.
+&quot;[!UICONTROL Error al copiar el archivo] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Quite el archivo o póngase en contacto con asistencia e inténtelo de nuevo]”.
 
 **Soluciones alternativas**
 

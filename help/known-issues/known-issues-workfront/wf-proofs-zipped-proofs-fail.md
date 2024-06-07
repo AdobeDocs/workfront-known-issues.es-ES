@@ -1,19 +1,23 @@
 ---
-title: '“Pruebas: las pruebas comprimidas no se generan”'
-description: “Cuando un usuario intenta crear una prueba comprimida y dos o más archivos de la prueba tienen el mismo nombre, la prueba no se genera”.
+title: "Pruebas: Las pruebas comprimidas no se pueden generar"
+description: Cuando un usuario intenta crear una prueba comprimida y dos o más archivos de la prueba tienen el mismo nombre, la prueba no se genera.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 94%
 
 ---
-
 
 # Pruebas: las pruebas comprimidas no se generan
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>El equipo de productos está evaluando actualmente la resolución de este problema. Cuando se resuelva, no se comunicará en las actualizaciones de mantenimiento, sino en los anuncios de productos.
 
 Cuando un usuario intenta crear una prueba comprimida y dos o más archivos de la prueba tienen el mismo nombre, la prueba no se genera.
 

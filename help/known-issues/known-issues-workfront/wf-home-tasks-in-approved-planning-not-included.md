@@ -1,17 +1,21 @@
 ---
-title: '“Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio”'
-description: “Las tareas de los proyectos que tienen el estado Aprobado o Planificación no se muestran en Inicio. Hay una solución disponible”.
+title: "Inicio: Las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o Lista de trabajos en Inicio"
+description: Las tareas de los proyectos que tienen el estado Aprobado o Planificación no se muestran en Inicio. Hay una solución disponible.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 5b22b37a13774e4552ec9390a70040f0182851d3
-workflow-type: ht
-source-wordcount: '166'
-ht-degree: 100%
+exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '195'
+ht-degree: 82%
 
 ---
 
-
 # Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio
+
+>[!NOTE]
+>
+>El equipo de productos está evaluando actualmente la resolución de este problema. Cuando se resuelva, no se comunicará en las actualizaciones de mantenimiento, sino en los anuncios de productos.
 
 Las tareas de los proyectos que tienen el estado Aprobado o Planificación no se muestran en las siguientes áreas:
 
