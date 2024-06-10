@@ -4,14 +4,18 @@ description: Cuando se intenta eliminar una meta en  [!DNL Workfront Goals], est
 hidefromtoc: true
 feature: Workfront Goals
 exl-id: aa924ac8-7a07-4c58-b513-c8f9399171d4
-source-git-commit: fddfc45b426172f231365428004a6b6ab6092ea4
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Goals]: no se puede eliminar la meta
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 06 de junio de 2024.
 
 Cuando se intenta eliminar una meta en [!DNL Workfront Goals], esta no se elimina y aparece el siguiente mensaje de error:
 
