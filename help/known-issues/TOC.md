@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '2008'
+source-wordcount: '2018'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Navegación: El botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documentos: Error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Pruebas: No se puede cerrar el visor de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Proyectos: El menú Compartir no se carga](known-issues-workfront/wf-projects-cannot-share-task-issue.md)

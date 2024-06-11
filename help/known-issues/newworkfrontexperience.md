@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '801'
-ht-degree: 96%
+source-wordcount: '806'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navegación: El botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | miércoles, 11 de junio de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
 
 {style="table-layout:auto"}
@@ -39,7 +40,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | sábado, 07 de junio de 2024 |
 | [Documentos: Error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
 | [Pruebas: No se puede cerrar el visor de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jueves, 05 de junio de 2024 |
-| [[!UICONTROL Planificador de recursos]: No se puede compartir el filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | miércoles, 04 de junio de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si el documento está adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jueves, 29 de mayo de 2024 |
 | [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | miércoles, 28 de mayo de 2024 |
 | [Grupos: no se puede añadir subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | viernes, 23 de mayo de 2024 |
