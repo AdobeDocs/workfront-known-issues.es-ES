@@ -1,17 +1,17 @@
 ---
-title: "Documentos: Error al utilizar un vínculo público a un documento"
-description: "Cuando un usuario hace clic en un vínculo público para ir a un documento en Workfront, puede que vea un error."
+title: '“Documentos: error al utilizar un vínculo público a un documento”'
+description: Cuando un usuario hace clic en un vínculo público para ir a un documento en Workfront, puede que vea un error.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: tm+mt
+exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
+source-git-commit: 492e3e74ffb96d976f160d2d2c3656a270a77ae2
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
-
-# Documentos: Error al utilizar un vínculo público a un documento
+# Documentos: error al utilizar un vínculo público a un documento
 
 Cuando un usuario hace clic en un vínculo público para ir a un documento en Workfront, puede que vea uno de los siguientes errores:
 
