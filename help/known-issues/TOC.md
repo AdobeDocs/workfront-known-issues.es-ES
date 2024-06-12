@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
 source-wordcount: '2018'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 97%
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Navegación: El botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [Documentos: Error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
-      + [Pruebas: No se puede cerrar el visor de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [Proyectos: El menú Compartir no se carga](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [Informes: Los vínculos públicos a un informe no funcionan](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL Planificador de recursos]: No se puede compartir el filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
-      + [La fecha real de finalización se muestra como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md)
+      + [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [Proyectos: el menú Uso compartido no se carga](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
+      + [Informes: los vínculos públicos a un informe no funcionan](known-issues-workfront/wf-reports-public-link-not-working.md)
+      + [[!UICONTROL Planificador de recursos]: no se puede compartir el filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
+      + [La fecha de finalización real se muestra como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Formularios personalizados: error al editar campos de texto descriptivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)

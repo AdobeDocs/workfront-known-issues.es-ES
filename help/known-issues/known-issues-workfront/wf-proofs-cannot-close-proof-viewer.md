@@ -1,19 +1,19 @@
 ---
-title: "Pruebas: No se puede cerrar el visor de pruebas"
-description: Cuando un usuario está viendo una prueba en el visor de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra. Hay una solución disponible.
+title: '“Pruebas: no se puede cerrar el visualizador de pruebas”'
+description: Cuando un usuario está viendo una prueba en el visualizador de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra. Hay una solución disponible.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 11%
+ht-degree: 89%
 
 ---
 
-# Pruebas: No se puede cerrar el visor de pruebas
+# Pruebas: no se puede cerrar el visualizador de pruebas
 
-Cuando un usuario está viendo una prueba en el visor de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
+Cuando un usuario está viendo una prueba en el visualizador de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
 
 **Solución alternativa**
 

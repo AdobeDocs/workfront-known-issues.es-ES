@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,8 +35,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: Error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
-| [Pruebas: No se puede cerrar el visor de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jueves, 05 de junio de 2024 |
+| [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
+| [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jueves, 05 de junio de 2024 |
 | [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 20 de mayo de 2024 |
 | [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | jueves, 08 de mayo de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
 workflow-type: tm+mt
 source-wordcount: '795'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -38,9 +38,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 |----------------------------------| ----------------- |
 | [Programas: se pierde todo el acceso al programa cuando se actualiza el acceso de los usuarios al programa](known-issues-workfront/wf-programs-permissions-not-inherited.md) | sábado, 07 de junio de 2024 |
 | [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | sábado, 07 de junio de 2024 |
-| [Documentos: Error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
-| [Pruebas: No se puede cerrar el visor de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jueves, 05 de junio de 2024 |
-| [Proyecto: no se puede convertir el problema en un proyecto si el documento está adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jueves, 29 de mayo de 2024 |
+| [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
+| [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jueves, 05 de junio de 2024 |
+| [Proyecto: no se puede convertir el problema en un proyecto si lleva un documento adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jueves, 29 de mayo de 2024 |
 | [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | miércoles, 28 de mayo de 2024 |
 | [Grupos: no se puede añadir subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | viernes, 23 de mayo de 2024 |
 | [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 20 de mayo de 2024 |
