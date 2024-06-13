@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
+source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '801'
 ht-degree: 98%
 
 ---
@@ -56,6 +56,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Inicio: No se puede eliminar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | jueves, 12 de junio de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 07 de junio de 2024 |
 | [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 07 de junio de 2024 |
 | [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | sábado, 07 de junio de 2024 |
