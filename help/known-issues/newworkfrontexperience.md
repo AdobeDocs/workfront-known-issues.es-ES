@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
+source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 97%
+source-wordcount: '814'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraciones: Problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
+| [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junio de 2024 |
 | [Planificación de recursos: [!UICONTROL Más] el botón no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junio de 2024 |
 | [Navegación: El botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | miércoles, 11 de junio de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |

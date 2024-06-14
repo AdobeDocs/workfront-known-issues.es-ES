@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 100%
+source-wordcount: '408'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraciones: Problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
 | [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martes, 22 de abril de 2024 |
 
 {style="table-layout:auto"}
