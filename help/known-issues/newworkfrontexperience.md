@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '795'
 ht-degree: 97%
 
 ---
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Planificación de recursos: [!UICONTROL Más] el botón no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junio de 2024 |
 | [Navegación: El botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | miércoles, 11 de junio de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
 
@@ -36,7 +37,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Estados: No se puede reutilizar el estado eliminado anteriormente](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md) | viernes, 13 de junio de 2024 |
 | [Programas: se pierde todo el acceso al programa cuando se actualiza el acceso de los usuarios al programa](known-issues-workfront/wf-programs-permissions-not-inherited.md) | sábado, 07 de junio de 2024 |
 | [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | sábado, 07 de junio de 2024 |
 | [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
