@@ -4,18 +4,21 @@ description: Cuando un usuario intenta descargar o previsualizar un recurso en W
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 # Documentos: pantalla de error al descargar o previsualizar el recurso
 
+
+<!--
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 13 de junio de 2024.
+>This issue was fixed on June 13, 2024.
+-->
 
 Cuando un usuario intenta descargar o previsualizar un recurso en Workfront, se le dirige a una pantalla de error.
 
