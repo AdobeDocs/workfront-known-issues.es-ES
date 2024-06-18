@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 82b4e84ed06aab1c4f6da30196f000413f910706
+source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
 workflow-type: tm+mt
-source-wordcount: '1627'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: &quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integraciones: Problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Planificación de recursos: [!UICONTROL Más] el botón no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Estados: No se puede reutilizar el estado eliminado anteriormente](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Inicio: No se puede eliminar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
-      + [Navegación: El botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
+      + [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Proyectos: el menú Uso compartido no se carga](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
@@ -106,7 +107,7 @@ ht-degree: 97%
       + [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Tableros: las tarjetas no se ordenan](known-issues-workfront/wf-boards-not-sorting.md)
       + [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [Integraciones: Documentos no adjuntados al crear una solicitud desde  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [Integraciones: Documentos no adjuntados al crear una solicitud desde [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Tableros: Error 400 al añadir una tarea a un tablero](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Nuevo [!UICONTROL Inicio]: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
@@ -115,7 +116,7 @@ ht-degree: 97%
       + [Tableros: las tarjetas no se mueven a la columna adecuada cuando se cambia el estado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar las agrupaciones](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
-      + [Documentos: no se puede acceder a  [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
+      + [Documentos: no se puede acceder a [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
       + [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
@@ -153,7 +154,7 @@ ht-degree: 97%
       + [[!UICONTROL Configuración]: las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)
       + [Tareas: las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen] de la tarea](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
-      + [[!DNL Workfront]: Problemas al enviar un caso de soporte de  [!DNL Workfront]  en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + [Paneles: los gráficos de informes que se ven en un panel utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [Agile: problemas al mover tarjetas en el panel Agile](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + [Inicio: la terminología personalizada no se aplica al área de inicio](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
@@ -186,7 +187,7 @@ ht-degree: 97%
       + [Workfront Proof: los datos del panel no siempre son precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: los datos de búsqueda no siempre son precisos](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Pruebas: las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
-      + [[!DNL Workfront Proof]: Error 500 al acceder a  [!DNL Workfront Proof]  mediante API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]: Error 500 al acceder a [!DNL Workfront Proof]  mediante API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: las listas no están ordenadas correctamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]: el área de [!UICONTROL Informes] ya no es compatible](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [Pruebas: el usuario no recibe correo electrónico cuando está etiquetado en un comentario de prueba](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)

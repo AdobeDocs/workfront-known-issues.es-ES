@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
+source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,11 +25,12 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Informes: &quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | miércoles, 18 de junio de 2024 |
 | [Integraciones: Problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
 | [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junio de 2024 |
 | [Planificación de recursos: [!UICONTROL Más] el botón no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junio de 2024 |
-| [Navegación: El botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | miércoles, 11 de junio de 2024 |
-| [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | miércoles, 07 de mayo de 2024 |
+| [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | 11 de junio de 2024 |
+| [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de mayo de 2024 |
 
 {style="table-layout:auto"}
 
@@ -40,15 +41,15 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
 | [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 17 de junio de 2024 |
-| [Programas: se pierde todo el acceso al programa cuando se actualiza el acceso de los usuarios al programa](known-issues-workfront/wf-programs-permissions-not-inherited.md) | sábado, 07 de junio de 2024 |
-| [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | sábado, 07 de junio de 2024 |
-| [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
-| [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jueves, 05 de junio de 2024 |
-| [Proyecto: no se puede convertir el problema en un proyecto si lleva un documento adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jueves, 29 de mayo de 2024 |
-| [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | miércoles, 28 de mayo de 2024 |
-| [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 11 de abril de 2024 |
-| [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | viernes, 04 de abril de 2024 |
-| [[!DNL Workfront]: Problemas al enviar un caso de soporte de  [!DNL Workfront]  en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
+| [Programas: se pierde todo el acceso al programa cuando se actualiza el acceso de los usuarios al programa](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 7 de junio de 2024 |
+| [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 de junio de 2024 |
+| [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 de junio de 2024 |
+| [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 de junio de 2024 |
+| [Proyecto: no se puede convertir el problema en un proyecto si lleva un documento adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 de mayo de 2024 |
+| [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 de mayo de 2024 |
+| [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 de abril de 2024 |
+| [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 de abril de 2024 |
+| [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
 {style="table-layout:auto"}
 
@@ -59,14 +60,14 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Inicio: No se puede eliminar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | jueves, 12 de junio de 2024 |
-| [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 07 de junio de 2024 |
-| [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 07 de junio de 2024 |
-| [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | sábado, 07 de junio de 2024 |
-| [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sábado, 07 de junio de 2024 |
-| [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martes, 20 de mayo de 2024 |
+| [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 de junio de 2024 |
+| [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 de junio de 2024 |
+| [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 7 de junio de 2024 |
+| [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 de junio de 2024 |
+| [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 20 de mayo de 2024 |
 | [Plantillas de horas: la plantilla de horas anclada pasa a una página en blanco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 de mayo de 2024 |
-| [Informes: el filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | martes, 01 de abril de 2024 |
-| [Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar agrupaciones](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | viernes, 30 de noviembre de 2023 |
+| [Informes: el filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 1 de abril de 2024 |
+| [Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar agrupaciones](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 30 de noviembre de 2023 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de noviembre de 2023 |
 | [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 de noviembre de 2023 |
 | [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md) | 7 de noviembre de 2023 |
