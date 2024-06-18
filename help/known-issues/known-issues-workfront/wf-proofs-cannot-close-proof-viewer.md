@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ Cuando un usuario está viendo una prueba en el visualizador de pruebas e intent
 
 Realice una de las siguientes acciones:
 
-* Haga clic en el nombre del documento que aparece en el correo electrónico para ir al documento y, a continuación, abra la prueba desde allí. Esto puede permitir que la X funcione según lo esperado.
+* Haga clic en el nombre del documento que aparece en el correo electrónico para ir al documento y, a continuación, abra la prueba desde allí. De este modo, X funcionará según lo esperado.
 * Vuelva a intentar cerrar la prueba.
 * Cierre la prueba cerrando la pestaña del explorador.
 
-_Informado por primera vez el sábado, 31 de mayo de 2024._
+_Informado por primera vez el 31 de mayo de 2024._
