@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '3859'
+source-wordcount: '3963'
 ht-degree: 99%
 
 ---
@@ -22,25 +22,46 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 ## Actualizaciones en junio de 2024
 
-+++**Actualización de mantenimiento del viernes, 13 de junio de 2024**
++++**(Planificado) Actualización de mantenimiento el viernes, 20 de junio de 2024**
 
-### **Actualización de mantenimiento del viernes, 13 de junio de 2024**
+### (Planificado) Actualización de mantenimiento del viernes, 20 de junio de 2024
+
+#### Exploración
+
+**El botón Atrás no vuelve a la página anterior**
+
+Cuando un usuario de Workfront hace clic en el botón Atrás del explorador, puede producirse una de las siguientes situaciones.
+
+* El nombre de la pestaña del explorador cambia, pero la página no cambia. Si vuelve a hacer clic en el botón Atrás, se puede resolver el problema.
+* El usuario vuelve a la página de aterrizaje del explorador.
+
+#### Pruebas
+
+**No se puede cerrar el visor de pruebas**
+
+Cuando un usuario está viendo una prueba en el visualizador de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
+
++++
+
++++**Actualización de mantenimiento el viernes, 13 de junio de 2024**
+
+### **Actualización de mantenimiento el viernes, 13 de junio de 2024**
 
 #### Grupos
 
-**No se puede agregar el subgrupo**
+**No se puede añadir subgrupo**
 
 Cuando un usuario intenta añadir un subgrupo existente a un grupo, el botón Guardar no funciona y el subgrupo no se añade.
 
 +++
 
-+++ **Actualización de mantenimiento del viernes, 06 de junio de 2024**
++++ **Actualización de mantenimiento el 6 de junio de 2024**
 
 ### Actualización de mantenimiento el 6 de junio de 2024
 
 #### Formularios personalizados
 
-**Limitación de los campos nativos en el diseñador de formularios**
+**Limitación en los campos nativos del diseñador de formularios**
 
 Ahora se admiten varios campos nativos en los formularios personalizados creados en el diseñador de formularios. Anteriormente, el límite era de un campo nativo por formulario.
 
@@ -48,9 +69,9 @@ Ahora se admiten varios campos nativos en los formularios personalizados creados
 
 ## Actualizaciones en mayo de 2024
 
-+++ **Actualización de mantenimiento del viernes, 30 de mayo de 2024**
++++ **Actualización de mantenimiento el 30 de mayo de 2024**
 
-### Actualización de mantenimiento del viernes, 30 de mayo de 2024
+### Actualización de mantenimiento el 30 de mayo de 2024
 
 #### Formularios personalizados
 
@@ -70,9 +91,9 @@ Cuando un usuario copia un comentario que incluye una mención en formato @ y lu
 
 +++
 
-+++ **Actualización de mantenimiento del viernes, 23 de mayo de 2024**
++++ **Actualización de mantenimiento el 23 de mayo de 2024**
 
-### Actualización de mantenimiento del viernes, 23 de mayo de 2024
+### Actualización de mantenimiento el 23 de mayo de 2024
 
 #### Informes
 
@@ -96,9 +117,9 @@ Cuando un usuario intenta etiquetar a otro utilizando @ en el área Actualizacio
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 16 de mayo de 2024**
++++**Actualización de mantenimiento el 16 de mayo de 2024**
 
-### Actualización de mantenimiento del viernes, 16 de mayo de 2024
+### Actualización de mantenimiento el 16 de mayo de 2024
 
 #### Configurar
 
@@ -114,17 +135,17 @@ Cuando un usuario intenta eliminar usuarios, estos no se eliminan. Se ha informa
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 09 de mayo de 2024**
++++**Actualización de mantenimiento el 9 de mayo de 2024**
 
-### Actualización de mantenimiento del viernes, 09 de mayo de 2024
+### Actualización de mantenimiento el 9 de mayo de 2024
 
 Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 02 de mayo de 2024**
++++**Actualización de mantenimiento el 2 de mayo de 2024**
 
-### Actualización de mantenimiento del 2 de mayo de 2024
+### Actualización de mantenimiento el 2 de mayo de 2024
 
 #### Registrar la hora
 
@@ -136,9 +157,9 @@ Cuando un usuario intenta editar horas en una tarea o un problema, los cambios n
 
 ## Actualizaciones en abril de 2024
 
-+++**Actualización de mantenimiento del viernes, 25 de abril de 2024**
++++**Actualización de mantenimiento el 25 de abril de 2024**
 
-### Actualización de mantenimiento del viernes, 25 de abril de 2024
+### Actualización de mantenimiento el 25 de abril de 2024
 
 #### Actualizaciones
 
@@ -156,9 +177,9 @@ Se ha informado de este problema en la nueva experiencia de comentarios.
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 18 de abril de 2024**
++++**Actualización de mantenimiento el 18 de abril de 2024**
 
-### Actualización de mantenimiento del viernes, 18 de abril de 2024
+### Actualización de mantenimiento el 18 de abril de 2024
 
 #### Agile
 
@@ -190,35 +211,9 @@ Cuando un problema tiene adjunta una prueba web (una prueba de URL que utiliza u
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 11 de abril de 2024**
++++**Actualización de mantenimiento el 11 de abril de 2024**
 
-### Actualización de mantenimiento del viernes, 11 de abril de 2024
-
-#### Buscar
-
-**No se puede editar desde la búsqueda**
-
-Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde.
-
-#### Actualizaciones
-
-**Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa**
-
-Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa.
-
-Si el usuario descarga la imagen, esta aparece con la resolución esperada.
-
-**Mensaje “[!UICONTROL No podemos publicar su comentario]” al responder**
-
-Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
-
-“[!UICONTROL No podemos publicar su comentario en este momento. Espere un momento e inténtelo de nuevo.]”
-
-+++
-
-+++**Actualización de mantenimiento del viernes, 04 de abril de 2024**
-
-### Actualización de mantenimiento del 4 de abril de 2024
+### Actualización de mantenimiento el 11 de abril de 2024
 
 #### Buscar
 
@@ -242,9 +237,35 @@ Cuando un usuario intenta responder a un mensaje en la nueva experiencia de come
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 04 de abril de 2024**
++++**Actualización de mantenimiento el 04 de abril de 2024**
 
-### Actualización de mantenimiento del 4 de abril de 2024
+### Actualización de mantenimiento el 4 de abril de 2024
+
+#### Buscar
+
+**No se puede editar desde la búsqueda**
+
+Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde.
+
+#### Actualizaciones
+
+**Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa**
+
+Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa.
+
+Si el usuario descarga la imagen, esta aparece con la resolución esperada.
+
+**Mensaje “[!UICONTROL No podemos publicar su comentario]” al responder**
+
+Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
+
+“[!UICONTROL No podemos publicar su comentario en este momento. Espere un momento e inténtelo de nuevo.]”
+
++++
+
++++**Actualización de mantenimiento el 04 de abril de 2024**
+
+### Actualización de mantenimiento el 4 de abril de 2024
 
 #### Integraciones
 
@@ -279,9 +300,9 @@ La experiencia de comentarios heredada funciona según lo esperado.
 
 ## Actualizaciones en marzo de 2024
 
-+++**Actualización de mantenimiento del viernes, 28 de marzo de 2024**
++++**Actualización de mantenimiento el 28 de marzo de 2024**
 
-### Actualización de mantenimiento del viernes, 28 de marzo de 2024
+### Actualización de mantenimiento el 28 de marzo de 2024
 
 #### Integraciones
 
@@ -332,7 +353,7 @@ Se ha informado de este problema en la experiencia de comentarios existente.
 
 +++
 
-+++**Actualización de mantenimiento de Workfront Fusion el viernes, 28 de marzo de 2024**
++++**Actualización de mantenimiento de Workfront Fusion el 28 de marzo de 2024**
 
 ### Actualización de mantenimiento de Workfront Fusion el 28 de marzo de 2024
 
@@ -344,9 +365,9 @@ Esto puede ocurrir si la respuesta es extremadamente larga. Los datos se devuelv
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 21 de marzo de 2024**
++++**Actualización de mantenimiento el 21 de marzo de 2024**
 
-### Actualización de mantenimiento del viernes, 21 de marzo de 2024
+### Actualización de mantenimiento el 21 de marzo de 2024
 
 #### Actualizaciones
 
@@ -364,9 +385,9 @@ Esta corrección solo se aplica a la nueva experiencia de comentarios.
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 14 de marzo de 2024**
++++**Actualización de mantenimiento el 14 de marzo de 2024**
 
-### Actualización de mantenimiento del viernes, 14 de marzo de 2024
+### Actualización de mantenimiento el 14 de marzo de 2024
 
 #### Pruebas
 
@@ -384,9 +405,9 @@ Cuando un usuario está creando otro usuario, solo el primer nivel de acceso del
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 07 de marzo de 2024**
++++**Actualización de mantenimiento el 07 de marzo de 2024**
 
-### Actualización de mantenimiento del 7 de marzo de 2024
+### Actualización de mantenimiento el 7 de marzo de 2024
 
 #### Tableros
 
@@ -423,9 +444,9 @@ Los escenarios que utilizan el módulo Prueba de Workfront > Ver prueba pueden d
 
 ## Actualizaciones en febrero de 2024
 
-+++**Actualización de mantenimiento del viernes, 29 de febrero de 2024**
++++**Actualización de mantenimiento el 29 de febrero de 2024**
 
-### Actualización de mantenimiento del viernes, 29 de febrero de 2024
+### Actualización de mantenimiento el 29 de febrero de 2024
 
 #### Actualizaciones
 
@@ -437,9 +458,9 @@ Esto se debe a que el usuario no tiene permiso para ver usuarios de otras compa�
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 22 de febrero de 2024**
++++**Actualización de mantenimiento el 22 de febrero de 2024**
 
-### Actualización de mantenimiento del viernes, 22 de febrero de 2024
+### Actualización de mantenimiento el 22 de febrero de 2024
 
 #### Inicio
 
@@ -469,9 +490,9 @@ El distribuidor de cargas de trabajo y el calendario personal de días libres ah
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 15 de febrero de 2024**
++++**Actualización de mantenimiento el 15 de febrero de 2024**
 
-### Actualización de mantenimiento del viernes, 15 de febrero de 2024
+### Actualización de mantenimiento el 15 de febrero de 2024
 
 #### Problemas
 
@@ -493,9 +514,9 @@ Después de que un [!DNL Workfront] administrador ha desactivado la opción para
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 08 de febrero de 2024**
++++**Actualización de mantenimiento el 08 de febrero de 2024**
 
-### Actualización de mantenimiento del 8 de febrero de 2024
+### Actualización de mantenimiento el 8 de febrero de 2024
 
 #### Tableros
 
@@ -523,9 +544,9 @@ Esto se debe a que las funciones están creando automáticamente tasas duplicada
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 01 de febrero de 2024**
++++**Actualización de mantenimiento el 1 de febrero de 2024**
 
-### Actualización de mantenimiento del 1 de febrero de 2024
+### Actualización de mantenimiento el 1 de febrero de 2024
 
 #### Inicio de sesión
 
@@ -545,7 +566,7 @@ Cuando se intenta copiar una plantilla nueva o anterior, la plantilla no se copi
 
 ## Actualizaciones en enero de 2024
 
-+++**Actualización de mantenimiento (Hot Fix) el miércoles, 30 de enero de 2024**
++++**Actualización de mantenimiento (Hot Fix) el 30 de enero de 2024**
 
 ### Actualización de mantenimiento (Hot Fix) el 30 de enero de 2024
 
@@ -559,9 +580,9 @@ Ahora, cuando se utiliza un campo personalizado de búsqueda externa en una list
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 25 de enero de 2024**
++++**Actualización de mantenimiento el 25 de enero de 2024**
 
-### Actualización de mantenimiento el viernes, 25 de enero de 2024
+### Actualización de mantenimiento el 25 de enero de 2024
 
 #### Tableros
 
@@ -590,9 +611,9 @@ El usuario recibe una notificación por correo electrónico con respecto a la et
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 18 de enero de 2024**
++++**Actualización de mantenimiento el 18 de enero de 2024**
 
-### Actualización de mantenimiento el viernes, 18 de enero de 2024
+### Actualización de mantenimiento el 18 de enero de 2024
 
 #### Tableros
 
@@ -692,9 +713,9 @@ Es posible que un comentario realizado en la experiencia de comentarios anterior
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 11 de enero de 2024**
++++**Actualización de mantenimiento el 11 de enero de 2024**
 
-### Actualización de mantenimiento el viernes, 11 de enero de 2024
+### Actualización de mantenimiento el 11 de enero de 2024
 
 #### Tableros
 
