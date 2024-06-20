@@ -4,14 +4,18 @@ description: Cuando un usuario está viendo una prueba en el visualizador de pru
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+workflow-type: tm+mt
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
 
 # Pruebas: no se puede cerrar el visualizador de pruebas
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 20 de junio de 2024.
 
 Cuando un usuario está viendo una prueba en el visualizador de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
 
