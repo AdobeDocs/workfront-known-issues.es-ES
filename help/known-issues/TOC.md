@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
 workflow-type: tm+mt
-source-wordcount: '1652'
-ht-degree: 96%
+source-wordcount: '1663'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Inicio: el widget Mis problemas no muestra los problemas cerrados o completados](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Aprobaciones: Demasiadas redirecciones](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Actualizaciones: el vínculo copiado no se pega correctamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Informes: &quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
