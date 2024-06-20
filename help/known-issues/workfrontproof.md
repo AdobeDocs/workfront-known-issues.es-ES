@@ -26,7 +26,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Integraciones: Problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
-| [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martes, 22 de abril de 2024 |
+| [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 de abril de 2024 |
 
 {style="table-layout:auto"}
 
@@ -36,11 +36,11 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | jueves, 05 de junio de 2024 |
-| [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jueves, 05 de junio de 2024 |
-| [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 20 de mayo de 2024 |
-| [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | jueves, 08 de mayo de 2024 |
-| [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de marzo de 2024 |
+| [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 de junio de 2024 |
+| [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 de junio de 2024 |
+| [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 de mayo de 2024 |
+| [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de mayo de 2024 |
+| [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 de marzo de 2024 |
 | [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |
 
 {style="table-layout:auto"}
@@ -51,7 +51,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sábado, 07 de junio de 2024 |
+| [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 de junio de 2024 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de noviembre de 2023 |
 | [[!DNL Workfront Proof]: no se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 de octubre de 2023 |
 | [Workfront Proof: los datos del panel no siempre son precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 de septiembre de 2023 |
@@ -59,7 +59,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Pruebas: las pruebas no se muestran en los informes como aprobados](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 de junio de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
-| [[!DNL Workfront Proof]: Error 500 al acceder a  [!DNL Workfront Proof]  mediante API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de mayo de 2023 |
+| [[!DNL Workfront Proof]: Error 500 al acceder a [!DNL Workfront Proof]  mediante API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de mayo de 2023 |
 | [Documentos: opciones de las [!UICONTROL Actividades de revisión] que llevan a la página de inicio de sesión](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023 |
 | [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
 | [Documentos: error 404 al acceder al documento vinculado desde  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de marzo de 2023 |
