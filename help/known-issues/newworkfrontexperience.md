@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 90%
+source-wordcount: '848'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: Al hacer clic en el nombre de la prueba, aparece una pantalla en blanco](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | sábado, 21 de junio de 2024 |
 | [Tableros: El tablero no se muestra como usuario al utilizar [!UICONTROL Iniciar sesión como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junio de 2024 |
 | [Informes: &quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | miércoles, 18 de junio de 2024 |
 | [Integraciones: Problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
@@ -44,7 +45,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Actualizaciones: el vínculo copiado no se pega correctamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | jueves, 19 de junio de 2024 |
 | [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 17 de junio de 2024 |
 | [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 de junio de 2024 |
-| [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 de junio de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si lleva un documento adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 de mayo de 2024 |
 | [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 de mayo de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 de abril de 2024 |

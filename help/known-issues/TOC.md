@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
 workflow-type: tm+mt
-source-wordcount: '1685'
+source-wordcount: '1693'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: Al hacer clic en el nombre de la prueba, aparece una pantalla en blanco](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [Informes: El informe no se carga cuando la moneda predeterminada es USD](known-issues-workfront/wf-reports-default-currency-error.md)
       + [Tableros: El tablero no se muestra como usuario al utilizar [!UICONTROL Iniciar sesión como]](known-issues-workfront/wf-boards-log-in-as.md)
       + [Inicio: el widget Mis problemas no muestra los problemas cerrados o completados](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
