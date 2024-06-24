@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
 source-wordcount: '858'
-ht-degree: 88%
+ht-degree: 91%
 
 ---
 
@@ -29,9 +29,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Pruebas: Al hacer clic en el nombre de la prueba, aparece una pantalla en blanco](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | sábado, 21 de junio de 2024 |
 | [Tableros: El tablero no se muestra como usuario al utilizar [!UICONTROL Iniciar sesión como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junio de 2024 |
 | [Informes: &quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | miércoles, 18 de junio de 2024 |
-| [Integraciones: Problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
+| [Integraciones: problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
 | [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junio de 2024 |
-| [Planificación de recursos: [!UICONTROL Más] el botón no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junio de 2024 |
+| [Planificación de recursos: el botón [!UICONTROL Más] no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junio de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de mayo de 2024 |
 
 {style="table-layout:auto"}
@@ -61,7 +61,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [Inicio: el widget Mis problemas no muestra los problemas cerrados o completados](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | viernes, 20 de junio de 2024 |
-| [Inicio: No se puede eliminar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | jueves, 12 de junio de 2024 |
+| [Inicio: no se puede quitar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | jueves, 12 de junio de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 de junio de 2024 |
 | [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 de junio de 2024 |
 | [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 7 de junio de 2024 |

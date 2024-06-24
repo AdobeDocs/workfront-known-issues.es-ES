@@ -5,7 +5,7 @@ role: User
 source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
 source-wordcount: '1702'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 93%
       + [Aprobaciones: Demasiadas redirecciones](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Actualizaciones: el vínculo copiado no se pega correctamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Informes: &quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [Integraciones: Problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [Integraciones: problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [Planificación de recursos: [!UICONTROL Más] el botón no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [Estados: No se puede reutilizar el estado eliminado anteriormente](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
-      + [Inicio: No se puede eliminar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
+      + [Planificación de recursos: botón [!UICONTROL Más] no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
+      + [Estados: no se puede reutilizar el estado eliminado anteriormente](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
+      + [Inicio: no se puede quitar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
