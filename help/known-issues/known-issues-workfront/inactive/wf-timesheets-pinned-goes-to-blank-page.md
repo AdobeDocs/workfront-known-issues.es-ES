@@ -1,17 +1,19 @@
 ---
-title: '“Plantillas de horas: la plantilla de horas anclada pasa a una página en blanco”'
-description: “Cuando un usuario hace clic en un anclaje de Workfront que debe llevarle a su plantilla de horas, el anclaje le lleva a una página en blanco. Hay una solución disponible”.
+title: "Plantillas de horas: la plantilla de horas anclada pasa a una página en blanco"
+description: Cuando un usuario hace clic en un fijador de Workfront que va a su plantilla de horas, el fijador va a una página en blanco. Hay una solución disponible.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
-workflow-type: ht
+exl-id: 684ccdfa-f419-451e-836a-11831fbc1816
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
 
-
 # Plantillas de horas: la plantilla de horas anclada pasa a una página en blanco
+
+<!--article live for workaround-->
 
 Cuando un usuario hace clic en un anclaje de Workfront que debe llevarle a su plantilla de horas, el anclaje le lleva a una página en blanco.
 
@@ -24,4 +26,3 @@ Esto se debe a que la dirección URL de la plantilla de horas ha cambiado. El `/
 1. Vuelva a anclar la plantilla de horas.
 
 _Informado por primera vez el miércoles, 07 de mayo de 2024._
-

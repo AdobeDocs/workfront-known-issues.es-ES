@@ -1,20 +1,20 @@
 ---
-title: '“Workfront Proof: los datos del panel no siempre son precisos”'
-description: “Los datos mostrados en el área del panel dentro de la prueba, no siempre muestran la información más actualizada. Se recomienda crear una vista personalizada y utilizarla para obtener la información más actualizada sobre sus datos”.
+title: "Workfront Proof: Los datos del panel no siempre son precisos"
+description: Los datos que se muestran en el área del panel dentro de la prueba no siempre muestran la información más actualizada. Se recomienda crear una vista personalizada y utilizarla para obtener la información más actualizada sobre sus datos.
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+exl-id: f414f918-4416-44d1-99e9-afd75f4f40f4
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 32%
 
 ---
-
 
 # Workfront Proof: los datos del panel no siempre son precisos
 
 Los datos que se muestran en el área del panel dentro de la prueba no siempre muestran la información más actualizada.
 
-Se recomienda crear una vista personalizada y utilizarla para obtener la información más actualizada sobre sus datos.
+Le recomendamos que cree una vista personalizada y la utilice para obtener la información más actualizada sobre sus datos.
 
 _Notificado por primera vez el 1 de marzo de 2023._
