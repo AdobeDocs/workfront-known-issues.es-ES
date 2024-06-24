@@ -1,17 +1,17 @@
 ---
-title: "Estados: No se puede reutilizar el estado eliminado anteriormente"
-description: '"Cuando un usuario intenta crear un estado con la misma clave de estado que un estado eliminado anteriormente, el estado no se crea y el usuario ve un mensaje".'
+title: '“Estados: no se puede reutilizar el estado eliminado anteriormente”'
+description: Cuando un usuario intenta crear un estado con la misma clave de estado que un estado eliminado anteriormente, el estado no se crea y el usuario ve un mensaje.
 hidefromtoc: true
 feature: Work Management, Projects, Tasks
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
-workflow-type: tm+mt
+exl-id: 7ca79d9f-7dcf-4e15-a916-6252065a2763
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-
-# Estados: No se puede reutilizar el estado eliminado anteriormente
+# Estados: no se puede reutilizar el estado eliminado anteriormente
 
 >[!NOTE]
 >
@@ -19,6 +19,6 @@ ht-degree: 11%
 
 Cuando un usuario intenta crear un estado con la misma clave de estado que un estado eliminado anteriormente, el estado no se crea y el usuario ve el siguiente mensaje:
 
-&quot;Asegúrese de que la clave del estado sea un valor único&quot;
+“Asegúrese de que la clave del estado tenga un valor único”
 
-_Notificado por primera vez el martes, 03 de junio de 2024._
+_Notificado por primera vez el 3 de junio de 2024._

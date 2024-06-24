@@ -1,15 +1,15 @@
 ---
-title: "Informes: Error al ver los detalles del informe agrupados por fecha personalizada"
-description: "Cuando un usuario está viendo un informe, hace clic en los detalles y el informe se agrupa por un campo de fecha personalizado, los detalles no se cargan y el usuario ve un error."
+title: '“Informes: error al ver los detalles del informe agrupados por fecha personalizada”'
+description: Cuando un usuario está viendo un informe, hace clic en los detalles y el informe se agrupa por un campo de fecha personalizado, los detalles no se cargan y el usuario ve un error.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
-workflow-type: tm+mt
+exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
-
 
 # Informes: error al ver los detalles del informe agrupados por fecha personalizada
 

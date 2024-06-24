@@ -1,20 +1,20 @@
 ---
-title: "Inicio: No se puede eliminar el widget Menciones"
-description: '"Si un usuario de la nueva página de inicio desea eliminar el widget de menciones, no puede eliminarlo".'
+title: '“Inicio: no se puede quitar el widget Menciones”'
+description: Si un usuario de la nueva página de Inicio desea quitar el widget Menciones, no podrá quitarlo.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
-workflow-type: tm+mt
+exl-id: 57defe2f-47df-43ce-a9c7-e6f3a3e79ff5
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Inicio: no se puede quitar el widget Menciones
 
-# Inicio: No se puede eliminar el widget Menciones
+Si un usuario de la nueva página de Inicio desea quitar el widget Menciones, no podrá quitarlo.
 
-Si un usuario de la nueva página de inicio desea eliminar el widget de menciones, no podrá eliminarlo.
-
-El widget Menciones se controla mediante la plantilla Diseño, que administra un administrador de Workfront. Funciona según lo diseñado, pero no hay indicación para el usuario de que no pueda eliminar el widget por sí mismo.
+El widget Menciones se controla mediante la plantilla de diseño, que administra un administrador de Workfront. Funciona según lo diseñado, pero no hay indicación para el usuario de que no pueda quitar el widget por sí mismo.
 
 _Notificado por primera vez el jueves, 12 de junio de 2024._
