@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 89%
+source-wordcount: '858'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraciones: no se puede agregar una nueva versión de un documento desde [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | martes, 24 de junio de 2024 |
 | [Pruebas: Al hacer clic en el nombre de la prueba, aparece una pantalla en blanco](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | sábado, 21 de junio de 2024 |
 | [Tableros: El tablero no se muestra como usuario al utilizar [!UICONTROL Iniciar sesión como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junio de 2024 |
 | [Informes: &quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | miércoles, 18 de junio de 2024 |
