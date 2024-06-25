@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
+source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
 workflow-type: tm+mt
-source-wordcount: '1711'
-ht-degree: 95%
+source-wordcount: '1721'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Integraciones: Vincular carpeta desde [!DNL Google Drive] no vincula recursos en la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Pruebas: al cerrar una prueba, se accede a la página Documentos del producto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integraciones: no se puede agregar una nueva versión de un documento desde [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [Pruebas: Al hacer clic en el nombre de la prueba, aparece una pantalla en blanco](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
