@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
 workflow-type: tm+mt
-source-wordcount: '3961'
-ht-degree: 99%
+source-wordcount: '4072'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,26 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones en junio de 2024
+
++++**(Planificado) Actualización de mantenimiento el viernes, 27 de junio de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 27 de junio de 2024
+
+#### Informes
+
+**El informe no se carga cuando la moneda predeterminada es USD**
+
+Cuando un usuario intenta ver un informe con la moneda predeterminada USD, el informe no se carga.
+
+#### Actualizaciones
+
+**El vínculo copiado no se pega correctamente**
+
+Si un usuario copia un vínculo de una actualización haciendo clic con el botón derecho y seleccionando &quot;[!UICONTROL Copiar dirección de vínculo]&quot;, y pega el vínculo en una actualización, el vínculo no se pega correctamente. Solo la primera parte del vínculo es un vínculo y el resto de la dirección URL se ignora.
+
+Copiar el vínculo mediante un método distinto de &quot;[!UICONTROL Copiar dirección de vínculo]&quot; permite que el vínculo se pegue según lo esperado.
+
++++
 
 +++**Actualización de mantenimiento el viernes, 20 de junio de 2024**
 
