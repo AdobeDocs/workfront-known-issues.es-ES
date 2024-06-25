@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
 workflow-type: tm+mt
-source-wordcount: '4072'
+source-wordcount: '4124'
 ht-degree: 97%
 
 ---
@@ -39,6 +39,14 @@ Cuando un usuario intenta ver un informe con la moneda predeterminada USD, el in
 Si un usuario copia un vínculo de una actualización haciendo clic con el botón derecho y seleccionando &quot;[!UICONTROL Copiar dirección de vínculo]&quot;, y pega el vínculo en una actualización, el vínculo no se pega correctamente. Solo la primera parte del vínculo es un vínculo y el resto de la dirección URL se ignora.
 
 Copiar el vínculo mediante un método distinto de &quot;[!UICONTROL Copiar dirección de vínculo]&quot; permite que el vínculo se pegue según lo esperado.
+
+#### Usuarios
+
+**Usuarios que faltan al realizar asignaciones masivas**
+
+Cuando un usuario intenta realizar asignaciones en bloque y se asigna una función a la tarea, los usuarios con esa función no aparecen en la lista y el usuario que realiza la asignación no puede seleccionarlos.
+
+Este comportamiento también se ha notificado en el Distribuidor de cargas de trabajo.
 
 +++
 
