@@ -1,17 +1,21 @@
 ---
 title: "Informes: El informe no se carga cuando la moneda predeterminada es USD"
-description: "Cuando un usuario intenta ver un informe que tiene la moneda predeterminada como USD, el informe no se carga."
+description: Cuando un usuario intenta ver un informe con la moneda predeterminada USD, el informe no se carga.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+exl-id: b312cc55-78c3-4cf4-bb0c-5d8ba4d0600d
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '79'
+ht-degree: 13%
 
 ---
 
-
 # Informes: El informe no se carga cuando la moneda predeterminada es USD
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 27 de junio de 2024.
 
 Cuando un usuario intenta ver un informe con la moneda predeterminada USD, el informe no se carga.
 

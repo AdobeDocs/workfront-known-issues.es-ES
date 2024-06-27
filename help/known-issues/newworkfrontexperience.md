@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '870'
-ht-degree: 89%
+source-wordcount: '851'
+ht-degree: 91%
 
 ---
 
@@ -44,8 +44,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Informes: El informe no se carga cuando la moneda predeterminada es USD](known-issues-workfront/wf-reports-default-currency-error.md) | sábado, 21 de junio de 2024 |
-| [Actualizaciones: el vínculo copiado no se pega correctamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | jueves, 19 de junio de 2024 |
 | [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 17 de junio de 2024 |
 | [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 de junio de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si lleva un documento adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 de mayo de 2024 |

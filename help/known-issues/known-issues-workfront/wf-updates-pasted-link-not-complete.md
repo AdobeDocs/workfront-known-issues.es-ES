@@ -4,14 +4,18 @@ description: Si un usuario copia un vínculo de una actualización haciendo clic
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 3%
+source-wordcount: '146'
+ht-degree: 7%
 
 ---
 
 # Actualizaciones: el vínculo copiado no se pega correctamente
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 27 de junio de 2024.
 
 Si un usuario copia un vínculo de una actualización haciendo clic con el botón derecho y seleccionando &quot;[!UICONTROL Copiar dirección de vínculo]&quot;, y pega el vínculo en una actualización, el vínculo no se pega correctamente. Solo la primera parte del vínculo es un vínculo y el resto de la dirección URL se ignora.
 
