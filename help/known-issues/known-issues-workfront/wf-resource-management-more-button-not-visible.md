@@ -4,14 +4,18 @@ description: Cuando un usuario está viendo el planificador de recursos e intent
 hidefromtoc: true
 feature: Resource Management
 exl-id: 7aa5a227-cdbe-4131-921a-78a87235879a
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 94%
 
 ---
 
 # Planificación de recursos: botón [!UICONTROL Más] no es visible
+
+>[!NOTE]
+>
+>Este problema se cerró el 27 de junio de 2024.
 
 Cuando un usuario está viendo el planificador de recursos e intenta hacer clic en el botón [!UICONTROL Más], el botón no es visible.
 

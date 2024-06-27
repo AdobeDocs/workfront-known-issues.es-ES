@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '834'
 ht-degree: 91%
 
 ---
@@ -33,7 +33,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Informes: &quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | miércoles, 18 de junio de 2024 |
 | [Integraciones: problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
 | [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junio de 2024 |
-| [Planificación de recursos: el botón [!UICONTROL Más] no es visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junio de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de mayo de 2024 |
 
 {style="table-layout:auto"}
@@ -44,7 +43,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Documentos: pantalla de error al descargar o previsualizar el recurso](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martes, 17 de junio de 2024 |
 | [Tareas: la función no desaparece de la lista cuando se asigna un usuario a una tarea](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 de junio de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si lleva un documento adjunto](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 de mayo de 2024 |
 | [Usuarios: faltan usuarios al realizar asignaciones en bloque](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 de mayo de 2024 |
