@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '1721'
-ht-degree: 94%
+source-wordcount: '1739'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Proyectos: Error al editar proyectos por lotes](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
+      + [Tareas: Al buscar el nombre en la asignación de tareas, no se muestran los usuarios](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [Integraciones: Vincular carpeta desde [!DNL Google Drive] no vincula recursos en la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Pruebas: al cerrar una prueba, se accede a la página Documentos del producto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integraciones: no se puede agregar una nueva versión de un documento desde [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
