@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
 source-wordcount: '4070'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Cuando un usuario intenta ver un informe con la moneda predeterminada USD, el in
 
 **El vínculo copiado no se pega correctamente**
 
-Si un usuario copia un vínculo de una actualización haciendo clic con el botón derecho y seleccionando &quot;[!UICONTROL Copiar dirección de vínculo]&quot;, y pega el vínculo en una actualización, el vínculo no se pega correctamente. Solo la primera parte del vínculo es un vínculo y el resto de la dirección URL se ignora.
+Si un usuario copia un vínculo de una actualización haciendo clic con el botón derecho y seleccionando &quot;[!UICONTROL Copiar dirección de vínculo]&quot; y luego pega el vínculo en una actualización, el vínculo no se pega correctamente. Solo la primera parte del vínculo es un vínculo y el resto de la dirección URL se ignora.
 
 Copiar el vínculo mediante un método distinto de &quot;[!UICONTROL Copiar dirección de vínculo]&quot; permite que el vínculo se pegue según lo esperado.
 
@@ -48,7 +48,7 @@ Copiar el vínculo mediante un método distinto de &quot;[!UICONTROL Copiar dire
 
 #### Exploración
 
-**El botón Atrás no vuelve a la página anterior**
+**Navegación: el botón Atrás no retrocede a la página anterior**
 
 Cuando un usuario de Workfront hace clic en el botón Atrás del explorador, puede producirse una de las siguientes situaciones.
 
@@ -57,7 +57,7 @@ Cuando un usuario de Workfront hace clic en el botón Atrás del explorador, pue
 
 #### Pruebas
 
-**No se puede cerrar el visor de pruebas**
+**No se puede cerrar el visualizador de pruebas**
 
 Cuando un usuario está viendo una prueba en el visualizador de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
 
