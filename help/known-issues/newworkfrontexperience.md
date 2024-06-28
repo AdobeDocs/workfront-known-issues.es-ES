@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '862'
-ht-degree: 95%
+source-wordcount: '872'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Registros de facturación: falta el botón Agregar más registros de facturación](known-issues-workfront/wf-billing-records-new-button-missing.md) | sábado, 28 de junio de 2024 |
 | [Documentos: El recuento de documentos es inexacto](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junio de 2024 |
 | [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junio de 2024 |
 | [Proyectos: Error al editar proyectos por lotes](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | viernes, 27 de junio de 2024 |
