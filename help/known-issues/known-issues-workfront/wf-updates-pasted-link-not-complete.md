@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 87%
 
 Si un usuario copia un vínculo de una actualización haciendo clic con el botón derecho y seleccionando &quot;[!UICONTROL Copiar dirección de vínculo]&quot; y luego pega el vínculo en una actualización, el vínculo no se pega correctamente. Solo la primera parte del vínculo es un vínculo y el resto de la dirección URL se ignora.
 
-Copiar el vínculo con un método distinto de[!UICONTROL Copiar dirección de vínculo]&quot; permite que el vínculo se pegue según lo esperado.
+Copiar el vínculo mediante un método distinto de “[!UICONTROL Copiar dirección de vínculo]” permite que el vínculo se pegue según lo esperado.
 
 **Solución alternativa**
 

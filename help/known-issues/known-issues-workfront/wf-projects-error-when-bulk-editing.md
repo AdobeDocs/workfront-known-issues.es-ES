@@ -1,25 +1,25 @@
 ---
-title: "Proyectos: Error al editar proyectos por lotes"
-description: "Cuando un usuario intenta editar proyectos por lotes, la ventana de edición está en blanco y el usuario ve un error."
+title: "Proyectos: error al editar proyectos en lotes"
+description: '"Cuando un usuario intenta editar proyectos en lotes, la ventana de edición aparece en blanco y el usuario ve un error".'
 hidefromtoc: true
 feature: Projects
 source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Proyectos: Error al editar proyectos por lotes
+# Proyectos: error al editar proyectos en lotes
 
-Cuando un usuario intenta editar proyectos por lotes, la ventana de edición está en blanco y aparece el siguiente error:
+Cuando un usuario intenta editar proyectos en lotes, la ventana de edición aparece en blanco y el usuario ve el siguiente error:
 
 &quot;Se ha producido un error inesperado&quot;
 
 El usuario debe actualizar la página para volver a la lista de proyectos o al informe.
 
-Se ha informado de este problema al editar por lotes desde una lista de proyectos o desde un informe de proyecto.
+Se ha informado de este problema al editar en lotes desde una lista de proyectos o desde un informe del proyecto.
 
 **Solución alternativa**
 
