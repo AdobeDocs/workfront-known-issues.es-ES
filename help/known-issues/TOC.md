@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '1753'
-ht-degree: 99%
+source-wordcount: '1811'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Inicio: no se pueden abrir elementos de [!UICONTROL Calendario principal] o [!UICONTROL Lista de trabajos]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [Formularios personalizados: el formulario personalizado no se elimina del documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [Problemas: Error al realizar una asignación avanzada a un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [Portfolio: el usuario no puede establecer el portafolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront: No se aplica la terminología personalizada](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [Hora: el tipo de hora filtrada no es el predeterminado al registrar la hora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Registros de facturación: falta el botón Agregar más registros de facturación](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Documentos: el recuento de documentos no es exacto](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Proyectos: error al editar proyectos en lotes](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
