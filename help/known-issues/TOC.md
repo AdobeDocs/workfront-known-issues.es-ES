@@ -24,7 +24,7 @@ ht-degree: 96%
       + [Portfolio: el usuario no puede establecer el portafolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: No se aplica la terminología personalizada](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
       + [Hora: el tipo de hora filtrada no es el predeterminado al registrar la hora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
-      + [Registros de facturación: falta el botón Agregar más registros de facturación](known-issues-workfront/wf-billing-records-new-button-missing.md)
+      + [Registros de facturación: falta el botón Añadir más registros de facturación](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Documentos: el recuento de documentos no es exacto](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Proyectos: error al editar proyectos en lotes](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [Tareas: al buscar el nombre en la asignación de tareas, no se muestran usuarios](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
