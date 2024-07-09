@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: ht
-source-wordcount: '4096'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '4346'
+ht-degree: 97%
 
 ---
 
@@ -19,6 +19,56 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 >Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado el problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+## Actualizaciones en julio de 2024
+
++++**(Planificado) Actualización de mantenimiento el viernes, 11 de julio de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 11 de julio de 2024
+
+#### Problemas
+
+**Error al realizar una asignación avanzada a un problema**
+
+Cuando un usuario intenta realizar una asignación avanzada a un problema en Workfront, el problema no se asigna y el usuario ve el siguiente mensaje de error:
+
+&quot;[!UICONTROL APIModel INTERNAL no admite la duración de los campos (OpTask)]&quot;
+
+#### Informes
+
+**Error &quot; Uy &quot; al establecer la configuración de la matriz en el informe de horas**
+
+Cuando un usuario intenta establecer la configuración de la matriz en un informe de hora, no puede establecerla y ve el siguiente error:
+
+* “[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
+
+
++++
+
++++**Actualización de mantenimiento del viernes, 04 de julio de 2024**
+
+### Actualización de mantenimiento el 4 de julio de 2024
+
+#### Inicio
+
+**El menú de tres puntos no es eficaz**
+
+Cuando un usuario hace clic en el menú de tres puntos Más en la Lista de trabajoss en Inicio heredada, no se activa ninguna acción.
+
+#### Informes
+
+**&quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa**
+
+Cuando un usuario está viendo un gráfico en un informe y hace clic en una agrupación del gráfico, y esa agrupación tiene / o \ en el nombre, los detalles que se abren no muestran los elementos de la agrupación y el usuario ve el mensaje &quot;No hay datos para mostrar&quot;.
+
+#### Tareas
+
+**La función de trabajo no desaparece de la lista cuando el usuario está asignado a una tarea**
+
+Cuando se asigna una función a una tarea y esa tarea se asigna a un usuario que tiene la función, la función no desaparece de la lista de asignaciones.
+
+
++++
 
 ## Actualizaciones en junio de 2024
 
