@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 93%
+source-wordcount: '923'
+ht-degree: 92%
 
 ---
 
@@ -25,13 +25,13 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: el guion gráfico queda en blanco al agregar una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | jueves, 10 de julio de 2024 |
 | [Inicio: no se pueden abrir elementos de [!UICONTROL Calendario principal] o [!UICONTROL Lista de trabajos]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | martes, 08 de julio de 2024 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martes, 08 de julio de 2024 |
 | [Formularios personalizados: el formulario personalizado no se elimina del documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | martes, 08 de julio de 2024 |
 | [Registros de facturación: falta el botón Añadir más registros de facturación](known-issues-workfront/wf-billing-records-new-button-missing.md) | sábado, 28 de junio de 2024 |
 | [Documentos: el recuento de documentos no es exacto](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junio de 2024 |
 | [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junio de 2024 |
-| [Proyectos: error al editar proyectos en lotes](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | viernes, 27 de junio de 2024 |
 | [Tareas: al buscar el nombre en la asignación de tareas, no se muestran usuarios](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | viernes, 27 de junio de 2024 |
 | [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | miércoles, 25 de junio de 2024 |
 | [Pruebas: al cerrar una prueba, se accede a la página Documentos del producto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | martes, 24 de junio de 2024 |
@@ -49,6 +49,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Usuarios: La página de perfil de usuario se carga continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md) | jueves, 10 de julio de 2024 |
 | [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | miércoles, 09 de julio de 2024 |
 | [Problemas: Error al realizar una asignación avanzada a un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md) | martes, 08 de julio de 2024 |
 | [Portfolio: el usuario no puede establecer el portafolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | martes, 08 de julio de 2024 |

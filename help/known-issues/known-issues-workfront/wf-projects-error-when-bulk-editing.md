@@ -3,15 +3,19 @@ title: "Proyectos: error al editar proyectos en lotes"
 description: '"Cuando un usuario intenta editar proyectos en lotes, la ventana de edición aparece en blanco y el usuario ve un error".'
 hidefromtoc: true
 feature: Projects
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: ht
-source-wordcount: '99'
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 
 # Proyectos: error al editar proyectos en lotes
+
+>[!NOTE]
+>
+>Este problema se corrigió el martes, 08 de julio de 2024.
 
 Cuando un usuario intenta editar proyectos en lotes, la ventana de edición aparece en blanco y el usuario ve el siguiente error:
 

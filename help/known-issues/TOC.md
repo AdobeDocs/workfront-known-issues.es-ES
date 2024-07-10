@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '1816'
-ht-degree: 96%
+source-wordcount: '1831'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: el guion gráfico queda en blanco al agregar una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [Usuarios: La página de perfil de usuario se carga continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: No se pueden abrir las pruebas](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Inicio: no se pueden abrir elementos de [!UICONTROL Calendario principal] o [!UICONTROL Lista de trabajos]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
