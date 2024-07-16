@@ -1,15 +1,15 @@
 ---
 title: "Actualizaciones: No se muestran los comentarios adjuntos a las actualizaciones del sistema"
-description: “Cuando un usuario realiza un comentario sobre una acción del sistema (como un cambio de estado), este no se muestra en el área de las actualizaciones. ”
+description: '"Cuando un usuario realiza un comentario sobre una acción del sistema (como un cambio de estado), ese comentario no se muestra en el área de Actualizaciones. '''
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: ht
+exl-id: 0c5381a9-7a1f-4a60-9793-2cc902e83d9b
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
-
 
 # Actualizaciones: no se muestran los comentarios adjuntos a las actualizaciones del sistema
 

@@ -15,6 +15,6 @@ ht-degree: 5%
 
 Cuando un usuario intenta ver una página de perfil de usuario, la página parece estar cargándose, pero no se carga completamente.
 
-Se ha informado de este problema al usar el [!UICONTROL Iniciar sesión como] función.
+Se ha informado de este problema al usar la característica [!UICONTROL Iniciar sesión como].
 
 _Notificado por primera vez el martes, 08 de julio de 2024._

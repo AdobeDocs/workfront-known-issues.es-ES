@@ -1,15 +1,15 @@
 ---
 title: "Actualizaciones: El etiquetado de un usuario no es eficaz"
-description: “Cuando se etiqueta a un usuario en un comentario, ese comentario no es visible para el usuario etiquetado. Además, el usuario etiquetado no recibe una notificación sobre el comentario, ni por correo electrónico ni a través de una notificación dentro de la aplicación”.
+description: Cuando se etiqueta a un usuario en un comentario, ese comentario no es visible para el usuario etiquetado. Además, el usuario etiquetado no recibe notificaciones sobre el comentario, ni por correo electrónico ni a través de una notificación en la aplicación.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: ht
+exl-id: e2d49337-3176-401e-ace8-c52abd6e64db
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
-
 
 # Actualizaciones: El etiquetado de un usuario no es eficaz
 

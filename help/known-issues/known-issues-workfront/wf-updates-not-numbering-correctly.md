@@ -1,15 +1,15 @@
 ---
 title: "Actualizaciones: las listas numeradas no se numeran correctamente"
-description: “Cuando un usuario envía un comentario que incluye una lista numerada, esa lista muestra una numeración incorrecta en la actualización”.
+description: Cuando un usuario envía un comentario que incluye una lista numerada, esa lista muestra una numeración incorrecta en la actualización.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
-workflow-type: ht
+exl-id: e753c392-846a-40f3-a957-fc0890fbda4c
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # Actualizaciones: las listas numeradas no se numeran correctamente
 

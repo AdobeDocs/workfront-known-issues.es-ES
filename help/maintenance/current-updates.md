@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
+source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
 workflow-type: tm+mt
-source-wordcount: '4344'
+source-wordcount: '4508'
 ht-degree: 96%
 
 ---
@@ -22,6 +22,45 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 ## Actualizaciones en julio de 2024
 
+
+
++++**(Planificado) Actualización de mantenimiento el viernes, 18 de julio de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 18 de julio de 2024
+
+#### Agile
+
+**El guion gráfico queda en blanco al agregar una subtarea**
+
+Cuando un usuario intenta agregar una subtarea a un guion gráfico mientras hay un filtro seleccionado, la pantalla se queda en blanco y el usuario no puede agregar la subtarea.
+
+#### Inicio
+
+**No se pueden abrir elementos de [!UICONTROL Calendario principal] o de [!UICONTROL Lista de trabajos]**
+
+Cuando se intenta abrir un elemento de trabajo o una prueba desde [!UICONTROL Calendario de inicio] o [!UICONTROL Lista de trabajos de inicio], el elemento no se abre.
+
+#### Pruebas
+
+**Al cerrar una prueba, se abre la página Documentos del producto**
+
+Cuando un usuario está viendo una prueba y la cierra, se le dirige a la página Documentos del proyecto en lugar de a la página desde la que se abrió la prueba.
+
+#### Workfront
+
+**No se ha aplicado la terminología personalizada**
+
+La terminología personalizada establecida en la plantilla de diseño no aparece en algunas áreas de Workfront. En su lugar, aparece la terminología predeterminada no personalizada.
+
+Se ha informado de este problema en las siguientes áreas:
+
+* Pestañas de menú
+* Encabezados de página
+* Descripciones en las que se enumeran los proyectos
+
+
++++
+
 +++**Actualización de mantenimiento del viernes, 11 de julio de 2024**
 
 ### Actualización de mantenimiento el 11 de julio de 2024
@@ -30,13 +69,13 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 **Error al realizar una asignación avanzada a un problema**
 
-Cuando un usuario intenta realizar una asignación avanzada a un problema en Workfront, el problema no se asigna y el usuario ve el siguiente mensaje de error:
+Cuando se intenta realizar una asignación avanzada a un problema en Workfront, el problema no se asigna y se visualiza el siguiente mensaje de error:
 
-&quot;[!UICONTROL APIModel INTERNAL no admite la duración de los campos (OpTask)]&quot;
+&quot;[!UICONTROL APIModel INTERNAL no admite la duración del campo (OpTask)]&quot;
 
 #### Informes
 
-**Error &quot; Uy &quot; al establecer la configuración de la matriz en el informe de horas**
+**Error al establecer la configuración de la matriz en el informe de horas**
 
 Cuando un usuario intenta establecer la configuración de la matriz en un informe de hora, no puede establecerla y ve el siguiente error:
 
@@ -51,7 +90,7 @@ Cuando un usuario intenta establecer la configuración de la matriz en un inform
 
 #### Inicio
 
-**El menú de tres puntos no es eficaz**
+**El menú de tres puntos no funciona**
 
 Cuando un usuario hace clic en el menú de tres puntos Más en la Lista de trabajoss en Inicio heredada, no se activa ninguna acción.
 
@@ -63,7 +102,7 @@ Cuando un usuario está viendo un gráfico en un informe y hace clic en una agru
 
 #### Tareas
 
-**La función de trabajo no desaparece de la lista cuando el usuario está asignado a una tarea**
+**El rol no desaparece de la lista cuando se asigna al usuario a la tarea**
 
 Cuando se asigna una función a una tarea y esa tarea se asigna a un usuario que tiene la función, la función no desaparece de la lista de asignaciones.
 

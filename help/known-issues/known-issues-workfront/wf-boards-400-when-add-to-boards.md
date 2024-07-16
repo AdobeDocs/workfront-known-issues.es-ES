@@ -1,15 +1,15 @@
 ---
 title: "Tableros: Error 400 al añadir una tarea a un tablero"
-description: “Cuando se está visualizando un proyecto y se intenta añadir una tarea a un tablero, la tarea no se añade y aparece un error. Hay una solución disponible”.
+description: Cuando un usuario está viendo un proyecto e intenta añadir una tarea a un tablero, la tarea no se añade y el usuario ve un error. Hay una solución disponible.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
+exl-id: 8bd8815c-d9e0-4258-8093-afb5283951e4
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # Tableros: Error 400 al añadir una tarea a un tablero
 

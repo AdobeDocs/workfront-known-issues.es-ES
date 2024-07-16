@@ -4,7 +4,7 @@ description: Historial de actualizaciones de mantenimiento de 2021 para [!DNL Ad
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '10060'
 ht-degree: 100%
 
@@ -214,7 +214,7 @@ _[!DNL Workfront]_
 
 Cuando un usuario está trabajando en [!DNL Workfront], las páginas no se cargan y el usuario ve el siguiente mensaje de error:
 
-“[!UICONTROL Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
+“[!UICONTROL Se ha producido un error y se está tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador]”.
 
 Se ha informado de ello en
 

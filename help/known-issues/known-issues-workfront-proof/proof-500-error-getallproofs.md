@@ -1,15 +1,15 @@
 ---
 title: "Workfront Proof: Error 500 al acceder a Workfront Proof a través de API o Workfront Fusion"
-description: "Cuando un usuario accede a la acción getAllProofs de la API Proof, el servidor Workfront Proof devuelve el mensaje: 500 Internal Server Error"
+description: "Cuando un usuario accede a la acción getAllProofs de la API de prueba, el servidor de Workfront Proof devuelve el mensaje: 500 Internal Server Error"
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+exl-id: 3c968354-58e2-43fc-8c27-2670683ac862
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
-
 
 # [!DNL Workfront Proof]: Error 500 al acceder a [!DNL Workfront Proof] mediante API o [!DNL Workfront Fusion]
 
@@ -26,4 +26,3 @@ Cuando un usuario accede a la acción [!UICONTROL `getAllProofs`] de la API [!DN
 Porque [!DNL Workfront Fusion] utiliza la API [!DNL Workfront Proof] para los módulos [!DNL Workfront Proof], este error puede devolverse a un módulo, deteniendo un escenario.
 
 _Notificado por primera vez el 28 de abril de 2023._
-

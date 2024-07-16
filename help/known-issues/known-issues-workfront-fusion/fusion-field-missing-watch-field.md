@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: falta el campo en el módulo"
-description: “Cuando un usuario está configurando un módulo en Workfront Fusion, puede que observe que falta un campo en las opciones disponibles. Esto puede ocurrir cuando un usuario actualiza sus campos personalizados y ha utilizado el diseñador de escenarios en la última hora”.
+title: "Workfront Fusion: Falta el campo en el módulo"
+description: Cuando un usuario está configurando un módulo en Workfront Fusion, puede que observe que falta un campo en las opciones disponibles. Esto puede ocurrir cuando un usuario actualiza sus campos personalizados y ha utilizado el diseñador de escenarios en la última hora.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
-workflow-type: ht
+exl-id: c5d2d11c-ff31-4189-a630-b0248c02134e
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
-
 
 # Workfront Fusion: falta el campo en el módulo
 

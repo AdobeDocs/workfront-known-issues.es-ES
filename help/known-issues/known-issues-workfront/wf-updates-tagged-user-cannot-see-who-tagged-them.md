@@ -1,15 +1,15 @@
 ---
 title: "Actualizaciones: el usuario etiquetado no puede ver quién lo ha etiquetado"
-description: '"Cuando se etiqueta a un usuario en una actualización, no puede ver quién lo ha etiquetado. Esto ocurre cuando la opción Las personas de otras compañías deberán ver solamente a los usuarios de... está establecida en Su compañía".'
+description: Cuando se etiqueta a un usuario en una actualización, no puede ver quién lo ha etiquetado. Esto ocurre cuando la configuración Personas de otras empresas solo deben ver usuarios de... está establecida en Su empresa.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: ht
+exl-id: 35d19e35-97ef-4cd5-a792-8ec451369e7c
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
-
 
 # Actualizaciones: el usuario etiquetado no puede ver quién lo ha etiquetado
 
@@ -24,4 +24,3 @@ Cuando se etiqueta a un usuario en una actualización, no puede ver quién lo ha
 Los usuarios utilizan la notificación en la aplicación del comentario a fin de ver quién los ha etiquetado.
 
 _Notificado por primera vez el miércoles, 23 de abril de 2024._
-

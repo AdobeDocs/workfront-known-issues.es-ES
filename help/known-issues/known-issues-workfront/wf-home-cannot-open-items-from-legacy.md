@@ -4,7 +4,7 @@ description: “Cuando se intenta abrir un elemento de trabajo o una prueba desd
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 
