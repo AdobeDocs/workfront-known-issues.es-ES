@@ -5,7 +5,7 @@ role: User
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '1837'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 95%
       + [Agile: el guion gráfico queda en blanco al agregar una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Usuarios: La página de perfil de usuario se carga continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: No se pueden abrir las pruebas](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [Inicio: no se pueden abrir elementos de [!UICONTROL Calendario principal] o [!UICONTROL Lista de trabajos]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Inicio: no se pueden abrir elementos desde [!UICONTROL Calendario de inicio] o [!UICONTROL Lista de trabajos]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Formularios personalizados: el formulario personalizado no se elimina del documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
-      + [Problemas: Error al realizar una asignación avanzada a un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfolio: el usuario no puede establecer el portafolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
-      + [Workfront: No se aplica la terminología personalizada](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
-      + [Hora: el tipo de hora filtrada no es el predeterminado al registrar la hora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
+      + [Problemas: error al realizar una asignación avanzada a un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [Portafolio: no se puede establecer el portafolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront: no se aplica la terminología personalizada](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [Hora: el tipo de hora filtrado no es el predeterminado al registrar la hora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Registros de facturación: falta el botón Añadir más registros de facturación](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Documentos: el recuento de documentos no es exacto](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Proyectos: error al editar proyectos en lotes](known-issues-workfront/wf-projects-error-when-bulk-editing.md)

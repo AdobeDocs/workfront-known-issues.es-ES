@@ -1,19 +1,19 @@
 ---
-title: "Problemas: Error al realizar una asignación avanzada a un problema"
-description: "Cuando un usuario intenta realizar una asignación avanzada a un problema en Workfront, el problema no se asigna y el usuario ve un mensaje de error."
+title: "Problemas: error al realizar una asignación avanzada a un problema"
+description: “Cuando se intenta realizar una asignación avanzada a un problema en Workfront, el problema no se asigna y se ve un mensaje de error”.
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 512b2712607fb73c25cb599c2ad38fa5179f6ecb
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Problemas: Error al realizar una asignación avanzada a un problema
+# Problemas: error al realizar una asignación avanzada a un problema
 
-Cuando un usuario intenta realizar una asignación avanzada a un problema en Workfront, el problema no se asigna y el usuario ve el siguiente mensaje de error:
+Cuando se intenta realizar una asignación avanzada a un problema en Workfront, el problema no se asigna y se visualiza el siguiente mensaje de error:
 
 &quot;[!UICONTROL APIModel INTERNAL no admite la duración del campo (OpTask)]&quot;
 
