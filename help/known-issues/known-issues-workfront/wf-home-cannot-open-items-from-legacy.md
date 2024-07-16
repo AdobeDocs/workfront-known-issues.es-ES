@@ -1,19 +1,19 @@
 ---
-title: "Inicio: No se pueden abrir elementos del Calendario principal o de la Lista de trabajos"
-description: "Cuando un usuario intenta abrir un elemento de trabajo o una prueba desde su Calendario de inicio o Lista de trabajos en Inicio, el elemento no se abre."
+title: "Inicio: no se pueden abrir elementos desde el Calendario o la Lista de trabajos de inicio"
+description: “Cuando se intenta abrir un elemento de trabajo o una prueba desde el Calendario de inicio o la Lista de trabajos de inicio, el elemento no se abre”.
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Inicio: no se pueden abrir elementos de [!UICONTROL Calendario principal] o [!UICONTROL Lista de trabajos]
+# Inicio: no se pueden abrir elementos desde [!UICONTROL Calendario de inicio] o [!UICONTROL Lista de trabajos]
 
-Cuando un usuario intenta abrir un elemento de trabajo o una prueba desde su [!UICONTROL Calendario principal] o [!UICONTROL Lista de trabajoss en Inicio], el elemento no se abre.
+Cuando se intenta abrir un elemento de trabajo o una prueba desde [!UICONTROL Calendario de inicio] o [!UICONTROL Lista de trabajos de inicio], el elemento no se abre.
 
 **Solución alternativa**
 

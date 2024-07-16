@@ -1,19 +1,19 @@
 ---
-title: "Workfront: No se aplica la terminología personalizada"
-description: '"La terminología personalizada establecida en la plantilla de diseño no aparece en algunas áreas de Workfront. En su lugar, aparecerá la terminología predeterminada no personalizada. ”'
+title: "Workfront: no se aplica la terminología personalizada"
+description: “La terminología personalizada establecida en la plantilla de diseño no aparece en algunas áreas de Workfront. En su lugar, aparece la terminología predeterminada no personalizada. ”
 hidefromtoc: true
 feature: Work Management
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 
-# Workfront: No se aplica la terminología personalizada
+# Workfront: no se aplica la terminología personalizada
 
-La terminología personalizada establecida en la plantilla de diseño no aparece en algunas áreas de Workfront. En su lugar, aparecerá la terminología predeterminada no personalizada.
+La terminología personalizada establecida en la plantilla de diseño no aparece en algunas áreas de Workfront. En su lugar, aparece la terminología predeterminada no personalizada.
 
 Se ha informado de este problema en las siguientes áreas:
 

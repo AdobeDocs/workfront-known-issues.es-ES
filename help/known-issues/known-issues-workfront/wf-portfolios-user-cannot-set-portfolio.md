@@ -1,27 +1,27 @@
 ---
-title: "Portfolio: el usuario no puede establecer el portafolio"
-description: '"Los usuarios no pueden cambiar las carteras de un proyecto si no tienen acceso a ellas".'
+title: "Portafolio: no se puede establecer el portafolio"
+description: '"No se pueden cambiar los portafolios de un proyecto si no se tiene acceso a ellos".'
 hidefromtoc: true
 feature: Work Management
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Portfolio: el usuario no puede establecer el portafolio
+# Portafolio: no se puede establecer el portafolio
 
-Los usuarios no pueden cambiar las carteras de un proyecto si no tienen acceso a ellas.
+No se pueden cambiar los portafolios de un proyecto si no se tiene acceso a ellos.
 
-Se ha informado de este problema en los siguientes casos:
+Se ha informado de este problema en las situaciones siguientes:
 
-* Si un usuario no tiene acceso a un portafolio asignado en un proyecto, ese usuario no puede cambiar el portafolio según sea necesario aunque tenga acceso al portafolio al que esté intentando mover el proyecto.
-* Al intentar crear un proyecto utilizando una plantilla de proyecto, si el usuario que está creando el proyecto no tiene acceso al portafolio o programa en la plantilla, el proyecto no se creará con esos objetos asignados y el proyecto se mostrará como independiente (sin asignación de portafolio o proyecto).
+* Si no se tiene acceso a un portafolio asignado en un proyecto, esa persona no puede cambiar el portafolio según considere necesario aunque tenga acceso al portafolio al que está intentando mover el proyecto.
+* Al intentar crear un proyecto utilizando una plantilla de proyectos, si quien está creando el proyecto no tiene acceso al portafolio o programa en la plantilla, el proyecto no se creará con esos objetos asignados y el proyecto se mostrará como independiente (sin asignación de portafolio o proyecto).
 
 **Solución alternativa**
 
-Los administradores pueden proporcionar acceso o realizar los ajustes necesarios.
+Los administradores pueden facilitar el acceso o realizar los ajustes necesarios.
 
 _Notificado por primera vez el jueves, 26 de junio de 2024._
