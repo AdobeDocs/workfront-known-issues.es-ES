@@ -3,15 +3,19 @@ title: "Usuarios: La página de perfil de usuario se carga continuamente"
 description: "Cuando un usuario intenta ver una página de perfil de usuario, la página parece estar cargándose, pero no se carga completamente."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '75'
+ht-degree: 13%
 
 ---
 
 
 # Usuarios: La página de perfil de usuario se carga continuamente
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 18 de julio de 2024.
 
 Cuando un usuario intenta ver una página de perfil de usuario, la página parece estar cargándose, pero no se carga completamente.
 
