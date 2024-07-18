@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4535'
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 
 
-+++**(Planificado) Actualización de mantenimiento el viernes, 18 de julio de 2024**
++++**Actualización de mantenimiento del viernes, 18 de julio de 2024**
 
-### (Planificado) Actualización de mantenimiento del viernes, 18 de julio de 2024
+### Actualización de mantenimiento el 18 de julio de 2024
 
 #### Agile
 
@@ -39,6 +39,10 @@ Cuando un usuario intenta agregar una subtarea a un guion gráfico mientras hay 
 **No se pueden abrir elementos de [!UICONTROL Calendario principal] o de [!UICONTROL Lista de trabajos]**
 
 Cuando se intenta abrir un elemento de trabajo o una prueba desde [!UICONTROL Calendario de inicio] o [!UICONTROL Lista de trabajos de inicio], el elemento no se abre.
+
+Se muestra la página de inicio del propio administrador **cuando se inicia sesión como otro usuario**
+
+Cuando un administrador inicia sesión como otro usuario y visualiza su página de inicio, se muestra la página de inicio del administrador.
 
 #### Pruebas
 
