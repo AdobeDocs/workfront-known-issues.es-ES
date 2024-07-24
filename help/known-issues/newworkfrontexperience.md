@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
+source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
 workflow-type: tm+mt
-source-wordcount: '861'
-ht-degree: 95%
+source-wordcount: '854'
+ht-degree: 96%
 
 ---
 
@@ -28,7 +28,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 de julio de 2024 |
 | [Usuarios: no se puede modificar el nivel de acceso del usuario](known-issues-workfront/wf-users-cannot-modify-access-level.md) | viernes, 18 de julio de 2024 |
 | [Tableros: error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md) | viernes, 18 de julio de 2024 |
-| [Pruebas: las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | viernes, 18 de julio de 2024 |
 | [Documentos: el recuento de documentos no es exacto](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junio de 2024 |
 | [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junio de 2024 |
 | [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | miércoles, 25 de junio de 2024 |
