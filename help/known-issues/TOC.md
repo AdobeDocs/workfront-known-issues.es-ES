@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '1864'
-ht-degree: 97%
+source-wordcount: '1908'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Actualizaciones: no se notifican a los usuarios las actualizaciones dirigidas](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [Iniciar sesión como: Inicio y los anclajes se muestran de forma inexacta al cerrar la sesión de &quot;Iniciar sesión como&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [Tareas: Faltan permisos heredados en las tareas](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [Niveles de acceso: duplicar niveles de acceso en el área de configuración](known-issues-workfront/wf-access-duplicate-level.md)
       + [Proyectos: El símbolo de moneda es incorrecto al exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [Formularios personalizados: La lista desplegable se cierra al seleccionar varios valores](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [Tableros: Error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md)

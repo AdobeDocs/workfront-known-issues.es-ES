@@ -1,17 +1,21 @@
 ---
-title: "Portafolio: no se puede establecer el portafolio"
-description: '"No se pueden cambiar los portafolios de un proyecto si no se tiene acceso a ellos".'
+title: "Portfolio: el usuario no puede establecer el portafolio"
+description: No se pueden cambiar los portafolios de un proyecto si no se tiene acceso a ellos.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
-
 # Portafolio: no se puede establecer el portafolio
+
+>[!NOTE]
+>
+>Este problema se ha cerrado porque funciona como se diseñó.
 
 No se pueden cambiar los portafolios de un proyecto si no se tiene acceso a ellos.
 
