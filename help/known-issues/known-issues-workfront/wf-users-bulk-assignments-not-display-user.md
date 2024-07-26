@@ -1,13 +1,13 @@
 ---
-title: "Usuarios: Usuarios que faltan al realizar asignaciones masivas"
-description: '"Cuando un usuario intenta realizar asignaciones masivas y se asigna una función de trabajo a la tarea, los usuarios con esa función de trabajo no aparecen en la lista y el usuario que realiza la asignación no puede seleccionarlos. '''
+title: 'Usuarios: faltan usuarios al realizar asignaciones en bloque'
+description: “Cuando un usuario intenta realizar asignaciones en bloque y se asigna una función a la tarea, los usuarios con esa función no aparecen en la lista y el usuario que realiza la asignación no puede seleccionarlas. '
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: a2331209-b8b4-402a-8478-7eb220c579bb
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
