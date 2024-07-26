@@ -5,7 +5,7 @@ role: User
 source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
 source-wordcount: '1908'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 94%
       + [Tableros: Error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md)
       + [Pruebas: Las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [No se puede crear la vista para la lista de documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md)
-      + [Agile: el guion gráfico queda en blanco al agregar una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
-      + [Usuarios: La página de perfil de usuario se carga continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
-      + [Workfront Mobile: No se pueden abrir las pruebas](known-issues-workfront/wf-mobile-proofs-not-open.md)
+      + [Agile: el panel de historias se queda en blanco al añadir una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [Usuarios: la página de perfil de usuario se carga continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
+      + [Workfront Mobile: no se pueden abrir las pruebas](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Inicio: no se pueden abrir elementos desde [!UICONTROL Calendario de inicio] o [!UICONTROL Lista de trabajos]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Formularios personalizados: el formulario personalizado no se elimina del documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
 source-wordcount: '4620'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 +++**Actualización de mantenimiento del viernes, 25 de julio de 2024**
 
-### Actualización de mantenimiento el 25 de julio de 2024
+### Actualización de mantenimiento el viernes, 25 de julio de 2024
 
 #### Formularios personalizados
 
@@ -48,13 +48,13 @@ Se ha informado de este problema en Gmail.
 
 +++**Actualización de mantenimiento del viernes, 18 de julio de 2024**
 
-### Actualización de mantenimiento el 18 de julio de 2024
+### Actualización de mantenimiento el viernes, 18 de julio de 2024
 
 #### Agile
 
 **El guion gráfico queda en blanco al agregar una subtarea**
 
-Cuando un usuario intenta agregar una subtarea a un guion gráfico mientras hay un filtro seleccionado, la pantalla se queda en blanco y el usuario no puede agregar la subtarea.
+Cuando se intenta añadir una subtarea a un panel de historias mientras hay un filtro seleccionado, la pantalla se queda en blanco y no se puede añadir la subtarea.
 
 #### Inicio
 
@@ -101,9 +101,9 @@ Cuando se intenta realizar una asignación avanzada a un problema en Workfront, 
 
 #### Informes
 
-**Error al establecer la configuración de la matriz en el informe de horas**
+**Error al establecer la configuración de la matriz en el informe de hora**
 
-Cuando un usuario intenta establecer la configuración de la matriz en un informe de hora, no puede establecerla y ve el siguiente error:
+Cuando se intenta establecer la configuración de la matriz en un informe de hora, no se puede establecer la configuración y se ve el siguiente error:
 
 * “[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
 
@@ -118,17 +118,17 @@ Cuando un usuario intenta establecer la configuración de la matriz en un inform
 
 **El menú de tres puntos no funciona**
 
-Cuando un usuario hace clic en el menú de tres puntos Más en la Lista de trabajoss en Inicio heredada, no se activa ninguna acción.
+Cuando se hace clic en el menú de tres puntos Más en la lista de trabajos de Inicio heredada, no se activa ninguna acción.
 
 #### Informes
 
-**&quot;No hay datos para mostrar&quot; cuando el nombre de la agrupación tiene una barra diagonal o inversa**
+**“No hay datos para mostrar” cuando el nombre de la agrupación tiene una barra diagonal o inversa**
 
 Cuando un usuario está viendo un gráfico en un informe y hace clic en una agrupación del gráfico, y esa agrupación tiene / o \ en el nombre, los detalles que se abren no muestran los elementos de la agrupación y el usuario ve el mensaje &quot;No hay datos para mostrar&quot;.
 
 #### Tareas
 
-**El rol no desaparece de la lista cuando se asigna al usuario a la tarea**
+**La función no desaparece de la lista cuando se asigna un usuario a una tarea**
 
 Cuando se asigna una función a una tarea y esa tarea se asigna a un usuario que tiene la función, la función no desaparece de la lista de asignaciones.
 
