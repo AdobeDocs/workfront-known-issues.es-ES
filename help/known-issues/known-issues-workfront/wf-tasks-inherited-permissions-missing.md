@@ -1,17 +1,21 @@
 ---
 title: "Tareas: A las tareas les faltan permisos heredados"
-description: ""
+description: ''
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 2e9bd702d9d8b20fca6b9304661eea10360c353b
+exl-id: 0c70cb20-863f-4953-b72a-19a27713a81c
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 13%
+source-wordcount: '36'
+ht-degree: 27%
 
 ---
 
-
 # Tareas: Faltan permisos heredados en las tareas
+
+>[!NOTE]
+>
+>Este problema se corrigió el sábado, 26 de julio de 2024.
 
 Los usuarios que deberían tener permisos heredados en una tarea no tienen esos permisos.
 

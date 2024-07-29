@@ -1,17 +1,21 @@
 ---
 title: "Iniciar sesión como: Inicio y los anclajes se muestran de forma inexacta al cerrar la sesión de Iniciar sesión como"
-description: '"Cuando un usuario que ha iniciado sesión como otro usuario cierra la sesión de ese usuario, ve los siguientes problemas en su pantalla de inicio".'
+description: Cuando un usuario que ha iniciado sesión como otro usuario cierra la sesión de ese usuario, ve los siguientes problemas en su pantalla de inicio.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+exl-id: 3614563d-7f53-4632-b09f-2874133aa217
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '122'
+ht-degree: 11%
 
 ---
 
-
 # Iniciar sesión como: Inicio y los anclajes se muestran de forma inexacta al cerrar la sesión de &quot;Iniciar sesión como&quot;
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 25 de julio de 2024.
 
 Cuando un usuario que ha iniciado sesión como otro usuario cierra la sesión como ese usuario, ve lo siguiente:
 
