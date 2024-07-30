@@ -1,17 +1,17 @@
 ---
-title: "No se puede crear la vista para la lista de documentos"
-description: “Cuando se intenta crear una nueva vista en una lista de documentos, la pantalla se queda en blanco y no se puede crear la vista. ”
+title: No se puede crear la vista para la lista de documentos
+description: '"Cuando un usuario intenta crear una nueva vista en una lista de documentos, la pantalla se queda en blanco y el usuario no puede crear la vista. '''
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
+source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 63%
 
 ---
 
-
-# No se puede crear la vista para la lista de documentos
+# Documentos: No se puede crear la vista para la lista Documentos
 
 Cuando se intenta crear una nueva vista en una Lista de documentos, la pantalla se queda en blanco y no se puede crear la vista.
 
