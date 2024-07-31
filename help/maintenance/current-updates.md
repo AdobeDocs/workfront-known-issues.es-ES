@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
 source-wordcount: '4751'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -63,7 +63,7 @@ Esto ocurre cuando el campo está asociado a la lógica de visualización en el 
 
 #### Notificaciones
 
-**Las miniaturas no están visibles en las notificaciones por correo electrónico**
+**Las miniaturas no son visibles en las notificaciones por correo electrónico**
 
 Cuando se ve una notificación por correo electrónico con respecto a la aprobación de un documento, la miniatura del documento no está visible en el correo electrónico.
 
@@ -77,29 +77,29 @@ Se ha informado de este problema en Gmail.
 
 #### Agile
 
-**El guion gráfico queda en blanco al agregar una subtarea**
+**El panel de historias se queda en blanco al añadir una subtarea**
 
 Cuando se intenta añadir una subtarea a un panel de historias mientras hay un filtro seleccionado, la pantalla se queda en blanco y no se puede añadir la subtarea.
 
 #### Inicio
 
-**No se pueden abrir elementos de [!UICONTROL Calendario principal] o de [!UICONTROL Lista de trabajos]**
+**No se pueden abrir elementos desde [!UICONTROL  Calendario de inicio] o [!UICONTROL Lista de trabajos]**
 
 Cuando se intenta abrir un elemento de trabajo o una prueba desde [!UICONTROL Calendario de inicio] o [!UICONTROL Lista de trabajos de inicio], el elemento no se abre.
 
-Se muestra la página de inicio del propio administrador **cuando se inicia sesión como otro usuario**
+**Se muestra la página de inicio del propio administrador cuando se inicia sesión como otro usuario**
 
-Cuando un administrador inicia sesión como otro usuario y visualiza su página de inicio, se muestra la página de inicio del administrador.
+Cuando un administrador inicia sesión como otro usuario y visualiza su página de inicio, se muestra la página de inicio del propio administrador.
 
 #### Pruebas
 
-**Al cerrar una prueba, se abre la página Documentos del producto**
+**Al cerrar una prueba, se accede a la página Documentos del producto**
 
 Cuando un usuario está viendo una prueba y la cierra, se le dirige a la página Documentos del proyecto en lugar de a la página desde la que se abrió la prueba.
 
 #### Workfront
 
-**No se ha aplicado la terminología personalizada**
+**No se aplica la terminología personalizada**
 
 La terminología personalizada establecida en la plantilla de diseño no aparece en algunas áreas de Workfront. En su lugar, aparece la terminología predeterminada no personalizada.
 

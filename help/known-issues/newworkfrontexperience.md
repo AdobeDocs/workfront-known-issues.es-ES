@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 476d10ffa4de9094a76a011b69b9a7acd11b0339
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -45,7 +45,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 |----------------------------------| ----------------- |
 | [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 de julio de 2024 |
 | [Actualizaciones: los usuarios no reciben notificaciones de actualizaciones dirigidas](known-issues-workfront/wf-updates-users-not-getting-email.md) | viernes, 25 de julio de 2024 |
-| [Niveles de acceso: niveles de acceso duplicados en el área de instalación](known-issues-workfront/wf-access-duplicate-level.md) | viernes, 25 de julio de 2024 |
+| [Niveles de acceso: niveles de acceso duplicados en el área de configuración](known-issues-workfront/wf-access-duplicate-level.md) | viernes, 25 de julio de 2024 |
 | [Proyectos: el símbolo de moneda es incorrecto al exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | viernes, 18 de julio de 2024 |
 | [Formularios personalizados: el formulario personalizado no se elimina del documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | viernes, 18 de julio de 2024 |
 | [No se puede crear la vista para la lista de documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martes, 15 de julio de 2024 |
