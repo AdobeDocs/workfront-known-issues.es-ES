@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 476d10ffa4de9094a76a011b69b9a7acd11b0339
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '821'
 ht-degree: 99%
 
 ---
@@ -31,7 +31,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junio de 2024 |
 | [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | miércoles, 25 de junio de 2024 |
 | [Tableros: el tablero no se muestra como tablero del usuario al utilizar [!UICONTROL Iniciar sesión como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junio de 2024 |
-| [Integraciones: problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
 | [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junio de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de mayo de 2024 |
 
@@ -44,11 +43,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
 | [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 de julio de 2024 |
-| [Actualizaciones: los usuarios no reciben notificaciones de actualizaciones dirigidas](known-issues-workfront/wf-updates-users-not-getting-email.md) | viernes, 25 de julio de 2024 |
 | [Niveles de acceso: niveles de acceso duplicados en el área de configuración](known-issues-workfront/wf-access-duplicate-level.md) | viernes, 25 de julio de 2024 |
 | [Proyectos: el símbolo de moneda es incorrecto al exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | viernes, 18 de julio de 2024 |
 | [Formularios personalizados: el formulario personalizado no se elimina del documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | viernes, 18 de julio de 2024 |
-| [No se puede crear la vista para la lista de documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martes, 15 de julio de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 de abril de 2024 |
 | [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 de abril de 2024 |
 | [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
