@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '1908'
-ht-degree: 96%
+source-wordcount: '1991'
+ht-degree: 95%
 
 ---
 
@@ -17,15 +17,26 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Notificaciones: Error ¡Uy! al establecer las preferencias de notificación](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Formularios personalizados: El explorador se bloquea al crear formularios grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Informes: Informes en los que faltan o se retrasan las entregas](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Tareas: Problemas con el recálculo de la escala de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Formularios personalizados: El creador de formularios se bloquea al introducir la lógica de visualización](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Documentos: Al hacer clic en el nombre de un documento, se abre una página en blanco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Formularios personalizados: no se puede desplazar el campo de búsqueda externo](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [Formularios personalizados: el campo calculado muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: No se puede autenticar una conexión utilizando la funcionalidad de inicio de sesión de Workfront](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Configuración: &quot;Iniciar sesión como&quot; abre una pantalla en blanco](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API: tiempo de espera de las solicitudes](known-issues-workfront/wf-api-request-timing-out.md)
       + [Actualizaciones: no se notifican a los usuarios las actualizaciones dirigidas](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md)
-      + [Iniciar sesión como: Inicio y los anclajes se muestran de forma inexacta al cerrar la sesión de &quot;Iniciar sesión como&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
-      + [Tareas: Faltan permisos heredados en las tareas](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [Iniciar sesión como: Inicio y los anclajes se muestran de forma errónea al cerrar la sesión de &quot;Iniciar sesión como&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [Tareas: faltan permisos heredados en las tareas](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
       + [Niveles de acceso: duplicar niveles de acceso en el área de configuración](known-issues-workfront/wf-access-duplicate-level.md)
-      + [Proyectos: El símbolo de moneda es incorrecto al exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
-      + [Formularios personalizados: La lista desplegable se cierra al seleccionar varios valores](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
-      + [Tableros: Error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md)
-      + [Pruebas: Las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
+      + [Proyectos: el símbolo de moneda es incorrecto al exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [Formularios personalizados: la lista desplegable se cierra al seleccionar varios valores](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [Tableros: error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [Pruebas: las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [No se puede crear la vista para la lista de documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile: el panel de historias se queda en blanco al añadir una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Usuarios: la página de perfil de usuario se carga continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
