@@ -36,7 +36,7 @@ Las vistas existentes funcionan según lo esperado.
 
 #### Integraciones
 
-**Problemas con la integración del Dropbox**
+**Problemas con la integración de Dropbox**
 
 Se han notificado los siguientes problemas con respecto a la integración de Dropbox:
 
