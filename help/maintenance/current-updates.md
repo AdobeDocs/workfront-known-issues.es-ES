@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4749'
-ht-degree: 99%
+source-wordcount: '4858'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,30 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones de agosto de 2024
+
++++**(Planificado) Actualización de mantenimiento el viernes, 08 de agosto de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 08 de agosto de 2024
+
+#### Tableros
+
+**La tarjeta no incluye subtareas**
+
+Cuando un usuario está viendo una tarjeta para una tarea que es una tarea principal, las subtareas de esa tarea principal no se muestran en la tarjeta. En su lugar, la tarjeta muestra que hay 0 subtareas.
+
+### Informes
+
+**Faltan o se retrasan los envíos del informe**
+
+Los informes con entregas programadas no se entregan según lo esperado. Es posible que lleguen tarde o que no se los entregue.
+
+#### Configurar
+
+**&quot;Iniciar sesión como&quot; lleva a una pantalla en blanco**
+
+Cuando un administrador de se conecta como otro usuario, en lugar de ver su cuenta de usuario, ve una pantalla en blanco.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 01 de agosto de 2024**
 
