@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
+source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 90%
+source-wordcount: '934'
+ht-degree: 89%
 
 ---
 
@@ -45,6 +45,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 de agosto de 2024 |
 | [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 25 de julio de 2024 |
 | [Formularios personalizados: el explorador se bloquea al crear formularios grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 de agosto de 2024 |
 | [Informes: los envíos de informes se han retrasado o faltan](known-issues-workfront/wf-reports-not-delivered.md) | 5 de agosto de 2024 |
