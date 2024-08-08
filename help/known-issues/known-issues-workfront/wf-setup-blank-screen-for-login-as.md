@@ -1,22 +1,26 @@
 ---
-title: "Configuración: Iniciar sesión como conduce a la pantalla en blanco"
-description: '"Cuando un administrador inicia sesión como otro usuario, en lugar de ver que usuario cuenta, ve una pantalla en blanco".'
+title: "Configuración: Iniciar sesión como conduce a una pantalla en blanco"
+description: "Cuando un administrador inicia sesión como otro usuario, en lugar de ver la cuenta de ese usuario, el administrador ve una pantalla en blanco."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 14%
 
 ---
 
 
-# Configuración: &quot;Iniciar sesión como&quot; conduce a una pantalla en blanco
+# Configuración: &quot;Iniciar sesión como&quot; abre una pantalla en blanco
 
-Cuando un administrador inicia sesión como otro usuario, en lugar de ver el cuenta de ese usuario, ve una pantalla en blanco.
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 08 de agosto de 2024.
+
+Cuando un administrador de se conecta como otro usuario, en lugar de ver su cuenta de usuario, ve una pantalla en blanco.
 
 **Solución alternativa**
 
-Actualizar la pantalla. Esto puede tomar varios intentos.
+Actualice la pantalla. Esto puede tardar varios intentos.
 
 _Notificado por primera vez el jueves, 17 de julio de 2024._
