@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 91%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Tareas: problemas con el cálculo de la escala de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | martes, 05 de agosto de 2024 |
+| [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | martes, 05 de agosto de 2024 |
 | [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | martes, 05 de agosto de 2024 |
 | [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md) | viernes, 25 de julio de 2024 |
 | [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 de julio de 2024 |
@@ -43,16 +43,16 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Notificaciones: error ¡Uy! al establecer las preferencias de notificación](known-issues-workfront/wf-notifications-whoops-error.md) | viernes, 08 de agosto de 2024 |
+| [Notificaciones: error al configurar las preferencias de las notificaciones](known-issues-workfront/wf-notifications-whoops-error.md) | viernes, 08 de agosto de 2024 |
 | [Tableros: error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md) | viernes, 08 de agosto de 2024 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | viernes, 08 de agosto de 2024 |
 | [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | martes, 05 de agosto de 2024 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 de agosto de 2024 |
 | [Formularios personalizados: el explorador se bloquea al crear formularios grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 de agosto de 2024 |
-| [Formularios personalizados: el generador de formularios se bloquea al entrar en la lógica de visualización](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 de agosto de 2024 |
-| [Documentos: al hacer clic en el nombre de un documento, se abre una página en blanco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 de agosto de 2024 |
+| [Formularios personalizados: el generador de formularios se bloquea al introducir la lógica de visualización](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 de agosto de 2024 |
+| [Documentos: al hacer clic en el nombre de un documento se abre una página en blanco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 de agosto de 2024 |
 | [Formularios personalizados: no se puede desplazar el campo de búsqueda externa](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 de agosto de 2024 |
-| [Formularios personalizados: el campo calculado muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 de agosto de 2024 |
+| [Formularios personalizados: campo calculado que muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 de agosto de 2024 |
 | [Niveles de acceso: niveles de acceso duplicados en el área de configuración](known-issues-workfront/wf-access-duplicate-level.md) | viernes, 25 de julio de 2024 |
 | [Proyectos: el símbolo de moneda es incorrecto al exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | viernes, 18 de julio de 2024 |
 | [Formularios personalizados: el formulario personalizado no se elimina del documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | viernes, 18 de julio de 2024 |
