@@ -3,9 +3,9 @@ user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1991'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Notificaciones: Error ¡Uy! al establecer las preferencias de notificación](known-issues-workfront/wf-notifications-whoops-error.md)
-      + [Formularios personalizados: El explorador se bloquea al crear formularios grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
-      + [Informes: Informes en los que faltan o se retrasan las entregas](known-issues-workfront/wf-reports-not-delivered.md)
-      + [Tareas: Problemas con el recálculo de la escala de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
-      + [Formularios personalizados: El creador de formularios se bloquea al introducir la lógica de visualización](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
-      + [Documentos: Al hacer clic en el nombre de un documento, se abre una página en blanco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
-      + [Formularios personalizados: no se puede desplazar el campo de búsqueda externo](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
-      + [Formularios personalizados: el campo calculado muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
-      + [Workfront Fusion: No se puede autenticar una conexión utilizando la funcionalidad de inicio de sesión de Workfront](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
-      + [Configuración: &quot;Iniciar sesión como&quot; abre una pantalla en blanco](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
-      + [API: tiempo de espera de las solicitudes](known-issues-workfront/wf-api-request-timing-out.md)
+      + [Notificaciones: error al configurar las preferencias de las notificaciones](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Formularios personalizados: el explorador se bloquea al crear formularios grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Informes: faltan entregas de informes o se retrasan](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Formularios personalizados: el generador de formularios se bloquea al introducir la lógica de visualización](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Documentos: al hacer clic en el nombre de un documento se abre una página en blanco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Formularios personalizados: no se puede desplazar el campo de búsqueda externa](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [Formularios personalizados: campo calculado que muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: no se puede autenticar una conexión utilizando la funcionalidad de Workfront Iniciar sesión como.](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Configuración: &quot;Iniciar sesión como&quot; conduce a una pantalla en blanco](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md)
       + [Actualizaciones: no se notifican a los usuarios las actualizaciones dirigidas](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [Iniciar sesión como: Inicio y los anclajes se muestran de forma errónea al cerrar la sesión de &quot;Iniciar sesión como&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
