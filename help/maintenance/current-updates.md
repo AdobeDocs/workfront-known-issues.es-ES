@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
+source-git-commit: 550eddafb8d52aae6eb89066d74907cd0bcbb4e9
 workflow-type: tm+mt
-source-wordcount: '4856'
+source-wordcount: '4997'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,41 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones de agosto de 2024
+
++++**Actualización de mantenimiento del viernes, 15 de agosto de 2024**
+
+### Actualización de mantenimiento del viernes, 15 de agosto de 2024
+
+#### Tableros
+
+**Problemas relacionados con las tarjetas duplicadas**
+
+Se han comunicado los siguientes problemas relacionados con tarjetas duplicadas en Tableros:
+
+* Una tarjeta se muestra dos veces. Esto puede resolverse actualizando la página.
+* Si se borra una de las tarjetas duplicadas, se borrarán todas las instancias de esa tarjeta duplicada.
+
+#### Notificaciones
+
+**Error al establecer las preferencias de notificación**
+
+Cuando se intentan ver las preferencias de las notificaciones, aparece el siguiente error:
+
+“[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
+
+Se ha informado de este problema en las siguientes áreas:
+
+* Configuración de las notificaciones en un perfil de usuario
+* Área Notificaciones de eventos en Configuración
+
+#### Proyectos
+
+**El símbolo de moneda es incorrecto al exportar**
+
+Cuando un usuario exporta un problema, el símbolo de moneda de la exportación no coincide con la moneda establecida en el proyecto o el problema.
+
+
++++
 
 +++**Actualización de mantenimiento del viernes, 08 de agosto de 2024**
 
