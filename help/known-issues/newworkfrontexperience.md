@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 99%
+source-wordcount: '985'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,12 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: varias fichas de explorador hacen que Workfront cierre la sesión](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | jueves, 14 de agosto de 2024 |
+| [Solicitudes: el usuario puede cambiar el estado a pesar de la falta de permisos](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jueves, 14 de agosto de 2024 |
+| [Tableros: la tarjeta conectada está en una columna incorrecta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jueves, 14 de agosto de 2024 |
+| [Workfront Mobile: no se puede iniciar sesión sin usar SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
+| [Informes: error al exportar el informe](known-issues-workfront/wf-reports-error-cache-content.md) | jueves, 14 de agosto de 2024 |
+| [Usuarios: la configuración regional del correo electrónico para el usuario no está guardando](known-issues-workfront/wf-users-email-locale-not-saving.md) | jueves, 14 de agosto de 2024 |
 | [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | martes, 05 de agosto de 2024 |
 | [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | martes, 05 de agosto de 2024 |
 | [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md) | viernes, 25 de julio de 2024 |
@@ -43,6 +49,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Informes: no se puede hacer clic en un informe del área Campos personalizados de la configuración](known-issues-workfront/wf-reports-cannot-click-on-report.md) | jueves, 14 de agosto de 2024 |
+| [Integraciones: error al crear una solicitud desde Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | jueves, 14 de agosto de 2024 |
 | [Notificaciones: error al configurar las preferencias de las notificaciones](known-issues-workfront/wf-notifications-whoops-error.md) | viernes, 08 de agosto de 2024 |
 | [Tableros: error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md) | viernes, 08 de agosto de 2024 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | viernes, 08 de agosto de 2024 |
