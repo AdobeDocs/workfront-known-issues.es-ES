@@ -4,22 +4,22 @@ description: Cuando se ve una notificación por correo electrónico con respecto
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
-source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
+source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 92%
 
 ---
 
 # Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on July 29, 2024.
+>Este problema se corrigió el martes, 29 de julio de 2024.
 
--->
+>[!IMPORTANT]
+>
+>Gmail no admite miniaturas.
 
 Cuando se ve una notificación por correo electrónico con respecto a la aprobación de un documento, la miniatura del documento no está visible en el correo electrónico.
 
