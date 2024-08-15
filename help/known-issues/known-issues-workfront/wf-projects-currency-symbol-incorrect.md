@@ -1,17 +1,21 @@
 ---
-title: "Proyectos: El símbolo de moneda es incorrecto al exportar"
-description: "Cuando un usuario exporta un problema, el símbolo de moneda de la exportación no coincide con la moneda establecida en el proyecto o el problema."
+title: '“Proyectos: el símbolo de moneda es incorrecto al exportar”'
+description: Cuando un usuario exporta un problema, el símbolo de moneda de la exportación no coincide con la moneda establecida en el proyecto o el problema.
 hidefromtoc: true
 feature: Projects, Work Management
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+exl-id: c5af8e07-d3d7-490e-9223-6fa67d0339ed
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
+# Proyectos: el símbolo de moneda es incorrecto al exportar
 
-# Proyectos: El símbolo de moneda es incorrecto al exportar
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 15 de agosto de 2024.
 
 Cuando un usuario exporta un problema, el símbolo de moneda de la exportación no coincide con la moneda establecida en el proyecto o el problema.
 

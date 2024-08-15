@@ -3,15 +3,19 @@ title: "Notificaciones: error al configurar las preferencias de las notificacion
 description: “Cuando se intentan ver las preferencias de las notificaciones, puede que aparezca un error”.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '80'
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
 
 
 # Notificaciones: error al configurar las preferencias de las notificaciones
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 15 de agosto de 2024.
 
 Cuando se intentan ver las preferencias de las notificaciones, aparece el siguiente error:
 

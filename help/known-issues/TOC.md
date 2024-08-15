@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '2058'
-ht-degree: 96%
+source-wordcount: '2106'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Inicio: &quot;Sin acceso&quot; se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Documentos: No se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [Formularios personalizados: Error de conversión de tipo de visualización en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [Formularios personalizados: no se pueden editar campos en la página de lista de campos](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [Inicio: El inicio se bloquea con el error &quot;Memoria insuficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Configuración: problemas al cerrar la sesión como otro usuario](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront: varias pestañas del explorador hacen que Workfront cierre la sesión](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Informes: no se puede hacer clic en un informe desde el área de Campos personalizados de la Configuración](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [Solicitudes: el usuario puede cambiar el estado a pesar de la falta de permisos](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
