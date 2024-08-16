@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
 workflow-type: tm+mt
-source-wordcount: '1015'
-ht-degree: 88%
+source-wordcount: '1007'
+ht-degree: 89%
 
 ---
 
@@ -29,7 +29,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Inicio: se bloquea el inicio con el error &quot;Memoria insuficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | viernes, 15 de agosto de 2024 |
 | [Workfront: varias fichas de explorador hacen que Workfront cierre la sesión](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 15 de agosto de 2024 |
 | [Solicitudes: el usuario puede cambiar el estado a pesar de la falta de permisos](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jueves, 14 de agosto de 2024 |
-| [Tableros: la tarjeta conectada está en una columna incorrecta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jueves, 14 de agosto de 2024 |
 | [Workfront Mobile: no se puede iniciar sesión sin usar SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
 | [Informes: error al exportar el informe](known-issues-workfront/wf-reports-error-cache-content.md) | jueves, 14 de agosto de 2024 |
 | [Usuarios: la configuración regional del correo electrónico para el usuario no está guardando](known-issues-workfront/wf-users-email-locale-not-saving.md) | jueves, 14 de agosto de 2024 |

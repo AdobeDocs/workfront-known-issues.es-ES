@@ -3,15 +3,19 @@ title: "Tableros: La tarjeta conectada está en una columna incorrecta"
 description: "Se ha informado de problemas relacionados con las tarjetas conectadas en la columna incorrecta."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 
 # Tableros: La tarjeta conectada está en una columna incorrecta
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 15 de agosto de 2024.
 
 Se han notificado los siguientes problemas con respecto a las tarjetas conectadas en la columna incorrecta:
 
