@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
 workflow-type: tm+mt
 source-wordcount: '5017'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -75,13 +75,13 @@ Cuando un usuario está viendo una tarjeta para una tarea que es una tarea princ
 
 ### Informes
 
-**Faltan o se retrasan los envíos del informe**
+**Faltan entregas de informes o se retrasan**
 
 Los informes con entregas programadas no se están entregando como se esperaba. Pueden que se retrasen o no se entreguen.
 
 #### Configurar
 
-**&quot;Iniciar sesión como&quot; lleva a una pantalla en blanco**
+**“Iniciar sesión como” conduce a una pantalla en blanco**
 
 Cuando un administrador inicia sesión como otro usuario, en lugar de ver la cuenta de ese usuario, el administrador ve una pantalla en blanco.
 
