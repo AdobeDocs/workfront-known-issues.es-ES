@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '2106'
+source-wordcount: '2113'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md)
       + [Inicio: &quot;Sin acceso&quot; se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Documentos: No se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [Formularios personalizados: Error de conversión de tipo de visualización en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)

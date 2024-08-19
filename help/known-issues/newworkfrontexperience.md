@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '1007'
-ht-degree: 89%
+source-wordcount: '1022'
+ht-degree: 88%
 
 ---
 
@@ -50,6 +50,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md) | martes, 19 de agosto de 2024 |
+| [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | martes, 19 de agosto de 2024 |
 | [Documentos: no se puede obtener una vista previa de los documentos con el vínculo de vista previa](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | viernes, 15 de agosto de 2024 |
 | [Formularios personalizados: error de conversiones de tipo de presentación en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | viernes, 15 de agosto de 2024 |
 | [Formularios personalizados: no se pueden editar campos en la página de lista de campos](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | viernes, 15 de agosto de 2024 |
