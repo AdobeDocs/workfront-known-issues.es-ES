@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
 workflow-type: tm+mt
-source-wordcount: '5017'
-ht-degree: 99%
+source-wordcount: '5093'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,18 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 ## Actualizaciones de agosto de 2024
+
++++**Actualización de mantenimiento del viernes, 22 de agosto de 2024**
+
+### Actualización de mantenimiento el 22 de agosto de
+
+#### Informes
+
+**No se puede hacer clic en un informe desde el área de Campos personalizados de la Configuración**
+
+Cuando un usuario está viendo el área de configuración Forms personalizado > Campos y la vista incluye el campo de informes nativo, los vínculos a los informes no funcionan. El usuario debe poder hacer clic en el nombre de un informe y ser dirigido al informe, pero hacer clic en el nombre del informe no es efectivo.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 15 de agosto de 2024**
 
