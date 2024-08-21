@@ -3,22 +3,26 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
+source-git-commit: 684f28db9c0eff8a7503912032af176da27dc9e2
 workflow-type: tm+mt
-source-wordcount: '5093'
+source-wordcount: '5121'
 ht-degree: 97%
 
 ---
 
 # Actualizaciones de mantenimiento de [!DNL Workfront]
 
-En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
-
 >[!NOTE]
 >
->Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado el problema enviado por usted.
+>Para obtener información sobre las interrupciones del mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/).
+
+En esta página se describen los problemas corregidos en las actualizaciones semanales de Workfront.
+
+Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado el problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
+
+En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones de agosto de 2024
 

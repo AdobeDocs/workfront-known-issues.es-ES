@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 88%
+source-wordcount: '1051'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jueves, 21 de agosto de 2024 |
+| [Inicio: &quot;widget.list.view&quot; creado cuando el usuario mueve columnas en el widget principal](known-issues-workfront/wf-home-widget-list-view.md) | jueves, 21 de agosto de 2024 |
+| [Documentos: los comentarios de prueba no se muestran en las actualizaciones del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | jueves, 21 de agosto de 2024 |
 | [Inicio: &quot;Sin acceso&quot; se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 15 de agosto de 2024 |
 | [Inicio: se bloquea el inicio con el error &quot;Memoria insuficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | viernes, 15 de agosto de 2024 |
 | [Workfront: varias fichas de explorador hacen que Workfront cierre la sesión](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 15 de agosto de 2024 |
