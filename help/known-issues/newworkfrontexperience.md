@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
 source-wordcount: '1051'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -28,13 +28,13 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jueves, 21 de agosto de 2024 |
 | [Inicio: &quot;widget.list.view&quot; creado cuando el usuario mueve columnas en el widget principal](known-issues-workfront/wf-home-widget-list-view.md) | jueves, 21 de agosto de 2024 |
 | [Documentos: los comentarios de prueba no se muestran en las actualizaciones del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | jueves, 21 de agosto de 2024 |
-| [Inicio: &quot;Sin acceso&quot; se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 15 de agosto de 2024 |
-| [Inicio: se bloquea el inicio con el error &quot;Memoria insuficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | viernes, 15 de agosto de 2024 |
-| [Workfront: varias fichas de explorador hacen que Workfront cierre la sesión](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 15 de agosto de 2024 |
-| [Solicitudes: el usuario puede cambiar el estado a pesar de la falta de permisos](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jueves, 14 de agosto de 2024 |
-| [Workfront Mobile: no se puede iniciar sesión sin usar SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
-| [Informes: error al exportar el informe](known-issues-workfront/wf-reports-error-cache-content.md) | jueves, 14 de agosto de 2024 |
-| [Usuarios: la configuración regional del correo electrónico para el usuario no está guardando](known-issues-workfront/wf-users-email-locale-not-saving.md) | jueves, 14 de agosto de 2024 |
+| [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 15 de agosto de 2024 |
+| [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | viernes, 15 de agosto de 2024 |
+| [Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 15 de agosto de 2024 |
+| [Solicitudes: el usuario puede cambiar el estado a pesar de carecer de permisos](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jueves, 14 de agosto de 2024 |
+| [Workfront Mobile: no se puede iniciar sesión sin usar el SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
+| [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md) | jueves, 14 de agosto de 2024 |
+| [Usuarios: la configuración regional del correo electrónico del usuario no se guarda](known-issues-workfront/wf-users-email-locale-not-saving.md) | jueves, 14 de agosto de 2024 |
 | [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | martes, 05 de agosto de 2024 |
 | [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | martes, 05 de agosto de 2024 |
 | [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md) | viernes, 25 de julio de 2024 |
@@ -55,11 +55,11 @@ Las soluciones para estos problemas están actualmente en curso o están program
 |----------------------------------| ----------------- |
 | [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md) | martes, 19 de agosto de 2024 |
 | [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | martes, 19 de agosto de 2024 |
-| [Documentos: no se puede obtener una vista previa de los documentos con el vínculo de vista previa](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | viernes, 15 de agosto de 2024 |
-| [Formularios personalizados: error de conversiones de tipo de presentación en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | viernes, 15 de agosto de 2024 |
+| [Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | viernes, 15 de agosto de 2024 |
+| [Formularios personalizados: error de conversiones de tipo de visualización en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | viernes, 15 de agosto de 2024 |
 | [Formularios personalizados: no se pueden editar campos en la página de lista de campos](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | viernes, 15 de agosto de 2024 |
 | [Configuración: problemas al cerrar la sesión como otro usuario](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 15 de agosto de 2024 |
-| [Informes: no se puede hacer clic en un informe del área Campos personalizados de la configuración](known-issues-workfront/wf-reports-cannot-click-on-report.md) | jueves, 14 de agosto de 2024 |
+| [Informes: no se puede hacer clic en un informe desde el área Campos personalizados en Configuración](known-issues-workfront/wf-reports-cannot-click-on-report.md) | jueves, 14 de agosto de 2024 |
 | [Integraciones: error al crear una solicitud desde Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | jueves, 14 de agosto de 2024 |
 | [Notificaciones: error al configurar las preferencias de las notificaciones](known-issues-workfront/wf-notifications-whoops-error.md) | viernes, 08 de agosto de 2024 |
 | [Tableros: error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md) | viernes, 08 de agosto de 2024 |

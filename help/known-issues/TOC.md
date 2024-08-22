@@ -5,7 +5,7 @@ role: User
 source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -21,20 +21,20 @@ ht-degree: 93%
       + [Inicio: &quot;widget.list.view&quot; se crea cuando el usuario mueve columnas en el widget de inicio](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documentos: Los comentarios de prueba no se muestran en las actualizaciones de documentos](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md)
-      + [Inicio: &quot;Sin acceso&quot; se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md)
-      + [Documentos: No se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
-      + [Formularios personalizados: Error de conversión de tipo de visualización en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [Formularios personalizados: error de conversiones de tipo de visualización en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
       + [Formularios personalizados: no se pueden editar campos en la página de lista de campos](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
-      + [Inicio: El inicio se bloquea con el error &quot;Memoria insuficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md)
       + [Configuración: problemas al cerrar la sesión como otro usuario](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
-      + [Workfront: varias pestañas del explorador hacen que Workfront cierre la sesión](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
-      + [Informes: no se puede hacer clic en un informe desde el área de Campos personalizados de la Configuración](known-issues-workfront/wf-reports-cannot-click-on-report.md)
-      + [Solicitudes: el usuario puede cambiar el estado a pesar de la falta de permisos](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
-      + [Tableros: La tarjeta conectada está en una columna incorrecta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
-      + [Workfront Mobile: No se puede iniciar sesión sin usar SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
-      + [Informes: Error al exportar el informe](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Usuarios: La configuración regional del correo electrónico para el usuario no se guarda](known-issues-workfront/wf-users-email-locale-not-saving.md)
-      + [Integraciones: Error al crear una solicitud desde Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
+      + [Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Informes: no se puede hacer clic en un informe desde el área Campos personalizados en Configuración](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [Solicitudes: el usuario puede cambiar el estado a pesar de carecer de permisos](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Tableros: la tarjeta conectada está en una columna incorrecta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile: no se puede iniciar sesión sin usar el SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Usuarios: la configuración regional del correo electrónico del usuario no se guarda](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [Integraciones: error al crear una solicitud desde Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notificaciones: error al configurar las preferencias de las notificaciones](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Formularios personalizados: el explorador se bloquea al crear formularios grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Informes: faltan entregas de informes o se retrasan](known-issues-workfront/wf-reports-not-delivered.md)

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 684f28db9c0eff8a7503912032af176da27dc9e2
 workflow-type: tm+mt
 source-wordcount: '5121'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 **No se puede hacer clic en un informe desde el área de Campos personalizados de la Configuración**
 
-Cuando un usuario está viendo el área de configuración Forms personalizado > Campos y la vista incluye el campo de informes nativo, los vínculos a los informes no funcionan. El usuario debe poder hacer clic en el nombre de un informe y ser dirigido al informe, pero hacer clic en el nombre del informe no es efectivo.
+Cuando un usuario visualiza el área de configuración Formularios personalizados > Campos y la vista incluye el campo nativo Informes, los vínculos a los informes no funcionan. El usuario debería poder hacer clic en el nombre de un informe y ser dirigido al informe, sin embargo, hacer clic en el nombre del informe no es efectivo.
 
 +++
 
@@ -44,7 +44,7 @@ Cuando un usuario está viendo el área de configuración Forms personalizado > 
 
 #### Tableros
 
-**Problemas relacionados con las tarjetas duplicadas**
+**Problemas relacionados con tarjetas duplicadas**
 
 Se han comunicado los siguientes problemas relacionados con tarjetas duplicadas en Tableros:
 
@@ -53,7 +53,7 @@ Se han comunicado los siguientes problemas relacionados con tarjetas duplicadas 
 
 #### Notificaciones
 
-**Error al establecer las preferencias de notificación**
+**Error al configurar las preferencias de notificación**
 
 Cuando se intentan ver las preferencias de las notificaciones, aparece el siguiente error:
 
@@ -72,9 +72,9 @@ Cuando un usuario exporta un problema, el símbolo de moneda de la exportación 
 
 #### Pruebas
 
-**Las marcas de revisión son inexactas**
+**Las marcas de prueba son inexactas**
 
-Las marcas de revisión no están alineadas correctamente en las copias impresas de los PDF recibidas por correo electrónico desde la función de impresión de revisión.
+Las marcas de prueba están desalineadas en las impresiones en PDF recibidas por correo electrónico desde la función de impresión de prueba.
 
 
 +++
