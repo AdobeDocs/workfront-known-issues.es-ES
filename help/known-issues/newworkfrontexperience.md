@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 99%
 
 ---
@@ -29,7 +29,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Documentos: los comentarios de prueba no se muestran en las actualizaciones del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | jueves, 21 de agosto de 2024 |
 | [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 15 de agosto de 2024 |
 | [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | viernes, 15 de agosto de 2024 |
-| [Solicitudes: el usuario puede cambiar el estado a pesar de carecer de permisos](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jueves, 14 de agosto de 2024 |
 | [Workfront Mobile: no se puede iniciar sesión sin usar el SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
 | [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md) | jueves, 14 de agosto de 2024 |
 | [Usuarios: la configuración regional del correo electrónico del usuario no se guarda](known-issues-workfront/wf-users-email-locale-not-saving.md) | jueves, 14 de agosto de 2024 |

@@ -3,15 +3,19 @@ title: '“Formularios personalizados: no se pueden editar campos en la página 
 description: “Cuando un usuario intenta editar un campo grande en la página de lista de campos, la página se bloquea con un error. Hay una solución disponible”.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
-workflow-type: ht
-source-wordcount: '107'
+source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 
 # Formularios personalizados: no se pueden editar campos en la página de lista de campos
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 22 de agosto de 2024.
 
 Cuando un usuario intenta editar un campo grande en la página de lista de campos, la página se bloquea con el siguiente error:
 
