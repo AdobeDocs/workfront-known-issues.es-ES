@@ -4,7 +4,7 @@ description: “Se ha informado de problemas relacionados con tarjetas conectada
 hidefromtoc: true
 feature: Agile
 source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
