@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
 source-wordcount: '5121'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 99%
 
 >[!NOTE]
 >
->Para obtener información sobre las interrupciones del mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/).
+>Para obtener información sobre las interrupciones de mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/).
 
 En esta página se describen los problemas corregidos en las actualizaciones semanales de Workfront.
 
@@ -28,11 +28,11 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 +++**Actualización de mantenimiento del viernes, 22 de agosto de 2024**
 
-### Actualización de mantenimiento el 22 de agosto de
+### Actualización de mantenimiento el 22 de agosto,
 
 #### Informes
 
-**No se puede hacer clic en un informe desde el área de Campos personalizados de la Configuración**
+**Informes: no se puede hacer clic en un informe del área Campos personalizados de la Configuración**
 
 Cuando un usuario visualiza el área de configuración Formularios personalizados > Campos y la vista incluye el campo nativo Informes, los vínculos a los informes no funcionan. El usuario debería poder hacer clic en el nombre de un informe y ser dirigido al informe, sin embargo, hacer clic en el nombre del informe no es efectivo.
 
