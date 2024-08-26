@@ -4,18 +4,22 @@ description: Se han notificado problemas relacionados con tarjetas duplicadas en
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: ht
-source-wordcount: '69'
+source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+workflow-type: tm+mt
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
 
 # Tableros: problemas relacionados con tarjetas duplicadas
 
+<!--
+
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 15 de agosto de 2024.
+>This issue was fixed on August 15, 2024.
+
+-->
 
 
 Se han comunicado los siguientes problemas relacionados con tarjetas duplicadas en Tableros:

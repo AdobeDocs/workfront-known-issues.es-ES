@@ -3,9 +3,9 @@ title: "Informes: faltan entregas de informes o se retrasan"
 description: '"Los informes con entregas programadas no se están entregando como se esperaba. Puede que se retrasen o no se entreguen".'
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: ht
-source-wordcount: '68'
+source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Informes: faltan entregas de informes o se retrasan
 
+<!--
+
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 08 de agosto de 2024.
+>This issue was fixed on August 8, 2024.
+
+-->
 
 Los informes con entregas programadas no se están entregando como se esperaba. Pueden que se retrasen o no se entreguen.
 
