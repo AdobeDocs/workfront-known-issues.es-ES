@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '467'
+source-git-commit: 6247cac863561cbe7a58dc61dff163356e8cd4c0
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Formularios personalizados: el formulario personalizado no se elimina del documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | martes, 08 de julio de 2024 |
 | [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | miércoles, 25 de junio de 2024 |
 | [Integraciones: problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
-| [Notificaciones: las notificaciones de las aprobaciones de documentos Beta no tienen el formato correcto](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 de abril de 2024 |
 
 {style="table-layout:auto"}
 
@@ -47,7 +46,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 de junio de 2024 |
 | [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de mayo de 2024 |
 | [Proyecto: no se puede convertir el problema en un proyecto si se adjunta la prueba web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 de marzo de 2024 |
-| [Pruebas: Falta la ruta de exploración al acceder a la prueba desde el vínculo de correo electrónico](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de noviembre de 2023 |
 
 {style="table-layout:auto"}
 
@@ -80,7 +78,6 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [[!DNL Workfront Proof]: No se puede añadir un usuario a la prueba al etiquetarlo en un comentario](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 de marzo de 2022 |
 | [[!UICONTROL Inicio]: El comportamiento del botón de [!UICONTROL respuesta en prueba] es inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 de junio de 2021 |
-| [[!DNL Workfront Proof]: El acceso automático a las pruebas se retrasa](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 de junio de 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL El informe de aprobación de pruebas] no puede determinar los plazos con precisión](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 de abril de 2021 |
 | [Documentos: No aparece el icono del flujo de trabajo de pruebas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 de marzo de 2021 |
 
