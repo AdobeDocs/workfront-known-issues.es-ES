@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1048'
 ht-degree: 96%
 
 ---
@@ -85,6 +85,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | miércoles, 27 de agosto de 2024 |
 | [Inicio: el widget Mis problemas no muestra los problemas cerrados o completados](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | viernes, 20 de junio de 2024 |
 | [Inicio: no se puede quitar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | jueves, 12 de junio de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 de junio de 2024 |
