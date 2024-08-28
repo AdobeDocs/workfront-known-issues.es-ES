@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5247'
-ht-degree: 99%
+source-wordcount: '5328'
+ht-degree: 98%
 
 ---
 
@@ -34,7 +34,7 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 **Forms toma como valor predeterminado los formularios del proyecto**
 
-Cuando un usuario crea un formulario personalizado y selecciona un tipo de objeto para el formulario, el tipo de objeto se omite y el formulario se crea como un formulario personalizado de Project.
+Cuando un usuario crea un formulario personalizado y selecciona un tipo de objeto para el formulario, el tipo de objeto se ignora y el formulario se crea como un formulario personalizado del proyecto.
 
 #### Documentos
 
@@ -47,6 +47,14 @@ Cuando un usuario intenta ver los detalles del documento haciendo clic en su nom
 **El widget de aprobaciones pendientes muestra los documentos eliminados**
 
 Cuando un usuario está viendo su widget de aprobaciones pendientes de inicio, ve documentos que se han eliminado. Si el usuario hace clic en uno de estos documentos, se le redirige a una página en blanco.
+
+#### Usuarios
+
+**El campo Configuración regional de correo electrónico del perfil de usuario se ha deshabilitado**
+
+Para las organizaciones que utilizan IMS, las preferencias de idioma se almacenan en el perfil de Adobe Experience Cloud de cada usuario. El campo Configuración regional de correo electrónico del perfil de usuario de Workfront se ha desactivado (solo para organizaciones IMS) y una información de objeto sobre ese campo proporciona instrucciones sobre cómo acceder a la configuración de idioma en el perfil de Adobe.
+
+Esto soluciona un problema que cuando un administrador intenta cambiar la configuración regional de correo electrónico de un usuario, vuelve al inglés.
 
 +++
 
