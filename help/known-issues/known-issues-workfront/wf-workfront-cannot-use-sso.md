@@ -3,10 +3,10 @@ title: "Workfront: No se puede utilizar SSO"
 description: "La funcionalidad de Workfront que utiliza SSO devuelve un error ¡Uy!"
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 35%
+source-wordcount: '96'
+ht-degree: 33%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 35%
 
 >[!NOTE]
 >
->* Se ha informado de este problema en el entorno de vista previa de espacio aislado.
->* Se ha informado de este problema en las organizaciones que utilizan SSO heredado (que no es de Adobe)
+>* Se ha informado de este problema en el entorno de vista previa de espacio aislado y en el entorno de espacio aislado de actualización personalizado.
+>* Se ha informado de este problema en las organizaciones que utilizan SSO heredado (que no es de Adobe).
 
 La funcionalidad de Workfront que utiliza SSO devuelve el siguiente error:
 

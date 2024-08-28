@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1055'
 ht-degree: 97%
 
 ---
@@ -53,6 +53,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Grupos: los subgrupos no se muestran correctamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | jueves, 28 de agosto de 2024 |
 | [Usuarios: no se puede reactivar el usuario](known-issues-workfront/wf-users-reactivate-user.md) | martes, 26 de agosto de 2024 |
 | [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | martes, 26 de agosto de 2024 |
 | [Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 22 de agosto de 2024 |
