@@ -4,9 +4,9 @@ description: “Cuando un usuario visualiza el área de configuración Formulari
 hidefromtoc: true
 feature: Reports and Dashboards, Custom Forms
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '144'
+ht-degree: 100%
 
 ---
 
