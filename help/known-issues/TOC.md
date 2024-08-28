@@ -20,7 +20,7 @@ ht-degree: 98%
       + [Workfront: No se puede utilizar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Usuarios: No se puede reactivar el usuario](known-issues-workfront/wf-users-reactivate-user.md)
       + [Asignaciones: El icono Tiempo libre no aparece al asignar tareas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [Formularios personalizados: Forms toma como valor predeterminado Formularios de proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [Formularios personalizados: los formularios se ajustan por defecto a los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Inicio: &quot;widget.list.view&quot; se crea cuando el usuario mueve columnas en el widget de inicio](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documentos: los comentarios de prueba no se muestran en las actualizaciones del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
 source-wordcount: '1048'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -56,7 +56,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Usuarios: no se puede reactivar el usuario](known-issues-workfront/wf-users-reactivate-user.md) | martes, 26 de agosto de 2024 |
 | [Tableros: problemas relacionados con tarjetas duplicadas](known-issues-workfront/wf-boards-some-cards-duplicated.md) | martes, 26 de agosto de 2024 |
 | [Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 22 de agosto de 2024 |
-| [Formularios personalizados: Forms toma como valor predeterminado Formularios de proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md) | viernes, 22 de agosto de 2024 |
+| [Formularios personalizados: los formularios se ajustan por defecto a los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md) | viernes, 22 de agosto de 2024 |
 | [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md) | martes, 19 de agosto de 2024 |
 | [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | martes, 19 de agosto de 2024 |
 | [Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | viernes, 15 de agosto de 2024 |
