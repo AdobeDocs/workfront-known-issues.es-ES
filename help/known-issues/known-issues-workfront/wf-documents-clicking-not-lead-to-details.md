@@ -1,17 +1,21 @@
 ---
-title: 'Documentos: al hacer clic en el nombre de un documento, se abre una página en blanco"'
-description: '"Cuando se intenta ver los detalles de un documento haciendo clic en su nombre en una lista de documentos, la lista desaparece y no se dirige a los detalles del documento".'
+title: "Documentos: Al hacer clic en el nombre de un documento, se abre una página en blanco"
+description: Cuando un usuario intenta ver los detalles del documento haciendo clic en su nombre en una lista de documentos, la lista desaparece y no se le dirige a los detalles del documento.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+exl-id: 683b2066-9812-4a22-a40b-49f0cd6450a1
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+workflow-type: tm+mt
+source-wordcount: '88'
+ht-degree: 89%
 
 ---
 
-
 # Documentos: al hacer clic en el nombre de un documento se abre una página en blanco
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 29 de agosto de 2024.
 
 Cuando un usuario intenta ver los detalles del documento haciendo clic en su nombre en una lista de documentos, la lista desaparece y no se le dirige a los detalles del documento.
 

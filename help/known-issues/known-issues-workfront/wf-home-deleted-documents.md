@@ -1,17 +1,21 @@
 ---
 title: "Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados"
-description: '"Cuando un usuario está viendo su widget de aprobaciones pendientes de inicio, ve documentos que se han eliminado. Si el usuario hace clic en uno de estos documentos, se le redirige a una página en blanco".'
+description: Cuando un usuario está viendo su widget de aprobaciones pendientes de inicio, ve documentos que se han eliminado. Si el usuario hace clic en uno de estos documentos, se le redirige a una página en blanco.
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 92%
 
 ---
 
-
 # Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 29 de agosto de 2024.
 
 Cuando un usuario está viendo su widget de aprobaciones pendientes de inicio, ve documentos que se han eliminado. Si el usuario hace clic en uno de estos documentos, se le redirige a una página en blanco.
 

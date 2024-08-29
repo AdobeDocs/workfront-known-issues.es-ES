@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '5328'
+source-wordcount: '5326'
 ht-degree: 98%
 
 ---
@@ -26,9 +26,9 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones de agosto de 2024
 
-+++**(Planificado) Actualización de mantenimiento el viernes, 29 de agosto de 2024**
++++**Actualización de mantenimiento del viernes, 29 de agosto de 2024**
 
-### (Planificado) Actualización de mantenimiento del viernes, 29 de agosto de 2024
+### Actualización de mantenimiento del viernes, 29 de agosto de 2024
 
 #### Formularios personalizados
 
