@@ -1,17 +1,21 @@
 ---
-title: '“Documentos: no se puede obtener una previsualización de los documentos con el vínculo de previsualización”'
-description: “Los usuarios no pueden ver la previsualización de un documento”.
+title: "Documentos: No se pueden obtener previsualizaciones de documentos con el vínculo de vista previa"
+description: Los usuarios no pueden ver una vista previa del documento.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 82%
 
 ---
 
-
 # Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 29 de agosto de 2024.
 
 Los usuarios no pueden ver la previsualización de un documento al:
 
