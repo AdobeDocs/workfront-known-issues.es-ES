@@ -1,19 +1,19 @@
 ---
-title: "Asignaciones: El icono Tiempo libre no aparece al asignar tareas"
-description: '"cuando un usuario está asignando una tarea y comienza a escribir el nombre del usuario asignado que tiene tiempo libre programado durante la tarea, los iconos del usuario bajo el área Asignaciones sugeridas no muestran el icono de tiempo libre (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono".'
+title: '“Asignaciones: el icono Días libres no aparece al asignar tareas”'
+description: “cuando un usuario está asignando una tarea y empieza a escribir el nombre del usuario asignado que tiene días libres programados durante la tarea, los iconos del usuario en el área Asignaciones sugeridas no muestran el icono de días libres (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono”.
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Asignaciones: El icono Tiempo libre no aparece al asignar tareas
+# Asignaciones: el icono Días libres no aparece al asignar tareas
 
-cuando un usuario está asignando una tarea y comienza a escribir el nombre del usuario asignado que tiene tiempo libre programado durante la tarea, los iconos del usuario bajo el área Asignaciones sugeridas no muestran el icono de tiempo libre (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono.
+cuando un usuario está asignando una tarea y empieza a escribir el nombre del usuario asignado que tiene días libres programados durante la tarea, los iconos del usuario en el área Asignaciones sugeridas no muestran el icono de días libres (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono.
 
 **Solución alternativa**
 

@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

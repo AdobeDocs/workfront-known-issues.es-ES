@@ -4,7 +4,7 @@ description: “Los usuarios con acceso de contribución y sin permisos para cam
 hidefromtoc: true
 feature: Requests
 source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 
