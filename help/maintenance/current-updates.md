@@ -32,13 +32,13 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 #### Formularios personalizados
 
-**Forms toma como valor predeterminado los formularios del proyecto**
+**Los formularios se ajustan por defecto a los formularios del proyecto**
 
 Cuando un usuario crea un formulario personalizado y selecciona un tipo de objeto para el formulario, el tipo de objeto se ignora y el formulario se crea como un formulario personalizado del proyecto.
 
 #### Documentos
 
-**Al hacer clic en el nombre de un documento, se abre una página en blanco**
+**Al hacer clic en el nombre de un documento se abre una página en blanco**
 
 Cuando un usuario intenta ver los detalles del documento haciendo clic en su nombre en una lista de documentos, la lista desaparece y no se le dirige a los detalles del documento.
 
@@ -178,7 +178,7 @@ Esto ocurre cuando el campo está asociado a la lógica de visualización en el 
 
 **Las miniaturas no son visibles en las notificaciones por correo electrónico**
 
-Cuando se ve una notificación por correo electrónico con respecto a la aprobación de un documento, la miniatura del documento no está visible en el correo electrónico.
+Cuando un usuario ve una notificación por correo electrónico relacionada con la aprobación de un documento, la miniatura del documento no está visible en el correo electrónico.
 
 Se ha informado de este problema en Gmail.
 

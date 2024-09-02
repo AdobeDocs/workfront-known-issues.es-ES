@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1025'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -27,9 +27,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | -----------------------------------------------------------------| ----------------- |
 | [Tableros: la tarjeta conectada está en una columna incorrecta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jueves, 28 de agosto de 2024 |
 | [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | jueves, 28 de agosto de 2024 |
-| [Workfront: no se puede usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martes, 26 de agosto de 2024 |
-| [Informes: los envíos de informes se han retrasado o faltan](known-issues-workfront/wf-reports-not-delivered.md) | martes, 26 de agosto de 2024 |
-| [Asignaciones: el icono de tiempo libre no aparece al asignar tareas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martes, 26 de agosto de 2024 |
+| [Workfront: no se puede utilizar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martes, 26 de agosto de 2024 |
+| [Informes: faltan envíos de informes o se retrasan](known-issues-workfront/wf-reports-not-delivered.md) | martes, 26 de agosto de 2024 |
+| [Asignaciones: el icono Días libres no aparece al asignar tareas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martes, 26 de agosto de 2024 |
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jueves, 21 de agosto de 2024 |
 | [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 15 de agosto de 2024 |
 | [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | viernes, 15 de agosto de 2024 |

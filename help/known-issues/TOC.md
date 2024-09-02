@@ -5,7 +5,7 @@ role: User
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1662'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 97%
       + [Workfront: La fecha se muestra en un formato incorrecto](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Notificaciones: Los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Grupos: los subgrupos no se muestran correctamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
-      + [Workfront: No se puede utilizar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
-      + [Usuarios: No se puede reactivar el usuario](known-issues-workfront/wf-users-reactivate-user.md)
-      + [Asignaciones: El icono Tiempo libre no aparece al asignar tareas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
+      + [Workfront: no se puede utilizar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
+      + [Usuarios: no se puede reactivar el usuario](known-issues-workfront/wf-users-reactivate-user.md)
+      + [Asignaciones: el icono Días libres no aparece al asignar tareas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Formularios personalizados: los formularios se ajustan por defecto a los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Inicio: &quot;widget.list.view&quot; se crea cuando el usuario mueve columnas en el widget de inicio](known-issues-workfront/wf-home-widget-list-view.md)
