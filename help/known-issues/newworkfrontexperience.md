@@ -4,7 +4,7 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
 source-wordcount: '1060'
 ht-degree: 95%
@@ -144,5 +144,4 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Calendario: algunas tareas no se muestran](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 de noviembre de 2020 |
 
 {style="table-layout:auto"}
-
 
