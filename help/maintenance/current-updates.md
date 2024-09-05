@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '5326'
-ht-degree: 98%
+source-wordcount: '5452'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,30 @@ Estas actualizaciones también incluyen otras correcciones de errores menores o 
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
+
+## Actualizaciones en septiembre de 2024
+
++++**Actualización de mantenimiento del viernes, 05 de septiembre de 2024**
+
+### Actualización de mantenimiento el 5 de septiembre de 2024
+
+#### Grupos
+
+**Los subgrupos no se muestran correctamente**
+
+Cuando un usuario está viendo la lista de Grupos en el área de Configuración, ve que los subgrupos no se enumeran correctamente en el grupo principal. El subgrupo se guarda correctamente en el grupo principal, pero la lista puede causar confusión.
+
+Si el usuario abre el subgrupo, puede ver en las rutas de exploración que el subgrupo se ha guardado correctamente en el grupo principal.
+
+#### Usuarios
+
+**No se puede reactivar el usuario**
+
+Cuando un usuario intenta reactivar a un usuario mediante la opción “Reactivar usuario” en el menú Más, puede seleccionar un nivel de acceso para el usuario, pero el cambio no se guarda. En su lugar, el usuario ve el siguiente mensaje de error:
+
+“homeGroupID no puede ser nulo”
+
++++
 
 ## Actualizaciones de agosto de 2024
 

@@ -1,17 +1,21 @@
 ---
 title: "Notificaciones: Los usuarios colaboradores no reciben notificaciones por correo electrónico"
-description: '"Los usuarios con una licencia de colaborador no reciben correos electrónicos de notificación. Esto puede afectar tanto a los correos electrónicos de notificación instantánea como a los de resumen diario. ”'
+description: 'Los usuarios con una licencia de colaborador no reciben correos electrónicos de notificación. Esto puede afectar tanto a los correos electrónicos de notificación instantánea como a los de resumen diario. '
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 6%
+source-wordcount: '73'
+ht-degree: 20%
 
 ---
 
-
 # Notificaciones: Los usuarios colaboradores no reciben notificaciones por correo electrónico
+
+>[!NOTE]
+>
+>Este problema se ha cerrado porque funciona como se diseñó.
 
 Los usuarios con una licencia de colaborador no reciben correos electrónicos de notificación. Esto puede afectar tanto a los correos electrónicos de notificación instantánea como a los de resumen diario.
 

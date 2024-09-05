@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1708'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Móvil: no se puede cerrar la sesión y falta información de perfil de usuario](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Tableros: El estado de la tarjeta no coincide con el objeto conectado y omite el filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Paneles: al seleccionar el botón Exportar en un informe, se desplaza a la parte superior de la página](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
