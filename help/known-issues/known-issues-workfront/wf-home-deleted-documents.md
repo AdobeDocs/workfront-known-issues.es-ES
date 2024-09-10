@@ -1,13 +1,13 @@
 ---
-title: "Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados"
+title: '“Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados”'
 description: Cuando un usuario está viendo su widget de aprobaciones pendientes de inicio, ve documentos que se han eliminado. Si el usuario hace clic en uno de estos documentos, se le redirige a una página en blanco.
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
 exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
 source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

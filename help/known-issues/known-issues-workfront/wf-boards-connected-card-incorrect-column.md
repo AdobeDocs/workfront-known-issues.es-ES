@@ -1,13 +1,13 @@
 ---
-title: "Tableros: La tarjeta conectada está en una columna incorrecta"
-description: Se ha informado de problemas relacionados con las tarjetas conectadas en la columna incorrecta.
+title: '“Tableros: la tarjeta conectada está en una columna incorrecta”'
+description: Se ha informado de problemas relacionados con tarjetas conectadas en la columna incorrecta.
 hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
 source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 

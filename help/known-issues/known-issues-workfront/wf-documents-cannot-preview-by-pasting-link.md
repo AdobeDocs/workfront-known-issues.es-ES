@@ -1,13 +1,13 @@
 ---
-title: "Documentos: No se pueden obtener previsualizaciones de documentos con el vínculo de vista previa"
-description: Los usuarios no pueden ver una vista previa del documento.
+title: '“Documentos: no se puede obtener una previsualización de los documentos con el vínculo de previsualización”'
+description: Los usuarios no pueden ver la previsualización de un documento.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
 source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 

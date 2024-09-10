@@ -1,13 +1,13 @@
 ---
-title: "Formularios personalizados: El formulario personalizado no se elimina del documento"
+title: '“Formularios personalizados: el formulario personalizado no se elimina del documento”'
 description: Cuando se intenta eliminar un formulario personalizado de un documento, se ve un mensaje que indica que el formulario personalizado se ha eliminado, pero el formulario personalizado sigue adjunto.  Si se actualiza la página del documento, se puede ver que el formulario personalizado está adjunto.
 hidefromtoc: true
 feature: Custom Forms, Digital Content and Documents
 exl-id: 906dc16e-3e9d-4121-a929-8d50b7fa17f5
 source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
