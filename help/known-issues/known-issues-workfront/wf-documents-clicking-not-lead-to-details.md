@@ -1,5 +1,5 @@
 ---
-title: "Documentos: Al hacer clic en el nombre de un documento, se abre una página en blanco"
+title: '“Documentos: al hacer clic en el nombre de un documento se abre una página en blanco”'
 description: Cuando un usuario intenta ver los detalles del documento haciendo clic en su nombre en una lista de documentos, la lista desaparece y no se le dirige a los detalles del documento.
 hidefromtoc: true
 feature: Digital Content and Documents
@@ -7,7 +7,7 @@ exl-id: 683b2066-9812-4a22-a40b-49f0cd6450a1
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

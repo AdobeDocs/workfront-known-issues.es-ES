@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '5452'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 **Los subgrupos no se muestran correctamente**
 
-Cuando un usuario está viendo la lista de Grupos en el área de Configuración, ve que los subgrupos no se enumeran correctamente en el grupo principal. El subgrupo se guarda correctamente en el grupo principal, pero la lista puede causar confusión.
+Cuando un usuario está viendo la lista de grupos en el área de configuración, ve que los subgrupos no se enumeran correctamente en el grupo principal. El subgrupo se guarda correctamente en el grupo principal, pero la lista puede causar confusión.
 
 Si el usuario abre el subgrupo, puede ver en las rutas de exploración que el subgrupo se ha guardado correctamente en el grupo principal.
 
@@ -76,9 +76,9 @@ Cuando un usuario está viendo su widget de aprobaciones pendientes de inicio, v
 
 **El campo Configuración regional de correo electrónico del perfil de usuario se ha deshabilitado**
 
-Para las organizaciones que utilizan IMS, las preferencias de idioma se almacenan en el perfil de Adobe Experience Cloud de cada usuario. El campo Configuración regional de correo electrónico del perfil de usuario de Workfront se ha desactivado (solo para organizaciones IMS) y una información de objeto sobre ese campo proporciona instrucciones sobre cómo acceder a la configuración de idioma en el perfil de Adobe.
+Para las organizaciones que están en IMS, las preferencias de idioma se almacenan en el perfil de Adobe Experience Cloud de cada usuario. El campo Configuración regional de correo electrónico del perfil de usuario de Workfront se ha deshabilitado (solo para organizaciones que están en IMS) y la ayuda contextual de ese campo proporciona instrucciones sobre cómo acceder a la configuración de idioma en el perfil de Adobe.
 
-Esto soluciona un problema que cuando un administrador intenta cambiar la configuración regional de correo electrónico de un usuario, vuelve al inglés.
+Esto tiene que ver con el problema de cuando un administrador intenta cambiar la configuración regional de correo electrónico de un usuario, la configuración vuelve a cambiar al inglés.
 
 +++
 

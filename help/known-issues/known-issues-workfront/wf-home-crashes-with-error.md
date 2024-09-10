@@ -1,13 +1,13 @@
 ---
-title: "Inicio: El inicio se bloquea con un error de falta de memoria"
-description: Cuando un usuario intenta ver la nueva página de inicio, el sitio se bloquea con un mensaje de error. Hay una solución disponible.
+title: '“Inicio: el inicio se bloquea con un error de memoria insuficiente”'
+description: Cuando un usuario intenta ver la nueva página de inicio, el sitio se bloquea y se muestra un mensaje de error. Hay una solución disponible.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 

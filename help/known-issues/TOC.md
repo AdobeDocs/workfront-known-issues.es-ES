@@ -5,7 +5,7 @@ role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 96%
       + [Móvil: no se puede cerrar la sesión y falta información de perfil de usuario](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Tableros: El estado de la tarjeta no coincide con el objeto conectado y omite el filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Paneles: al seleccionar el botón Exportar en un informe, se desplaza a la parte superior de la página](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
-      + [Workfront: La fecha se muestra en un formato incorrecto](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Notificaciones: Los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Workfront: la fecha se muestra en un formato incorrecto](known-issues-workfront/wf-workfront-date-format-incorrect.md)
+      + [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Grupos: los subgrupos no se muestran correctamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: no se puede utilizar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Usuarios: no se puede reactivar el usuario](known-issues-workfront/wf-users-reactivate-user.md)
