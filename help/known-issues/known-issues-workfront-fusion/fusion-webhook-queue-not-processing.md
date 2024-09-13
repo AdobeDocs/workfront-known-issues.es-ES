@@ -1,18 +1,18 @@
 ---
-title: "Workfront Fusion: La cola de webhook no se procesa"
-description: '"Cuando se produce un evento que debería almacenar en déclencheur un escenario de gancho web en Workfront Fusion, el escenario no se ejecuta y el evento permanece en la cola del gancho web".'
+title: 'Workfront Fusion: la cola de webhook no se está procesando'
+description: Cuando se produce un evento que debería activar un escenario de webhook en Workfront Fusion, el escenario no se ejecuta y el evento permanece en la cola del webhook.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 7e872b20658c7d5b330dafce98c80d624d17bae8
-workflow-type: tm+mt
+exl-id: 3388eaae-61cf-4a86-a946-925892c9633a
+source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Workfront Fusion: la cola de webhook no se está procesando
 
-# Workfront Fusion: La cola de webhook no se procesa
-
-Cuando se produce un evento que debería almacenar en déclencheur un escenario de gancho web en Workfront Fusion, el escenario no se ejecuta y el evento permanece en la cola del gancho web.
+Cuando se produce un evento que debería activar un escenario de webhook en Workfront Fusion, el escenario no se ejecuta y el evento permanece en la cola del webhook.
 
 _Notificado por primera vez el martes, 02 de septiembre de 2024._
