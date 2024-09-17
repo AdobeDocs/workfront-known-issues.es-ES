@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e8dde28f6cc4e646e55eb2263211af5e7ce86df
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 96%
+source-wordcount: '1026'
+ht-degree: 97%
 
 ---
 
@@ -25,18 +25,15 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: la llamada de API falla debido a un error de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | viernes, 12 de septiembre de 2024 |
 | [Agile: Agregar a la opción de iteración enumerada dos veces al asignar el equipo de depuración](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | viernes, 12 de septiembre de 2024 |
 | [Pruebas: los usuarios activos aparecen como desactivados](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | viernes, 12 de septiembre de 2024 |
 | [Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | viernes, 05 de septiembre de 2024 |
 | [Móvil: no se puede cerrar la sesión y falta información del perfil de usuario](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | miércoles, 03 de septiembre de 2024 |
-| [Tableros: el estado de la tarjeta no coincide con el objeto conectado y omite el filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | miércoles, 03 de septiembre de 2024 |
 | [Paneles: al seleccionar el botón Exportar en un informe, se desplaza a la parte superior de la página](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | miércoles, 03 de septiembre de 2024 |
 | [Tableros: la tarjeta conectada está en una columna incorrecta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jueves, 28 de agosto de 2024 |
 | [Workfront: no se puede utilizar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martes, 26 de agosto de 2024 |
 | [Informes: faltan envíos de informes o se retrasan](known-issues-workfront/wf-reports-not-delivered.md) | martes, 26 de agosto de 2024 |
 | [Asignaciones: el icono Días libres no aparece al asignar tareas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martes, 26 de agosto de 2024 |
-| [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jueves, 21 de agosto de 2024 |
 | [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 15 de agosto de 2024 |
 | [Workfront Mobile: no se puede iniciar sesión sin usar el SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
 | [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md) | jueves, 14 de agosto de 2024 |

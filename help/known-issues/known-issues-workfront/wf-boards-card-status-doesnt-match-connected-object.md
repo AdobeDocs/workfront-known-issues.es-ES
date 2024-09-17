@@ -4,14 +4,18 @@ description: Las tarjetas de la columna de entrada de un tablero dinámico muest
 hidefromtoc: true
 feature: Agile
 exl-id: 28c0e503-f634-45ba-b957-824fcbbcfe77
-source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
-workflow-type: ht
-source-wordcount: '68'
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
 
 # Tableros: el estado de la tarjeta no coincide con el objeto conectado y omite el filtro
+
+>[!NOTE]
+>
+>Este problema se corrigió el sábado, 13 de septiembre de 2024.
 
 Las tarjetas de la columna de entrada de un tablero dinámico muestran información de estado incorrecta y no filtran correctamente según su estado.
 

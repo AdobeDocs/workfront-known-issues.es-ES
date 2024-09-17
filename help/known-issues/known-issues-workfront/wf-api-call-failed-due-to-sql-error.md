@@ -3,14 +3,18 @@ title: "API: La llamada de API falla debido a un error de SQL"
 description: "Al realizar una llamada de API, la llamada falla debido a un error SQL."
 hidefromtoc: true
 feature: Workfront API
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 8%
+source-wordcount: '51'
+ht-degree: 17%
 
 ---
 
 # API: La llamada de API falla debido a un error de SQL
+
+>[!NOTE]
+>
+>Este problema se ha resuelto.
 
 Al realizar una llamada de API, la llamada falla debido a un error de SQL.
 
