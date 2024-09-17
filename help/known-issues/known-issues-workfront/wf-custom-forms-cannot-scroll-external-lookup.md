@@ -1,17 +1,21 @@
 ---
-title: "Formularios personalizados: no se puede desplazar el campo de búsqueda externa"
-description: "Cuando se intentan ver las opciones en un campo de búsqueda externa, la lista desplegable de opciones no se desplaza y no se puede ver la lista completa de opciones"
+title: "Formularios personalizados: no se puede desplazar el campo de búsqueda externo"
+description: Cuando se intentan ver las opciones en un campo de búsqueda externa, la lista desplegable de opciones no se desplaza y no se puede ver la lista completa de opciones
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 94%
 
 ---
 
-
 # Formularios personalizados: no se puede desplazar el campo de búsqueda externa
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 05 de septiembre de 2024.
 
 Cuando se intentan ver las opciones en un campo de búsqueda externa, la lista desplegable de opciones no se desplaza y no se puede ver la lista completa de opciones
 

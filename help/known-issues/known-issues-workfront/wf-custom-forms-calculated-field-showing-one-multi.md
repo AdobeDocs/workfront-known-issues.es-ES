@@ -1,17 +1,21 @@
 ---
-title: "Formularios personalizados: campo calculado que muestra un valor incorrecto"
-description: '"Cuando un usuario visualiza un campo calculado que hace referencia a valores de campo de búsqueda externa de selección múltiple, el campo calculado solo muestra un valor seleccionado. Esto puede ocurrir incluso cuando se seleccionan varios valores, y los valores múltiples se muestran cuando el usuario está editando el campo".'
+title: "Formularios personalizados: Campo calculado que muestra un valor incorrecto"
+description: Cuando un usuario visualiza un campo calculado que hace referencia a valores de campos de búsqueda externa de selección múltiple, el campo calculado solo muestra un valor seleccionado. Esto puede ocurrir incluso cuando se seleccionan varios valores, y los valores múltiples se muestran cuando el usuario está editando el campo.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+exl-id: a6768daa-f248-4311-8274-3ad4310faad7
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+workflow-type: tm+mt
+source-wordcount: '132'
+ht-degree: 94%
 
 ---
 
-
 # Formularios personalizados: campo calculado que muestra un valor incorrecto
+
+>[!NOTE]
+>
+>El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
 Cuando un usuario visualiza un campo calculado que hace referencia a valores de campos de búsqueda externa de selección múltiple, el campo calculado solo muestra un valor seleccionado. Esto puede ocurrir incluso cuando se seleccionan varios valores, y los valores múltiples se muestran cuando el usuario está editando el campo.
 

@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 5e8dde28f6cc4e646e55eb2263211af5e7ce86df
 workflow-type: tm+mt
-source-wordcount: '1014'
-ht-degree: 100%
+source-wordcount: '1055'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [API: la llamada de API falla debido a un error de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | viernes, 12 de septiembre de 2024 |
+| [Agile: Agregar a la opción de iteración enumerada dos veces al asignar el equipo de depuración](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | viernes, 12 de septiembre de 2024 |
+| [Pruebas: los usuarios activos aparecen como desactivados](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | viernes, 12 de septiembre de 2024 |
 | [Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | viernes, 05 de septiembre de 2024 |
 | [Móvil: no se puede cerrar la sesión y falta información del perfil de usuario](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | miércoles, 03 de septiembre de 2024 |
 | [Tableros: el estado de la tarjeta no coincide con el objeto conectado y omite el filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | miércoles, 03 de septiembre de 2024 |
@@ -38,7 +41,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Workfront Mobile: no se puede iniciar sesión sin usar el SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
 | [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md) | jueves, 14 de agosto de 2024 |
 | [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | martes, 05 de agosto de 2024 |
-| [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md) | viernes, 25 de julio de 2024 |
 | [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | miércoles, 25 de junio de 2024 |
 | [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junio de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de mayo de 2024 |
@@ -51,19 +53,20 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Asignaciones: se produce un error en la asignación de tareas y se eliminaron los permisos heredados](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | viernes, 12 de septiembre de 2024 |
+| [Grupos: vuelve a aparecer el estado de grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md) | viernes, 12 de septiembre de 2024 |
+| [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md) | viernes, 12 de septiembre de 2024 |
+| [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | viernes, 12 de septiembre de 2024 |
 | [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sábado, 30 de agosto de 2024 |
-| [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | viernes, 29 de agosto de 2024 |
 | [Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | viernes, 22 de agosto de 2024 |
 | [Formularios personalizados: los formularios se ajustan por defecto a los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md) | viernes, 22 de agosto de 2024 |
 | [Tableros: la tarjeta no incluye subtareas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | martes, 19 de agosto de 2024 |
 | [Formularios personalizados: error de conversiones de tipo de visualización en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | viernes, 15 de agosto de 2024 |
 | [Configuración: problemas al cerrar la sesión como otro usuario](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 15 de agosto de 2024 |
-| [Integraciones: error al crear una solicitud desde Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | jueves, 14 de agosto de 2024 |
 | [Notificaciones: error al configurar las preferencias de las notificaciones](known-issues-workfront/wf-notifications-whoops-error.md) | viernes, 08 de agosto de 2024 |
 | [Tableros: error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md) | viernes, 08 de agosto de 2024 |
 | [Formularios personalizados: el explorador se bloquea al crear formularios grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 de agosto de 2024 |
 | [Formularios personalizados: el generador de formularios se bloquea al introducir la lógica de visualización](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 de agosto de 2024 |
-| [Formularios personalizados: campo calculado que muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 de agosto de 2024 |
 | [Niveles de acceso: niveles de acceso duplicados en el área de configuración](known-issues-workfront/wf-access-duplicate-level.md) | viernes, 25 de julio de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 de abril de 2024 |
 | [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 de abril de 2024 |
@@ -77,6 +80,8 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formularios personalizados: campo calculado que muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | viernes, 12 de septiembre de 2024 |
+| [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | viernes, 12 de septiembre de 2024 |
 | [Tableros: el tablero no se muestra como tablero del usuario al utilizar [!UICONTROL Iniciar sesión como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 30 de agosto de 2024 |
 | [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 30 de agosto de 2024 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | miércoles, 27 de agosto de 2024 |
