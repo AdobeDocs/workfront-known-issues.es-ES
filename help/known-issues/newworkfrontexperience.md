@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
 workflow-type: tm+mt
 source-wordcount: '1055'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
 | [API: la llamada de API falla debido a un error de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | viernes, 12 de septiembre de 2024 |
-| [Agile: Agregar a la opción de iteración enumerada dos veces al asignar el equipo de depuración](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | viernes, 12 de septiembre de 2024 |
+| [Agile: la opción Añadir a la iteración aparece dos veces al asignar un equipo de Scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | viernes, 12 de septiembre de 2024 |
 | [Pruebas: los usuarios activos aparecen como desactivados](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | viernes, 12 de septiembre de 2024 |
 | [Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | viernes, 05 de septiembre de 2024 |
 | [Móvil: no se puede cerrar la sesión y falta información del perfil de usuario](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | miércoles, 03 de septiembre de 2024 |
@@ -53,8 +53,8 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Asignaciones: se produce un error en la asignación de tareas y se eliminaron los permisos heredados](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | viernes, 12 de septiembre de 2024 |
-| [Grupos: vuelve a aparecer el estado de grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md) | viernes, 12 de septiembre de 2024 |
+| [Asignaciones: la asignación de tareas falla y se eliminan los permisos heredados](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | viernes, 12 de septiembre de 2024 |
+| [Grupos: vuelve a aparecer el estado del grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md) | viernes, 12 de septiembre de 2024 |
 | [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md) | viernes, 12 de septiembre de 2024 |
 | [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | viernes, 12 de septiembre de 2024 |
 | [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sábado, 30 de agosto de 2024 |

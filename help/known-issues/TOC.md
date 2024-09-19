@@ -5,7 +5,7 @@ role: User
 source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
 source-wordcount: '1746'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Asignaciones: la asignación de tareas falla y se eliminan los permisos heredados](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [Asignaciones: la asignación de tarea falla y se eliminan los permisos heredados](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [Grupos: vuelve a aparecer el estado del grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API: La llamada de API falla debido a un error de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
-      + [Agile: la opción Añadir a la iteración aparece dos veces al asignar un equipo de depuración](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [Agile: la opción Añadir a la iteración aparece dos veces al asignar un equipo de Scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
       + [Pruebas: los usuarios activos aparecen como desactivados](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Móvil: no se puede cerrar la sesión y falta información del perfil de usuario](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
