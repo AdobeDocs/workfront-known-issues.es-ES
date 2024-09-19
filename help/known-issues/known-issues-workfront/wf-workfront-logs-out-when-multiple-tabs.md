@@ -4,7 +4,7 @@ description: Cuando un usuario tiene varias pestañas del explorador abiertas, e
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: e76b7127-a283-461b-af10-30640fe9e711
-source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 51%
@@ -13,7 +13,7 @@ ht-degree: 51%
 
 # Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión
 
-<!--Valid issue, won't fix-->
+<!--Valid issue, won't fix. will be fixed by -->
 
 Cuando un usuario tiene varias pestañas del explorador abiertas, es posible que Workfront cierre la sesión automáticamente.
 
