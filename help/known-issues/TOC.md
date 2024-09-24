@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
 workflow-type: tm+mt
-source-wordcount: '1774'
-ht-degree: 98%
+source-wordcount: '1782'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Tableros: Error al mover tarjetas o asignar usuarios](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Informes: largos tiempos de carga del Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Asignaciones: la asignación de tarea falla y se eliminan los permisos heredados](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
