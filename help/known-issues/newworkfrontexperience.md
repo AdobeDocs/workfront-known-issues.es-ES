@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: b9206238976884e19b286d3a401ec32b58c144a4
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1057'
 ht-degree: 98%
 
 ---
@@ -52,6 +52,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | miércoles, 24 de septiembre de 2024 |
 | [Asignaciones: la asignación de tareas falla y se eliminan los permisos heredados](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | viernes, 12 de septiembre de 2024 |
 | [Grupos: vuelve a aparecer el estado del grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md) | viernes, 12 de septiembre de 2024 |
 | [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md) | viernes, 12 de septiembre de 2024 |
