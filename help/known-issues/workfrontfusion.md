@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Fusion
 keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: e39c40827508ace70eed836bc07f67ab11f40a15
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 100%
+source-wordcount: '178'
+ht-degree: 94%
 
 ---
 
@@ -38,7 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| Ninguno |  |
+| [Workfront Fusion: No se pueden agregar ni eliminar usuarios de Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | miércoles, 24 de septiembre de 2024 |
 
 {style="table-layout:auto"}
 
