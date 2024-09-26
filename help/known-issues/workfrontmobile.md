@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront]  Mobil
 keywords: nuevo archivo, añadir archivo
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -19,22 +19,21 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 >
 >Para más información sobre el tiempo activo o las interrupciones del servidor, consulte [https://status.adobe.com/es](https://status.adobe.com/es). Para más información sobre los problemas que se han solucionado recientemente, consulte [[!DNL Workfront] las actualizaciones de mantenimiento](../maintenance/current-updates.md).
 
-<!--**There are currently no known issues for [!DNL Workfront Mobile]**
-
--->
+**Actualmente no hay problemas conocidos para[!DNL Workfront Mobile]**
 
 
+<!--
+## New
 
-## Nuevo
+These recently reported issues are currently under review.
 
-Actualmente, se están examinando estos problemas que se han notificado recientemente.
-
-| **Problema** | **Última modificación** |
+| **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Mobile: no se puede iniciar sesión sin usar el SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
 
-## Problemas actuales
 
-| Problema | Última modificación |
+## Current Issues
+
+|Issue  |Last Modified   | 
 |---|---|
-| Texto del problema | AAAA/MM/DD |
+|Issue text  | YYYY/MM/DD  | 
+-->
