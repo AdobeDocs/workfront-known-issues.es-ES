@@ -1,13 +1,13 @@
 ---
-title: "Formularios personalizados: Campo calculado que muestra un valor incorrecto"
+title: '“Formularios personalizados: campo calculado que muestra un valor incorrecto”'
 description: Cuando un usuario visualiza un campo calculado que hace referencia a valores de campos de búsqueda externa de selección múltiple, el campo calculado solo muestra un valor seleccionado. Esto puede ocurrir incluso cuando se seleccionan varios valores, y los valores múltiples se muestran cuando el usuario está editando el campo.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: a6768daa-f248-4311-8274-3ad4310faad7
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

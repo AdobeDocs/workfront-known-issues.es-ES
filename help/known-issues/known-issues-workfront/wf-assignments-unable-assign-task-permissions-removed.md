@@ -1,16 +1,16 @@
 ---
-title: "Asignaciones: la asignación de tareas falla y se han eliminado los permisos heredados"
-description: '"Al asignar una tarea a un equipo, la asignación falla y devuelve un error. Además, se eliminan los permisos heredados, lo que elimina el acceso del usuario a la tarea que intentaba asignar".'
+title: '“Asignaciones: la asignación de tarea falla y se eliminan los permisos heredados”'
+description: “Al asignar una tarea a un equipo, la asignación falla y devuelve un error. Además, se eliminan los permisos heredados, lo que elimina el acceso del usuario a la tarea que intentaba asignar”.
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
-# Asignaciones: la asignación de tareas falla y se eliminan los permisos heredados
+# Asignaciones: la asignación de tarea falla y se eliminan los permisos heredados
 
 Al asignar una tarea a un equipo, la asignación falla y devuelve un error. Además, se eliminan los permisos heredados, lo que elimina el acceso del usuario a la tarea que intentaba asignar.
 
