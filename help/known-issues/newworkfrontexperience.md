@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '1021'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Informes: largos tiempos de carga del Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | viernes, 19 de septiembre de 2024 |
+| [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | viernes, 19 de septiembre de 2024 |
 | [API: la llamada de API falla debido a un error de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | viernes, 12 de septiembre de 2024 |
 | [Pruebas: los usuarios activos aparecen como desactivados](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | viernes, 12 de septiembre de 2024 |
 | [Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | viernes, 05 de septiembre de 2024 |

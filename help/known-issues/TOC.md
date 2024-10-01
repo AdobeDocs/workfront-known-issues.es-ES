@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '1804'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Tableros: Error al mover tarjetas o asignar usuarios](known-issues-workfront/wf-boards-error-moving-cards.md)
-      + [Informes: largos tiempos de carga del Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [Tableros: error al mover tarjetas o asignar usuarios](known-issues-workfront/wf-boards-error-moving-cards.md)
+      + [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Asignaciones: la asignación de tarea falla y se eliminan los permisos heredados](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [Grupos: vuelve a aparecer el estado del grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md)
@@ -201,7 +201,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
-      + [Workfront Proof: el contenido se pega incorrectamente en la sección Actualizaciones del Visor de corrección de escritorio](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
+      + [Workfront Proof: el contenido se pega incorrectamente en la sección Actualizaciones del visualizador de revisión del escritorio](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: no se pueden reordenar los recursos al crear una prueba](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca de tiempo inexacta en [!UICONTROL Resumen de prueba]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: no se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -229,7 +229,7 @@ ht-degree: 96%
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: Problemas del almacén de datos](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion: Los detalles de ejecución se muestran como procesamiento](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
-      + [Workfront Fusion: No se pueden añadir ni eliminar usuarios de Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
+      + [Workfront Fusion: no se pueden añadir ni eliminar usuarios de Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: la cola de webhook no se está procesando](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: falta el campo en el módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
