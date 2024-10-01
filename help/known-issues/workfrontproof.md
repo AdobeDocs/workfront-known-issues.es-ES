@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof: el contenido se pega incorrectamente en la sección Actualizaciones del Visor de corrección de escritorio](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | viernes, 19 de septiembre de 2024 |
+| [Workfront Proof: el contenido se pega incorrectamente en la sección Actualizaciones del visualizador de revisión de escritorio](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | viernes, 19 de septiembre de 2024 |
 | [Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | viernes, 15 de agosto de 2024 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martes, 08 de julio de 2024 |
 | [No se puede crear la vista para la lista de documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martes, 15 de julio de 2024 |
