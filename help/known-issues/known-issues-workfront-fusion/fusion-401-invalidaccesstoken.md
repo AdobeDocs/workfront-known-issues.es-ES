@@ -1,17 +1,21 @@
 ---
-title: '“Workfront Fusion: 401 InvalidAccessTokenError”'
-description: “Los escenarios están encontrando errores 401 InvalidAccessTokenError. Estos errores son intermitentes”.
+title: "Workfront Fusion: 401 InvalidAccessTokenError"
+description: Los escenarios encuentran 401 errores InvalidAccessTokenError. Estos errores son intermitentes.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
-workflow-type: ht
-source-wordcount: '30'
-ht-degree: 100%
+exl-id: dfdb001d-813e-434c-be82-d2141994952b
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '35'
+ht-degree: 71%
 
 ---
 
-
 # Workfront Fusion: 401 InvalidAccessTokenError
+
+>[!NOTE]
+>
+>Este problema se ha resuelto.
 
 Los escenarios están encontrando errores `401 InvalidAccessTokenError`. Estos errores son intermitentes.
 

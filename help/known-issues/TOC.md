@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 99%
+source-wordcount: '1845'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Iniciar sesión como redirige al inicio de sesión o produce un error](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Inicio: &quot;Marcar como listo&quot; cierra el panel de resumen del widget Mis problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Proyectos: No se pueden compartir proyectos debido al error de &quot;acceso a la eliminación&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [AEM Pruebas: La creación de pruebas falla en documentos vinculados desde a través de la de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Tableros: error al mover tarjetas o asignar usuarios](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md)

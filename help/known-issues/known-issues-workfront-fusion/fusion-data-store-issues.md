@@ -3,15 +3,19 @@ title: "Workfront Fusion: Problemas del almacén de datos"
 description: '"Se han notificado los siguientes problemas con respecto a los campos booleanos en los almacenes de datos: los almacenes de datos no devuelven ningún valor para los campos que tienen el valor EMPTY y los usuarios no pueden establecer valores en FALSE directamente en el almacén de datos".'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 5%
+source-wordcount: '106'
+ht-degree: 10%
 
 ---
 
 
 # Workfront Fusion: Problemas del almacén de datos
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 26 de septiembre de 2024.
 
 Se han notificado los siguientes problemas con respecto a los campos booleanos en los almacenes de datos:
 

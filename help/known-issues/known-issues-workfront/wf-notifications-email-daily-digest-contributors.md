@@ -4,9 +4,9 @@ description: “Los usuarios con una licencia de colaborador no reciben correos 
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se ha cerrado porque funciona como se diseñó.
+>Este problema se corrigió el viernes, 03 de octubre de 2024.
 
 Los usuarios con una licencia Contributor no reciben correos electrónicos de notificación. Esto puede afectar tanto a los correos electrónicos de notificación instantánea como a los de resumen diario.
 

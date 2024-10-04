@@ -3,15 +3,19 @@ title: "Workfront Fusion: Los detalles de ejecución se muestran como procesamie
 description: '"Cuando un usuario intenta ver los detalles de una ejecución, ve que esta muestra el distintivo de procesamiento mucho después de que se haya completado".'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 25c18a4c5f65bbfb93c4d18e01e8a49e8ccb8699
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 4%
+source-wordcount: '89'
+ht-degree: 11%
 
 ---
 
 
 # Workfront Fusion: Los detalles de ejecución se muestran como procesamiento
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 03 de octubre de 2024.
 
 Cuando un usuario intenta ver los detalles de una ejecución, ve que esta muestra el distintivo &quot;Procesando&quot; mucho después de que se haya completado.
 

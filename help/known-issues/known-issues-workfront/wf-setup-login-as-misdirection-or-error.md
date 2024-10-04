@@ -1,17 +1,21 @@
 ---
-title: '“Configuración: problemas al cerrar la sesión como otro usuario”'
-description: “Cuando un administrador inicia sesión como otro usuario e intenta cerrar la sesión, pueden producirse problemas”.
+title: "Configuración: Problemas al cerrar la sesión como otro usuario"
+description: Cuando un administrador inicia sesión como otro usuario e intenta cerrar la sesión, pueden producirse problemas.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 70%
 
 ---
 
-
 # Configuración: problemas al cerrar la sesión como otro usuario
+
+>[!NOTE]
+>
+>Este problema se corrigió el sábado, 20 de septiembre de 2024.
 
 Cuando un administrador inicia sesión como otro usuario e intenta cerrar la sesión, pueden producirse los siguientes problemas:
 

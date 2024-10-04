@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '5723'
-ht-degree: 98%
+source-wordcount: '5906'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,47 @@ Estas actualizaciones también incluyen otras correcciones de errores menores o 
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
+
+## Actualizaciones en octubre de 2024
+
++++**Actualización de mantenimiento del viernes, 03 de octubre de 2024**
+
+### Actualización de mantenimiento el 3 de octubre de 2024
+
+#### Tableros
+
+**No se sincronizaron las tarjetas conectadas archivadas**
+
+Para solucionar los problemas de rendimiento, las tarjetas conectadas que se archivan ya no se sincronizan. Los cambios realizados en la tarea o el problema de Workfront no se reflejan en las tarjetas archivadas. Si restaura una tarjeta, se volverá a sincronizar.
+
+#### Formularios personalizados
+
+**Error de conversión de tipo de visualización en formularios personalizados**
+
+Los campos de texto enriquecido hacen que aparezca el siguiente error en los formularios personalizados:
+
+“Error: no se permiten las conversiones de tipo de visualización entre texto y texto enriquecido”.
+
+Esto puede ocurrir en las siguientes condiciones:
+
+* El usuario comienza a editar los formularios pero hace clic en Aplicar sin realizar ningún cambio.
+* El usuario está creando un formulario personalizado.
+
+En ambos casos, los campos de texto enriquecido son la causa de los problemas.
+
+#### Notificaciones
+
+**Los usuarios colaboradores no reciben notificaciones por correo electrónico**
+
+Los usuarios con una licencia Contributor no reciben correos electrónicos de notificación. Esto puede afectar tanto a los correos electrónicos de notificación instantánea como a los de resumen diario.
+
+#### Pruebas
+
+**No se pueden agregar firmas electrónicas al usar SSO para Proof**
+
+Al utilizar SSO para iniciar sesión en Proof, los usuarios no pueden configurar una prueba para que requiera firmas electrónicas.
+
++++
 
 ## Actualizaciones en septiembre de 2024
 
