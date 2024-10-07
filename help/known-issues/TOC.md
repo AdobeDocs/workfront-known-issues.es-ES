@@ -231,8 +231,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conocidos de Workfront Fusion](workfrontfusion.md)
    + Problemas actuales en [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Problemas del almacén de datos](known-issues-workfront-fusion/fusion-data-store-issues.md)
-      + [Workfront Fusion: Los detalles de ejecución se muestran como procesamiento](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
+      + [Workfront Fusion: problemas del almacén de datos](known-issues-workfront-fusion/fusion-data-store-issues.md)
+      + [Workfront Fusion: los detalles de ejecución se muestran como procesamiento](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion: no se pueden añadir ni eliminar usuarios de Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: la cola de webhook no se está procesando](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)

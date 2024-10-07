@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
 source-wordcount: '5906'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -73,15 +73,15 @@ Al utilizar SSO para iniciar sesión en Proof, los usuarios no pueden configurar
 
 #### Agile
 
-**Agregar a la opción de iteración enumerada dos veces al asignar el equipo de depuración**
+**Agile: la opción Añadir a la iteración aparece dos veces al asignar un equipo de Scrum**
 
 Al asignar una tarea o un problema a un equipo de Scrum Agile, la opción “Añadir a la iteración” aparece dos veces en el menú Más. Esto no afecta a la capacidad de asignar el equipo y no aparece para equipos Agile que no sean de Scrum.
 
 #### Formularios personalizados
 
-**Lista de campos del editor de cálculos limitada a 200 elementos**
+**Lista de campos del Editor de cálculos limitada a 200 elementos**
 
-En el Editor de cálculos para campos calculados en formularios personalizados, la lista de campos de un objeto ahora está limitada a 200 elementos para mejorar el rendimiento del sistema. Si conoce el nombre del campo, puede buscarlo utilizando la opción de escritura anticipada en lugar de desplazarse por la lista.
+En el Editor de cálculos para campos calculados en formularios personalizados, la lista de campos para un objeto está limitada ahora a 200 elementos para mejorar el rendimiento del sistema. Si conoce el nombre del campo, puede buscarlo utilizando la opción de escritura anticipada en lugar de desplazarse por la lista.
 
 #### Informes
 
