@@ -1,13 +1,13 @@
 ---
-title: "Workfront Mobile: No se puede iniciar sesión sin usar SSO"
+title: '“Workfront Mobile: no se puede iniciar sesión sin usar el SSO”'
 description: Cuando un usuario inicia sesión en la aplicación de Workfront Mobile, debe utilizar el SSO para iniciar sesión. El usuario no puede utilizar sus credenciales de Workfront o Adobe ID.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: fd3d2bc1-cb0c-4cf6-be39-7c5c3f7ac74b
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

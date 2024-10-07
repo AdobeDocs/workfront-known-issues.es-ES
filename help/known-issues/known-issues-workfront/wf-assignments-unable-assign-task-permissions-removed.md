@@ -4,7 +4,7 @@ description: “Al asignar una tarea a un equipo, la asignación falla y devuelv
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
