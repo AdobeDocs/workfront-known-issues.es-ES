@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1845'
-ht-degree: 97%
+source-wordcount: '1888'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: No se pueden mover documentos desde el objeto Pestaña Documentos](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [Tableros: Duplicar opciones de estado para tareas y problemas](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [Inicio: los campos personalizados eliminados persisten en los widgets de proyecto, tarea y problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [Prioridades: las agrupaciones impiden la ordenación y edición en línea](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Iniciar sesión como redirige al inicio de sesión o produce un error](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [Inicio: &quot;Marcar como listo&quot; cierra el panel de resumen del widget Mis problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [Proyectos: No se pueden compartir proyectos debido al error de &quot;acceso a la eliminación&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -205,6 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Mobile: Los vínculos del correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof: el contenido se pega incorrectamente en la sección Actualizaciones del visualizador de revisión del escritorio](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: no se pueden reordenar los recursos al crear una prueba](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca de tiempo inexacta en [!UICONTROL Resumen de prueba]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)

@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1039'
-ht-degree: 96%
+source-wordcount: '1087'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: no se pueden mover documentos desde el objeto Ficha Documentos](known-issues-workfront/wf-documents-cannot-move-from-object.md) | jueves, 09 de octubre de 2024 |
+| [Tableros: opciones de estado duplicadas para tareas y problemas](known-issues-workfront/wf-boards-duplicate-status-options.md) | jueves, 09 de octubre de 2024 |
+| [Workfront Mobile: los vínculos del correo electrónico de revisión no se abrirán en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jueves, 09 de octubre de 2024 |
 | [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | viernes, 19 de septiembre de 2024 |
 | [API: la llamada de API falla debido a un error de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | viernes, 12 de septiembre de 2024 |
 | [Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | viernes, 05 de septiembre de 2024 |
@@ -76,6 +79,8 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Inicio: los campos personalizados eliminados persisten en los widgets de proyecto, tarea y problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | miércoles, 08 de octubre de 2024 |
+| [Prioridades: las agrupaciones impiden la ordenación y la edición en línea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | miércoles, 08 de octubre de 2024 |
 | [Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md) | viernes, 19 de septiembre de 2024 |
 | [Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | jueves, 18 de septiembre de 2024 |
 | [Formularios personalizados: campo calculado que muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | viernes, 12 de septiembre de 2024 |
