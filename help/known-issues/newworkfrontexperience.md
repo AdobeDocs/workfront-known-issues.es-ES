@@ -4,9 +4,9 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '1087'
+source-wordcount: '1028'
 ht-degree: 96%
 
 ---
@@ -25,7 +25,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: no se pueden mover documentos desde el objeto Ficha Documentos](known-issues-workfront/wf-documents-cannot-move-from-object.md) | jueves, 09 de octubre de 2024 |
 | [Tableros: opciones de estado duplicadas para tareas y problemas](known-issues-workfront/wf-boards-duplicate-status-options.md) | jueves, 09 de octubre de 2024 |
 | [Workfront Mobile: los vínculos del correo electrónico de revisión no se abrirán en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jueves, 09 de octubre de 2024 |
 | [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | viernes, 19 de septiembre de 2024 |
@@ -38,8 +37,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jueves, 21 de agosto de 2024 |
 | [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 15 de agosto de 2024 |
 | [Workfront Mobile: no se puede iniciar sesión sin usar el SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
-| [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md) | jueves, 14 de agosto de 2024 |
-| [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | martes, 05 de agosto de 2024 |
 | [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | miércoles, 25 de junio de 2024 |
 | [Informes: error al ver los detalles del informe agrupados por fecha personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junio de 2024 |
 | [Configuración: no aparece el banner “Ha iniciado sesión como” al iniciar sesión como otro usuario](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de mayo de 2024 |
@@ -52,19 +49,14 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [“Iniciar sesión como” redirige al inicio de sesión o provoca un error](known-issues-workfront/wf-login-as-redirects-to-login.md) | viernes, 03 de octubre de 2024 |
-| [Inicio: “Marcar como listo” cierra el panel de resumen del widget Mis problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | viernes, 03 de octubre de 2024 |
 | [Proyectos: no se pueden compartir proyectos debido al error “acceso para eliminar”](known-issues-workfront/wf-projects-sharing-access-error.md) | viernes, 03 de octubre de 2024 |
 | [Pruebas: no se puede crear la prueba para los documentos vinculados desde AEM a través de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | viernes, 03 de octubre de 2024 |
-| [Formularios personalizados: error de conversiones de tipo de visualización en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | viernes, 03 de octubre de 2024 |
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | miércoles, 24 de septiembre de 2024 |
 | [Grupos: vuelve a aparecer el estado del grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md) | viernes, 12 de septiembre de 2024 |
 | [Inicio: el widget de aprobaciones pendientes muestra los documentos eliminados](known-issues-workfront/wf-home-deleted-documents.md) | viernes, 12 de septiembre de 2024 |
-| [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sábado, 30 de agosto de 2024 |
 | [Formularios personalizados: los formularios se ajustan por defecto a los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md) | viernes, 22 de agosto de 2024 |
 | [Configuración: problemas al cerrar la sesión como otro usuario](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 15 de agosto de 2024 |
 | [Notificaciones: error al configurar las preferencias de las notificaciones](known-issues-workfront/wf-notifications-whoops-error.md) | viernes, 08 de agosto de 2024 |
-| [Tableros: error al cargar un tablero](known-issues-workfront/wf-boards-error-when-loading-board.md) | viernes, 08 de agosto de 2024 |
 | [Formularios personalizados: el generador de formularios se bloquea al introducir la lógica de visualización](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 de agosto de 2024 |
 | [Niveles de acceso: niveles de acceso duplicados en el área de configuración](known-issues-workfront/wf-access-duplicate-level.md) | viernes, 25 de julio de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 de abril de 2024 |
@@ -79,6 +71,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md) | martes, 14 de octubre de 2024 |
 | [Inicio: los campos personalizados eliminados persisten en los widgets de proyecto, tarea y problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | miércoles, 08 de octubre de 2024 |
 | [Prioridades: las agrupaciones impiden la ordenación y la edición en línea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | miércoles, 08 de octubre de 2024 |
 | [Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md) | viernes, 19 de septiembre de 2024 |

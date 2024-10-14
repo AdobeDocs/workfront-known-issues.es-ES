@@ -1,17 +1,21 @@
 ---
-title: '“Formularios personalizados: error de conversiones de tipo de visualización en formularios personalizados”'
-description: “Los campos de texto enriquecido están provocando que aparezca un error en los formularios personalizados”.
+title: "Formularios personalizados: Error de conversiones de tipo de visualización en formularios personalizados"
+description: Los campos de texto enriquecido están provocando que aparezca un error en los formularios personalizados.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 79%
 
 ---
 
-
 # Formularios personalizados: error de conversiones de tipo de visualización en formularios personalizados
+
+>[!NOTE]
+>
+>Este problema se corrigió el jueves, 09 de octubre de 2024.
 
 Los campos de texto enriquecido hacen que aparezca el siguiente error en los formularios personalizados:
 

@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
-source-wordcount: '5906'
-ht-degree: 100%
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '6157'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,49 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en octubre de 2024
+
++++**Actualización de mantenimiento del viernes, 10 de octubre de 2024**
+
+### Actualización de mantenimiento del viernes, 10 de octubre de 2024
+
+#### Tableros
+
+**Error al mover tarjetas o asignar usuarios**
+
+Al mover tarjetas o asignar usuarios, a veces la acción no se completa y en su lugar produce el error “Respuesta incorrecta: código de estado recibido 502” después de un retraso.
+
+**Error al cargar un tablero**
+
+Cuando un usuario intenta cargar un tablero, este no se carga y el usuario recibe el siguiente mensaje:
+
+&quot;Error al cargar el tablero&quot;
+
+&quot;Se ha producido un error al cargar este tablero. Actualice la página para intentarlo de nuevo o, si el problema persiste, póngase en contacto con el servicio de asistencia técnica con el ID de error siguiente.&quot;
+
+#### Inicio
+
+**&quot;Marcar como listo&quot; cierra el panel de resumen del widget Mis problemas**
+
+Cuando se intenta usar el botón “Marcar como listo” en el panel de resumen de un problema abierto mediante el widget Mis problemas, el panel de resumen se cierra inesperadamente.
+
+**La configuración del widget de plantilla de diseño no puede agregar la columna**
+
+Al seleccionar un campo para añadirlo a un widget mediante la configuración del widget de plantilla de diseño, se puede seleccionar un campo, pero la columna correspondiente no aparece en el widget.
+
+#### Tareas
+
+**Problemas con el cálculo de la escala de tiempo**
+
+Se ha informado de los siguientes problemas acerca del recálculo de la línea de tiempo:
+
+* Cuando se actualiza la duración de una tarea de la línea de tiempo, el sistema tarda un tiempo considerable en volver a calcularla.
+* Una vez finalizado el recálculo, las fechas pueden permanecer desactivadas o desactivarse, como si la línea de tiempo siguiera recalculándose.
+
+**No se muestran los gastos de la tarea**
+
+Después de agregar un gasto a una tarea, el gasto no aparece en la información de la tarea a pesar de la confirmación de API de que se ingresó.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 03 de octubre de 2024**
 
