@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5906'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,17 +28,17 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 +++**Actualización de mantenimiento del viernes, 03 de octubre de 2024**
 
-### Actualización de mantenimiento el 3 de octubre de 2024
+### Actualización de mantenimiento del 3 de octubre de 2024
 
 #### Tableros
 
-**No se sincronizaron las tarjetas conectadas archivadas**
+**No se han sincronizado las tarjetas conectadas archivadas**
 
 Para solucionar los problemas de rendimiento, las tarjetas conectadas que se archivan ya no se sincronizan. Los cambios realizados en la tarea o el problema de Workfront no se reflejan en las tarjetas archivadas. Si restaura una tarjeta, se volverá a sincronizar.
 
 #### Formularios personalizados
 
-**Error de conversión de tipo de visualización en formularios personalizados**
+**Error de conversiones de tipo de visualización en formularios personalizados**
 
 Los campos de texto enriquecido hacen que aparezca el siguiente error en los formularios personalizados:
 
@@ -59,9 +59,9 @@ Los usuarios con una licencia Contributor no reciben correos electrónicos de no
 
 #### Pruebas
 
-**No se pueden agregar firmas electrónicas al usar SSO para Proof**
+**No se pueden añadir firmas electrónicas al usar SSO para Prueba**
 
-Al utilizar SSO para iniciar sesión en Proof, los usuarios no pueden configurar una prueba para que requiera firmas electrónicas.
+Al utilizar SSO para iniciar sesión en Prueba, los usuarios no pueden establecer una prueba para que requiera firmas electrónicas.
 
 +++
 
