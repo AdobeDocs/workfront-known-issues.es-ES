@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '1087'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -52,10 +52,10 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
-| [Iniciar sesión como redirige al inicio de sesión o provoca un error](known-issues-workfront/wf-login-as-redirects-to-login.md) | viernes, 03 de octubre de 2024 |
-| [Inicio: &quot;Marcar como listo&quot; cierra el panel de resumen del widget Mis problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | viernes, 03 de octubre de 2024 |
-| [Proyectos: no se pueden compartir proyectos debido al error de &quot;acceso para eliminar&quot;](known-issues-workfront/wf-projects-sharing-access-error.md) | viernes, 03 de octubre de 2024 |
-| AEM [Pruebas: no se puede crear la prueba para los documentos vinculados desde el punto de vista de los usuarios a través de la fusión](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | viernes, 03 de octubre de 2024 |
+| [“Iniciar sesión como” redirige al inicio de sesión o provoca un error](known-issues-workfront/wf-login-as-redirects-to-login.md) | viernes, 03 de octubre de 2024 |
+| [Inicio: “Marcar como listo” cierra el panel de resumen del widget Mis problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | viernes, 03 de octubre de 2024 |
+| [Proyectos: no se pueden compartir proyectos debido al error “acceso para eliminar”](known-issues-workfront/wf-projects-sharing-access-error.md) | viernes, 03 de octubre de 2024 |
+| [Pruebas: no se puede crear la prueba para los documentos vinculados desde AEM a través de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | viernes, 03 de octubre de 2024 |
 | [Formularios personalizados: error de conversiones de tipo de visualización en formularios personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | viernes, 03 de octubre de 2024 |
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | miércoles, 24 de septiembre de 2024 |
 | [Grupos: vuelve a aparecer el estado del grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md) | viernes, 12 de septiembre de 2024 |

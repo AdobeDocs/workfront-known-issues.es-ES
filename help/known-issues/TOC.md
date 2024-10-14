@@ -5,7 +5,7 @@ role: User
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '1888'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 95%
       + [Tableros: Duplicar opciones de estado para tareas y problemas](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Inicio: los campos personalizados eliminados persisten en los widgets de proyecto, tarea y problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Prioridades: las agrupaciones impiden la ordenación y edición en línea](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [Iniciar sesión como redirige al inicio de sesión o produce un error](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [Inicio: &quot;Marcar como listo&quot; cierra el panel de resumen del widget Mis problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
-      + [Proyectos: No se pueden compartir proyectos debido al error de &quot;acceso a la eliminación&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [AEM Pruebas: La creación de pruebas falla en documentos vinculados desde a través de la de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
+      + [“Iniciar sesión como” redirige al inicio de sesión o provoca un error](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Inicio: “Marcar como listo” cierra el panel de resumen del widget Mis problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Proyectos: no se pueden compartir proyectos debido al error “acceso para eliminar”](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Pruebas: la creación de pruebas falla en los documentos vinculados desde AEM a través de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Tableros: error al mover tarjetas o asignar usuarios](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md)
