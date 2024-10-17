@@ -1,12 +1,12 @@
 ---
-title: "Prioridades: Las agrupaciones impiden la ordenación y la edición en línea"
-description: '"Cuando la lista de trabajo Prioridades tiene agrupaciones aplicadas, no se puede ordenar y la edición en línea no funciona para los campos de la lista de trabajo".'
+title: '“Prioridades: las agrupaciones impiden la ordenación y edición en línea”'
+description: “Cuando la lista de trabajo Prioridades tiene agrupaciones aplicadas, no se puede ordenar y la edición en línea no funciona para los campos de la lista de trabajo”.
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
