@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
 source-wordcount: '1028'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Tableros: opciones de estado duplicadas para tareas y problemas](known-issues-workfront/wf-boards-duplicate-status-options.md) | jueves, 09 de octubre de 2024 |
-| [Workfront Mobile: los vínculos del correo electrónico de revisión no se abrirán en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jueves, 09 de octubre de 2024 |
+| [Tableros: duplicar opciones de estado para tareas y problemas](known-issues-workfront/wf-boards-duplicate-status-options.md) | jueves, 09 de octubre de 2024 |
+| [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jueves, 09 de octubre de 2024 |
 | [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | viernes, 19 de septiembre de 2024 |
 | [API: la llamada de API falla debido a un error de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | viernes, 12 de septiembre de 2024 |
 | [Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | viernes, 05 de septiembre de 2024 |
