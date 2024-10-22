@@ -4,14 +4,18 @@ description: Los documentos de Word (.docx) no se pueden previsualizar ni descar
 hidefromtoc: true
 feature: Agile
 exl-id: 2fd644b6-b7c0-47b1-9de5-93fc35069b63
-source-git-commit: dfb51d03698d0bdbc08ab202bec5f8df133f3c55
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 # Tableros: no se pueden previsualizar ni descargar documentos desde la tarjeta
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 17 de octubre de 2024.
 
 Los documentos de Word (.docx) no se pueden previsualizar ni descargar desde la sección de documentos de la vista completa de una tarjeta.
 
