@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6157'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,23 +40,23 @@ Al mover tarjetas o asignar usuarios, a veces la acción no se completa y en su 
 
 Cuando un usuario intenta cargar un tablero, este no se carga y el usuario recibe el siguiente mensaje:
 
-&quot;Error al cargar el tablero&quot;
+“Error al cargar el tablero”
 
-&quot;Se ha producido un error al cargar este tablero. Actualice la página para intentarlo de nuevo o, si el problema persiste, póngase en contacto con el servicio de asistencia técnica con el ID de error siguiente.&quot;
+“Se produjo un error al cargar este tablero. Actualiza la página para intentarlo de nuevo o contacta con el equipo de asistencia con el ID de error si el problema persiste”.
 
 #### Inicio
 
-**&quot;Marcar como listo&quot; cierra el panel de resumen del widget Mis problemas**
+**“Marcar como listo” cierra el panel de resumen del widget Mis problemas**
 
 Cuando se intenta usar el botón “Marcar como listo” en el panel de resumen de un problema abierto mediante el widget Mis problemas, el panel de resumen se cierra inesperadamente.
 
-**La configuración del widget de plantilla de diseño no puede agregar la columna**
+**La configuración del widget de plantilla de diseño no puede añadir la columna**
 
 Al seleccionar un campo para añadirlo a un widget mediante la configuración del widget de plantilla de diseño, se puede seleccionar un campo, pero la columna correspondiente no aparece en el widget.
 
 #### Tareas
 
-**Problemas con el cálculo de la escala de tiempo**
+**Problemas con el recálculo de la cronología**
 
 Se ha informado de los siguientes problemas acerca del recálculo de la línea de tiempo:
 
@@ -65,7 +65,7 @@ Se ha informado de los siguientes problemas acerca del recálculo de la línea d
 
 **No se muestran los gastos de la tarea**
 
-Después de agregar un gasto a una tarea, el gasto no aparece en la información de la tarea a pesar de la confirmación de API de que se ingresó.
+Después de añadir un gasto a una tarea, el gasto no aparece en la información de la tarea a pesar de la confirmación de API de que se ingresó.
 
 +++
 

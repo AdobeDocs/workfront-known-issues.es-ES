@@ -1,13 +1,13 @@
 ---
-title: "Formularios personalizados: Error de conversiones de tipo de visualización en formularios personalizados"
+title: '“Formularios personalizados: error de conversiones de tipo de visualización en formularios personalizados”'
 description: Los campos de texto enriquecido están provocando que aparezca un error en los formularios personalizados.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 

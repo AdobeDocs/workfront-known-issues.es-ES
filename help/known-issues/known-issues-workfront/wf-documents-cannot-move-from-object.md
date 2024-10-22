@@ -4,7 +4,7 @@ description: '“Al intentar mover un documento desde la pestaña Documentos de 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 

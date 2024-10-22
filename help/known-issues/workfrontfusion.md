@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Empiece a configurar &quot;A partir de ahora&quot; para procesar todos los datos](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | martes, 14 de octubre de 2024 |
+| [Workfront Fusion: empieza a configurar “A partir de ahora” para procesar todos los datos](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | martes, 14 de octubre de 2024 |
 | [Pruebas: no se puede crear la prueba para los documentos vinculados desde AEM a través de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | viernes, 03 de octubre de 2024 |
 | [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | martes, 05 de agosto de 2024 |
 

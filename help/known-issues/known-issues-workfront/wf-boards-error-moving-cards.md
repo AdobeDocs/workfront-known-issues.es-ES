@@ -4,7 +4,7 @@ description: '“Al mover tarjetas o asignar usuarios, a veces la acción no se 
 hidefromtoc: true
 feature: Agile
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
