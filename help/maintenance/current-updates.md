@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
-source-wordcount: '6157'
-ht-degree: 100%
+source-git-commit: c97902d01cc405c209eda11c53eb8b55ec5f9a6c
+workflow-type: tm+mt
+source-wordcount: '6368'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,51 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en octubre de 2024
+
++++**(Planificado) Actualización de mantenimiento el viernes, 24 de octubre de 2024**
+
+### (Planificado) Actualización de mantenimiento del viernes, 24 de octubre de 2024
+
+#### Formularios personalizados
+
+**No se pueden actualizar los datos personalizados en los proyectos completados**
+
+Cuando un usuario intenta actualizar los datos personalizados en un proyecto que se ha completado, no puede actualizar los datos y ve el siguiente mensaje:
+
+&quot;No se puede completar la operación para un proyecto con el estado Completado.&quot;
+
+#### Proyectos
+
+**No se pueden agregar problemas al proyecto completado**
+
+Cuando un usuario intenta agregar un problema a un proyecto en estado Completo, el usuario no puede agregar el problema. Esto puede ocurrir aunque la opción &quot;Agregar y editar problemas&quot; esté habilitada
+
+**El gráfico Gantt no es preciso**
+
+Cuando un usuario ve el gráfico Gantt y cambia de vista, el gráfico no muestra datos precisos o puede que no muestre ningún dato.
+
++++
+
+
++++**Actualización de mantenimiento del viernes, 17 de octubre de 2024**
+
+### Actualización de mantenimiento del viernes, 17 de octubre de 2024
+
+#### Pruebas
+
+**Las pruebas muestran una fecha inexacta**
+
+Las fechas enumeradas en la lista de documentos muestran la fecha en la que se creó la primera versión del documento, en lugar de la fecha en la que se creó la versión más reciente.
+
+### Hojas de horas
+
+Cuando un usuario intenta registrar las horas en una plantilla de horas que está en estado Enviado o Cerrado, no puede hacerlo.
+
+Este es el comportamiento esperado y no debería considerarse un problema.
+
+Anteriormente, los usuarios podían registrar el tiempo en las hojas de horas enviadas o cerradas.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 10 de octubre de 2024**
 
