@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 100%
+source-wordcount: '1071'
+ht-degree: 95%
 
 ---
 
@@ -32,7 +32,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Tableros: la tarjeta conectada está en una columna incorrecta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jueves, 28 de agosto de 2024 |
 | [Workfront: no se puede utilizar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martes, 26 de agosto de 2024 |
 | [Asignaciones: el icono Días libres no aparece al asignar tareas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martes, 26 de agosto de 2024 |
-| [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jueves, 21 de agosto de 2024 |
 | [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 15 de agosto de 2024 |
 | [Workfront Mobile: no se puede iniciar sesión sin usar el SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jueves, 14 de agosto de 2024 |
 | [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | miércoles, 25 de junio de 2024 |
@@ -47,6 +46,14 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 |----------------------------------| ----------------- |
+| [Proyectos: el gráfico Gantt no es preciso](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | miércoles, 22 de octubre de 2024 |
+| [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | miércoles, 22 de octubre de 2024 |
+| [Proyectos: no se pueden agregar problemas al proyecto completado](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | miércoles, 22 de octubre de 2024 |
+| [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | miércoles, 22 de octubre de 2024 |
+| [Formularios personalizados: no se pueden actualizar los datos personalizados en los proyectos completados](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | miércoles, 22 de octubre de 2024 |
+| [Inicio: se puede tener acceso al área de prioridades cuando se ha deshabilitado](known-issues-workfront/wf-home-priorities-accessible.md) | miércoles, 22 de octubre de 2024 |
+| [Inicio: el widget de Mis aprobaciones no funciona](known-issues-workfront/wf-home-my-approval-not-working.md) | miércoles, 22 de octubre de 2024 |
+| [Pruebas: no se pueden crear pruebas en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | miércoles, 22 de octubre de 2024 |
 | [Proyectos: no se pueden compartir proyectos debido al error “acceso para eliminar”](known-issues-workfront/wf-projects-sharing-access-error.md) | viernes, 03 de octubre de 2024 |
 | [Pruebas: no se puede crear la prueba para los documentos vinculados desde AEM a través de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | viernes, 03 de octubre de 2024 |
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | miércoles, 24 de septiembre de 2024 |

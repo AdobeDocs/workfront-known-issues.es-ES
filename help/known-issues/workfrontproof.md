@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
-source-wordcount: '440'
-ht-degree: 100%
+source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
+workflow-type: tm+mt
+source-wordcount: '448'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: no se pueden crear pruebas en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | miércoles, 22 de octubre de 2024 |
 | [Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | viernes, 15 de agosto de 2024 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martes, 08 de julio de 2024 |
 | [No se puede crear la vista para la lista de documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martes, 15 de julio de 2024 |

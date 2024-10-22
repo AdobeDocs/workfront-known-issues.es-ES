@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: ht
-source-wordcount: '1898'
-ht-degree: 100%
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+workflow-type: tm+mt
+source-wordcount: '1944'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Proyectos: el gráfico Gantt no es preciso](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [Proyectos: no se pueden agregar problemas al proyecto completado](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [Formularios personalizados: no se pueden actualizar los datos personalizados en los proyectos completados](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [Inicio: se puede acceder al área de prioridades cuando se ha deshabilitado](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [Inicio: El widget Mis aprobaciones no funciona](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [Pruebas: No se pueden crear pruebas en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Documentos: no se pueden mover documentos desde la pestaña Documentos del objeto](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Tableros: duplicar opciones de estado para tareas y problemas](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Inicio: los campos personalizados eliminados persisten en los widgets de proyecto, tarea y problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
