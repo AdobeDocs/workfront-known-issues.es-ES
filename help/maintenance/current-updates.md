@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 96%
 
 ---
@@ -26,9 +26,15 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en octubre de 2024
 
-+++**(Planificado) Actualización de mantenimiento el viernes, 24 de octubre de 2024**
++++**Actualización de mantenimiento del viernes, 24 de octubre de 2024**
 
-### (Planificado) Actualización de mantenimiento del viernes, 24 de octubre de 2024
+### Actualización de mantenimiento del viernes, 24 de octubre de 2024
+
+#### Asignaciones
+
+**El icono de tiempo libre no aparece al asignar tareas**
+
+cuando un usuario está asignando una tarea y empieza a escribir el nombre del usuario asignado que tiene días libres programados durante la tarea, los iconos del usuario en el área Asignaciones sugeridas no muestran el icono de días libres (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono.
 
 #### Formularios personalizados
 
