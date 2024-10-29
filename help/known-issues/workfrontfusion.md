@@ -4,8 +4,8 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Fusion
 keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: ht
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 100%
 
@@ -25,7 +25,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: empieza a configurar “A partir de ahora” para procesar todos los datos](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | martes, 14 de octubre de 2024 |
 | [Pruebas: no se puede crear la prueba para los documentos vinculados desde AEM a través de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | viernes, 03 de octubre de 2024 |
 | [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | martes, 05 de agosto de 2024 |
 
@@ -47,6 +46,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: empieza a configurar “A partir de ahora” para procesar todos los datos](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | miércoles, 29 de octubre de 2024 |
 | [Workfront Fusion: Falta el campo en el módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | martes, 05 de febrero de 2024 |
 | [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | jueves, 31 de enero de 2024 |
 | [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 de noviembre de 2023 |

@@ -3,15 +3,19 @@ title: "Informes: falta la opción Mostrar filtro / Ocultar filtro"
 description: "Cuando un usuario está viendo un informe, las opciones de filtro Mostrar y Ocultar no están visibles."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '70'
+ht-degree: 15%
 
 ---
 
 
 # Informes: falta la opción Mostrar filtro / Ocultar filtro
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 24 de octubre de 2024.
 
 Cuando un usuario está viendo un informe, las opciones de filtro Mostrar y Ocultar no están visibles.
 

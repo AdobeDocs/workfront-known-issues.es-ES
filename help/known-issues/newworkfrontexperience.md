@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '1053'
-ht-degree: 96%
+source-wordcount: '1030'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Informes: falta la opción Mostrar filtro / Ocultar filtro](known-issues-workfront/wf-reports-show-filter-missing.md) | viernes, 24 de octubre de 2024 |
 | [Inicio: se ha cortado el porcentaje completado](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | viernes, 24 de octubre de 2024 |
 | [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jueves, 09 de octubre de 2024 |
 | [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | viernes, 19 de septiembre de 2024 |
@@ -50,7 +49,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | viernes, 24 de octubre de 2024 |
 | [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | miércoles, 22 de octubre de 2024 |
 | [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | miércoles, 22 de octubre de 2024 |
-| [Inicio: se puede tener acceso al área de prioridades cuando se ha deshabilitado](known-issues-workfront/wf-home-priorities-accessible.md) | miércoles, 22 de octubre de 2024 |
 | [Inicio: el widget de Mis aprobaciones no funciona](known-issues-workfront/wf-home-my-approval-not-working.md) | miércoles, 22 de octubre de 2024 |
 | [Pruebas: no se pueden crear pruebas en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | miércoles, 22 de octubre de 2024 |
 | [Proyectos: no se pueden compartir proyectos debido al error “acceso para eliminar”](known-issues-workfront/wf-projects-sharing-access-error.md) | viernes, 03 de octubre de 2024 |
@@ -61,7 +59,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Formularios personalizados: los formularios se ajustan por defecto a los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md) | viernes, 22 de agosto de 2024 |
 | [Configuración: problemas al cerrar la sesión como otro usuario](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | viernes, 15 de agosto de 2024 |
 | [Notificaciones: error al configurar las preferencias de las notificaciones](known-issues-workfront/wf-notifications-whoops-error.md) | viernes, 08 de agosto de 2024 |
-| [Formularios personalizados: el generador de formularios se bloquea al introducir la lógica de visualización](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 de agosto de 2024 |
 | [Niveles de acceso: niveles de acceso duplicados en el área de configuración](known-issues-workfront/wf-access-duplicate-level.md) | viernes, 25 de julio de 2024 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 de abril de 2024 |
 | [Tareas: error de Bizcontext al añadir o eliminar una tarea](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 de abril de 2024 |
@@ -75,6 +72,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notificaciones: los correos electrónicos de notificación de documentos no pueden mostrar vistas previas de imágenes](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | miércoles, 29 de octubre de 2024 |
 | [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md) | martes, 14 de octubre de 2024 |
 | [Inicio: los campos personalizados eliminados persisten en los widgets de proyecto, tarea y problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | miércoles, 08 de octubre de 2024 |
 | [Prioridades: las agrupaciones impiden la ordenación y la edición en línea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | miércoles, 08 de octubre de 2024 |
