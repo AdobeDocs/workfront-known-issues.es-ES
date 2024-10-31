@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '1967'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 96%
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Notificaciones: los correos electrónicos de notificación de documentos no pueden mostrar previsualizaciones de imagen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Informes: falta la opción Mostrar filtro / Ocultar filtro](known-issues-workfront/wf-reports-show-filter-missing.md)
-      + [Inicio: el porcentaje completado está desactivado](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
+      + [Inicio: el porcentaje completado aparece cortado](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [Proyectos: el gráfico Gantt no es preciso](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
-      + [Proyectos: no se pueden agregar problemas al proyecto completado](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [Proyectos: no se pueden añadir problemas al proyecto completado](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [Formularios personalizados: no se pueden actualizar los datos personalizados en los proyectos completados](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
       + [Inicio: se puede acceder al área de prioridades cuando se ha deshabilitado](known-issues-workfront/wf-home-priorities-accessible.md)
       + [Inicio: El widget Mis aprobaciones no funciona](known-issues-workfront/wf-home-my-approval-not-working.md)
-      + [Pruebas: No se pueden crear pruebas en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
+      + [Revisiones: No se pueden crear pruebas en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Documentos: no se pueden mover documentos desde la pestaña Documentos del objeto](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Tableros: duplicar opciones de estado para tareas y problemas](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Inicio: los campos personalizados eliminados persisten en los widgets de proyecto, tarea y problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)

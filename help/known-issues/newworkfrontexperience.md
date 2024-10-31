@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '1030'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +49,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | viernes, 24 de octubre de 2024 |
 | [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | miércoles, 22 de octubre de 2024 |
 | [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | miércoles, 22 de octubre de 2024 |
-| [Inicio: el widget de Mis aprobaciones no funciona](known-issues-workfront/wf-home-my-approval-not-working.md) | miércoles, 22 de octubre de 2024 |
+| [Inicio: el widget Mis aprobaciones no funciona](known-issues-workfront/wf-home-my-approval-not-working.md) | miércoles, 22 de octubre de 2024 |
 | [Pruebas: no se pueden crear pruebas en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | miércoles, 22 de octubre de 2024 |
 | [Proyectos: no se pueden compartir proyectos debido al error “acceso para eliminar”](known-issues-workfront/wf-projects-sharing-access-error.md) | viernes, 03 de octubre de 2024 |
 | [Pruebas: no se puede crear la prueba para los documentos vinculados desde AEM a través de Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | viernes, 03 de octubre de 2024 |
