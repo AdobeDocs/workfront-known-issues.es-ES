@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6442'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 #### Asignaciones
 
-**El icono de tiempo libre no aparece al asignar tareas**
+**El icono Días libres no aparece al asignar tareas**
 
 cuando un usuario está asignando una tarea y empieza a escribir el nombre del usuario asignado que tiene días libres programados durante la tarea, los iconos del usuario en el área Asignaciones sugeridas no muestran el icono de días libres (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono.
 
@@ -40,15 +40,15 @@ cuando un usuario está asignando una tarea y empieza a escribir el nombre del u
 
 **No se pueden actualizar los datos personalizados en los proyectos completados**
 
-Cuando un usuario intenta actualizar los datos personalizados en un proyecto que se ha completado, no puede actualizar los datos y ve el siguiente mensaje:
+Cuando un usuario intenta actualizar los datos personalizados en un proyecto que se ha completado, no puede actualizarlos y ve el siguiente mensaje:
 
-&quot;No se puede completar la operación para un proyecto con el estado Completado.&quot;
+&quot;No se puede completar la operación para un proyecto de estado Completado&quot;.
 
 #### Proyectos
 
-**No se pueden agregar problemas al proyecto completado**
+**No se pueden añadir problemas al proyecto completado**
 
-Cuando un usuario intenta agregar un problema a un proyecto en estado Completo, el usuario no puede agregar el problema. Esto puede ocurrir aunque la opción &quot;Agregar y editar problemas&quot; esté habilitada
+Cuando un usuario intenta añadir un problema a un proyecto en estado Completado, el usuario no puede añadir el problema. Esto puede ocurrir aunque la opción &quot;Añadir y editar problemas&quot; esté habilitada
 
 **El gráfico Gantt no es preciso**
 
@@ -69,9 +69,9 @@ Las fechas enumeradas en la lista de documentos muestran la fecha en la que se c
 
 ### Hojas de horas
 
-Cuando un usuario intenta registrar las horas en una plantilla de horas que está en estado Enviado o Cerrado, no puede hacerlo.
+Cuando un usuario intenta registrar las horas en una hoja de horas que está en estado Enviado o Cerrado, no puede hacerlo.
 
-Este es el comportamiento esperado y no debería considerarse un problema.
+Este comportamiento entra dentro de lo previsto y no debería considerarse un problema.
 
 Anteriormente, los usuarios podían registrar el tiempo en las hojas de horas enviadas o cerradas a través de la API de Workfront o Workfront Fusion.
 

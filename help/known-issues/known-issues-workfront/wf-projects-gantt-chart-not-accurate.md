@@ -1,12 +1,12 @@
 ---
 title: "Proyectos: El gráfico Gantt no es preciso"
-description: '"Cuando un usuario ve el gráfico Gantt y cambia de vista, el gráfico no muestra datos precisos o puede que no muestre ningún dato. ”'
+description: “Cuando un usuario ve el gráfico Gantt y cambia de vista, el gráfico no muestra datos precisos o puede que no muestre ningún dato. ”
 hidefromtoc: true
 feature: Projects, Work Management
 source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 

@@ -1,22 +1,22 @@
 ---
-title: "Pruebas: No se pueden crear pruebas en el entorno de vista previa"
-description: '"Cuando un usuario intenta crear una prueba en un entorno de vista previa de espacio aislado, la prueba no se crea y el usuario ve un mensaje ‘No se pudo generar’".'
+title: '“Pruebas: no se pueden crear pruebas en el entorno de vista previa”'
+description: '"Cuando un usuario intenta crear una prueba en un entorno de zona protegida de vista previa, la prueba no se crea y el usuario ve un mensaje ‘El mensaje no se ha podidio generar’".'
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Pruebas: No se pueden crear pruebas en el entorno de vista previa
+# Revisiones: No se pueden crear pruebas en el entorno de vista previa
 
 >[!NOTE]
 >
->Este problema solo se ha informado en el entorno de vista previa de espacio aislado.
+>Se ha informado de este problema en el entorno de zona protegida de vista previa.
 
-Cuando un usuario intenta crear una prueba en un entorno de vista previa de espacio aislado, la prueba no se crea y el usuario ve el mensaje &quot;No se pudo generar&quot;.
+Cuando se intenta crear una prueba en un entorno de zona protegida de vista previa, la prueba no se crea y el usuario ve el mensaje “El mensaje no se ha podido generar”.
 
 _Notificado por primera vez el viernes, 17 de octubre de 2024._
