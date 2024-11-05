@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1967'
-ht-degree: 99%
+source-wordcount: '2013'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Plantillas de diseño: los campos de datos personalizados no se muestran cuando se añaden al resumen de tareas mediante la plantilla de diseño](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [Inicio: El widget Mis actualizaciones no funciona](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [Documentos: falta el botón Opciones de aprobación en los documentos](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [Inicio: Errores del widget Tareas pendientes para tareas pendientes nuevas y completadas](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [Integraciones: Las integraciones de JumpSeat fallan para las organizaciones en Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Notificaciones: los correos electrónicos de notificación de documentos no pueden mostrar previsualizaciones de imagen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Informes: falta la opción Mostrar filtro / Ocultar filtro](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Inicio: el porcentaje completado aparece cortado](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
