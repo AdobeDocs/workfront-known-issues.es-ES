@@ -4,9 +4,9 @@ description: "Cuando un usuario está viendo un informe, las opciones de filtro 
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 75%
 >
 >Este problema se corrigió el viernes, 24 de octubre de 2024.
 
-Cuando un usuario está viendo un informe, las opciones de filtro Mostrar y Ocultar no están visibles.
+Cuando un usuario está viendo un informe, las opciones Mostrar filtros y Ocultar filtros no están visibles.
 
 **Solución alternativa**
 

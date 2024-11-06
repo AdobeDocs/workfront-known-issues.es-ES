@@ -4,7 +4,7 @@ description: Al actualizar el estado de una tarea o un problema en un tablero, a
 hidefromtoc: true
 feature: Agile
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 

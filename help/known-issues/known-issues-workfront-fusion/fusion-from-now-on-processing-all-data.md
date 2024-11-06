@@ -4,7 +4,7 @@ description: “Después de seleccionar A partir de ahora como la opción Elegir
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
 ht-degree: 100%
 

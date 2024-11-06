@@ -1,13 +1,13 @@
 ---
-title: "Formularios personalizados: El generador de formularios se bloquea al introducir la lógica de visualización"
-description: Cuando un usuario intenta crear un formulario personalizado e introduce una lógica de visualización, el generador de formularios se bloquea y el usuario ve un mensaje.
+title: '“Formularios personalizados: el generador de formularios se bloquea al introducir la lógica de visualización”'
+description: “Cuando se está intentando generar un formulario personalizado y se introduce lógica de visualización, el generador de formularios se bloquea y aparece un mensaje”.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: e0eb16d0-fa9f-4f90-8c98-97c7291188a9
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

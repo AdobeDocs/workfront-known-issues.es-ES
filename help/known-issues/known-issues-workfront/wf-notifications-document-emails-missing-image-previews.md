@@ -4,13 +4,13 @@ description: Cuando un usuario ve una notificación por correo electrónico rela
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
-# Notificaciones: los correos electrónicos de notificación de documentos no pueden mostrar previsualizaciones de imagen
+# Notificaciones: los correos electrónicos de notificación de documentos no pueden mostrar vistas previas de las imágenes
 
 >[!NOTE]
 >
@@ -20,6 +20,6 @@ Al abrir un correo electrónico de revisión o aprobación de documento con Gmai
 
 **Solución alternativa**
 
-El uso de una aplicación de correo electrónico distinta de Gmail hará que las vistas previas de imagen se muestren correctamente.
+El uso de una aplicación de correo electrónico distinta de Gmail hará que las vistas previas de las imágenes se muestren correctamente.
 
 _Notificado por primera vez el viernes, 17 de octubre de 2024._
