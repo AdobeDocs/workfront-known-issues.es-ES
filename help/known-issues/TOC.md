@@ -22,7 +22,7 @@ ht-degree: 97%
       + [Documentos: falta el botón Opciones de aprobación en los documentos](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [Inicio: Errores del widget Tareas pendientes para tareas pendientes nuevas y completadas](known-issues-workfront/wf-home-to-do-new-complete-error.md)
       + [Integraciones: Las integraciones de JumpSeat fallan para las organizaciones en Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
-      + [Notificaciones: los correos electrónicos de notificación de documentos no pueden mostrar previsualizaciones de imagen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [Notificaciones: los correos electrónicos de notificación de documentos no pueden mostrar vistas previas de las imágenes](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Informes: falta la opción Mostrar filtro / Ocultar filtro](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Inicio: el porcentaje completado aparece cortado](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [Proyectos: el gráfico Gantt no es preciso](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
