@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1071'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Plantillas de diseño: los campos de datos personalizados no se muestran cuando se agregan al resumen de tareas mediante la plantilla de diseño](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | martes, 04 de noviembre de 2024 |
-| [Inicio: el widget de Mis actualizaciones no funciona](known-issues-workfront/wf-home-my-updates-not-working.md) | martes, 04 de noviembre de 2024 |
+| [Plantillas de diseño: los campos de datos personalizados no se muestran cuando se añaden al Resumen de la tarea a través de la Plantilla de diseño](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | martes, 04 de noviembre de 2024 |
+| [Inicio: el widget Mis actualizaciones no funciona](known-issues-workfront/wf-home-my-updates-not-working.md) | martes, 04 de noviembre de 2024 |
 | [Documentos: falta el botón Opciones de aprobación en los documentos](known-issues-workfront/wf-documents-missing-approval-button.md) | martes, 04 de noviembre de 2024 |
 | [Inicio: errores del widget Tareas pendientes para tareas pendientes nuevas y completadas](known-issues-workfront/wf-home-to-do-new-complete-error.md) | martes, 04 de noviembre de 2024 |
 | [Inicio: se ha cortado el porcentaje completado](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | viernes, 24 de octubre de 2024 |

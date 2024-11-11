@@ -1,17 +1,17 @@
 ---
-title: "Inicio: Errores del widget Tareas pendientes para tareas pendientes nuevas y completadas"
-description: Al intentar crear una nueva tarea pendiente o completar una existente en el widget Inicio de tareas pendientes, los usuarios encuentran un error y no pueden crear o completar la tarea pendiente.
+title: '“Inicio: errores del widget Tareas pendientes para tareas pendientes nuevas y completadas”'
+description: Al intentar crear una nueva tarea pendiente o completar una existente en el widget Tareas pendientes de la página Inicio, los usuarios encuentran un error y no pueden crear o completar la tarea pendiente.
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Inicio: Errores del widget Tareas pendientes para tareas pendientes nuevas y completadas
+# Inicio: errores del widget Tareas pendientes para tareas pendientes nuevas y completadas
 
-Al intentar crear una nueva tarea pendiente o completar una existente en el widget Inicio de tareas pendientes, los usuarios encuentran un error y no pueden crear o completar la tarea pendiente.
+Al intentar crear una nueva tarea pendiente o completar una existente en el widget Tareas pendientes de la página Inicio, los usuarios encuentran un error y no pueden crear o completar la tarea pendiente.
 
 _Notificado por primera vez el viernes, 24 de octubre de 2024._
