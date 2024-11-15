@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '6506'
-ht-degree: 99%
+source-wordcount: '6582'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,24 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en noviembre de 2024
+
++++**Actualización de mantenimiento del viernes, 14 de noviembre de 2024**
+
+### Actualización de mantenimiento el 14 de noviembre de 2024
+
+#### Inicio
+
+**Errores del widget Tareas pendientes para tareas pendientes nuevas y completadas**
+
+Al intentar crear una nueva tarea pendiente o completar una existente en el widget Tareas pendientes de la página Inicio, los usuarios encuentran un error y no pueden crear o completar la tarea pendiente.
+
+#### Usuarios
+
+**Falta la casilla de verificación &quot;Enviar correos electrónicos de invitación a estas personas&quot;**
+
+Al importar nuevos usuarios a Workfront, la casilla &quot;Enviar correos electrónicos de invitación a estas personas&quot; no aparece en la ventana de diálogo.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 07 de noviembre de 2024**
 
@@ -52,7 +70,7 @@ Esta actualización contiene solo correcciones de errores menores o menos import
 
 **El icono Días libres no aparece al asignar tareas**
 
-cuando un usuario está asignando una tarea y empieza a escribir el nombre del usuario asignado que tiene días libres programados durante la tarea, los iconos del usuario en el área Asignaciones sugeridas no muestran el icono de días libres (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono.
+Cuando un usuario está asignando una tarea y comienza a escribir el nombre del usuario asignado que tiene tiempo libre programado durante la tarea, los iconos del usuario bajo el área Asignaciones sugeridas no muestran el icono de tiempo libre (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono.
 
 #### Formularios personalizados
 
@@ -84,7 +102,7 @@ Cuando un usuario ve el gráfico Gantt y cambia de vista, el gráfico no muestra
 
 Las fechas enumeradas en la lista de documentos muestran la fecha en la que se creó la primera versión del documento, en lugar de la fecha en la que se creó la versión más reciente.
 
-### Hojas de horas
+#### Hojas de horas
 
 Cuando un usuario intenta registrar las horas en una hoja de horas que está en estado Enviado o Cerrado, no puede hacerlo.
 

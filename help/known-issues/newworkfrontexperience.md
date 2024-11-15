@@ -4,10 +4,10 @@ description: Problemas conocidos e informados de la nueva experiencia de  [!DNL
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 90%
+source-wordcount: '1126'
+ht-degree: 91%
 
 ---
 
@@ -36,13 +36,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Tareas: duración de días transcurridos incorrecta para tareas principales con tareas secundarias](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | jueves, 13 de noviembre de 2024 |
 | [Informes: la edición masiva en listas de gráficos no responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | jueves, 13 de noviembre de 2024 |
 | [Workfront: no se pudieron cargar las fichas del explorador que quedaron abiertas](known-issues-workfront/wf-workfront-browser-tabs-error.md) | miércoles, 12 de noviembre de 2024 |
-| [Informes: no se pueden cargar los informes](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | miércoles, 12 de noviembre de 2024 |
-| [Planificador de recursos: no se puede obtener acceso al Planificador de recursos](known-issues-workfront/wf-resource-planner-inaccessible.md) | miércoles, 12 de noviembre de 2024 |
-| [Inicio: el widget Mis tareas no se cargará](known-issues-workfront/wf-home-task-widget-wont-load.md) | miércoles, 12 de noviembre de 2024 |
 | [Plantillas de diseño: los campos de datos personalizados no se muestran cuando se añaden al Resumen de la tarea a través de la Plantilla de diseño](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | martes, 04 de noviembre de 2024 |
 | [Inicio: el widget Mis actualizaciones no funciona](known-issues-workfront/wf-home-my-updates-not-working.md) | martes, 04 de noviembre de 2024 |
 | [Documentos: falta el botón Opciones de aprobación en los documentos](known-issues-workfront/wf-documents-missing-approval-button.md) | martes, 04 de noviembre de 2024 |
-| [Inicio: errores del widget Tareas pendientes para tareas pendientes nuevas y completadas](known-issues-workfront/wf-home-to-do-new-complete-error.md) | martes, 04 de noviembre de 2024 |
 | [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jueves, 09 de octubre de 2024 |
 | [API: la llamada de API falla debido a un error de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | viernes, 12 de septiembre de 2024 |
 | [Tableros: el estado de la tarjeta no coincide con el objeto conectado y omite el filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | miércoles, 03 de septiembre de 2024 |
