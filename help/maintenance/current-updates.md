@@ -28,7 +28,7 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 +++**Actualización de mantenimiento del viernes, 14 de noviembre de 2024**
 
-### Actualización de mantenimiento el 14 de noviembre de 2024
+### Actualización de mantenimiento del viernes, 14 de noviembre de 2024
 
 #### Inicio
 
@@ -46,7 +46,7 @@ Al importar nuevos usuarios a Workfront, la casilla &quot;Enviar correos electr�
 
 +++**Actualización de mantenimiento del viernes, 07 de noviembre de 2024**
 
-### Actualización de mantenimiento el 7 de noviembre de 2024
+### Actualización de mantenimiento del 7 de noviembre de 2024
 
 Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
 

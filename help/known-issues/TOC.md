@@ -5,7 +5,7 @@ role: User
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '2125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,20 +17,20 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Plantillas de horas: Los usuarios colaboradores tienen el botón &quot;Enviar para aprobación&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
-      + [Notificaciones: Notificaciones por correo electrónico de las actualizaciones que no se envían](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [Formularios personalizados: No se pueden agregar los campos de tarea &quot;estimateByHours&quot; u &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [Documentos: La aprobación &quot;adición rápida&quot; no incluye la entrada de fechas límites para las nuevas versiones](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [Hojas de horas: los usuarios colaboradores tienen el botón “Enviar para aprobación”](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [Notificaciones: no se envían las notificaciones por correo electrónico para las actualizaciones](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [Formularios personalizados: no se pueden añadir los campos de tarea “estimateByHours” u “hoursPerPoint”](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [Documentos: la aprobación “adición rápida” no incluye la entrada de fechas límites para las nuevas versiones](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
       + [Plantillas de diseño: los administradores no pueden editar las plantillas de diseño de Inicio](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
-      + [Usuarios: La etiqueta &quot;No registrado&quot; persiste tras el inicio de sesión](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
-      + [Workfront: Los usuarios colaboradores no pueden acceder a Programas ni a Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
-      + [Aprobaciones: El filtro &quot;Todas&quot; excluye las aprobaciones enviadas personalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
-      + [Tareas: Duración de días transcurridos incorrecta para tareas principales con tareas secundarias](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Informes: La edición masiva en listas de gráficos no responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
-      + [Workfront: Las pestañas del explorador que se dejaron abiertas no se pueden cargar](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [Informes: Los informes no se pueden cargar](known-issues-workfront/wf-reports-fail-to-load.md)
+      + [Usuarios: la etiqueta “No registrado” persiste tras el inicio de sesión](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront: los usuarios colaboradores no pueden acceder ni a programas ni a portafolios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Aprobaciones: el filtro “Todas” excluye las aprobaciones enviadas personalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [Tareas: duración de días transcurridos incorrecta para tareas principales con tareas secundarias](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [Informes: la edición masiva en listas de gráficos no responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront: las pestañas del explorador que se dejaron abiertas no se pueden cargar](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Informes: los informes no cargan](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Planificador de recursos: no se puede acceder al Planificador de recursos](known-issues-workfront/wf-resource-planner-inaccessible.md)
-      + [Inicio: El widget Mis tareas no se carga](known-issues-workfront/wf-home-task-widget-wont-load.md)
+      + [Inicio: el widget Mis tareas no carga](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Plantillas de diseño: los campos de datos personalizados no se muestran cuando se añaden al resumen de la tarea a través de la Plantilla de diseño](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Inicio: el widget Mis actualizaciones no funciona](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [Documentos: falta el botón Opciones de aprobación en los documentos](known-issues-workfront/wf-documents-missing-approval-button.md)

@@ -7,7 +7,7 @@ exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Cuando un usuario está viendo una prueba en el visualizador de pruebas e intent
 
 Realice una de las siguientes acciones:
 
-* Acceda a la revisión a través de la lista Documentos. De este modo, X funcionará según lo esperado.
+* Acceda a la prueba a través de la lista Documentos. De este modo, X funcionará según lo esperado.
 * Vuelva a intentar cerrar la prueba.
 * Cierre la prueba cerrando la pestaña del explorador.
 
