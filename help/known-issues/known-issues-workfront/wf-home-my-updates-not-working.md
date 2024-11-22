@@ -1,17 +1,21 @@
 ---
-title: '“Inicio: el widget Mis actualizaciones no funciona”'
-description: “Cuando un usuario intenta ver el widget Mis actualizaciones en la página de inicio, el widget no aparece y el usuario ve un mensaje”.
+title: "Inicio: El widget de Mis actualizaciones no funciona"
+description: Cuando un usuario intenta ver el widget de Mis actualizaciones en Inicio, el widget no aparece y el usuario ve un mensaje.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '85'
-ht-degree: 100%
+exl-id: caa1cd37-825f-45bc-add8-48b6c0f09814
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 68%
 
 ---
 
-
 # Inicio: el widget Mis actualizaciones no funciona
+
+>[!NOTE]
+>
+>Este problema se corrigió el martes, 18 de noviembre de 2024.
 
 Cuando un usuario intenta ver el widget Mis actualizaciones en la página de inicio, el widget no aparece y el usuario ve el siguiente mensaje:
 

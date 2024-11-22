@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '6582'
-ht-degree: 98%
+source-wordcount: '6739'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,38 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en noviembre de 2024
+
++++**Actualización de mantenimiento del viernes, 21 de noviembre de 2024**
+
+### Actualización de mantenimiento del viernes, 21 de noviembre de 2024
+
+#### Paneles
+
+**No se puede interactuar con las barras de informe de gráfico de barras en los paneles**
+
+Al intentar hacer clic o pasar el ratón sobre una barra de un informe de gráfico de barras dentro de un panel, el menú de detalles no se abre o no se muestra información del objeto, respectivamente.
+
+#### Proyectos
+
+**No se pudieron cargar los proyectos**
+
+Al navegar a un proyecto, la página a veces no carga ningún contenido.
+
+#### Informes
+
+**La edición masiva en listas de gráficos no responde**
+
+Cuando un usuario está viendo un gráfico en un informe y selecciona varios elementos de la lista para editarlos por lotes, el cursor desaparece y los cuadros de texto de la edición por lotes no responden.
+
+**Los botones Editar y Eliminar no responden en los informes de hojas de horas**
+
+No hay respuesta cuando se intenta hacer clic en los iconos Editar o Eliminar en un informe de plantilla de horas.
+
+**Los informes que contienen campos de escritura anticipada no se pueden cargar**
+
+Al abrir un informe que contiene campos de escritura anticipada personalizados, el informe a veces no se carga y muestra un mensaje de error.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 14 de noviembre de 2024**
 
