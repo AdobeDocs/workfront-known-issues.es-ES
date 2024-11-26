@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
 source-wordcount: '6739'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -70,9 +70,9 @@ Al intentar crear una nueva tarea pendiente o completar una existente en el widg
 
 #### Usuarios
 
-**Falta la casilla de verificación &quot;Enviar correos electrónicos de invitación a estas personas&quot;**
+**Falta la casilla de verificación “Enviar invitación por correo electrónico a estas personas”**
 
-Al importar nuevos usuarios a Workfront, la casilla &quot;Enviar correos electrónicos de invitación a estas personas&quot; no aparece en la ventana de diálogo.
+Al importar nuevos usuarios a Workfront, la casilla “Enviar invitación por correo electrónico a estas personas” no aparece en la ventana del cuadro de diálogo.
 
 +++
 
@@ -102,7 +102,7 @@ Esta actualización contiene solo correcciones de errores menores o menos import
 
 **El icono Días libres no aparece al asignar tareas**
 
-Cuando un usuario está asignando una tarea y comienza a escribir el nombre del usuario asignado que tiene tiempo libre programado durante la tarea, los iconos del usuario bajo el área Asignaciones sugeridas no muestran el icono de tiempo libre (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono.
+Cuando un usuario está asignando una tarea y empieza a escribir el nombre del usuario asignado que tiene días libres programados durante la tarea, los iconos del usuario en el área Asignaciones sugeridas no muestran el icono de días libres (avión). Si el usuario sigue escribiendo para que el nombre se muestre en el área Usuarios y equipos, no se mostrará el icono.
 
 #### Formularios personalizados
 
