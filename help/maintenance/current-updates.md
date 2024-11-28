@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6739'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,25 +32,25 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 #### Paneles
 
-**No se puede interactuar con las barras de informe de gráfico de barras en los paneles**
+**No se puede interactuar con las barras de informes del gráfico de barras en los paneles de control**
 
-Al intentar hacer clic o pasar el ratón sobre una barra de un informe de gráfico de barras dentro de un panel, el menú de detalles no se abre o no se muestra información del objeto, respectivamente.
+Al intentar hacer clic o pasar el ratón por encima de una barra en un informe del gráfico de barras dentro de un panel de control, el menú de detalles no se abre o no se muestra la ayuda contextual, respectivamente.
 
 #### Proyectos
 
-**No se pudieron cargar los proyectos**
+**No se han podido cargar los proyectos**
 
 Al navegar a un proyecto, la página a veces no carga ningún contenido.
 
 #### Informes
 
-**La edición masiva en listas de gráficos no responde**
+**La edición en lotes en listas de gráficos no responde**
 
 Cuando un usuario está viendo un gráfico en un informe y selecciona varios elementos de la lista para editarlos por lotes, el cursor desaparece y los cuadros de texto de la edición por lotes no responden.
 
-**Los botones Editar y Eliminar no responden en los informes de hojas de horas**
+**Los botones Editar y Eliminar no responden en los informes de plantilla de horas**
 
-No hay respuesta cuando se intenta hacer clic en los iconos Editar o Eliminar en un informe de plantilla de horas.
+No hay respuesta cuando se intenta hacer clic en los iconos Editar o Eliminar en un informe de hoja de horas.
 
 **Los informes que contienen campos de escritura anticipada no se pueden cargar**
 
