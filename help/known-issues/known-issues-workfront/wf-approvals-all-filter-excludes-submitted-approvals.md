@@ -1,23 +1,21 @@
 ---
-title: '“Aprobaciones: el filtro “Todas” excluye las aprobaciones enviadas personalmente”'
+title: 'Aprobaciones: el filtro “Todas” excluye las aprobaciones enviadas personalmente'
 description: Cuando se visualizan aprobaciones en el widget Mis aprobaciones en Inicio o en la página Mis actualizaciones, la lista no incluye las aprobaciones enviadas por el usuario, aunque el filtro esté configurado como “Todas”.
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
 
 # Aprobaciones: el filtro “Todas” excluye las aprobaciones enviadas personalmente
 
-<!--
->>[!NOTE]
+>[!NOTE]
 >
->This issue was fixed on June 20, 2024.
--->
+>Este problema se ha cerrado porque funciona como se diseñó.
 
 Cuando se visualizan aprobaciones en el widget Mis aprobaciones en Inicio o en la página Mis actualizaciones, la lista no incluye las aprobaciones enviadas por el usuario, aunque el filtro esté configurado como “Todas”.
 

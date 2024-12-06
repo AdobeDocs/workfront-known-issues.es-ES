@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
-source-wordcount: '6739'
-ht-degree: 100%
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '7142'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,77 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 
 En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
+## Actualizaciones en diciembre de 2024
+
++++**Actualización de mantenimiento el viernes, 05 de diciembre de 2024**
+
+### Actualización de mantenimiento el 5 de diciembre de 2024
+
+#### Formularios personalizados
+
+**No se pueden agregar los campos de tarea &quot;estimateByHours&quot; u &quot;hoursPerPoint&quot;**
+
+Cuando un usuario intenta añadir los campos “estimateByHours” u “hoursPerPoint” a un formulario personalizado en el generador de formularios, se muestra un mensaje de error: “La expresión personalizada no es válida, inténtelo de nuevo”.
+
+**La lógica de visualización no funciona en los formularios personalizados**
+
+Cuando un usuario introduce información en un formulario personalizado con lógica de visualización, no aparecen los campos que deberían aparecer en función de la lógica de visualización.
+
+#### Inicio
+
+**Los colaboradores mostraron el botón &quot;Trabajar en ello&quot; no funcional**
+
+Los usuarios colaboradores tienen acceso al botón &quot;Trabajar en ello&quot;, que no funciona, del widget Mi trabajo de Inicio.
+
+#### Informes
+
+**Los trimestres personalizados no aparecen en las solicitudes de informe**
+
+Cuando un usuario está ejecutando un informe con una solicitud basada en fechas, los trimestres personalizados no aparecen en la lista de selecciones para la solicitud.
+
++++
+
 ## Actualizaciones en noviembre de 2024
+
++++**Actualización de mantenimiento del viernes, 28 de noviembre de 2024**
+
+### Actualización de mantenimiento del viernes, 28 de noviembre de 2024
+
+#### Proyectos
+
+**No se pueden compartir proyectos debido al error de &quot;acceso para eliminar&quot;**
+
+Al intentar compartir un proyecto, el usuario recibe un error: “No cuenta con acceso suficiente para eliminar este proyecto”. Esto sucede a pesar de que el usuario no está intentando eliminar el proyecto, y además el usuario es el Propietario del proyecto y tiene acceso de Uso compartido y Administración al proyecto”.
+
+#### Informes
+
+El campo **Nombre de categoría no se está vinculando al formulario personalizado**
+
+Al ver una lista en un informe que contiene un campo Nombre de categoría, no se puede hacer clic en el contenido de la columna Nombre de categoría para abrir el formulario personalizado correspondiente.
+
+**Los colores personalizados del grupo en los informes no funcionan**
+
+Al asignar un color personalizado a un grupo en Report Builder, la selección de color no aparece al ejecutar el informe.
+
+**Tiempos de carga largos para los informes**
+
+Los informes tardan mucho tiempo en cargarse. Esto afecta a la visualización de informes, así como a la edición y creación de informes en Report Builder.
+
+Falta el campo **Hora para los campos Fecha/Hora calculados en las solicitudes del informe**
+
+Cuando se ejecuta un informe con un campo Fecha/Hora personalizado que se utiliza como solicitud, el campo de selección de hora no aparece en la interfaz de solicitud.
+
+**No se pueden ver los informes/tableros compartidos**
+
+Cuando un usuario intenta acceder a un informe o panel que se ha compartido con él, no se puede acceder al informe o panel.
+
+#### Hojas de horas
+
+**Los usuarios colaboradores tienen el botón &quot;Enviar para aprobación&quot;**
+
+A pesar de no poder introducir horas en las hojas de horas, los usuarios con nivel de acceso de colaborador tienen un botón “Enviar para aprobación” en el que pueden hacer clic.
+
++++
 
 +++**Actualización de mantenimiento del viernes, 21 de noviembre de 2024**
 
