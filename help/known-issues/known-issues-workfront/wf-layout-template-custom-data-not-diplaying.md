@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
 source-git-commit: 273f533553626082787f579b171ab4b314743d58
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->Este problema se ha cerrado porque funciona como se diseñó. Consulte la solución a continuación.
+>Este problema se ha cerrado porque funciona como se diseñó. Consulte la siguiente solución.
 
 Cuando un administrador añade un campo de datos personalizados a la sección Resumen de la tarea a través de una Plantilla de diseño, el campo se muestra como vacío para los usuarios que ven la sección Resumen de una tarea.
 

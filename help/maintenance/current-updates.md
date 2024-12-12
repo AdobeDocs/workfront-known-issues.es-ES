@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7142'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 #### Formularios personalizados
 
-**No se pueden agregar los campos de tarea &quot;estimateByHours&quot; u &quot;hoursPerPoint&quot;**
+**No se pueden añadir los campos de tarea “estimateByHours” u “hoursPerPoint”**
 
 Cuando un usuario intenta añadir los campos “estimateByHours” u “hoursPerPoint” a un formulario personalizado en el generador de formularios, se muestra un mensaje de error: “La expresión personalizada no es válida, inténtelo de nuevo”.
 
@@ -42,9 +42,9 @@ Cuando un usuario introduce información en un formulario personalizado con lóg
 
 #### Inicio
 
-**Los colaboradores mostraron el botón &quot;Trabajar en ello&quot; no funcional**
+**A los colaboradores se les ha mostrado el botón &quot;Trabajar en ello&quot; no funcional**
 
-Los usuarios colaboradores tienen acceso al botón &quot;Trabajar en ello&quot;, que no funciona, del widget Mi trabajo de Inicio.
+Los usuarios colaboradores tienen acceso al botón &quot;Trabajar en ello&quot; en el widget Mi trabajo en Inicio.
 
 #### Informes
 
@@ -62,7 +62,7 @@ Cuando un usuario está ejecutando un informe con una solicitud basada en fechas
 
 #### Proyectos
 
-**No se pueden compartir proyectos debido al error de &quot;acceso para eliminar&quot;**
+**No se pueden compartir proyectos debido al error “acceso para eliminar”**
 
 Al intentar compartir un proyecto, el usuario recibe un error: “No cuenta con acceso suficiente para eliminar este proyecto”. Esto sucede a pesar de que el usuario no está intentando eliminar el proyecto, y además el usuario es el Propietario del proyecto y tiene acceso de Uso compartido y Administración al proyecto”.
 
@@ -76,21 +76,21 @@ Al ver una lista en un informe que contiene un campo Nombre de categoría, no se
 
 Al asignar un color personalizado a un grupo en Report Builder, la selección de color no aparece al ejecutar el informe.
 
-**Tiempos de carga largos para los informes**
+**Largos tiempos de carga para los informes**
 
 Los informes tardan mucho tiempo en cargarse. Esto afecta a la visualización de informes, así como a la edición y creación de informes en Report Builder.
 
-Falta el campo **Hora para los campos Fecha/Hora calculados en las solicitudes del informe**
+**Falta el campo de hora para los campos Fecha/Hora calculados en las solicitudes del informe**
 
 Cuando se ejecuta un informe con un campo Fecha/Hora personalizado que se utiliza como solicitud, el campo de selección de hora no aparece en la interfaz de solicitud.
 
-**No se pueden ver los informes/tableros compartidos**
+**No se pueden ver los informes/paneles de control compartidos**
 
-Cuando un usuario intenta acceder a un informe o panel que se ha compartido con él, no se puede acceder al informe o panel.
+Cuando un usuario intenta acceder a un informe o panel de control que se ha compartido con él, no se puede acceder al informe o panel de control.
 
 #### Hojas de horas
 
-**Los usuarios colaboradores tienen el botón &quot;Enviar para aprobación&quot;**
+**Los usuarios colaboradores tienen un botón “Enviar para aprobación”**
 
 A pesar de no poder introducir horas en las hojas de horas, los usuarios con nivel de acceso de colaborador tienen un botón “Enviar para aprobación” en el que pueden hacer clic.
 

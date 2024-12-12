@@ -1,16 +1,16 @@
 ---
-title: 'Workfront: El formato de fecha cambia durante la aplicación'
+title: 'Workfront: el formato de fecha cambia durante la aplicación'
 description: Al navegar entre diferentes páginas con listas en la aplicación, el formato de fecha cambia esporádicamente de MM/DD/AAAA a DD/MM/AAAA o viceversa.
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Workfront: El formato de fecha cambia durante la aplicación
+# Workfront: el formato de fecha cambia durante la aplicación
 
 <!--
 >[!NOTE]
