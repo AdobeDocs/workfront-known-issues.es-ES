@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
 workflow-type: tm+mt
 source-wordcount: '1165'
-ht-degree: 92%
+ht-degree: 95%
 
 ---
 
@@ -27,9 +27,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | ----------------------------------------------------------------- | ----------------- |
 | [Agile: no se pueden editar historias en lotes en una iteración](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | viernes, 05 de diciembre de 2024 |
 | [Aprobaciones: las aprobaciones delegadas no aparecen para los delegados](known-issues-workfront/wf-approvals-delegation-not-working.md) | viernes, 05 de diciembre de 2024 |
-| [Documentos: error &quot;Cambios no guardados&quot; al agregar un formulario a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md) | viernes, 05 de diciembre de 2024 |
-| [Tareas: el campo Listo para comenzar no se actualiza a pesar de las tareas predecesoras completadas](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | miércoles, 03 de diciembre de 2024 |
-| [Workfront: el formato de fecha cambia durante toda la aplicación](known-issues-workfront/wf-workfront-date-format-changing.md) | miércoles, 03 de diciembre de 2024 |
+| [Documentos: error &quot;Cambios no guardados&quot; al añadir un formulario a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md) | viernes, 05 de diciembre de 2024 |
+| [Tareas: el campo Listo para comenzar no se actualiza a pesar de las predecesoras completadas](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | miércoles, 03 de diciembre de 2024 |
+| [Workfront: el formato de fecha cambia durante la aplicación](known-issues-workfront/wf-workfront-date-format-changing.md) | miércoles, 03 de diciembre de 2024 |
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | miércoles, 03 de diciembre de 2024 |
 | [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | miércoles, 03 de diciembre de 2024 |
 | [Documentos: la aprobación “adición rápida” no incluye la entrada de fecha límite para nuevas versiones](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | jueves, 13 de noviembre de 2024 |

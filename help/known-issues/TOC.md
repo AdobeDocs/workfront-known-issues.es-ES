@@ -5,7 +5,7 @@ role: User
 source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
 source-wordcount: '2214'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [Pruebas: El nombre de la prueba no aparece en la pestaña del explorador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
       + [Tareas: Error ¡Uy! al añadir tareas personales](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [Pruebas: Las pruebas de captura web no generan](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
-      + [Aprobaciones: Las aprobaciones delegadas no aparecen para los delegados](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [Documentos: Error &quot;Cambios no guardados&quot; al agregar un formulario a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [Aprobaciones: las aprobaciones delegadas no aparecen para los delegados](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [Documentos: error &quot;Cambios no guardados&quot; al añadir un formulario a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [Tareas: El campo Listo para comenzar no se actualiza a pesar de las predecesoras completadas](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
-      + [Workfront: El formato de fecha cambia durante la aplicación](known-issues-workfront/wf-workfront-date-format-changing.md)
+      + [Workfront: el formato de fecha cambia durante la aplicación](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: la configuración de ZScaler puede reducir el rendimiento](known-issues-workfront//wf-workfront-zscaler.md)
       + [Hojas de horas: los usuarios colaboradores tienen el botón “Enviar para aprobación”](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Notificaciones: no se envían las notificaciones por correo electrónico para las actualizaciones](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
