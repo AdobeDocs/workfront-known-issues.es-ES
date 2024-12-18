@@ -1,19 +1,19 @@
 ---
-title: 'Pruebas: No se pueden añadir destinatarios a la prueba'
-description: Cuando un usuario intenta agregar un usuario a una prueba mediante la opción Compartir > Agregar destinatarios, el destinatario no se agrega cuando el usuario hace clic en su nombre.
+title: 'Pruebas: no se pueden añadir destinatarios a la prueba'
+description: Cuando un usuario intenta añadir un usuario a una prueba mediante la opción Compartir > Añadir destinatarios, el destinatario no se añade cuando el usuario hace clic en su nombre.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+exl-id: 79d5de9e-1990-497b-ae33-fe56967a4a7d
+source-git-commit: 87ca9e2055e1dc2aaf07410ac7a4c9b8151ba49e
+workflow-type: ht
+source-wordcount: '84'
+ht-degree: 100%
 
 ---
 
+# Pruebas: no se pueden añadir destinatarios a la prueba
 
-# Pruebas: No se pueden añadir destinatarios a la prueba
-
-Cuando un usuario intenta agregar un usuario a una prueba mediante la opción Compartir > Agregar destinatarios, el destinatario no se agrega cuando el usuario hace clic en su nombre.
+Cuando un usuario intenta añadir un usuario a una prueba mediante la opción Compartir > Añadir destinatarios, el destinatario no se añade cuando el usuario hace clic en su nombre.
 
 **Solución alternativa**
 

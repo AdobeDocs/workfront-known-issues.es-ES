@@ -1,18 +1,18 @@
 ---
-title: 'Agile: No se pueden editar historias por lotes en una iteración'
-description: Cuando un usuario intenta editar historias por lotes en una iteración, el botón Editar no responde y el usuario no puede editar las historias por lotes.
+title: 'Agile: no se pueden editar por lotes las historias de una iteración'
+description: Cuando un usuario intenta editar por lotes las historias de una iteración, el botón Editar no responde y el usuario no puede editar las historias por lotes.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: tm+mt
+exl-id: eebec1d6-b6be-49d1-816c-75d7b6b59094
+source-git-commit: 87ca9e2055e1dc2aaf07410ac7a4c9b8151ba49e
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Agile: no se pueden editar por lotes las historias de una iteración
 
-# Agile: No se pueden editar historias por lotes en una iteración
-
-Cuando un usuario intenta editar historias por lotes en una iteración, el botón Editar no responde y el usuario no puede editar las historias por lotes.
+Cuando un usuario intenta editar por lotes las historias de una iteración, el botón Editar no responde y el usuario no puede editar las historias por lotes.
 
 _Notificado por primera vez el martes, 11 de noviembre de 2024._
