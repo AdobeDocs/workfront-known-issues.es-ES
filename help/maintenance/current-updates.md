@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '7142'
-ht-degree: 100%
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '7288'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,36 @@ Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actua
 En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en diciembre de 2024
+
++++**Actualización de mantenimiento el viernes, 19 de diciembre de 2024**
+
+### Actualización de mantenimiento el viernes, 19 de diciembre de 2024
+
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+
++++
+
++++**Actualización de mantenimiento el viernes, 12 de diciembre de 2024**
+
+### Actualización de mantenimiento el viernes, 12 de diciembre de 2024
+
+#### Paneles
+
+**La columna desaparece cuando se usa para ordenar en un informe de panel**
+
+Al ordenar un informe colocado en un panel por una columna, la columna desaparece y el contenido no se ordena.
+
+#### Informes
+
+**La columna de grupo bajo la opción de gráfico causa error**
+
+Al habilitar la opción &quot;Agrupar columna bajo gráfico&quot; en un informe con un gráfico, aparece el siguiente mensaje de error: &quot;Se ha producido un error. Estamos trabajando para resolverlo. Para continuar con su trabajo, intente actualizar esta página del explorador.”
+
+**Faltan iconos de edición y eliminación en lotes en los informes**
+
+Cuando se intenta editar o eliminar varios elementos del informe de forma masiva, los iconos Editar y Eliminar no aparecen ocasionalmente.
+
++++
 
 +++**Actualización de mantenimiento el viernes, 05 de diciembre de 2024**
 
