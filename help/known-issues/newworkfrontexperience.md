@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de  [!DN
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 100%
+source-wordcount: '1195'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,11 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Actualizaciones: las horas registradas no se muestran en la etiqueta Registrar tiempo en el área de Actualizaciones](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | miércoles, 02 de enero de 2024 |
+| [Informes: los mensajes del informe se cargan lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | miércoles, 02 de enero de 2024 |
+| [Notificaciones: las notificaciones push a la aplicación de Workfront Mobile no funcionan](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | miércoles, 02 de enero de 2024 |
+| [Documentos: el área Documentos no muestra todos los documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | miércoles, 02 de enero de 2024 |
+| [Formularios personalizados: error al editar el formulario personalizado mediante la columna](known-issues-workfront/wf-custom-forms-error-when-editing.md) | miércoles, 02 de enero de 2024 |
 | [Documentos: error &quot;Cambios no guardados&quot; al añadir un formulario a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md) | viernes, 05 de diciembre de 2024 |
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | miércoles, 03 de diciembre de 2024 |
 | [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | miércoles, 03 de diciembre de 2024 |
@@ -49,6 +54,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Solicitudes y problemas: error con asignaciones de usuarios avanzadas](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | viernes, 02 de enero de 2025 |
 | [Formularios personalizados: no se pueden añadir los campos de tarea “estimateByHours” u “hoursPerPoint”](known-issues-workfront/wf-custom-forms-invalid-fields.md) | sábado, 20 de diciembre de 2024 |
 | [Formularios personalizados: los datos personalizados no se muestran en el panel Resumen](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | jueves, 11 de diciembre de 2024 |
 | [Pruebas: el nombre de la revisión no aparece en la pestaña del explorador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | jueves, 11 de diciembre de 2024 |

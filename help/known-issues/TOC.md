@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: ht
-source-wordcount: '2214'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '2268'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Actualizaciones: Las horas registradas no se muestran en la etiqueta de tiempo de registro en el área de Actualizaciones](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [Informes: Los indicadores del informe se cargan lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [Notificaciones: Las notificaciones push a la aplicación de Workfront Mobile no funcionan](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [Documentos: el área Documentos no muestra todos los documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [Formularios personalizados: Error al editar el formulario personalizado mediante la columna](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [Solicitudes y problemas: Error con asignaciones de usuarios avanzadas](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Formularios personalizados: los datos personalizados no se muestran en el panel Resumen](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [Agile: no se pueden editar por lotes las historias de una iteración](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Pruebas: no se pueden añadir destinatarios a la prueba](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
