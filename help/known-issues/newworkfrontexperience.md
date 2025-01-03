@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de  [!DN
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 93%
+source-wordcount: '1246'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Formularios personalizados: el formulario personalizado aparece en formato heredado](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | jueves, 03 de enero de 2024 |
+| [Registro de facturación: las horas no se guardan](known-issues-workfront/wf-billing-record-hours-not-saved.md) | jueves, 03 de enero de 2024 |
 | [Actualizaciones: las horas registradas no se muestran en la etiqueta Registrar tiempo en el área de Actualizaciones](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | miércoles, 02 de enero de 2024 |
 | [Informes: los mensajes del informe se cargan lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | miércoles, 02 de enero de 2024 |
 | [Notificaciones: las notificaciones push a la aplicación de Workfront Mobile no funcionan](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | miércoles, 02 de enero de 2024 |
