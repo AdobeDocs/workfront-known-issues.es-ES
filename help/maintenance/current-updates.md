@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7288'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -46,13 +46,13 @@ Al ordenar un informe colocado en un panel por una columna, la columna desaparec
 
 #### Informes
 
-**La columna de grupo bajo la opción de gráfico causa error**
+**La columna de grupo bajo la opción de gráfico causa un error**
 
-Al habilitar la opción &quot;Agrupar columna bajo gráfico&quot; en un informe con un gráfico, aparece el siguiente mensaje de error: &quot;Se ha producido un error. Estamos trabajando para resolverlo. Para continuar con su trabajo, intente actualizar esta página del explorador.”
+Al habilitar la opción “Agrupar columna bajo gráfico” en un informe con un gráfico, aparece el siguiente mensaje de error: “Se ha producido un error. Estamos trabajando para resolverlo. Para continuar con su trabajo, intente actualizar esta página del explorador.”
 
 **Faltan iconos de edición y eliminación en lotes en los informes**
 
-Cuando se intenta editar o eliminar varios elementos del informe de forma masiva, los iconos Editar y Eliminar no aparecen ocasionalmente.
+Cuando se intenta editar o eliminar varios elementos del informe en lotes, los iconos Editar y Eliminar a veces no aparecen.
 
 +++
 

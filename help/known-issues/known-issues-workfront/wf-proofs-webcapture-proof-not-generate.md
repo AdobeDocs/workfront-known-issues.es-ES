@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 339c5a0a-cfc8-4cfc-946d-b87d760f9106
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 59%
 
 >[!NOTE]
 >
->Este problema se ha cerrado porque funciona como se diseñó. Consulte la solución a continuación.
+>Este problema se ha cerrado porque funciona como se diseñó. Consulte la siguiente solución.
 
 Cuando un usuario intenta crear una prueba de captura web, la prueba no se genera correctamente.
 
