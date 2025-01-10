@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '2336'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 94%
       + [Inicio: Faltan botones de aprobación en el widget Esperando aprobación](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Usuarios: Cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Proyectos: La condición de retraso no se aplica según lo esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [Formularios personalizados: El formulario personalizado aparece en el formato heredado](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [Formularios personalizados: el formulario personalizado aparece en el formato heredado](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Registro de facturación: las horas no se guardan](known-issues-workfront/wf-billing-record-hours-not-saved.md)
-      + [Tableros: No se puede mover la tarjeta a otra columna](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [Formularios personalizados: Mensaje &quot;Campos no válidos&quot; al editar un formulario personalizado](known-issues-workfront/wf-custom-forms-blank-required-field.md)
-      + [Usuarios: La actualización masiva de usuarios es muy lenta](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [Formularios personalizados: Los botones de opción se muestran horizontalmente](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [Actualizaciones: Las horas registradas no se muestran en la etiqueta de tiempo de registro en el área de Actualizaciones](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
-      + [Informes: Los indicadores del informe se cargan lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md)
-      + [Notificaciones: Las notificaciones push a la aplicación de Workfront Mobile no funcionan](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [Tableros: no se puede mover la tarjeta a otra columna](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [Formularios personalizados: mensaje &quot;Campos no válidos&quot; al editar un formulario personalizado](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Usuarios: la actualización masiva de usuarios es muy lenta](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [Formularios personalizados: los botones de opción se muestran horizontalmente](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
+      + [Actualizaciones: las horas registradas no se muestran en la etiqueta de tiempo de registro en el área Actualizaciones](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [Informes: las solicitudes de informe se cargan lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [Notificaciones: las notificaciones push en la aplicación de Workfront Mobile no funcionan](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
       + [Documentos: el área Documentos no muestra todos los documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [Formularios personalizados: Error al editar el formulario personalizado mediante la columna](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [Solicitudes y problemas: Error con asignaciones de usuarios avanzadas](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
+      + [Formularios personalizados: error al editar el formulario personalizado mediante la columna](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [Solicitudes y problemas: error en las asignaciones avanzadas de usuarios](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Formularios personalizados: los datos personalizados no se muestran en el panel Resumen](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [Agile: no se pueden editar por lotes las historias de una iteración](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Pruebas: no se pueden añadir destinatarios a la prueba](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
@@ -123,7 +123,7 @@ ht-degree: 94%
       + [Documentos: al hacer clic en el nombre de un documento se abre una página en blanco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
       + [Formularios personalizados: no se puede desplazar el campo de búsqueda externa](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
       + [Formularios personalizados: campo calculado que muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
-      + [Workfront Fusion: no se puede autenticar una conexión utilizando la funcionalidad de Workfront Iniciar sesión como.](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Workfront Fusion: no se puede autenticar una conexión utilizando la funcionalidad de Workfront Iniciar sesión como](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [Configuración: &quot;Iniciar sesión como&quot; conduce a una pantalla en blanco](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
       + [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md)
       + [Actualizaciones: no se notifican a los usuarios las actualizaciones dirigidas](known-issues-workfront/wf-updates-users-not-getting-email.md)

@@ -1,23 +1,23 @@
 ---
-title: 'Actualizaciones: Las horas registradas no se muestran en la etiqueta de tiempo de registro en el área de Actualizaciones'
-description: Cuando un usuario registra horas en el área de Actualizaciones, esas horas se muestran en la etiqueta de la pestaña Registrar tiempo. Sin embargo, si el usuario actualiza la página o sale y vuelve, esa etiqueta no muestra las horas.
+title: 'Actualizaciones: las horas registradas no se muestran en la etiqueta de tiempo de registro en el área Actualizaciones'
+description: Cuando un usuario registra horas en el área Actualizaciones, esas horas se muestran en la etiqueta de la pestaña Hora de registro. Sin embargo, si el usuario actualiza la página o sale y vuelve, esa etiqueta no muestra las horas.
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: e29be9fb-33d4-462d-9d69-83e5a1c682b7
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# Actualizaciones: Las horas registradas no se muestran en la etiqueta de tiempo de registro en el área de Actualizaciones
+# Actualizaciones: las horas registradas no se muestran en la etiqueta de tiempo de registro en el área Actualizaciones
 
 >[!NOTE]
 >
 >Este artículo se corrigió el viernes, 09 de enero de 2025.
 
-Cuando un usuario registra horas en el área de Actualizaciones, esas horas se muestran en la etiqueta de la pestaña Registrar tiempo. Sin embargo, si el usuario actualiza la página o sale y vuelve, esa etiqueta no muestra las horas.
+Cuando un usuario registra horas en el área Actualizaciones, esas horas se muestran en la etiqueta de la pestaña Hora de registro. Sin embargo, si el usuario actualiza la página o sale y vuelve, esa etiqueta no muestra las horas.
 
 **Solución alternativa**
 
