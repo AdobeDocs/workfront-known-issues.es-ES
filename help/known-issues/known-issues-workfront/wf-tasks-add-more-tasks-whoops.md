@@ -4,14 +4,18 @@ description: Cuando un usuario de la lista de tareas para sus tareas personales 
 hidefromtoc: true
 feature: Tasks
 exl-id: afe057ed-662c-4beb-98db-e11b58b97165
-source-git-commit: 87ca9e2055e1dc2aaf07410ac7a4c9b8151ba49e
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
 
 # Tareas: ¡Vaya! Se produjo un error al añadir tareas personales
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 26 de diciembre de 2024.
 
 Cuando un usuario de la lista de tareas para sus tareas personales intenta crear una nueva tarea haciendo clic en el botón “Añadir más tareas”, no puede crear la tarea y ve el siguiente mensaje:
 

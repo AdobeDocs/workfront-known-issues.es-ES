@@ -3,15 +3,19 @@ title: 'Documentos: el área Documentos no muestra todos los documentos'
 description: Cuando un usuario está viendo el área de Documentos de un objeto, no se muestran todos los documentos adjuntos al documento. Hay una solución disponible.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0031b3acdaba091cc83ae44b9d47fb473dae6053
+exl-id: 3c208da4-4f75-44ef-824e-50aff523e5aa
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 9%
+source-wordcount: '102'
+ht-degree: 14%
 
 ---
 
-
 # Documentos: el área Documentos no muestra todos los documentos
+
+>[!NOTE]
+>
+>Este artículo se corrigió el viernes, 09 de enero de 2025.
 
 Cuando un usuario está viendo el área de Documentos de un objeto, no se muestran todos los documentos adjuntos al documento.
 
