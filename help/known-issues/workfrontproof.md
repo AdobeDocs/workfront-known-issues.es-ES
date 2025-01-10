@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '454'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,12 +25,12 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: el área Documentos no muestra todos los documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | miércoles, 02 de enero de 2024 |
-| [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jueves, 09 de octubre de 2024 |
-| [Agile: el panel de historias se queda en blanco al añadir una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | sábado, 26 de julio de 2024 |
-| [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md) | viernes, 25 de julio de 2024 |
-| [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | miércoles, 25 de junio de 2024 |
-| [Integraciones: problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junio de 2024 |
+| [Documentos: el área Documentos no muestra todos los documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 02 de enero de 2024 |
+| [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 09 de octubre de 2024 |
+| [Agile: el panel de historias se queda en blanco al añadir una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 de julio de 2024 |
+| [Pruebas: al abrir una prueba, se abren varias copias](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 de julio de 2024 |
+| [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
+| [Integraciones: problemas con la integración de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 de junio de 2024 |
 
 {style="table-layout:auto"}
 
@@ -40,9 +40,9 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: el nombre de la revisión no aparece en la pestaña del explorador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | jueves, 11 de diciembre de 2024 |
-| [Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | viernes, 15 de agosto de 2024 |
-| [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martes, 08 de julio de 2024 |
+| [Pruebas: el nombre de la revisión no aparece en la pestaña del explorador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 de diciembre de 2024 |
+| [Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 de agosto de 2024 |
+| [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 08 de julio de 2024 |
 | [No se puede crear la vista para la lista de documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martes, 15 de julio de 2024 |
 | [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 de junio de 2024 |
 | [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de mayo de 2024 |
@@ -56,7 +56,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: las pruebas de captura web no se generan](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sábado, 20 de diciembre de 2024 |
+| [Pruebas: las pruebas de captura web no se generan](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 de diciembre de 2024 |
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 de junio de 2024 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de noviembre de 2023 |
 | [[!DNL Workfront Proof]: no se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 de octubre de 2023 |

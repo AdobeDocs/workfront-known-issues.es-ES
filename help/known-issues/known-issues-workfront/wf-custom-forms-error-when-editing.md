@@ -1,24 +1,24 @@
 ---
-title: 'Formularios personalizados: Error al editar el formulario personalizado mediante la columna'
-description: Cuando un usuario está viendo una lista de objetos que incluye vínculos a formularios personalizados e intenta editar un formulario personalizado haciendo clic en el vínculo, el usuario no puede editar el formulario y ve un mensaje de error. Hay una solución disponible
+title: 'Formularios personalizados: error al editar el formulario personalizado mediante la columna'
+description: Cuando un usuario está viendo una lista de objetos que incluye vínculos a formularios personalizados e intenta editar un formulario personalizado haciendo clic en el vínculo, el usuario no puede editar el formulario y ve un mensaje de error. Hay una solución alternativa disponible
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: tm+mt
+exl-id: 33d0d447-cde0-445f-80da-64f9a63814e9
+source-git-commit: 583dbaaaf1c633fecf0c3440d1f7395148f88750
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-
-# Formularios personalizados: Error al editar el formulario personalizado mediante la columna
+# Formularios personalizados: error al editar el formulario personalizado mediante la columna
 
 Cuando un usuario está viendo una lista de objetos que incluye vínculos a formularios personalizados e intenta editar un formulario personalizado haciendo clic en el vínculo, el usuario no puede editar el formulario y en su lugar ve el siguiente mensaje:
 
-&quot;Se ha producido un error y estamos trabajando activamente para solucionarlo&quot;.
+&quot;Se ha producido un error y estamos trabajando activamente para resolverlo&quot;.
 
 **Solución alternativa**
 
-Abra el objeto al que está adjunto el formulario personalizado y edite el formulario personalizado en la página Detalles de ese objeto.
+Abra el objeto al que se adjunta el formulario personalizado y edite el formulario personalizado mediante la página Detalles de ese objeto.
 
 _Informado por primera vez el viernes, 26 de diciembre de 2024._

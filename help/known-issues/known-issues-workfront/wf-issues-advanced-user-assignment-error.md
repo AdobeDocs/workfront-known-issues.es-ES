@@ -1,19 +1,19 @@
 ---
-title: 'Solicitudes y problemas: Error con asignaciones de usuarios avanzadas'
-description: Cuando un usuario intenta realizar una asignación de usuario avanzada en una solicitud o un problema, el usuario no está asignado y ve un error.
+title: 'Solicitudes y problemas: error en las asignaciones avanzadas de usuarios'
+description: Cuando un usuario intenta realizar una asignación avanzada de usuario a una solicitud o un problema, el usuario no se asigna y ve un error.
 hidefromtoc: true
 feature: Requests, Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: tm+mt
+exl-id: 9310726c-646e-46f0-a419-a232086f4738
+source-git-commit: 583dbaaaf1c633fecf0c3440d1f7395148f88750
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
+# Solicitudes y problemas: error en las asignaciones avanzadas de usuarios
 
-# Solicitudes y problemas: Error con asignaciones de usuarios avanzadas
-
-Cuando un usuario intenta realizar una asignación de usuario avanzada en una solicitud o un problema, el usuario no está asignado y ve el siguiente error:
+Cuando se intenta realizar una asignación avanzada de usuario a una solicitud o un problema, el usuario no se asigna y ve el siguiente mensaje de error:
 
 “Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador.”
 
