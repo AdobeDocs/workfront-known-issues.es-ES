@@ -2,10 +2,11 @@
 title: Actualizaciones de mantenimiento de Workfont en 2024
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '7353'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -55,9 +56,9 @@ Cuando se intenta editar o eliminar varios elementos del informe en lotes, los i
 
 **Errores en los informes del proyecto (datos financieros)**
 
-El error ¡Uy! aparece de forma intermitente en los informes de proyectos (datos financieros), tanto en la página de detalles como en la página de matriz.
+El error “¡Uy!” aparece de forma intermitente en los informes de proyectos (datos financieros), tanto en la página de detalles como en la página de matriz.
 
-Como parte de la corrección de este problema, los proyectos de este tipo de informe ya no se recalculan automáticamente antes de cargar los datos. Los usuarios deben recalcular manualmente las finanzas en proyectos individuales para actualizar los datos en un informe de datos financieros.
+Como parte de la corrección de este problema, los proyectos incluidos en este tipo de informe ya no se recalculan automáticamente antes de cargar los datos. Los usuarios deben recalcular manualmente las finanzas en los proyectos individuales para actualizar los datos en un informe de datos financieros.
 
 +++
 

@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1217'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Inicio: faltan botones de aprobación en el widget Esperando aprobación](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | viernes, 09 de enero de 2025 |
-| [Usuarios: Cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | viernes, 09 de enero de 2025 |
+| [Usuarios: cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | viernes, 09 de enero de 2025 |
 | [Proyectos: la condición de retraso no se aplica según lo esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | viernes, 09 de enero de 2025 |
 | [Formularios personalizados: el formulario personalizado aparece en formato heredado](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 03 de enero de 2024 |
 | [Registro de facturación: las horas no se guardan](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 03 de enero de 2024 |
