@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 77%
 
 ---
 
@@ -26,13 +26,37 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en enero de 2025
 
-+++**Actualización de mantenimiento el viernes, 09 de enero de 2025**
++++**Actualización de mantenimiento el viernes, 16 de enero de 2025**
 
-<!-- Delete this entry when next is added, no updates were made. -->
+### Actualización de mantenimiento el viernes, 16 de enero de 2025
 
-### Actualización de mantenimiento el viernes, 09 de enero de 2025
+#### Documentos
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+**Error de &quot;Cambios no guardados&quot; al agregar un formulario a un documento**
+
+Al añadir un formulario a un documento, aparece un error &quot;Cambios no guardados&quot; que no se puede cerrar e impide la interacción con la aplicación.
+
+#### Pruebas
+
+**El nombre de la revisión no aparece en la ficha del explorador**
+
+Cuando un usuario está viendo una prueba, su nombre no está visible en la pestaña del explorador. En su lugar, la pestaña del explorador muestra “Workfront”.
+
+#### Solicitudes y problemas
+
+**Error con asignaciones de usuarios avanzadas**
+
+Cuando se intenta realizar una asignación avanzada de usuario a una solicitud o un problema, el usuario no se asigna y ve el siguiente mensaje de error:
+
+“Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador.”
+
+La actualización de la página del explorador no es eficaz.
+
+#### Solicitudes
+
+**No se pueden crear solicitudes en entornos de vista previa**
+
+Al intentar crear una nueva solicitud en un entorno de vista previa de espacio aislado, se muestra un error que indica que la cola de solicitudes ya no está disponible y que la solicitud no se puede crear.
 
 +++
 
