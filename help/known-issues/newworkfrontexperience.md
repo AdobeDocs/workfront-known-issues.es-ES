@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1179'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Tareas: Las horas registradas permanecen en el proyecto anterior una vez que se movió](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | viernes, 16 de enero de 2025 |
-| [Informes: los filtros de informes por hora incluyen fechas incorrectas](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | viernes, 16 de enero de 2025 |
-| [Plantillas de horas: Horas totales incorrectas](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | viernes, 16 de enero de 2025 |
+| [Tareas: las horas registradas permanecen en el proyecto anterior una vez que se movió](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | viernes, 16 de enero de 2025 |
+| [Informes: los filtros de los informes de horas incluyen fechas incorrectas](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | viernes, 16 de enero de 2025 |
+| [Hojas de horas: horas totales incorrectas](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | viernes, 16 de enero de 2025 |
 | [Inicio: faltan botones de aprobación en el widget Esperando aprobación](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | viernes, 09 de enero de 2025 |
 | [Usuarios: cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | viernes, 09 de enero de 2025 |
 | [Proyectos: la condición de retraso no se aplica según lo esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | viernes, 09 de enero de 2025 |

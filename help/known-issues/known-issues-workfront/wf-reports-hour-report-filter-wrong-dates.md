@@ -4,9 +4,9 @@ description: Al filtrar un informe de horas para mostrar solo una fecha específ
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 

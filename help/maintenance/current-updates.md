@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '281'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -32,13 +32,13 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 #### Documentos
 
-**Error de &quot;Cambios no guardados&quot; al agregar un formulario a un documento**
+**Documentos: error “Cambios no guardados” al añadir un formulario a un documento**
 
 Al añadir un formulario a un documento, aparece un error &quot;Cambios no guardados&quot; que no se puede cerrar e impide la interacción con la aplicación.
 
 #### Pruebas
 
-**El nombre de la revisión no aparece en la ficha del explorador**
+**Pruebas: el nombre de la revisión no aparece en la pestaña del explorador**
 
 Cuando un usuario está viendo una prueba, su nombre no está visible en la pestaña del explorador. En su lugar, la pestaña del explorador muestra “Workfront”.
 
@@ -56,7 +56,7 @@ La actualización de la página del explorador no es eficaz.
 
 **No se pueden crear solicitudes en entornos de vista previa**
 
-Al intentar crear una nueva solicitud en un entorno de vista previa de espacio aislado, se muestra un error que indica que la cola de solicitudes ya no está disponible y que la solicitud no se puede crear.
+Al intentar crear una nueva solicitud en un entorno de vista previa de zona protegida, se muestra un error que indica que la cola de solicitudes ya no está disponible y que la solicitud no se puede crear.
 
 +++
 
