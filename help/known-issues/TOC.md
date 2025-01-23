@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: ht
-source-wordcount: '2356'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '2378'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Informes: los campos personalizados de escritura anticipada en profundidad no responden](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [Iniciar sesión como: Aparece la plantilla Diseño de página de inicio del administrador](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [Usuarios: Error de edición de tasa de coste](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [Tareas: las horas registradas permanecen en el proyecto anterior una vez movidas](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [Informes: los filtros de los informes de horas incluyen fechas incorrectas](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
       + [Hojas de horas: horas totales incorrectas](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)

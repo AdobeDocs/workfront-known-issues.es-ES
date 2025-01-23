@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,24 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en enero de 2025
+
++++**Actualización de mantenimiento el viernes, 23 de enero de 2025**
+
+### Actualización de mantenimiento el viernes, 23 de enero de 2025
+
+#### Informes
+
+**Los campos de moneda personalizados causan un error de informe**
+
+Cuando una vista de informe contiene dos o más campos de moneda personalizados, el informe devuelve un error.
+
+#### Usuarios
+
+La etiqueta **&quot;No registrada&quot; persiste después de iniciar sesión**
+
+A pesar de iniciar sesión de forma correcta al menos una vez, la etiqueta “No registrado” no desaparece como se espera para los nuevos usuarios.
+
++++
 
 +++**Actualización de mantenimiento el viernes, 16 de enero de 2025**
 
