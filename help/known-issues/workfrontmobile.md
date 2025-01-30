@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront]  Mobil
 keywords: nuevo archivo, añadir archivo
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 81%
 
 ---
 
@@ -26,9 +26,8 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 Actualmente, se están examinando estos problemas que se han notificado recientemente.
 
 | **Problema** | **Última modificación** |
-| -----------------------------------------------------------------| ----------------- |
-| [Notificaciones: las notificaciones push en la aplicación de Workfront Mobile no funcionan](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 02 de enero de 2024 |
-| [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 09 de octubre de 2024 |
+| -----------------------------------------------------------------| ----------------- ||
+| [Workfront Mobile: los vínculos del correo electrónico de revisión no se abrirán en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 de octubre de 2024 |
 
 <!--
 ## Current Issues

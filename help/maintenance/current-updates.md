@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 91%
+source-wordcount: '410'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,24 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en enero de 2025
+
++++**Actualización de mantenimiento el viernes, 30 de enero de 2025**
+
+### Actualización de mantenimiento el viernes, 30 de enero de 2025
+
+#### Inicio
+
+**Las aprobaciones no aparecen en el widget de inicio**
+
+Las aprobaciones enviadas por un usuario no aparecen en su propio widget de Mis aprobaciones, ni siquiera cuando se filtran para mostrarlas específicamente.
+
+#### Informes
+
+**Los filtros de informe de horas incluyen fechas incorrectas**
+
+Al filtrar un informe de horas para mostrar solo una fecha específica, se incluye en el informe una fecha adyacente diferente. Este problema parece estar relacionado con la configuración de la zona horaria.
+
++++
 
 +++**Actualización de mantenimiento el viernes, 23 de enero de 2025**
 

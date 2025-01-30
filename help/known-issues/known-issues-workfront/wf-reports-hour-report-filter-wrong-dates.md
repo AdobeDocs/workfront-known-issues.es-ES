@@ -3,14 +3,19 @@ title: 'Informes: los filtros de los informes de horas incluyen fechas incorrect
 description: Al filtrar un informe de horas para mostrar solo una fecha específica, se incluye en el informe una fecha adyacente diferente. Este problema parece estar relacionado con la configuración de la zona horaria.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '98'
+exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # Informes: los filtros de los informes de horas incluyen fechas incorrectas
+
+>[!NOTE]
+>
+>Este artículo se corrigió el viernes, 30 de enero de 2025.
 
 Al filtrar un informe de horas para mostrar solo una fecha específica, se incluye en el informe una fecha adyacente diferente. Este problema parece estar relacionado con la configuración de la zona horaria.
 

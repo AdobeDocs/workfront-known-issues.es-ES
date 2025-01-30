@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '2378'
-ht-degree: 99%
+source-wordcount: '2391'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Pruebas: No se pueden etiquetar determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [Tareas: Filtros y vistas de nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Informes: los campos personalizados de escritura anticipada en profundidad no responden](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [Iniciar sesión como: Aparece la plantilla Diseño de página de inicio del administrador](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [Usuarios: Error de edición de tasa de coste](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 99%
       + [Estados: no se puede reutilizar el estado eliminado anteriormente](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Inicio: no se puede quitar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [Documentos: error al utilizar un vínculo público a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Documentos: error al utilizar un vínculo público a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Proyectos: el menú Uso compartido no se carga](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Informes: los vínculos públicos a un informe no funcionan](known-issues-workfront/wf-reports-public-link-not-working.md)

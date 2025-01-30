@@ -1,26 +1,27 @@
 ---
-title: '“Documentos: error al utilizar un vínculo público a un documento”'
-description: Cuando un usuario hace clic en un vínculo público para ir a un documento en Workfront, puede que vea un error.
+title: 'Documentos: error al utilizar un vínculo público a un documento'
+description: Cuando un usuario hace clic en un vínculo público para ir a un documento en Workfront, ve un error.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 154faa161413258aae76968495cb464b17d71857
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 31%
 
 ---
 
 # Documentos: error al utilizar un vínculo público a un documento
 
+<!--
 >[!NOTE]
 >
->Este problema se ha resuelto.
+>This issue has been resolved.-->
 
-Cuando un usuario hace clic en un vínculo público para ir a un documento en Workfront, puede que vea uno de los siguientes errores:
+Cuando un usuario hace clic en un vínculo público para ir a un documento en Workfront, ve el siguiente error: &quot;Ese documento ya no existe&quot;.
 
-* Error 500
-* “[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
+**Solución alternativa**
 
+Si el usuario ha iniciado sesión, puede ver el documento según lo esperado.
 
-_Informado por primera vez el viernes, 30 de mayo de 2024._
+_Notificado por primera vez el sábado, 10 de enero de 2025._
