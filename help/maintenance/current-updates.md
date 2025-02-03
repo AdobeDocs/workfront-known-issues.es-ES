@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 85%
+ht-degree: 91%
 
 ---
 
@@ -50,13 +50,13 @@ Al filtrar un informe de horas para mostrar solo una fecha específica, se inclu
 
 #### Informes
 
-**Los campos de moneda personalizados causan un error de informe**
+**Los campos de moneda personalizados provocan un error de informe**
 
 Cuando una vista de informe contiene dos o más campos de moneda personalizados, el informe devuelve un error.
 
 #### Usuarios
 
-La etiqueta **&quot;No registrada&quot; persiste después de iniciar sesión**
+**Usuarios: la etiqueta “No registrado” persiste después del inicio de sesión**
 
 A pesar de iniciar sesión de forma correcta al menos una vez, la etiqueta “No registrado” no desaparece como se espera para los nuevos usuarios.
 

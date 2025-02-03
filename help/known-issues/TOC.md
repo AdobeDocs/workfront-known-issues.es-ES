@@ -5,7 +5,7 @@ role: User
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '2391'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 98%
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
       + [Pruebas: No se pueden etiquetar determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Tareas: Filtros y vistas de nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
-      + [Informes: los campos personalizados de escritura anticipada en profundidad no responden](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
-      + [Iniciar sesión como: Aparece la plantilla Diseño de página de inicio del administrador](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [Usuarios: Error de edición de tasa de coste](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
+      + [Informes: los campos personalizados de escritura anticipada en exploración en profundidad no responden](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [Iniciar sesión como: aparece la plantilla de diseño de inicio del administrador](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [Usuarios: error de edición de tasa de coste](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [Tareas: las horas registradas permanecen en el proyecto anterior una vez movidas](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [Informes: los filtros de los informes de horas incluyen fechas incorrectas](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
       + [Hojas de horas: horas totales incorrectas](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)

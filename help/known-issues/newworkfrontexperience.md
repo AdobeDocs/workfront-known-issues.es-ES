@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '1174'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -28,7 +28,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Pruebas: No se pueden etiquetar determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | viernes, 30 de enero de 2025 |
 | [Documentos: error al utilizar un vínculo público a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | viernes, 30 de enero de 2025 |
 | [Tareas: filtros y vistas de nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | viernes, 30 de enero de 2025 |
-| [Informes: los campos personalizados de escritura anticipada en desglose no responden](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | viernes, 23 de enero de 2025 |
+| [Informes: los campos personalizados de escritura anticipada en exploración en profundidad no responden](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | viernes, 23 de enero de 2025 |
 | [Tareas: las horas registradas permanecen en el proyecto anterior una vez que se movió](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | viernes, 16 de enero de 2025 |
 | [Hojas de horas: horas totales incorrectas](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | viernes, 16 de enero de 2025 |
 | [Inicio: faltan botones de aprobación en el widget Esperando aprobación](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | viernes, 09 de enero de 2025 |
@@ -76,7 +76,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Iniciar sesión como: Se muestra la plantilla Diseño de página de inicio del administrador](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | viernes, 23 de enero de 2025 |
+| [Iniciar sesión como: se muestra la plantilla de diseño de inicio del administrador](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | viernes, 23 de enero de 2025 |
 | [Informes: las solicitudes de informes se cargan lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | miércoles, 16 de enero de 2024 |
 | [Pruebas: las pruebas de captura web no se generan](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 de diciembre de 2024 |
 | [Workfront: el formato de fecha cambia durante la aplicación](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 de diciembre de 2024 |
