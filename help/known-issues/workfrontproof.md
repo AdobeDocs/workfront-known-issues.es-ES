@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '451'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pruebas: No se pueden etiquetar determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | viernes, 30 de enero de 2025 |
 | [Documentos: el área Documentos no muestra todos los documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 02 de enero de 2024 |
 | [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 09 de octubre de 2024 |
 | [Agile: el panel de historias se queda en blanco al añadir una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 de julio de 2024 |
@@ -41,6 +40,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | miércoles, 11 de febrero de 2025 |
 | [Documentos: no se pueden obtener previsualizaciones de documentos con el vínculo de previsualización](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 de agosto de 2024 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 08 de julio de 2024 |
 | [No se puede crear la vista para la lista de documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martes, 15 de julio de 2024 |

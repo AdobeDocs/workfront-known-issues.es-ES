@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2413'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Plantillas de diseño: las vistas eliminadas siguen estando disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [Formularios personalizados: Compañías que no aparecen en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [Documentos: No se puede cargar a la lista de documentos de la carpeta AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Pruebas: No se pueden etiquetar determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Tareas: Filtros y vistas de nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Informes: los campos personalizados de escritura anticipada en exploración en profundidad no responden](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)

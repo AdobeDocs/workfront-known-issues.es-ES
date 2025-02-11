@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de  [!DN
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 98%
+source-wordcount: '1200'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,9 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Pruebas: No se pueden etiquetar determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | viernes, 30 de enero de 2025 |
+| [Plantillas de diseño: las vistas eliminadas siguen estando disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | miércoles, 11 de febrero de 2025 |
+| [Formularios personalizados: Compañías que faltan en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | miércoles, 11 de febrero de 2025 |
+| [Documentos: no se puede cargar a la lista de documentos de la carpeta AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | miércoles, 11 de febrero de 2025 |
 | [Documentos: error al utilizar un vínculo público a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | viernes, 30 de enero de 2025 |
 | [Tareas: filtros y vistas de nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | viernes, 30 de enero de 2025 |
 | [Informes: los campos personalizados de escritura anticipada en exploración en profundidad no responden](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | viernes, 23 de enero de 2025 |
@@ -56,6 +58,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Pruebas: las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | miércoles, 11 de febrero de 2025 |
 | [Formularios personalizados: los datos personalizados no se muestran en el panel Resumen](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 de diciembre de 2024 |
 | [Informes: la edición por lotes en listas de gráficos no responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 03 de diciembre de 2024 |
 | [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 de noviembre de 2024 |

@@ -3,14 +3,19 @@ title: 'Pruebas: No se pueden etiquetar determinados usuarios'
 description: Cuando un usuario intenta etiquetar a otro usuario en una prueba, ocasionalmente algunos usuarios no están disponibles en el campo de escritura anticipada.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 6%
+source-wordcount: '64'
+ht-degree: 15%
 
 ---
 
 # Pruebas: No se pueden etiquetar determinados usuarios
+
+>[!NOTE]
+>
+>Este problema se corrigió el sábado, 07 de febrero de 2025.
 
 Cuando un usuario intenta etiquetar a otro usuario en una prueba, ocasionalmente algunos usuarios no están disponibles en el campo de escritura anticipada.
 
