@@ -28,8 +28,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Plantillas de diseño: las vistas eliminadas siguen estando disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | miércoles, 11 de febrero de 2025 |
 | [Formularios personalizados: Compañías que faltan en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | miércoles, 11 de febrero de 2025 |
 | [Documentos: no se puede cargar a la lista de documentos de la carpeta AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | miércoles, 11 de febrero de 2025 |
-| [Documentos: error al utilizar un vínculo público a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | viernes, 30 de enero de 2025 |
-| [Tareas: filtros y vistas de nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | viernes, 30 de enero de 2025 |
+| [Documentos: error al utilizar un vínculo público para ir a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 de enero de 2025 |
+| [Tareas: filtros y vistas a nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 de enero de 2025 |
 | [Tareas: las horas registradas permanecen en el proyecto anterior una vez que se movió](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | viernes, 16 de enero de 2025 |
 | [Hojas de horas: horas totales incorrectas](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | viernes, 16 de enero de 2025 |
 | [Inicio: faltan botones de aprobación en el widget Esperando aprobación](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | viernes, 09 de enero de 2025 |

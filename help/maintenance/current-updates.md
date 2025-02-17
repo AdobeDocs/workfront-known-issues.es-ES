@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
 source-wordcount: '545'
-ht-degree: 76%
+ht-degree: 82%
 
 ---
 
@@ -58,19 +58,19 @@ Al cargar una prueba en un proyecto, la lista de tareas de ese proyecto no se pu
 
 ## Actualizaciones en enero de 2025
 
-+++**Actualización de mantenimiento el viernes, 30 de enero de 2025**
++++**Actualización de mantenimiento el 30 de enero de 2025**
 
-### Actualización de mantenimiento el viernes, 30 de enero de 2025
+### Actualización de mantenimiento el 30 de enero de 2025
 
 #### Inicio
 
 **Las aprobaciones no aparecen en el widget de inicio**
 
-Las aprobaciones enviadas por un usuario no aparecen en su propio widget de Mis aprobaciones, ni siquiera cuando se filtran para mostrarlas específicamente.
+Las aprobaciones enviadas por un usuario no aparecen en su propio widget Mis aprobaciones, ni siquiera cuando se filtran para mostrarlas específicamente.
 
 #### Informes
 
-**Los filtros de informe de horas incluyen fechas incorrectas**
+**Los filtros de los informes de horas incluyen fechas incorrectas**
 
 Al filtrar un informe de horas para mostrar solo una fecha específica, se incluye en el informe una fecha adyacente diferente. Este problema parece estar relacionado con la configuración de la zona horaria.
 
