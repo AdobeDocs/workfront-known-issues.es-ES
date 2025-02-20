@@ -1,21 +1,22 @@
 ---
-title: 'Documentos: No se puede cargar a la lista de documentos de la carpeta AEM'
-description: Los usuarios no pueden arrastrar ni soltar archivos en el área de la lista de documentos principal de una carpeta de AEM.
+title: 'Documentos: no se pueden cargar en la lista de documentos de la carpeta de AEM'
+description: Los usuarios no pueden arrastrar y soltar archivos en el área de la lista de documentos principal de una carpeta de AEM.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: tm+mt
+exl-id: 0cc4c326-0e84-40ac-80ab-c3eeeae68595
+source-git-commit: bdb326edb9de91906b8337bbe4c01c6a6feaa630
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# Documentos: No se puede cargar a la lista de documentos de la carpeta AEM
+# Documentos: no se pueden cargar en la lista de documentos de la carpeta de AEM
 
-Los usuarios no pueden arrastrar ni soltar archivos en el área de la lista de documentos principal de una carpeta de AEM.
+Los usuarios no pueden arrastrar y soltar archivos en el área de la lista de documentos principal de una carpeta de AEM.
 
-**Solución alternativa**
+**Solución**
 
-Los archivos se pueden colocar en la carpeta AEM (fuera del área de la lista de documentos) para cargarlos.
+Los archivos se pueden soltar en la carpeta de AEM (fuera del área de la lista de documentos) para cargarlos.
 
-_Notificado por primera vez el jueves, 27 de noviembre de 2024._
+_Notificado por primera vez el 27 de noviembre de 2024._

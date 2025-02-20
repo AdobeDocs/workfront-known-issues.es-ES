@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '545'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -26,33 +26,33 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en febrero de 2025
 
-+++**Actualización de mantenimiento el viernes, 13 de febrero de 2025**
++++**Actualización de mantenimiento el 13 de febrero de 2025**
 
-### Actualización de mantenimiento el viernes, 13 de febrero de 2025
+### Actualización de mantenimiento el 13 de febrero de 2025
 
 #### Formularios personalizados
 
-**No se muestran los datos personalizados en el panel de resumen**
+**los datos personalizados no se muestran en el panel Resumen**
 
-Cuando un cliente está viendo el Panel de resumen de una tarea, los datos personalizados que deberían aparecer en el Panel de resumen no están presentes. Esto puede ocurrir aunque la plantilla de diseño de las tareas incluya los campos personalizados.
+Cuando un cliente está viendo el panel Resumen de una tarea, los datos personalizados que deberían aparecer en él no están presentes. Esto puede ocurrir aunque la plantilla de diseño de las tareas incluya los campos personalizados.
 
 #### Informes
 
-**Problemas de visualización de mensajes**
+**Problemas de visualización de solicitudes**
 
-Al acceder a un informe solicitado con un gran número de mensajes, el cuadro de diálogo del mensaje no permite el desplazamiento para acceder a todos los mensajes o al botón Ejecutar informe.
+Al acceder a un informe solicitado con un gran número de solicitudes, el cuadro de diálogo de la solicitud no permite desplazarse para acceder a todas las solicitudes o al botón Ejecutar informe.
 
 +++
 
-+++**Actualización de mantenimiento el viernes, 06 de febrero de 2025**
++++**Actualización de mantenimiento el 6 de febrero de 2025**
 
-### Actualización de mantenimiento el viernes, 06 de febrero de 2025
+### Actualización de mantenimiento el 6 de febrero de 2025
 
 #### Listas
 
-**No se puede editar la lista de tareas después de cargar la revisión**
+**No se puede editar la lista de tareas después de cargar la prueba**
 
-Al cargar una prueba en un proyecto, la lista de tareas de ese proyecto no se puede editar en línea hasta que se actualice la página o finalice la carga de la prueba.
+Cuando se carga una prueba en un proyecto, la lista de tareas de ese proyecto no se puede editar en línea hasta que se actualice la página o termine de cargarse la prueba.
 
 +++
 
