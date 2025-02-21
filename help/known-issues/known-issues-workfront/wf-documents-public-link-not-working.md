@@ -4,19 +4,18 @@ description: Cuando un usuario hace clic en un vínculo público para ir a un do
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 154faa161413258aae76968495cb464b17d71857
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 94%
 
 ---
 
 # Documentos: error al utilizar un vínculo público para ir a un documento
 
-<!--
 >[!NOTE]
 >
->This issue has been resolved.-->
+>Este problema se corrigió el 14 de febrero de 2025.
 
 Cuando un usuario hace clic en un vínculo público para ir a un documento en Workfront, ve el siguiente error: “Ese documento ya no existe”.
 

@@ -1,23 +1,21 @@
 ---
-title: '“API: las solicitudes agotan el tiempo de espera”'
+title: 'API: las solicitudes agotan el tiempo de espera'
 description: Las solicitudes realizadas a través de la API de Workfront están agotando el tiempo de espera.
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion
 exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
-source-wordcount: '44'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
 
 # API: las solicitudes agotan el tiempo de espera
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 9, 2024.
--->
+>Este problema se corrigió el jueves, 19 de febrero de 2025.
 
 Las solicitudes realizadas a través de la API de Workfront están agotando el tiempo de espera.
 

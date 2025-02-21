@@ -4,9 +4,9 @@ description: 'Problemas conocidos e informados de la nueva experiencia de  [!DN
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: ht
-source-wordcount: '1192'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '1142'
 ht-degree: 100%
 
 ---
@@ -25,17 +25,10 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Plantillas de diseño: las vistas eliminadas siguen estando disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 11 de febrero de 2025 |
-| [Formularios personalizados: las empresas no aparecen en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 11 de febrero de 2025 |
+| [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | viernes, 20 de febrero de 2025 |
 | [Documentos: no se pueden cargar en la lista de documentos de la carpeta de AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 de febrero de 2025 |
-| [Documentos: error al utilizar un vínculo público para ir a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 de enero de 2025 |
 | [Tareas: filtros y vistas a nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 de enero de 2025 |
-| [Tareas: las horas registradas permanecen en el proyecto anterior una vez que se movió](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | viernes, 16 de enero de 2025 |
-| [Hojas de horas: horas totales incorrectas](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | viernes, 16 de enero de 2025 |
-| [Inicio: faltan botones de aprobación en el widget Esperando aprobación](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | viernes, 09 de enero de 2025 |
 | [Usuarios: cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | viernes, 09 de enero de 2025 |
-| [Proyectos: la condición de retraso no se aplica según lo esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | viernes, 09 de enero de 2025 |
-| [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 03 de diciembre de 2024 |
 | [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 03 de diciembre de 2024 |
 | [Workfront: las pestañas del explorador que se dejaron abiertas no cargan](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 de noviembre de 2024 |
 | [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 09 de octubre de 2024 |
@@ -58,9 +51,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
 | [Pruebas: las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 de febrero de 2025 |
-| [Informes: la edición por lotes en listas de gráficos no responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 03 de diciembre de 2024 |
 | [Informes: largos tiempos de carga de Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 de noviembre de 2024 |
-| [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md) | 24 de octubre de 2024 |
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 de septiembre de 2024 |
 | [Formularios personalizados: los formularios se ajustan por defecto a los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 de agosto de 2024 |
 | [Configuración: problemas al cerrar la sesión como otro usuario](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 de agosto de 2024 |
@@ -77,6 +68,9 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | viernes, 20 de febrero de 2025 |
+| [Proyectos: la condición de retraso no se aplica según lo esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | martes, 20 de enero de 2025 |
+| [Formularios personalizados: las empresas no aparecen en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | viernes, 20 de febrero de 2025 |
 | [Pruebas: no se pueden crear pruebas para los vídeos vinculados desde AEM a través de Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 de febrero de 2025 |
 | [Iniciar sesión como: se muestra la plantilla de diseño de inicio del administrador](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | viernes, 23 de enero de 2025 |
 | [Informes: las solicitudes de informes se cargan lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | miércoles, 16 de enero de 2024 |
