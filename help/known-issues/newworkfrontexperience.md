@@ -27,7 +27,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | ----------------------------------------------------------------- | ----------------- |
 | [Plantilla de diseño: no se puede acceder a la sección de iteraciones personalizadas](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | martes, 24 de febrero de 2025 |
 | [Notificaciones: correos electrónicos duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | martes, 24 de febrero de 2025 |
-| [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | viernes, 20 de febrero de 2025 |
+| [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de febrero de 2025 |
 | [Documentos: no se pueden cargar en la lista de documentos de la carpeta de AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 de febrero de 2025 |
 | [Tareas: filtros y vistas a nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 de enero de 2025 |
 | [Usuarios: cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | viernes, 09 de enero de 2025 |
@@ -70,9 +70,9 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | viernes, 20 de febrero de 2025 |
-| [Proyectos: la condición de retraso no se aplica según lo esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | martes, 20 de enero de 2025 |
-| [Formularios personalizados: las empresas no aparecen en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | viernes, 20 de febrero de 2025 |
+| [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20 de febrero de 2025 |
+| [Proyectos: la condición de retraso no se aplica según lo esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20 de enero de 2025 |
+| [Formularios personalizados: las empresas no aparecen en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 20 de febrero de 2025 |
 | [Pruebas: no se pueden crear pruebas para los vídeos vinculados desde AEM a través de Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 de febrero de 2025 |
 | [Iniciar sesión como: se muestra la plantilla de diseño de inicio del administrador](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | viernes, 23 de enero de 2025 |
 | [Informes: las solicitudes de informes se cargan lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | miércoles, 16 de enero de 2024 |
