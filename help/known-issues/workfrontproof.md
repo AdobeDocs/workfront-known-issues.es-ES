@@ -5,7 +5,7 @@ keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '469'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | viernes, 20 de febrero de 2025 |
+| [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de febrero de 2025 |
 | [Documentos: el área Documentos no muestra todos los documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 02 de enero de 2024 |
 | [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 09 de octubre de 2024 |
 | [Agile: el panel de historias se queda en blanco al añadir una subtarea](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 de julio de 2024 |
