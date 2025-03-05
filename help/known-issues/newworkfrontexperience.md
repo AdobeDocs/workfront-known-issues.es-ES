@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
 workflow-type: tm+mt
 source-wordcount: '1171'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Plantilla de diseño: no se puede acceder a la sección de iteraciones personalizadas](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | martes, 24 de febrero de 2025 |
+| [Plantilla de diseño: no se puede acceder a la sección de iteraciones personalizadas](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 24 de febrero de 2025 |
 | [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de febrero de 2025 |
 | [Tareas: filtros y vistas a nivel de proyecto disponibles para las tareas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 de enero de 2025 |
 | [Usuarios: cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | viernes, 09 de enero de 2025 |

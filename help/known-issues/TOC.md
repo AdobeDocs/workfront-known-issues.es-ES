@@ -20,7 +20,7 @@ ht-degree: 99%
       + [Integraciones: error de outlookIdentityToken al usar Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Plantilla de diseño: sección de iteraciones personalizadas inaccesible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Notificaciones: correos electrónicos duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
-      + [Workfront Fusion: Error de conexión de escenario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
+      + [Workfront Fusion: error de conexión de escenario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [Pruebas: no se pueden crear pruebas para los vídeos vinculados desde AEM a través de Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Plantillas de diseño: las vistas eliminadas siguen estando disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Formularios personalizados: las empresas no aparecen en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
