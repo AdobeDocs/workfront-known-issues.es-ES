@@ -4,9 +4,9 @@ description: Cuando un usuario intenta iniciar sesión en Workfront para Outlook
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '73'
+source-git-commit: c60a7c70346bda8d794899c6d924c8f3605f1c9e
+workflow-type: tm+mt
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se ha cerrado porque no se ha podido reproducir.
+>Este problema se corrigió el viernes, 31 de octubre de 2024.
 
 Cuando un usuario intenta iniciar sesión en Workfront para Outlook, el botón no responde y el usuario no puede iniciar la sesión.
 

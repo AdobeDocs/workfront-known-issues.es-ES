@@ -4,14 +4,18 @@ description: Cuando un usuario está viendo un informe, hace clic en los detalle
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '113'
+source-git-commit: 88f86485714bb836ddd3f82f37452eb8d3d2e9bf
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # Informes: error al ver los detalles del informe agrupados por fecha personalizada
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 25 de julio de 2024.
 
 Cuando un usuario está viendo un informe, hace clic en los detalles y el informe se agrupa por un campo de fecha personalizado, los detalles no se cargan y el usuario ve el siguiente error:
 

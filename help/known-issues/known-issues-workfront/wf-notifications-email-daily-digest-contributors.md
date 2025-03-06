@@ -1,13 +1,13 @@
 ---
-title: '“Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico”'
-description: “Los usuarios con una licencia de colaborador no reciben correos electrónicos de notificación. Esto puede afectar tanto a los correos electrónicos de notificación instantánea como a los de resumen diario. '
+title: 'Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico '
+description: 'Los usuarios con una licencia Contributor no reciben correos electrónicos de notificación. Esto puede afectar tanto a los correos electrónicos de notificación instantánea como a los de resumen diario. '
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: 42c42ae1f68161fe7e8647e6b74c9a5806bf4a92
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
+>Este problema se resolvió el 11 de noviembre de 2024
 
 Los usuarios con una licencia Contributor no reciben correos electrónicos de notificación. Esto puede afectar tanto a los correos electrónicos de notificación instantánea como a los de resumen diario.
 
