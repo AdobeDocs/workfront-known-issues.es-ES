@@ -4,9 +4,9 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront]  Mobil
 keywords: nuevo archivo, añadir archivo
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,8 @@ Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfro
 Actualmente, se están examinando estos problemas que se han notificado recientemente.
 
 | **Problema** | **Última modificación** |
-| -----------------------------------------------------------------| ----------------- ||
-| [Workfront Mobile: los vínculos de revisión por correo electrónico no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 de octubre de 2024 |
+| -----------------------------------------------------------------| ----------------- |
+| Ninguno |  |
 
 <!--
 ## Current Issues

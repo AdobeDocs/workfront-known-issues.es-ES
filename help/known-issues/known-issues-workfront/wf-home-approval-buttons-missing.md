@@ -4,20 +4,20 @@ description: Al utilizar el widget Esperando aprobación en Inicio, no aparecen 
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
-source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
 
 # Inicio: faltan botones de aprobación en el widget Esperando aprobación
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on February 13, 2025.
--->
+>Este problema se corrigió el miércoles, 04 de marzo de 2025.
+
 
 Al utilizar el widget Esperando aprobación en Inicio, no aparecen los botones para seleccionar una decisión de aprobación.
 
