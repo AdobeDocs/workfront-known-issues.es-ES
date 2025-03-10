@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ea402fb97b93de9805da8e534aeb641fe1762d60
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '1690'
+source-wordcount: '1701'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Actualizaciones: algunos usuarios no pueden ver imágenes o documentos adjuntos a los comentarios](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Iniciar sesión como: Los administradores de grupo no pueden iniciar sesión como otro usuario](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integraciones: error de outlookIdentityToken al usar Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Plantilla de diseño: sección de iteraciones personalizadas inaccesible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
