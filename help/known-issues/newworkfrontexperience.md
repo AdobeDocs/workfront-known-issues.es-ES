@@ -4,9 +4,9 @@ description: 'Problemas conocidos e informados de la nueva experiencia de  [!DN
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '1036'
+source-wordcount: '979'
 ht-degree: 98%
 
 ---
@@ -77,6 +77,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Informes: error al exportar un informe](known-issues-workfront/wf-reports-error-cache-content.md) | 14 de octubre de 2024 |
 | [Inicio: los campos personalizados eliminados persisten en los widgets de proyecto, tarea y problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 08 de octubre de 2024 |
 | [Prioridades: las agrupaciones impiden la ordenación y la edición en línea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 08 de octubre de 2024 |
+| [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | 05 de septiembre de 2024 |
 | [Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 de septiembre de 2024 |
 | [Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 de septiembre de 2024 |
 | [Formularios personalizados: campo calculado que muestra un valor incorrecto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 12 de septiembre de 2024 |
@@ -119,27 +120,21 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Pruebas: la prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de septiembre de 2022 |
 | [Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [Paneles: los gráficos de informes que se ven en un panel utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 de agosto de 2022 |
-| [[!UICONTROL Inicio]: la terminología personalizada no se aplica al área de inicio](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md) | 3 de junio de 2022 |
 | [Agile: no se pueden editar campos de formularios personalizados en tarjetas](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 11 de mayo de 2022 |
 | [Agile: problemas al mover tarjetas en el panel [!UICONTROL Agile] ](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
 | [Aprobaciones: la delegación de aprobaciones está fijada para un número incorrecto de días](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | 20 de abril de 2022 |
 | [[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 de octubre de 2021 |
 | [Actualizaciones: el nombre del equipo no aparece en @mención](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 de octubre de 2021 |
 | [Agile: discrepancia en los [!UICONTROL puntos completados] para una iteración](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 de junio de 2021 |
-| [[!UICONTROL Inicio]: el comportamiento del botón de [!UICONTROL respuesta en prueba] es inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 de junio de 2021 |
 | [Notificaciones por correo electrónico: aparece el ajuste “[!UICONTROL Estoy asignado a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 de junio de 2021 |
 | [Notificaciones por correo electrónico: no se dirige al usuario al hilo de comentarios](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 23 de abril de 2021 |
 | [Calendarios: [!DNL OR] Declaración de filtro que excluye la regla de filtro](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 23 de abril de 2021 |
 | [[!UICONTROL Workfront Proof]: el informe de [!UICONTROL aprobación de pruebas] no puede determinar los plazos con precisión](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 de abril de 2021 |
-| [[!UICONTROL Inicio]: el nombre del proyecto se muestra como un GUID en la [!UICONTROL Lista de trabajos]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md) | 11 de febrero de 2021 |
 | [Documentos: no aparece el icono del flujo de trabajo de pruebas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 de enero de 2021 |
 | [Informes: el calendario se ajusta por defecto a fechas antiguas](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 5 de febrero de 2021 |
 | [Notificaciones por correo electrónico: los correos electrónicos no tienen un formato correcto en [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) | 30 de marzo de 2021 |
-| [[!UICONTROL Inicio]: no se puede ver la imagen del documento en la [!UICONTROL Lista de trabajos]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md) | 9 de noviembre de 2020 |
 | [Listas: el nombre de visualización no se aplica a la agrupación de campos personalizados](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 de noviembre de 2020 |
-| [Inicio: las fechas de delegación de la aprobación cambian tras actualizarlas y se envían dos correos electrónicos](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9 de noviembre de 2020 |
 | [Calendario: algunas tareas no se muestran](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 de noviembre de 2020 |
-| [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | 05 de septiembre de 2024 |
 
 {style="table-layout:auto"}
 
