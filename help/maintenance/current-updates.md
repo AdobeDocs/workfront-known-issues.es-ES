@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
 workflow-type: tm+mt
 source-wordcount: '727'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Para obtener información sobre las interrupciones de mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/).
+>Para obtener información sobre las interrupciones de mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/es/).
 
 En esta página se describen los problemas corregidos en las actualizaciones semanales de Workfront.
 
@@ -36,15 +36,15 @@ Esta actualización contiene solo correcciones de errores menores o menos import
 
 ## Actualizaciones en febrero de 2025
 
-+++**Actualización de mantenimiento el viernes, 27 de febrero de 2025**
++++**Actualización de mantenimiento el 27 de febrero de 2025**
 
-### Actualización de mantenimiento el viernes, 27 de febrero de 2025
+### Actualización de mantenimiento el 27 de febrero de 2025
 
 #### Grupos
 
-**No se puede compartir el nivel de acceso de administrador**
+**No se puede compartir el nivel de acceso del administrador**
 
-Al intentar compartir el nivel de acceso de administrador con un grupo, la casilla para marcar cada grupo no responde y el grupo no obtiene el nivel de acceso esperado.
+Al intentar compartir el nivel de acceso del administrador con un grupo, la casilla para marcar cada grupo no responde y el grupo no obtiene el nivel de acceso esperado.
 
 +++
 
@@ -148,7 +148,7 @@ A pesar de iniciar sesión de forma correcta al menos una vez, la etiqueta “No
 
 **Documentos: error “Cambios no guardados” al añadir un formulario a un documento**
 
-Al añadir un formulario a un documento, aparece un error &quot;Cambios no guardados&quot; que no se puede cerrar e impide la interacción con la aplicación.
+Al añadir un formulario a un documento, aparece un error “Cambios no guardados“ que no se puede cerrar e impide la interacción con la aplicación.
 
 #### Pruebas
 

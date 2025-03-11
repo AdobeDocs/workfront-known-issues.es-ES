@@ -1,6 +1,6 @@
 ---
-title: 'Problemas conocidos de la nueva experiencia de  [!DNL Adobe Workfront] '
-description: 'Problemas conocidos e informados de la nueva experiencia de  [!DNL Adobe Workfront] '
+title: 'Problemas conocidos de la nueva experiencia de [!DNL Adobe Workfront] '
+description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL Adobe Workfront] '
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
@@ -30,7 +30,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | [Tareas: problemas con el recálculo de la línea de tiempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 03 de diciembre de 2024 |
 | [Workfront: las pestañas del explorador que se dejaron abiertas no cargan](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 de noviembre de 2024 |
 | [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | 15 de agosto de 2024 |
-| [Integraciones: al vincular una carpeta desde  [!DNL Google Drive]  no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
+| [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
 {style="table-layout:auto"}
 
@@ -54,9 +54,9 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integraciones: error de outlookIdentityToken al usar Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | miércoles, 04 de marzo de 2025 |
-| [Notificaciones: correos electrónicos duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | viernes, 27 de febrero de 2025 |
-| [Documentos: no se pueden cargar en la lista de documentos de la carpeta de AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | viernes, 27 de febrero de 2025 |
+| [Integraciones: error de outlookIdentityToken al usar Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 de marzo de 2025 |
+| [Notificaciones: correos electrónicos duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 de febrero de 2025 |
+| [Documentos: no se pueden cargar en la lista de documentos de la carpeta de AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 de febrero de 2025 |
 | [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20 de febrero de 2025 |
 | [Proyectos: la condición de retraso no se aplica según lo esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20 de enero de 2025 |
 | [Formularios personalizados: las empresas no aparecen en el campo de escritura anticipada personalizado](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 20 de febrero de 2025 |
