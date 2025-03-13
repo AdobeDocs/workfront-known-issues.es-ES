@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
+source-git-commit: a463b80b8f40ef00f074a855b3a6265595d70198
 workflow-type: tm+mt
-source-wordcount: '727'
-ht-degree: 100%
+source-wordcount: '797'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,18 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en marzo de 2025
+
++++**Actualización de mantenimiento el viernes, 13 de marzo de 2025**
+
+### Actualización de mantenimiento el viernes, 13 de marzo de 2025
+
+#### Informes
+
+**El recuento de elementos en el gráfico es inexacto**
+
+En un informe de panel, hacer clic en un resultado de gráfico con más de 15 elementos y seleccionar para mostrar solo 15 funciona según lo esperado. Sin embargo, si abre el mismo informe fuera del panel y hace clic en el mismo resultado del gráfico, indica que se están mostrando todos los elementos, pero que solo aparecen 15.
+
++++
 
 +++**Actualización de mantenimiento el viernes, 06 de marzo de 2025**
 

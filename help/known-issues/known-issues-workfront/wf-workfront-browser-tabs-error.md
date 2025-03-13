@@ -1,16 +1,21 @@
 ---
-title: '“Workfront: las pestañas del explorador que se han dejado abiertas no cargan”'
-description: '“Cuando un usuario tiene las pestañas del explorador de Workfront abiertas el tiempo suficiente para que Workfront requiera otro inicio de sesión, en lugar de pedirle que vuelva a iniciar sesión, la página muestra un error: “500-001a: error al cargar la página”.” '
+title: 'Workfront: las pestañas del explorador que se dejaron abiertas no se pueden cargar'
+description: 'Cuando un usuario tiene las pestañas del explorador de Workfront abiertas el tiempo suficiente para que Workfront requiera otro inicio de sesión, en lugar de pedirle que vuelva a iniciar sesión, la página muestra un error: “500-001a: error al cargar la página”.'
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
+source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 91%
 
 ---
 
 # Workfront: las pestañas del explorador que se dejaron abiertas no se pueden cargar
+
+>[!NOTE]
+>
+>La solución para este problema se está implementando gradualmente.
 
 Cuando un usuario tiene las pestañas del explorador de Workfront abiertas el tiempo suficiente para que Workfront requiera otro inicio de sesión, en lugar de pedirle que vuelva a iniciar sesión, la página muestra un error: “500-001a: error al cargar la página”.
 
