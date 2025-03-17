@@ -5,7 +5,7 @@ role: User
 source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
 source-wordcount: '1716'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 97%
       + [Solicitudes: la cola de solicitudes no está disponible](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Proyectos: El estado del progreso del proyecto no se actualiza automáticamente a Late](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Actualizaciones: algunos usuarios no pueden ver imágenes o documentos adjuntos a los comentarios](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
-      + [Iniciar sesión como: Los administradores de grupo no pueden iniciar sesión como otro usuario](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
+      + [Iniciar sesión como: los administradores de grupo no pueden iniciar sesión como otro usuario](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integraciones: error de outlookIdentityToken al usar Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Plantilla de diseño: sección de iteraciones personalizadas inaccesible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Notificaciones: correos electrónicos duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -87,8 +87,8 @@ ht-degree: 97%
       + [Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Grupos: vuelve a aparecer el estado del grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [Notificaciones: los usuarios colaboradores no reciben notificaciones por correo electrónico](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
-      + [Workfront: no se puede utilizar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
-      + [Formularios personalizados: los formularios se ajustan por defecto a los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [Workfront: no se puede utilizar el SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
+      + [Formularios personalizados: los formularios se establecen de forma predeterminada en los formularios del proyecto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integraciones: no se puede iniciar sesión en Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Documentos: los comentarios de prueba no se muestran en las actualizaciones del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md)
@@ -104,7 +104,7 @@ ht-degree: 97%
       + [API: las solicitudes agotan el tiempo de espera](known-issues-workfront/wf-api-request-timing-out.md)
       + [Pruebas: las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
-      + [Portafolio: no se puede establecer el portafolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Portafolios: no se puede establecer el portafolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Tareas: al buscar el nombre en la asignación de tareas, no se muestran usuarios](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Tableros: el tablero no se muestra como tablero del usuario al utilizar [!UICONTROL Iniciar sesión como]](known-issues-workfront/wf-boards-log-in-as.md)
@@ -126,7 +126,7 @@ ht-degree: 97%
       + [Tareas: error de base de datos al añadir o eliminar una tarea (anteriormente error de Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Plantilla de diseño: la página de aterrizaje es incorrecta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Informes: el filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
-      + [Actualizaciones: los usuarios solicitantes no pueden añadir imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [Actualizaciones: los usuarios solicitantes no pueden añadir las imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Nuevo [!UICONTROL Inicio]: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Equipos: problemas al configurar los estados de equipo para el botón [!UICONTROL Listo]](known-issues-workfront/wf-teams-statuses-missing.md)
@@ -192,7 +192,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conocidos de  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas actuales en [!DNL Workfront Proof] {#proof-current}
-      + [Workfront Mobile: los vínculos de correo electrónico de prueba no se abren en iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
+      + [Workfront Mobile: los vínculos de correo electrónico de revisión no se abren en un iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [[!UICONTROL Workfront Proof]: no se pueden reordenar los recursos al crear una prueba](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca de tiempo inexacta en [!UICONTROL Resumen de prueba]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: no se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md)

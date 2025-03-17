@@ -38,9 +38,9 @@ En un informe de panel, hacer clic en un resultado de gráfico con más de 15 el
 
 +++
 
-+++**Actualización de mantenimiento el viernes, 06 de marzo de 2025**
++++**Actualización de mantenimiento el 6 de marzo de 2025**
 
-### Actualización de mantenimiento el viernes, 06 de marzo de 2025
+### Actualización de mantenimiento el 6 de marzo de 2025
 
 Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
 
