@@ -4,7 +4,7 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
+source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 98%
@@ -25,7 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Pruebas: La generación de pruebas es lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | martes, 17 de marzo de 2025 |
+| [Pruebas: La generación de pruebas es lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | martes, 17 de marzo de 2025 |
 | [Proyectos: el estado del progreso del proyecto no se actualiza automáticamente a Late](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | viernes, 13 de marzo de 2025 |
 | [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de febrero de 2025 |
 | [Usuarios: cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | viernes, 09 de enero de 2025 |
