@@ -3,10 +3,10 @@ title: 'Pruebas: La generación de pruebas es extremadamente lenta'
 description: Cuando un usuario crea una prueba en Workfront, la prueba puede tardar entre 3 y 10 minutos en generarse. La prueba se genera, pero lentamente.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7b4146154fa50c77daf237ec8c480b900c0aa277
+source-git-commit: 6243a56d1b351bc7dd343cd8580a2b7ce3eae588
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 25%
 
 ---
 
