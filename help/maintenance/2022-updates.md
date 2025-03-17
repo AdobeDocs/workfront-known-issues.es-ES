@@ -4,9 +4,9 @@ description: Actualizaciones de mantenimiento de 2022 para [!DNL Adobe Workfront
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16794'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -1079,12 +1079,12 @@ Como resultado de estas correcciones de errores, la dirección de correo electr�
 
 Anteriormente, las direcciones de correo electrónico de prueba contenían el subdominio de la organización. Por ejemplo, notifications@[dominio organizativo].my.workfront.com
 
-Ahora, la identificación de direcciones de correo electrónico ya no contiene un subdominio de organización. Todas las notificaciones de prueba por correo electrónico provienen de la siguiente dirección: `notification@my.workfront.com`
+Ahora, la identificación de direcciones de correo electrónico ya no contiene un subdominio de organización. Todas las notificaciones de revisión por correo electrónico provienen de la siguiente dirección: `notification@my.workfront.com`
 
 Como resultado, le recomendamos que realice las siguientes acciones si aún no lo ha hecho:
 
 * Actualice los filtros de correo no deseado para aceptar correos electrónicos de `notification@my.workfront.com`
-* Actualice sus listas de permitidos para aceptar correos electrónicos de `notification@my.workfront.com`
+* Actualice sus listas de permitidos para aceptar correos electrónicos de `notification@my.workfront.com`
   **Las opciones de usuario no se pueden modificar después de la configuración inicial en las Plantillas de flujo de trabajo**
 
 *[!DNL Workfront Proof]*

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ Se ha informado de los siguientes problemas acerca de la eliminación de los est
 
 **Solución**
 
-1. Vaya a **Configuración** > **Preferencias** > **Estados**.
+1. Vaya a **Configuración** > **Preferencias** > **Estados**.
 1. Busque el grupo correspondiente.
 1. Elimine el estado.
 
-_Notificado por primera vez el jueves, 26 de junio de 2024._
+_Notificado por primera vez el 26 de junio de 2024._

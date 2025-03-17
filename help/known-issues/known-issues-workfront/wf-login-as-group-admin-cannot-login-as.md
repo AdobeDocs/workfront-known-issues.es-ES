@@ -1,18 +1,18 @@
 ---
-title: 'Iniciar sesión como: Los administradores de grupo no pueden iniciar sesión como otro usuario'
-description: Cuando un administrador de grupo intenta iniciar sesión como otro usuario, no lo hace. En su lugar, el banner Ha iniciado sesión como muestra el nombre del administrador del grupo y el administrador del grupo ve su propia cuenta.
+title: 'Iniciar sesión como: los administradores de grupo no pueden iniciar sesión como otro usuario'
+description: Cuando un administrador de grupos intenta iniciar sesión como otro usuario, no se inicia sesión como el usuario. En su lugar, el banner Ha iniciado sesión como muestra el nombre del administrador de grupos y el administrador de grupos ve su propia cuenta.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
-workflow-type: tm+mt
+exl-id: 853cf466-f4f8-4f76-aac1-b7d62f286c4b
+source-git-commit: 7de2c762d323b8ab457d694edc447fb538ab1eb4
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Iniciar sesión como: los administradores de grupo no pueden iniciar sesión como otro usuario
 
-# Iniciar sesión como: Los administradores de grupo no pueden iniciar sesión como otro usuario
+Cuando un administrador de grupos intenta iniciar sesión como otro usuario, no se inicia sesión como el usuario. En su lugar, el banner &quot;Ha iniciado sesión como&quot; muestra el nombre del administrador de grupos y este ve su propia cuenta.
 
-Cuando un administrador de grupo intenta iniciar sesión como otro usuario, no lo hace. En su lugar, el banner &quot;Sesión iniciada como&quot; muestra el nombre del administrador del grupo y este ve su propia cuenta.
-
-_Informado por primera vez el miércoles, 18 de febrero de 2025._
+_Informado por primera vez el 18 de febrero de 2025._

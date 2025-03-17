@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 22b36104-8ec1-4a8c-9b50-58b0d0945598
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 06 de marzo de 2025.
+>Este problema se corrigió el 6 de marzo de 2025.
 
 Cuando se intenta navegar a la sección personalizada mientras se edita una iteración en una plantilla de diseño, la sección no se carga y en su lugar se le redirige a la sección Actualizaciones.
 
