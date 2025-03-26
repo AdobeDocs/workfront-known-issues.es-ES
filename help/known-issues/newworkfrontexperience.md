@@ -4,9 +4,9 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '983'
 ht-degree: 98%
 
 ---
@@ -52,6 +52,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtros: La lista desplegable desaparece al hacer clic en la barra de desplazamiento](known-issues-workfront/wf-filter-scroll-bar.md) | jueves, 26 de marzo de 2025 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 13 de marzo de 2025 |
 | [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 13 de marzo de 2025 |
 | [Integraciones: error de outlookIdentityToken al usar Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 de marzo de 2025 |
