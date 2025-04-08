@@ -1,22 +1,27 @@
 ---
-title: 'Workfront Fusion: El escenario no se está ejecutando'
-description: Si un escenario ya no está en ejecución, puede deberse a un problema con el horario de verano. Hay una solución disponible.
+title: 'Workfront Fusion: Scenario is not running'
+description: If a scenario is no longer running, it may be due to an issue with Daylight Savings Time. Hay una solución disponible.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
+exl-id: bd9f5a8a-0cbd-47ff-8d95-f06640a3b84b
+source-git-commit: 5a4359cd01d05926ca9fea631091cc0767cf0109
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 14%
+source-wordcount: '68'
+ht-degree: 20%
 
 ---
 
+# Workfront Fusion: Scenario is not running
 
-# Workfront Fusion: El escenario no se está ejecutando
+>[!NOTE]
+>
+>Este problema se ha resuelto.
 
-Si un escenario ya no está en ejecución, puede deberse a un problema con el horario de verano.
+If a scenario is no longer running, it may be due to an issue with Daylight Savings Time.
 
 **Solución**
 
-Desactivar y reactivar el escenario afectado.
+Deactivate and reactivate the affected scenario.
 
 _Notificado por primera vez el miércoles, 18 de marzo de 2025._
+
