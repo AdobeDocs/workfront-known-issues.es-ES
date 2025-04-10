@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '986'
-ht-degree: 95%
+source-wordcount: '968'
+ht-degree: 97%
 
 ---
 
@@ -25,9 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Paneles: el panel personalizado no se abre](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | viernes, 03 de abril de 2025 |
 | [Solicitudes: las direcciones URL de código incrustado no cargan la cola de solicitudes correctamente](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | viernes, 27 de marzo de 2025 |
-| [Informes: los usuarios de diferentes zonas horarias obtienen resultados de informes diferentes](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | viernes, 27 de marzo de 2025 |
 | [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de febrero de 2025 |
 | [Usuarios: cuenta duplicada creada al cambiar el administrador del sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | viernes, 09 de enero de 2025 |
 | [Workfront: las pestañas del explorador que se dejaron abiertas no cargan](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 de noviembre de 2024 |
