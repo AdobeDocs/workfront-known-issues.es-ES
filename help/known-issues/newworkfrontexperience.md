@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cb008302e356aebf208353058a6fada352155c61
+source-git-commit: 769cf7631661402b5add6e719838358859e25a21
 workflow-type: tm+mt
-source-wordcount: '952'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Plantillas: no se puede compartir con el acceso de Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | sábado, 11 de abril de 2025 |
 | [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de febrero de 2025 |
 | [Workfront: las pestañas del explorador que se dejaron abiertas no cargan](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 de noviembre de 2024 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
