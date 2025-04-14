@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: fcea0943bdcea64988c6db4584a79486d12611f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '947'
+ht-degree: 98%
 
 ---
 
@@ -38,7 +38,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
-| [Solicitudes: las direcciones URL de código incrustado no cargan la cola de solicitudes correctamente](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | viernes, 10 de abril de 2025 |
 | [Iniciar sesión como: los administradores del grupo no pueden iniciar sesión como otro usuario](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 de marzo de 2025 |
 | [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
@@ -130,7 +129,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Documentos: no aparece el icono del flujo de trabajo de pruebas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 de enero de 2021 |
 | [Informes: el calendario se ajusta por defecto a fechas antiguas](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 5 de febrero de 2021 |
 | [Notificaciones por correo electrónico: los correos electrónicos no tienen un formato correcto en [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) | 30 de marzo de 2021 |
-| [Listas: el nombre de visualización no se aplica a la agrupación de campos personalizados](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 de noviembre de 2020 |
+| [Listas: El nombre para mostrar no se aplica a la agrupación de campos personalizados](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 de noviembre de 2020 |
 | [Calendario: algunas tareas no se muestran](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 de noviembre de 2020 |
 
 {style="table-layout:auto"}
