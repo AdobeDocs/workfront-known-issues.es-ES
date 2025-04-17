@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1806'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: Las miniaturas de documento no se muestran](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Plantillas: No se puede compartir con acceso de Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Paneles: El panel personalizado no se abre](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Solicitudes: Las direcciones URL de código incrustado no cargan la cola de solicitudes correctamente](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
@@ -191,7 +192,7 @@ ht-degree: 0%
       + [Informes: el calendario se ajusta por defecto a fechas antiguas](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
       + [Notificaciones por correo electrónico: los correos electrónicos no tienen un formato correcto en [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
       + [[!UICONTROL Inicio]: no se puede ver la imagen del documento en la [!UICONTROL Lista de trabajos]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
-      + [Listas: el nombre de visualización no se aplica a la agrupación de campos personalizados](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
+      + [Listas: El nombre para mostrar no se aplica a la agrupación de campos personalizados](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL Inicio]: las fechas de delegación de la aprobación cambian tras actualizarlas y se envían dos correos electrónicos](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)
       + [Calendario: algunas tareas no se muestran](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
@@ -220,7 +221,7 @@ ht-degree: 0%
       + [El informe de [!UICONTROL aprobación de pruebas] no puede determinar los plazos con precisión](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Inicio]: las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Documentos: no aparece el icono del flujo de trabajo de pruebas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + Problemas resueltos en [!DNL Workfront] Prueba {#proof-resolved}
+   + Problemas resueltos en la revisión [!DNL Workfront] {#proof-resolved}
       + [Pruebas: Las pruebas se muestran como “[!UICONTROL Generando prueba]” durante un tiempo excesivo](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -241,11 +242,11 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront Goals] {#goals}
++ [!UICONTROL Objetivos de Adobe Workfront] {#goals}
    + [Problemas conocidos de  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Problemas conocidos de  [!DNL Workfront Library]](workfrontlibrary.md)
-+ [!DNL Workfront] Mobile App {#mobile}
++ [!DNL Workfront] aplicación móvil {#mobile}
    + [Problemas conocidos de  [!DNL Workfront] Mobile App](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [Problemas conocidos de  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)

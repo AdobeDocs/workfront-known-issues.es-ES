@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 98%
+source-wordcount: '423'
+ht-degree: 97%
 
 ---
 
@@ -38,6 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: no se muestran las miniaturas de documento](known-issues-workfront/wf-documents-thumbnails-not-display.md) | viernes, 17 de abril de 2025 |
 | [Actualizaciones: algunos usuarios no pueden ver imágenes o documentos adjuntos a los comentarios](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 de marzo de 2025 |
 | [Pruebas: las pruebas aprobadas aparecen en los informes](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 de febrero de 2025 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 08 de julio de 2024 |

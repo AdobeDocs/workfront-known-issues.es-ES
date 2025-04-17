@@ -4,9 +4,9 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fcea0943bdcea64988c6db4584a79486d12611f1
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '954'
 ht-degree: 98%
 
 ---
@@ -38,6 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Documentos: no se muestran las miniaturas de documento](known-issues-workfront/wf-documents-thumbnails-not-display.md) | viernes, 17 de abril de 2025 |
 | [Iniciar sesión como: los administradores del grupo no pueden iniciar sesión como otro usuario](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 de marzo de 2025 |
 | [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
