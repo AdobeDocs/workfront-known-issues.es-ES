@@ -1,13 +1,13 @@
 ---
 title: 'Workfront: La marca no está disponible'
-description: Cuando un usuario carga archivos en el área de Marca de la configuración, los archivos parecen cargarse correctamente. Sin embargo, si un usuario ve el menú principal, no ve el logotipo. Alternativamente, recibe un mensaje de error.
+description: La promoción de la marca no está disponible para las organizaciones que se han migrado a Adobe Admin Console, Adobe Unified Shell o Adobe IMS (Identity Management System).
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 56%
+source-wordcount: '181'
+ht-degree: 39%
 
 ---
 

@@ -4,8 +4,8 @@ description: Al filtrar un informe de horas para mostrar solo una fecha específ
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este artículo se corrigió el 30 de enero de 2025.
+>Este problema se corrigió el viernes, 30 de enero de 2025.
 
 Al filtrar un informe de horas para mostrar solo una fecha específica, se incluye en el informe una fecha adyacente diferente. Este problema parece estar relacionado con la configuración de la zona horaria.
 

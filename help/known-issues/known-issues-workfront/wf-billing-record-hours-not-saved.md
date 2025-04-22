@@ -4,8 +4,8 @@ description: Cuando un usuario intenta añadir horas aptas a un registro empresa
 hidefromtoc: true
 feature: Work Management
 exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este artículo se corrigió el 29 de enero de 2025.
+>Este problema se corrigió el jueves, 29 de enero de 2025.
 
 Cuando un usuario intenta añadir horas aptas a un registro empresarial, las horas no se guardan y el usuario ve el siguiente mensaje:
 

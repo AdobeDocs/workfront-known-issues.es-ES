@@ -4,8 +4,8 @@ description: A pesar de iniciar sesión de forma correcta al menos una vez, la e
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este artículo se corrigió el viernes, 23 de enero de 2025.
+>Este problema se corrigió el viernes, 23 de enero de 2025.
 
 A pesar de iniciar sesión de forma correcta al menos una vez, la etiqueta “No registrado” no desaparece como se espera para los nuevos usuarios.
 
