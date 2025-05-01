@@ -4,9 +4,9 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '931'
 ht-degree: 97%
 
 ---
@@ -49,7 +49,6 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront: las pestañas del explorador que se dejaron abiertas no cargan](known-issues-workfront/wf-workfront-browser-tabs-error.md) | miércoles, 22 de abril de 2025 |
 | [Filtros: La lista desplegable desaparece al hacer clic en la barra de desplazamiento](known-issues-workfront/wf-filter-scroll-bar.md) | jueves, 26 de marzo de 2025 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 13 de marzo de 2025 |
 | [Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md) | viernes, 13 de marzo de 2025 |

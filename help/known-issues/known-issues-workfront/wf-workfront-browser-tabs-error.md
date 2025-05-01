@@ -4,10 +4,10 @@ description: 'Cuando un usuario tiene las pestañas del explorador de Workfront 
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 91%
+source-wordcount: '115'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->La solución para este problema se está implementando gradualmente.
+>Este problema se ha resuelto.
 
 Cuando un usuario tiene las pestañas del explorador de Workfront abiertas el tiempo suficiente para que Workfront requiera otro inicio de sesión, en lugar de pedirle que vuelva a iniciar sesión, la página muestra un error: “500-001a: error al cargar la página”.
 
