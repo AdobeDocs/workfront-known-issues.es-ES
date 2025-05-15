@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
+source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
 workflow-type: tm+mt
-source-wordcount: '1086'
-ht-degree: 88%
+source-wordcount: '1129'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,18 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en mayo de 2025
+
++++**Actualización de mantenimiento el viernes, 15 de mayo de 2025**
+
+### Actualización de mantenimiento el viernes, 15 de mayo de 2025
+
+#### Informes
+
+**Error al ver un informe con una vista de hito**
+
+Cuando un usuario intenta ver un informe que tiene una vista de hito disponible para habilitar, el informe no se carga y muestra un error.
+
++++
 
 +++**Actualización de mantenimiento el viernes, 08 de mayo de 2025**
 
