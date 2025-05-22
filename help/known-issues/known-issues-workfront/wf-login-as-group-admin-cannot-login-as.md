@@ -4,14 +4,18 @@ description: Cuando un administrador de grupos intenta iniciar sesión como otro
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 853cf466-f4f8-4f76-aac1-b7d62f286c4b
-source-git-commit: 7de2c762d323b8ab457d694edc447fb538ab1eb4
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
 
 # Iniciar sesión como: los administradores de grupo no pueden iniciar sesión como otro usuario
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 27 de marzo de 2025.
 
 Cuando un administrador de grupos intenta iniciar sesión como otro usuario, no se inicia sesión como el usuario. En su lugar, el banner &quot;Ha iniciado sesión como&quot; muestra el nombre del administrador de grupos y este ve su propia cuenta.
 
