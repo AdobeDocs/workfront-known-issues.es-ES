@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
 workflow-type: tm+mt
-source-wordcount: '922'
-ht-degree: 97%
+source-wordcount: '931'
+ht-degree: 96%
 
 ---
 
@@ -36,6 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Usuarios: se muestra el distintivo &quot;Aprobación pendiente&quot; en los usuarios nuevos](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de mayo de 2025 |
 | [Documentos: no se muestran las miniaturas de documento](known-issues-workfront/wf-documents-thumbnails-not-display.md) | viernes, 17 de abril de 2025 |
 | [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
