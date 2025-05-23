@@ -42,7 +42,7 @@ Puede resolver usuarios individuales en la lista Usuarios.
 
 Para resolver los usuarios que se agregaron en un lote grande, puede agregar el lote de usuarios directamente a Adobe Admin Console.
 
-Para obtener instrucciones, consulte [Administrar varios usuarios | Carga masiva de CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) en la documentación de Adobe.
+Para obtener instrucciones, consulte [Administrar varios usuarios | Carga masiva de CSV](https://helpx.adobe.com/es/enterprise/using/bulk-upload-users.html) en la documentación de Adobe.
 
 
 _Informado por primera vez el viernes, 08 de mayo de 2025._
