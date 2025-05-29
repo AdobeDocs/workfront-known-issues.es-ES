@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
+source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
-source-wordcount: '931'
-ht-degree: 96%
+source-wordcount: '940'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Planificador de recursos: el botón Exportar está deshabilitado](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | viernes, 22 de mayo de 2025 |
+| [Búsqueda: la búsqueda avanzada no devuelve los resultados esperados](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | viernes, 29 de mayo de 2025 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
 {style="table-layout:auto"}
@@ -36,6 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Planificador de recursos: el botón Exportar está deshabilitado](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | viernes, 29 de mayo de 2025 |
 | [Usuarios: se muestra el distintivo &quot;Aprobación pendiente&quot; en los usuarios nuevos](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de mayo de 2025 |
 | [Documentos: no se muestran las miniaturas de documento](known-issues-workfront/wf-documents-thumbnails-not-display.md) | viernes, 17 de abril de 2025 |
 | [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
