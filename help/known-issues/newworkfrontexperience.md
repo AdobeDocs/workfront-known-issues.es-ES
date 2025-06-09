@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 95%
+source-wordcount: '952'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Informes: el desglose de gráficos incluye resultados inexactos](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | martes, 09 de junio de 2025 |
 | [Plantillas de horas: las plantillas de horas no se generaron correctamente](known-issues-workfront/wf-timesheets-one-week-created.md) | miércoles, 03 de junio de 2025 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
@@ -36,6 +37,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Pruebas: No se puede abrir la prueba desde el vínculo directo](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | martes, 09 de junio de 2025 |
 | [Planificador de recursos: el botón Exportar está deshabilitado](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | viernes, 29 de mayo de 2025 |
 | [Usuarios: se muestra el distintivo &quot;Aprobación pendiente&quot; en los usuarios nuevos](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de mayo de 2025 |
 | [Documentos: no se muestran las miniaturas de documento](known-issues-workfront/wf-documents-thumbnails-not-display.md) | viernes, 17 de abril de 2025 |
