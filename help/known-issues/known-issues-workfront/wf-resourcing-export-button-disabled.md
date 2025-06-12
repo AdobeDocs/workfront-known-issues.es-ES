@@ -3,15 +3,19 @@ title: 'Planificador de recursos: el botón Exportar está desactivado'
 description: Cuando un usuario intenta exportar desde el Planificador de recursos, el botón está desactivado (atenuado) y el usuario no puede exportar.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+exl-id: cafaefa6-f0f5-4366-88e8-6c433c98280e
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 6%
+source-wordcount: '64'
+ht-degree: 15%
 
 ---
 
-
 # Planificador de recursos: el botón Exportar está desactivado
+
+>[!NOTE]
+>
+>Este problema se corrigió el martes, 09 de junio de 2025.
 
 Cuando un usuario intenta exportar desde el Planificador de recursos, el botón está desactivado (atenuado) y el usuario no puede exportar.
 

@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '1248'
-ht-degree: 81%
+source-wordcount: '1321'
+ht-degree: 77%
 
 ---
 
@@ -26,9 +26,27 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en junio de 2025
 
-+++**Actualizaciones de mantenimiento del 2 al 6 de junio de 2025**
++++**Actualizaciones de mantenimiento realizadas entre el 9 y el 13 de junio de 2025**
 
-### Actualización de mantenimiento del 2 al 6 de junio de 2025
+### Semana de actualización de mantenimiento del 9 al 13 de junio de 2025
+
+#### Planificador de recursos
+
+**Botón de exportación desactivado**
+
+Cuando un usuario intenta exportar desde el Planificador de recursos, el botón está desactivado (atenuado) y el usuario no puede exportar.
+
+#### Hojas de horas
+
+**Plantillas de horas no generadas correctamente**
+
+Cuando un usuario intenta generar plantillas de horas y la generación se establece en &quot;Semanas alternas&quot;, solo se genera una semana.
+
++++
+
++++**Actualizaciones de mantenimiento la semana del 2 al 6 de junio de 2025**
+
+### Semana de la actualización de mantenimiento del 2 al 6 de junio de 2025
 
 ### Buscar
 
@@ -40,9 +58,9 @@ Cuando un usuario utiliza la búsqueda avanzada, no se devuelven los resultados 
 
 ## Actualizaciones en mayo de 2025
 
-+++**Actualizaciones de mantenimiento del 26 al 30 de mayo de 2025**
++++**Actualizaciones de mantenimiento la semana del 26 al 30 de mayo de 2025**
 
-### Actualización de mantenimiento del 26 al 30 de mayo de 2025
+### Semana de la actualización de mantenimiento del 26 al 30 de mayo de 2025
 
 Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
 
