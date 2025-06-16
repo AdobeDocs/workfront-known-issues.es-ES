@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 95%
+source-wordcount: '925'
+ht-degree: 94%
 
 ---
 
@@ -49,6 +49,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pruebas: no se pueden agregar usuarios a una prueba por su nombre en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | martes, 16 de junio de 2025 |
 | [Pruebas: al cerrar la prueba, se redirige a la lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | jueves, 14 de mayo de 2025 |
 | [Filtros: La lista desplegable desaparece al hacer clic en la barra de desplazamiento](known-issues-workfront/wf-filter-scroll-bar.md) | jueves, 26 de marzo de 2025 |
 | [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | viernes, 13 de marzo de 2025 |
