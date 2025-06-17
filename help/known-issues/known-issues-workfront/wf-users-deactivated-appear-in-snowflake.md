@@ -1,18 +1,18 @@
 ---
-title: 'Usuarios: los usuarios desactivados o eliminados aparecen como activos en Snowflake'
-description: 'Los usuarios desactivados o eliminados en Workfront pueden aparecer como activos en Snowflake. '
+title: 'Workfront: Objetos no sincronizados entre Workfront y Snowflake'
+description: 'Los objetos de Workfront pueden no estar sincronizados con Snowflake. Esto significa que el recuento de objetos puede ser diferente entre Workfront y Snowflake, y que las consultas a Snowflake pueden no devolver los mismos objetos que una búsqueda o un informe en Workfront. '
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 1d882ff2e8415575e3658bc492aa24a7fc68687a
+source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 7%
+source-wordcount: '104'
+ht-degree: 3%
 
 ---
 
 
-# Usuarios: los usuarios desactivados o eliminados aparecen como activos en Snowflake
+# Workfront: Objetos no sincronizados entre Workfront y Snowflake
 
-Los usuarios desactivados o eliminados en Workfront pueden aparecer como activos en Snowflake.
+Los objetos de Workfront pueden no estar sincronizados con Snowflake. Esto significa que el recuento de objetos puede ser diferente entre Workfront y Snowflake, y que las consultas a Snowflake pueden no devolver los mismos objetos que una búsqueda o un informe en Workfront.
 
 _Notificado por primera vez el miércoles, 22 de abril de 2025._
