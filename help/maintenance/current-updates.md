@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
 workflow-type: tm+mt
-source-wordcount: '1321'
-ht-degree: 77%
+source-wordcount: '1360'
+ht-degree: 76%
 
 ---
 
@@ -26,9 +26,17 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en junio de 2025
 
-+++**Actualizaciones de mantenimiento realizadas entre el 9 y el 13 de junio de 2025**
++++**Actualizaciones de mantenimiento realizadas entre el 15 y el 21 de junio de 2025**
 
-### Semana de actualización de mantenimiento del 9 al 13 de junio de 2025
+### Semana de actualización de mantenimiento del 15 al 21 de junio de 2025
+
+Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+
++++
+
++++**Actualizaciones de mantenimiento realizadas entre el 8 y el 14 de junio de 2025**
+
+### Semana de la actualización de mantenimiento del 8 al 14 de junio de 2025
 
 #### Planificador de recursos
 
@@ -44,9 +52,9 @@ Cuando un usuario intenta generar plantillas de horas y la generación se establ
 
 +++
 
-+++**Actualizaciones de mantenimiento la semana del 2 al 6 de junio de 2025**
++++**Actualizaciones de mantenimiento realizadas del 1 al 7 de junio de 2025**
 
-### Semana de la actualización de mantenimiento del 2 al 6 de junio de 2025
+### Semana de la actualización de mantenimiento del 1 al 7 de junio de 2025
 
 ### Buscar
 
@@ -58,9 +66,9 @@ Cuando un usuario utiliza la búsqueda avanzada, no se devuelven los resultados 
 
 ## Actualizaciones en mayo de 2025
 
-+++**Actualizaciones de mantenimiento la semana del 26 al 30 de mayo de 2025**
++++**Actualizaciones de mantenimiento realizadas entre el 25 y el 31 de mayo de 2025**
 
-### Semana de la actualización de mantenimiento del 26 al 30 de mayo de 2025
+### Semana de la actualización de mantenimiento del 25 al 31 de mayo de 2025
 
 Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
 
