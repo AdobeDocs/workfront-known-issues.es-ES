@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
+source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
 workflow-type: tm+mt
-source-wordcount: '935'
-ht-degree: 93%
+source-wordcount: '943'
+ht-degree: 92%
 
 ---
 
@@ -36,6 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Proyectos: no se puede mover el proyecto al programa especificado](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | sábado, 20 de junio de 2025 |
 | [Workfront: objetos no sincronizados entre Workfront y Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | miércoles, 17 de junio de 2025 |
 | [Pruebas: No se puede abrir la prueba desde el vínculo directo](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | martes, 09 de junio de 2025 |
 | [Usuarios: se muestra el distintivo &quot;Aprobación pendiente&quot; en los usuarios nuevos](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de mayo de 2025 |

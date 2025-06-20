@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
+source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
 workflow-type: tm+mt
-source-wordcount: '1412'
-ht-degree: 86%
+source-wordcount: '1419'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Proyectos: No se puede mover el proyecto al programa especificado](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront: Objetos no sincronizados entre Workfront y Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Pruebas: No se puede añadir usuarios a una prueba por su nombre en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [Pruebas: No se puede abrir la prueba desde un vínculo directo](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
@@ -94,7 +95,7 @@ ht-degree: 86%
       + [Equipos: no se puede ver el propietario del equipo ni eliminar el equipo](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Tareas: error de base de datos al añadir o eliminar una tarea (anteriormente error de Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
-      + [Plantilla de diseño: la página de aterrizaje es incorrecta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Plantilla de diseño: la página de destino es incorrecta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Informes: el filtro de informes no devuelve los resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Actualizaciones: los usuarios solicitantes no pueden añadir las imágenes a las actualizaciones](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
@@ -190,7 +191,7 @@ ht-degree: 86%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
