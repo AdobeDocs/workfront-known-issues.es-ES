@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '1360'
-ht-degree: 76%
+source-wordcount: '1421'
+ht-degree: 72%
 
 ---
 
@@ -25,6 +25,18 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en junio de 2025
+
++++**Actualizaciones de mantenimiento la semana del 22 al 27 de junio de 2025**
+
+### Semana de actualización de mantenimiento del 22 al 27 de junio de 2025
+
+#### Pruebas
+
+**No se puede abrir la revisión desde el vínculo directo**
+
+Cuando un usuario intenta abrir una prueba desde un vínculo directo, la prueba no se abre. Esto puede ocurrir aunque el usuario esté en un flujo de trabajo para la prueba o sea administrador de Workfront.
+
++++
 
 +++**Actualizaciones de mantenimiento realizadas entre el 15 y el 21 de junio de 2025**
 

@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '943'
-ht-degree: 92%
+source-wordcount: '935'
+ht-degree: 93%
 
 ---
 
@@ -38,7 +38,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | ---------------------------------- | ----------------- |
 | [Proyectos: no se puede mover el proyecto al programa especificado](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | sábado, 20 de junio de 2025 |
 | [Workfront: objetos no sincronizados entre Workfront y Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | miércoles, 17 de junio de 2025 |
-| [Pruebas: No se puede abrir la prueba desde el vínculo directo](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | martes, 09 de junio de 2025 |
 | [Usuarios: se muestra el distintivo &quot;Aprobación pendiente&quot; en los usuarios nuevos](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de mayo de 2025 |
 | [Documentos: no se muestran las miniaturas de documento](known-issues-workfront/wf-documents-thumbnails-not-display.md) | viernes, 17 de abril de 2025 |
 | [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
@@ -82,7 +81,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | 12 de septiembre de 2024 |
 | [Tableros: el tablero no se muestra como tablero del usuario al utilizar [!UICONTROL Iniciar sesión como]](known-issues-workfront/wf-boards-log-in-as.md) | 30 de agosto de 2024 |
 | [Navegación: el botón Atrás no vuelve a la página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | 30 de agosto de 2024 |
-| [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 27 de agosto de 2024 |
+| [Notificaciones: Las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 27 de agosto de 2024 |
 | [Inicio: el widget Mis problemas no muestra los problemas cerrados o completados](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 20 de junio de 2024 |
 | [Inicio: no se puede quitar el widget Menciones](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | jueves, 12 de junio de 2024 |
 | [Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 de junio de 2024 |
