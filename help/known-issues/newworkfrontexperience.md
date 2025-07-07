@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
 workflow-type: tm+mt
-source-wordcount: '936'
-ht-degree: 93%
+source-wordcount: '953'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Configuración: no se puede iniciar sesión como otro usuario](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | martes, 07 de julio de 2025 |
+| [Integraciones: problemas con la integración de Workfront para Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | martes, 07 de julio de 2025 |
 | [Tareas: El área de aprobaciones desaparece de la navegación izquierda](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | sábado, 27 de junio de 2025 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
