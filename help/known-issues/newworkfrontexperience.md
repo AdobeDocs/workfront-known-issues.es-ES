@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
 workflow-type: tm+mt
-source-wordcount: '955'
-ht-degree: 91%
+source-wordcount: '963'
+ht-degree: 90%
 
 ---
 
@@ -52,6 +52,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Permisos: los permisos de objeto no se heredan correctamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | miércoles, 15 de julio de 2025 |
 | [Pruebas: no se pueden agregar usuarios a una prueba por su nombre en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | martes, 16 de junio de 2025 |
 | [Pruebas: al cerrar la prueba, se redirige a la lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | jueves, 14 de mayo de 2025 |
 | [Filtros: La lista desplegable desaparece al hacer clic en la barra de desplazamiento](known-issues-workfront/wf-filter-scroll-bar.md) | jueves, 26 de marzo de 2025 |
