@@ -1,13 +1,13 @@
 ---
-title: '“Pruebas: las opciones de aprobación no aparecen en el visualizador de revisión”'
+title: 'Pruebas: Las opciones de aprobación no aparecen en el Visor de pruebas'
 description: Cuando un usuario intenta aprobar una prueba en el visualizador de revisión de escritorio, poco después de solicitarse la aprobación, las opciones de aprobación no están visibles y no puede. Aparecen varias horas después de solicitarse la aprobación.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -24,3 +24,5 @@ Cuando un usuario intenta aprobar una prueba en el [!UICONTROL Visualizador de r
 Apruebe el documento desde la página [!UICONTROL Detalles del documento] en [!DNL Workfront].
 
 _Notificado por primera vez el 12 de junio de 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

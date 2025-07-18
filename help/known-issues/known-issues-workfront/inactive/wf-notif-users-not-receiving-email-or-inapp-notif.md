@@ -1,13 +1,13 @@
 ---
-title: 'Notificaciones: los que no reciben notificaciones por correo electrónico o en la aplicación cuando se les menciona o se les incluye en un comentario'
+title: 'Notificaciones: Los usuarios que no reciben notificaciones por correo electrónico o en la aplicación cuando se les menciona o incluye en un comentario'
 description: Cuando se menciona o se incluye a un usuario en un comentario o una actualización en el flujo de actualización de un objeto, es posible que no reciba el correo electrónico o la notificación sobre el comentario que se espera en la aplicación.
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -20,3 +20,5 @@ ht-degree: 100%
 Cuando se menciona o se incluye a un usuario en un comentario o una actualización en el flujo de actualización de un objeto, es posible que no reciba el correo electrónico o la notificación sobre el comentario que se espera en la aplicación.
 
 _Notificado por primera vez el 20 de septiembre de 2022._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
