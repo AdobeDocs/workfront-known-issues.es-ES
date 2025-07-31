@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 64%
+source-wordcount: '1646'
+ht-degree: 63%
 
 ---
 
@@ -30,7 +30,11 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ### Semana de la actualización de mantenimiento del 20 al 26 de julio de 2025
 
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+#### Pruebas
+
+**No se pueden etiquetar usuarios en los comentarios de revisión**
+
+Cuando un usuario intenta etiquetar a otro usuario en un comentario de prueba y empieza a escribir el nombre del usuario, este no aparece en la lista y no se puede seleccionar para que se le etiquete.
 
 +++
 
