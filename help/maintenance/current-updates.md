@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
+source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
 workflow-type: tm+mt
-source-wordcount: '1740'
-ht-degree: 60%
+source-wordcount: '1760'
+ht-degree: 59%
 
 ---
 
@@ -24,11 +24,11 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
-## Actualizaciones en julio de 2025
+## Actualizaciones de agosto de 2025
 
-+++**Actualizaciones de mantenimiento la semana del 20 al 26 de julio de 2025**
++++**Actualizaciones de mantenimiento la semana del 27 de julio al 3 de agosto de 2025**
 
-### Semana de la actualización de mantenimiento del 20 al 26 de julio de 2025
+### Actualizaciones de mantenimiento semana del 27 de julio al 3 de agosto de 2025
 
 #### Proyectos
 
@@ -41,6 +41,14 @@ Los usuarios verán un icono de advertencia cuando no se haya recalculado la esc
 En ocasiones, es posible que las escalas de tiempo no se recalculen porque un proyecto es extremadamente complejo. Por ejemplo, un proyecto que tiene varias dependencias, un gran número de tareas, varias tareas predecesoras entre proyectos o varias sangrías de tareas puede verse afectado.
 
 Anteriormente, no había indicios de que no se hubiera recalculado una cronología.
+
++++
+
+## Actualizaciones en julio de 2025
+
++++**Actualizaciones de mantenimiento la semana del 20 al 26 de julio de 2025**
+
+### Actualizaciones de mantenimiento semana del 20 al 26 de julio de 2025
 
 #### Pruebas
 
