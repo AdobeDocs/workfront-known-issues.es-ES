@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
 workflow-type: tm+mt
-source-wordcount: '1646'
-ht-degree: 63%
+source-wordcount: '1740'
+ht-degree: 60%
 
 ---
 
@@ -29,6 +29,18 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 +++**Actualizaciones de mantenimiento la semana del 20 al 26 de julio de 2025**
 
 ### Semana de la actualización de mantenimiento del 20 al 26 de julio de 2025
+
+#### Proyectos
+
+**Ahora se muestra una advertencia cuando no se ha recalculado la escala de tiempo**
+
+Los usuarios verán un icono de advertencia cuando no se haya recalculado la escala de tiempo del proyecto. Al pasar el ratón por encima de este icono, el usuario ve el siguiente mensaje:
+
+&quot;La cronología del proyecto es incorrecta. Es posible que los jefes de proyecto tengan que recalcular manualmente la cronología&quot;.
+
+En ocasiones, es posible que las escalas de tiempo no se recalculen porque un proyecto es extremadamente complejo. Por ejemplo, un proyecto que tiene varias dependencias, un gran número de tareas, varias tareas predecesoras entre proyectos o varias sangrías de tareas puede verse afectado.
+
+Anteriormente, no había indicios de que no se hubiera recalculado una cronología.
 
 #### Pruebas
 
