@@ -1,13 +1,13 @@
 ---
-title: '“Workfront Fusion: duplicar proyectos creados a partir de un solo módulo”'
+title: 'Workfront Fusion: duplicar proyectos creados a partir de un solo módulo'
 description: Cuando se utiliza un módulo Crear módulo durante la ejecución de un escenario, se crean dos proyectos idénticos. Esto puede causar confusión al utilizar los proyectos en Workfront.
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 95cb41ab-aa1c-41a8-ad3d-bdc99f54e241
-source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+source-git-commit: 1e1528b2fc0c2ffd8ec62eeb2ba3bedb5693ada9
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 77%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 >
 >El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
-Cuando se utiliza un módulo Crear módulo durante la ejecución de un escenario, se crean dos proyectos idénticos. Esto puede causar confusión al utilizar los proyectos en Workfront.
+Cuando se utiliza el módulo Crear proyecto o se convierte un problema en un proyecto durante la ejecución de un escenario, se crean dos proyectos idénticos. Esto puede causar confusión al utilizar los proyectos en Workfront.
 
 _Notificado por primera vez el 11 de octubre de 2023._
