@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '1760'
-ht-degree: 59%
+source-wordcount: '1801'
+ht-degree: 58%
 
 ---
 
@@ -26,9 +26,9 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones de agosto de 2025
 
-+++**Actualizaciones de mantenimiento la semana del 27 de julio al 3 de agosto de 2025**
++++**Actualizaciones de mantenimiento la semana del 27 de julio al 2 de agosto de 2025**
 
-### Actualizaciones de mantenimiento semana del 27 de julio al 3 de agosto de 2025
+### Actualizaciones de mantenimiento semana del 27 de julio al 2 de agosto de 2025
 
 #### Proyectos
 
@@ -41,6 +41,12 @@ Los usuarios verán un icono de advertencia cuando no se haya recalculado la esc
 En ocasiones, es posible que las escalas de tiempo no se recalculen porque un proyecto es extremadamente complejo. Por ejemplo, un proyecto que tiene varias dependencias, un gran número de tareas, varias tareas predecesoras entre proyectos o varias sangrías de tareas puede verse afectado.
 
 Anteriormente, no había indicios de que no se hubiera recalculado una cronología.
+
+#### Tareas
+
+**El área de aprobaciones desaparece de la navegación izquierda**
+
+Cuando un usuario está viendo una tarea, el área de Aprobaciones puede desaparecer de la navegación izquierda. Eliminar y agregar el área de Aprobaciones a la plantilla de diseño resuelve el problema, pero este puede volver a producirse.
 
 +++
 

@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '952'
-ht-degree: 91%
+source-wordcount: '944'
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Permisos: los permisos de objeto no se heredan correctamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | jueves, 16 de julio de 2025 |
-| [Tareas: El área de aprobaciones desaparece de la navegación izquierda](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | sábado, 27 de junio de 2025 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
 {style="table-layout:auto"}
