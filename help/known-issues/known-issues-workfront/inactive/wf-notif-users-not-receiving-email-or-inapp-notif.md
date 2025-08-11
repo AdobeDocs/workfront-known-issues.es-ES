@@ -4,10 +4,10 @@ description: Cuando se menciona o se incluye a un usuario en un comentario o una
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 87%
+source-wordcount: '96'
+ht-degree: 84%
 
 ---
 
@@ -15,10 +15,8 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
+>Este problema se corrigió el miércoles, 18 de abril de 2023.
 
 Cuando se menciona o se incluye a un usuario en un comentario o una actualización en el flujo de actualización de un objeto, es posible que no reciba el correo electrónico o la notificación sobre el comentario que se espera en la aplicación.
 
 _Notificado por primera vez el 20 de septiembre de 2022._
-
-<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
