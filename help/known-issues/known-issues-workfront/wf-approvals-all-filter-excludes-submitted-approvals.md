@@ -4,10 +4,10 @@ description: Cuando se visualizan aprobaciones en el widget Mis aprobaciones en 
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 94%
+source-wordcount: '107'
+ht-degree: 92%
 
 ---
 
@@ -21,4 +21,4 @@ Cuando se visualizan aprobaciones en el widget Mis aprobaciones en Inicio o en l
 
 _Notificado por primera vez el jueves, 16 de octubre de 2024._
 
-&lt;!—CHECK ME—1 vista Abril-Junio de 2025—>
+&lt;!—CHECK ME—1 vista Abril-Junio de 2025 (7 de julio)—>

@@ -4,7 +4,7 @@ description: Cuando un usuario mueve una tarjeta a una columna diferente y luego
 hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -23,4 +23,4 @@ Esto ocurre cuando la columna a la que se mueve la tarjeta tiene un estado perso
 
 _Notificado por primera vez el 10 de noviembre de 2023._
 
-<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025(July 21 and 25)-->

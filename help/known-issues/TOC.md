@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '1378'
+source-wordcount: '1370'
 ht-degree: 85%
 
 ---
@@ -108,7 +108,6 @@ ht-degree: 85%
       + [Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
       + [[!UICONTROL Inicio]: la nueva vista previa del widget de [!UICONTROL Inicio] no muestra el nombre correcto del objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Inicio]: el widget [!UICONTROL Solicitudes] no muestra todos los equipos asignados](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
-      + [Plantillas de diseño: las plantillas de diseño causan incoherencias en los informes](known-issues-workfront/inactive/wf-layout-templates-classic.md)
       + [[!UICONTROL Inicio]: el widget “[!UICONTROL Menciones]” en la nueva página de [!UICONTROL Inicio] no se limita a los mensajes en los que se etiqueta al usuario](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Configuración]: no se pueden exportar los registros de auditoría](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Pruebas: las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
@@ -187,7 +186,7 @@ ht-degree: 85%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
