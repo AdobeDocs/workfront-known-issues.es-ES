@@ -1,10 +1,10 @@
 ---
-title: "Agile: Discrepancia en puntos completados para una iteración"
+title: 'Agile: Discrepancia en puntos completados para una iteración'
 description: El número que se muestra para los puntos completados en el Story Board a veces no coincide con el número real de puntos completados para las stories en una iteración
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 130e615f63c90d843f0f7f6e3adbea80c784164a
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
