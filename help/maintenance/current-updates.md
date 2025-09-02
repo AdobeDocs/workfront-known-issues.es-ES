@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+source-git-commit: a66310d736a326ea77557db8547b232caff4ee60
 workflow-type: tm+mt
-source-wordcount: '1957'
-ht-degree: 54%
+source-wordcount: '2091'
+ht-degree: 52%
 
 ---
 
@@ -24,11 +24,33 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
+## Actualizaciones en septiembre de 2025
+
++++**Actualizaciones de mantenimiento realizadas entre el 31 de agosto y el 6 de septiembre de 2025**
+
+### Semana de actualización de mantenimiento del 31 de agosto al 6 de septiembre de 2025
+
+#### API
+
+**Nuevas protecciones para evitar sobrecargar suscripciones a eventos**
+
+Suscripciones de eventos está diseñado para proporcionar un envío fiable de eventos para todos los usuarios. Para garantizar esto, se han implementado salvaguardas para evitar una producción de eventos excesiva por parte de un solo usuario que podría causar posibles problemas de calidad del servicio para todos los usuarios. Como resultado, un usuario que produce demasiados eventos a una tasa alta en un corto periodo de tiempo puede experimentar interferencias y retrasos en la entrega de eventos.
+
++++
+
 ## Actualizaciones de agosto de 2025
+
++++**Actualizaciones de mantenimiento realizadas entre el 24 y el 30 de agosto de 2025**
+
+### Semana de actualización de mantenimiento del 24 al 30 de agosto de 2025
+
+Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+
++++
 
 +++**Actualizaciones de mantenimiento realizadas entre el 17 y el 23 de agosto de 2025**
 
-### Semana de actualización de mantenimiento del 17 al 25 de agosto de 2025
+### Semana de actualización de mantenimiento del 17 al 23 de agosto de 2025
 
 #### Proyectos
 
@@ -254,7 +276,7 @@ Esta actualización contiene solo correcciones de errores menores o menos import
 
 ### **Actualización de mantenimiento el viernes, 10 de abril de 2025**
 
-#### Paneles
+#### Paneles de control
 
 **El tablero personalizado no se abre**
 
