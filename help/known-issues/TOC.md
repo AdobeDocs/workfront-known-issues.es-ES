@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1377'
 ht-degree: 85%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Usuarios: no se puede editar el identificador de federación de un usuario](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [Documentos: No se notifica a los usuarios añadidos como aprobadores una vez completada la aprobación](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Pruebas: No se pueden etiquetar usuarios en comentarios de pruebas](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Permisos: los permisos de objeto no se heredan correctamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
@@ -101,7 +102,7 @@ ht-degree: 85%
       + [Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar las agrupaciones](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
       + [Documentos: no se puede acceder a [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
-      + [Panel: margen grande en blanco al imprimir el panel en el PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
+      + [Panel de control: margen grande en blanco al imprimir el panel de control en el PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [Inicio: las tareas de los proyectos con estado Aprobado o Planificación no se incluyen en Mis tareas o en la Lista de trabajos en el Inicio](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [[!DNL Workfront]: la personalización de marca no se aplica](known-issues-workfront/inactive/wf-workfront-branding-not-applied.md)
       + [Pruebas: las pruebas completadas permanecen en el widget [!UICONTROL Esperando mi aprobación]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
@@ -113,7 +114,7 @@ ht-degree: 85%
       + [Pruebas: las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [Formularios personalizados: Error “[!UICONTROL ¡Uy!]” al configurar un campo calculado](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Pruebas: la pestaña [!UICONTROL Actividad de la prueba] abre [!UICONTROL Detalles de la prueba]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Filtros: no se puede compartir un filtro de un informe en un tablero](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [Filtros: no se puede compartir un filtro de un informe en un panel de control](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Documentos: problemas con la Lista de documentos](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [Documentos: error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
@@ -131,7 +132,7 @@ ht-degree: 85%
       + [Tareas: las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen] de la tarea](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
-      + [Paneles: los gráficos de informes que se ven en un panel utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
+      + [Paneles de control: Los gráficos de informes que se ven en un panel de control utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [Agile: problemas al mover tarjetas en el panel Agile](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + [Agile: no se pueden editar campos de formularios personalizados en tarjetas](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [Aprobaciones: la delegación de aprobaciones está fijada para un número incorrecto de días](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
@@ -156,7 +157,7 @@ ht-degree: 85%
       + [[!UICONTROL Workfront Proof]: no se pueden reordenar los recursos al crear una prueba](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca de tiempo inexacta en [!UICONTROL Resumen de prueba]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: no se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md)
-      + [Workfront Proof: los datos del panel no siempre son precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront Proof: los datos del panel de control no siempre son precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: los datos de búsqueda no siempre son precisos](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Pruebas: las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: Error 500 al acceder a [!DNL Workfront Proof]  mediante API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
@@ -186,7 +187,7 @@ ht-degree: 85%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
