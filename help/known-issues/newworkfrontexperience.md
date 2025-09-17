@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
-source-wordcount: '1019'
-ht-degree: 86%
+source-wordcount: '1010'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,6 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Usuarios: no se puede editar la configuración de notificaciones para otro usuario](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md) | viernes, 11 de septiembre de 2025 |
 | [Usuarios: no se puede cambiar el nivel de acceso de un usuario](known-issues-workfront/wf-users-cannot-change-access-level.md) | viernes, 11 de septiembre de 2025 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
