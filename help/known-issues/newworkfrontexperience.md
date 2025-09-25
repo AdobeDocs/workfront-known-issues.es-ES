@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 87%
+source-wordcount: '1024'
+ht-degree: 86%
 
 ---
 
@@ -36,6 +36,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Aprobaciones: la aprobación se muestra como &quot;Sin fecha límite&quot; cuando el tiempo no se incluye en la fecha límite](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | viernes, 25 de septiembre de 2025 |
 | [Usuarios: no se puede editar el identificador de federación de un usuario](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | miércoles, 09 de septiembre de 2025 |
 | [Documentos: no se notifica a los usuarios agregados como aprobadores una vez completada la aprobación](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | miércoles, 12 de agosto de 2025 |
 | [Pruebas: no se pueden etiquetar usuarios en los comentarios de prueba](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | viernes, 10 de julio de 2025 |
