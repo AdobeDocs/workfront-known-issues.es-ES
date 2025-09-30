@@ -1,17 +1,17 @@
 ---
-title: 'Aprobaciones: Los botones de decisión de aprobación no se muestran en el visualizador de pruebas'
+title: 'Aprobaciones: Los botones de decisión de aprobación no se muestran en el visualizador de pruebas para equipos'
 description: Cuando un aprobador está viendo una prueba en el Visualizador de pruebas e intenta tomar una decisión, los botones de decisión no están disponibles. Hay una solución disponible.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 173042f1f007ee7fa2ff9fcb7deee36390663b1d
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 8%
 
 ---
 
 
-# Aprobaciones: Los botones de decisión de aprobación no se muestran en el visualizador de pruebas
+# Aprobaciones: Los botones de decisión de aprobación no se muestran en el visualizador de pruebas para equipos
 
 Cuando un aprobador está viendo una prueba en el Visualizador de pruebas e intenta tomar una decisión, los botones de decisión no están disponibles.
 
