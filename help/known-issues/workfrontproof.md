@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 90%
+source-wordcount: '404'
+ht-degree: 88%
 
 ---
 
@@ -49,6 +49,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aprobaciones: los botones de decisión de aprobación no se muestran en el Visor de pruebas](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | miércoles, 30 de septiembre de 2025 |
 | [Pruebas: no se pueden agregar usuarios a una prueba por su nombre en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | martes, 16 de junio de 2025 |
 | [Pruebas: al cerrar la prueba, se redirige a la lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | jueves, 14 de mayo de 2025 |
 | [Pruebas: no se pueden crear pruebas para los vídeos vinculados desde AEM a través de Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 de febrero de 2025 |
@@ -56,7 +57,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Pruebas: las pruebas comprimidas no se generan](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 de junio de 2024 |
 | [Pruebas: error al compartir la prueba desde el vínculo de correo electrónico](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de noviembre de 2023 |
 | [[!DNL Workfront Proof]: no se puede expandir el flujo de trabajo](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 de octubre de 2023 |
-| [Workfront Proof: los datos del panel no siempre son precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 de septiembre de 2023 |
+| [Workfront Proof: los datos del panel de control no siempre son precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 de septiembre de 2023 |
 | [Workfront Proof: los datos de búsqueda no siempre son precisos](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 de septiembre de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 de junio de 2023 |
 | [Pruebas: Las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |

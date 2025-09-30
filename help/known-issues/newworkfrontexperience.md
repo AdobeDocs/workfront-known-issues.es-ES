@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '1024'
-ht-degree: 86%
+source-wordcount: '1034'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Programas: no se puede guardar al editar un programa](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | miércoles, 30 de septiembre de 2025 |
 | [Usuarios: no se puede cambiar el nivel de acceso de un usuario](known-issues-workfront/wf-users-cannot-change-access-level.md) | viernes, 11 de septiembre de 2025 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
@@ -37,7 +38,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
 | [Aprobaciones: la aprobación se muestra como &quot;Sin fecha límite&quot; cuando el tiempo no se incluye en la fecha límite](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | viernes, 25 de septiembre de 2025 |
-| [Usuarios: no se puede editar el identificador de federación de un usuario](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | miércoles, 09 de septiembre de 2025 |
 | [Documentos: no se notifica a los usuarios agregados como aprobadores una vez completada la aprobación](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | miércoles, 12 de agosto de 2025 |
 | [Pruebas: no se pueden etiquetar usuarios en los comentarios de prueba](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | viernes, 10 de julio de 2025 |
 | [Workfront: objetos no sincronizados entre Workfront y Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | miércoles, 17 de junio de 2025 |
@@ -53,6 +53,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta, pe
 
 | **Problema** | **Última modificación** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aprobaciones: los botones de decisión de aprobación no se muestran en el Visor de pruebas](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | miércoles, 30 de septiembre de 2025 |
 | [Pruebas: no se puede generar una prueba a partir de un archivo de PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | viernes, 11 de septiembre de 2025 |
 | [Permisos: los permisos de objeto no se heredan correctamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | miércoles, 15 de julio de 2025 |
 | [Filtros: La lista desplegable desaparece al hacer clic en la barra de desplazamiento](known-issues-workfront/wf-filter-scroll-bar.md) | jueves, 26 de marzo de 2025 |
