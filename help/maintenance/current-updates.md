@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '2269'
-ht-degree: 49%
+source-wordcount: '2314'
+ht-degree: 48%
 
 ---
 
@@ -23,6 +23,20 @@ Estas actualizaciones también incluyen otras correcciones de errores menores o 
 Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
+
+## Actualizaciones en octubre de 2025
+
++++**Actualizaciones de mantenimiento la semana del 28 de septiembre al 4 de octubre de 2025**
+
+### Actualizaciones de mantenimiento semana del 28 de septiembre al 4 de octubre de 2025
+
+#### Programas
+
+**No se puede guardar al editar un programa**
+
+Cuando un usuario está editando un programa e intenta guardar los cambios, estos no se guardan.
+
++++
 
 ## Actualizaciones en septiembre de 2025
 
