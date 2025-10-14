@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
 workflow-type: tm+mt
-source-wordcount: '1017'
-ht-degree: 86%
+source-wordcount: '1042'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Formularios personalizados: la lógica de visualización de campos no se sigue correctamente](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | miércoles, 14 de octubre de 2025 |
+| [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | miércoles, 14 de octubre de 2025 |
 | [Usuarios: no se puede cambiar el nivel de acceso de un usuario](known-issues-workfront/wf-users-cannot-change-access-level.md) | viernes, 11 de septiembre de 2025 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
@@ -36,6 +38,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 
 | **Problema** | **Última modificación** |
 | ---------------------------------- | ----------------- |
+| [Usuarios: no se pueden usar las opciones avanzadas al crear usuarios](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md) | miércoles, 14 de octubre de 2025 |
 | [Aprobaciones: la aprobación se muestra como &quot;Sin fecha límite&quot; cuando el tiempo no se incluye en la fecha límite](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | viernes, 25 de septiembre de 2025 |
 | [Documentos: no se notifica a los usuarios agregados como aprobadores una vez completada la aprobación](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | miércoles, 12 de agosto de 2025 |
 | [Pruebas: no se pueden etiquetar usuarios en los comentarios de prueba](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | viernes, 10 de julio de 2025 |
@@ -125,12 +128,12 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Pruebas: las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
 | [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
 | [[!UICONTROL Inicio]: las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |
-| [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
+| [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
 | [API: no se puede ordenar por campos dinámicos](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de octubre de 2022 |
 | [[!UICONTROL Configuración]: las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) | 28 de octubre de 2022 |
 | [Paneles de control: los gráficos de informes que se ven en un panel de control utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 de agosto de 2022 |
-| [Agile: problemas al mover tarjetas en el panel [!UICONTROL Agile] &#x200B;](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
-| [[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 de octubre de 2021 |
+| [Agile: problemas al mover tarjetas en el panel [!UICONTROL Agile] ](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
+| [[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 de octubre de 2021 |
 | [Actualizaciones: el nombre del equipo no aparece en @mención](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 de octubre de 2021 |
 | [Agile: discrepancia en los [!UICONTROL puntos completados] para una iteración](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 de junio de 2021 |
 | [Notificaciones por correo electrónico: aparece el ajuste “[!UICONTROL Estoy asignado a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 de junio de 2021 |

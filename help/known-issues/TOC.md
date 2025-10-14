@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
 workflow-type: tm+mt
-source-wordcount: '1439'
-ht-degree: 81%
+source-wordcount: '1461'
+ht-degree: 80%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 81%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Usuarios: No se pueden utilizar las opciones avanzadas al crear usuarios](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [Formularios personalizados: la lógica de visualización de campos no se sigue correctamente](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [Pruebas: no se puede cerrar el visualizador de pruebas](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [Programas: No se puede guardar al editar un programa](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [Aprobaciones: Los botones de decisión de aprobación no se muestran en el visualizador de pruebas](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [Aprobaciones: la aprobación se muestra como &quot;Sin fecha límite&quot; cuando el tiempo no se incluye en la fecha límite](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
@@ -194,7 +197,7 @@ ht-degree: 81%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
