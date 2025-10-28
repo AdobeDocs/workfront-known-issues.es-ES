@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '2314'
-ht-degree: 48%
+source-wordcount: '2492'
+ht-degree: 47%
 
 ---
 
@@ -25,6 +25,40 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en octubre de 2025
+
++++**Actualizaciones de mantenimiento realizadas entre el 19 y el 25 de octubre de 2025**
+
+### Actualizaciones de mantenimiento semana del 19 al 25 de octubre de 2025
+
+#### Formularios personalizados
+
+**La lógica de visualización de campos no se sigue correctamente**
+
+Cuando un usuario rellena un formulario personalizado que incluye lógica de visualización (donde algunos campos se muestran o no en función de los valores de otros campos), los campos no se muestran de una manera que siga esa lógica de campo.
+
+#### Pruebas
+
+**No se puede cerrar el visualizador de pruebas**
+
+Cuando un usuario está viendo una prueba en el visualizador de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
+
++++
+
++++**Actualizaciones de mantenimiento realizadas entre el 12 y el 18 de octubre de 2025**
+
+### Semana de actualización de mantenimiento del 12 al 18 de octubre de 2025
+
+Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+
++++
+
++++**Actualizaciones de mantenimiento realizadas del 5 al 11 de octubre de 2025**
+
+### Semana de actualización de mantenimiento del 5 al 11 de octubre de 2025
+
+Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+
++++
 
 +++**Actualizaciones de mantenimiento la semana del 28 de septiembre al 4 de octubre de 2025**
 
