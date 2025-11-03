@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '2492'
-ht-degree: 47%
+source-wordcount: '2607'
+ht-degree: 45%
 
 ---
 
@@ -23,6 +23,39 @@ Estas actualizaciones también incluyen otras correcciones de errores menores o 
 Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
+
+
+
+## Actualizaciones en noviembre de 2025
+
++++**Actualizaciones de mantenimiento realizadas entre el 26 de octubre y el 1 de noviembre de 2025**
+
+### Actualizaciones de mantenimiento semana del 26 de octubre al 1 de noviembre de 2025
+
+#### Informes
+
+**Problemas relacionados con los desplegables en los gráficos**
+
+Se han notificado los siguientes problemas con respecto a los desplegables en gráficos:
+
+* Cuando un usuario está viendo un informe con una columna desplegable y utiliza la función de gráfico, la lista desplegable de la ventana de gráfico no funciona.
+* Cuando un usuario intenta asignar usuarios desde un informe mediante un menú desplegable, la asignación no se guarda.
+
+#### Usuarios
+
+**No se pueden usar las opciones avanzadas al crear usuarios**
+
+Cuando un administrador de Workfront está creando un usuario e intenta utilizar la opción avanzada, no puede utilizar las opciones y ve el siguiente mensaje:
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## Actualizaciones en octubre de 2025
 
