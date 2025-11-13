@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
+source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
 workflow-type: tm+mt
-source-wordcount: '2712'
-ht-degree: 44%
+source-wordcount: '2790'
+ht-degree: 43%
 
 ---
 
@@ -27,6 +27,18 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 
 ## Actualizaciones en noviembre de 2025
+
++++**Actualizaciones semanales de mantenimiento de Workfront Planning del 9 al 15 de noviembre de 2025**
+
+### Workfront Planificación Actualizaciones de mantenimiento semana del 9 al 15 de noviembre de 2025
+
+#### Tipos de registro
+
+**Agregar predecesoras ya no depende de la subconfiguración Editar tareas en el nivel de acceso**
+
+Se han eliminado las opciones Editar y Configuración del menú Más de un tipo de registro global que se ha añadido a un espacio de trabajo secundario desde un tipo de registro global existente. Antes de esta actualización, los menús estaban atenuados y no funcionaban.
+
++++
 
 +++**Actualizaciones de mantenimiento realizadas entre el 9 y el 15 de noviembre de 2025**
 
