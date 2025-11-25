@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '2791'
-ht-degree: 43%
+source-wordcount: '2900'
+ht-degree: 41%
 
 ---
 
@@ -27,6 +27,20 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 
 ## Actualizaciones en noviembre de 2025
+
++++**Actualizaciones semanales de mantenimiento de Workfront Planning del 16 al 22 de noviembre de 2025**
+
+### Workfront Planificación de actualizaciones de mantenimiento semana del 16 al 22 de noviembre de 2025
+
+#### Formularios personalizados
+
+**Se agregó el indicador activo/inactivo a la lista de formularios personalizados donde se usa un campo**
+
+En el diseñador de formularios personalizados, puede seleccionar un campo y hacer clic en **Ver Forms relacionado** para ver una lista de todos los demás formularios en los que se usa el campo. Esto muestra a qué otros formularios se verán afectados si edita el campo.
+
+Una mejora de esta lista es un indicador activo/inactivo para cada formulario. De un vistazo, puede ver si el campo se utiliza actualmente en formularios activos o inactivos.
+
++++
 
 +++**Actualizaciones semanales de mantenimiento de Workfront Planning del 9 al 15 de noviembre de 2025**
 
