@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
 workflow-type: tm+mt
-source-wordcount: '1579'
-ht-degree: 74%
+source-wordcount: '1607'
+ht-degree: 73%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 74%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Formularios personalizados: no se pueden editar los campos de texto enriquecido](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+      + [Usuarios: Error al abrir la página Usuarios](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [Tareas: No se puede seleccionar el rol de usuario al crear una tarea](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [Pruebas: Los cambios de estado de la prueba se retrasan](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + [Tareas: Las ediciones en línea de una tarea no se guardan](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [Usuarios: La edición masiva de usuarios elimina los conjuntos de recursos y los informes directos](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [Solicitudes: No se puede cargar el documento a la solicitud desde GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
@@ -212,7 +216,7 @@ ht-degree: 74%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
