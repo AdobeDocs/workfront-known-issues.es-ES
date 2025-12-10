@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
-ht-degree: 41%
+source-wordcount: '3008'
+ht-degree: 40%
 
 ---
 
@@ -25,6 +25,20 @@ Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actua
 En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en diciembre de 2025
+
++++**Actualizaciones de mantenimiento la semana del 7 al 13 de diciembre de 2025**
+
+### Actualizaciones de mantenimiento semana del 7 al 13 de diciembre de 2025
+
+#### Usuarios
+
+**La edición masiva de usuarios elimina los conjuntos de recursos y los informes directos**
+
+Cuando un usuario edita usuarios por lotes, hace clic en el campo Grupos de recursos y no introduce ningún valor, se eliminan los Grupos de recursos de todos los usuarios editados.
+
+La edición masiva también puede eliminar informes directos de los usuarios editados.
+
++++
 
 +++**Actualizaciones de mantenimiento la semana del 30 de noviembre al 6 de diciembre de 2025**
 
