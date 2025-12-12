@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '3008'
+source-wordcount: '3103'
 ht-degree: 40%
 
 ---
@@ -30,6 +30,13 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ### Actualizaciones de mantenimiento semana del 7 al 13 de diciembre de 2025
 
+#### Solicitudes
+
+**No se puede cargar el documento a la solicitud desde GDrive**
+
+Cuando un usuario está creando una solicitud en la nueva experiencia de solicitud e intenta cargar un documento desde GDrive, la ventana de GDrive no responde. El usuario no puede seleccionar un archivo ni cerrar la ventana.
+
+
 #### Usuarios
 
 **La edición masiva de usuarios elimina los conjuntos de recursos y los informes directos**
@@ -37,6 +44,12 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 Cuando un usuario edita usuarios por lotes, hace clic en el campo Grupos de recursos y no introduce ningún valor, se eliminan los Grupos de recursos de todos los usuarios editados.
 
 La edición masiva también puede eliminar informes directos de los usuarios editados.
+
+**Error al abrir la página de usuarios**
+
+Cuando un usuario intenta abrir la página de Usuarios desde el menú principal, la página no se abre y el usuario ve el siguiente mensaje:
+
+“Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador.”
 
 +++
 
@@ -141,7 +154,7 @@ Cuando un usuario rellena un formulario personalizado que incluye lógica de vis
 
 **No se puede cerrar el visualizador de pruebas**
 
-Cuando un usuario está viendo una prueba en el visualizador de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
+Cuando un usuario está viendo una revisión en el visualizador de revisiones e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la revisión no se cierra.
 
 +++
 

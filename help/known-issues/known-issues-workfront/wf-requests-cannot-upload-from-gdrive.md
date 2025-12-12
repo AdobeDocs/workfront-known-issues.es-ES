@@ -3,10 +3,10 @@ title: 'Solicitudes: No se puede cargar el documento a la solicitud desde GDrive
 description: Cuando un usuario está creando una solicitud en la nueva experiencia de solicitud e intenta cargar un documento desde GDrive, la ventana de GDrive no responde. El usuario no puede seleccionar un archivo ni cerrar la ventana. Hay una solución disponible.
 hidefromtoc: true
 feature: Requests, Digital Content and Documents
-source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Este problema afecta a la nueva experiencia solicitante.
+>* Este problema afecta a la nueva experiencia solicitante.
+>* Este problema se corrigió el sábado, 12 de diciembre de 2025.
 
 Cuando un usuario está creando una solicitud en la nueva experiencia de solicitud e intenta cargar un documento desde GDrive, la ventana de GDrive no responde. El usuario no puede seleccionar un archivo ni cerrar la ventana.
 
