@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
 workflow-type: tm+mt
-source-wordcount: '3210'
-ht-degree: 38%
+source-wordcount: '3378'
+ht-degree: 37%
 
 ---
 
@@ -36,6 +36,13 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 Cuando un usuario asigna un equipo a un elemento de trabajo en Workfront, la asignación del equipo no se guarda y no se notifica al equipo el trabajo.
 
+#### Horarios
+
+**Permisos para programar revocados para un grupo**
+
+Cuando un administrador de grupo de Workfront agrega una excepción de fecha a una programación y guarda los cambios, los permisos para esa programación se eliminan del grupo y el administrador de Workfront debe conceder acceso al grupo.
+
+
 #### Tareas
 
 **Las ediciones en línea realizadas en una tarea no guardan**
@@ -47,6 +54,20 @@ Cuando un usuario realiza cambios en línea en una tarea en la experiencia de ta
 **No se generaron hojas de horas**
 
 Las plantillas de horas no se generan automáticamente como se espera. Esto puede ocurrir aunque los perfiles de las plantillas de horas sean precisos y las de otras semanas se generen correctamente.
+
+#### Usuarios
+
+**Problemas con los cambios en el perfil de revisión**
+
+Se ha informado de los siguientes problemas con respecto a los cambios realizados en el perfil de prueba de un usuario:
+
+* Cuando un usuario asigna un perfil de prueba diferente a un usuario y lo guarda, el cambio no se guarda y el usuario conserva el perfil de prueba anterior.
+* El perfil de prueba de un usuario puede mostrarse como un perfil de prueba incorrecto, incluso si se ha asignado el perfil de prueba correcto.
+* Cuando se realizan otros cambios en un usuario, los permisos de Proof también pueden cambiar.
+
+**Falta la opción para generar automáticamente revisiones en el perfil de usuario**
+
+Cuando un usuario está viendo un perfil de usuario, la opción &quot;Generar pruebas automáticamente al cargar documentos&quot; no está disponible. Esto puede ocurrir aunque se hayan cumplido todos los requisitos previos para la opción.
 
 +++
 
