@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '3378'
-ht-degree: 37%
+source-wordcount: '3415'
+ht-degree: 36%
 
 ---
 
@@ -29,6 +29,12 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 +++**Actualizaciones de mantenimiento realizadas entre el 14 y el 20 de diciembre de 2025**
 
 ### Actualizaciones de mantenimiento semana del 14 al 20 de diciembre de 2025
+
+#### Rutas de aprobación
+
+**Vínculos a aprobaciones no disponibles**
+
+Cuando se asigna a un usuario como aprobador de un objeto, el vínculo a ese objeto no aparece en el área de Mis actualizaciones ni en el widget de Mis aprobaciones de Inicio.
 
 #### Asignaciones
 

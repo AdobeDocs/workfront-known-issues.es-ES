@@ -3,15 +3,19 @@ title: 'Aprobaciones: Los vínculos a las aprobaciones no están disponibles'
 description: Cuando se asigna a un usuario como aprobador de un objeto, el vínculo a ese objeto no aparece en el área de Mis actualizaciones ni en el widget de Mis aprobaciones de Inicio.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront, Updates and Notifications
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '84'
+ht-degree: 11%
 
 ---
 
 
 # Aprobaciones: Los vínculos a las aprobaciones no están disponibles
+
+>[!NOTE]
+>
+>Este problema se corrigió el sábado, 19 de diciembre de 2025.
 
 Cuando se asigna a un usuario como aprobador de un objeto, el vínculo a ese objeto no aparece en el área de Mis actualizaciones ni en el widget de Mis aprobaciones de Inicio.
 
