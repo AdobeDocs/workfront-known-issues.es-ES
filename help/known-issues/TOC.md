@@ -2,7 +2,7 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: bf06e93ba58692c35f9561c7bed67cb1da3541b5
+source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
 workflow-type: tm+mt
 source-wordcount: '1533'
 ht-degree: 75%
@@ -17,7 +17,7 @@ ht-degree: 75%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
-      + [Creación de informes: Los usuarios pueden ver datos financieros en las visualizaciones del panel de lienzo](known-issues-workfront/wf-reporting-users-can-see-financial-date.md)
+      + [Creación de informes: Los usuarios pueden ver datos financieros en las visualizaciones del panel de lienzo](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
       + [Workfront Planning: No se puede agregar un campo a una vista](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [Aprobaciones: el widget Mis aprobaciones muestra las aprobaciones completadas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront Planning: Error al eliminar el campo conectado](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
@@ -204,7 +204,7 @@ ht-degree: 75%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
