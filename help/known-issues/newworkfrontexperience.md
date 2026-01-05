@@ -129,12 +129,12 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Pruebas: las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
 | [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
 | [[!UICONTROL Inicio]: las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |
-| [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
+| [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
 | [API: no se puede ordenar por campos dinámicos](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de octubre de 2022 |
 | [[!UICONTROL Configuración]: las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) | 28 de octubre de 2022 |
 | [Paneles de control: los gráficos de informes que se ven en un panel de control utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 de agosto de 2022 |
-| [Agile: problemas al mover tarjetas en el panel [!UICONTROL Agile] ](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
-| [[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 de octubre de 2021 |
+| [Agile: problemas al mover tarjetas en el panel [!UICONTROL Agile] &#x200B;](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
+| [[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 de octubre de 2021 |
 | [Actualizaciones: el nombre del equipo no aparece en @mención](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 de octubre de 2021 |
 | [Agile: discrepancia en los [!UICONTROL puntos completados] para una iteración](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 de junio de 2021 |
 | [Notificaciones por correo electrónico: aparece el ajuste “[!UICONTROL Estoy asignado a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 de junio de 2021 |
