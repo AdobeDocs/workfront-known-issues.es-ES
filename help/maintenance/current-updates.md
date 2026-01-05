@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 9b7fb2257432fae02c7ab8eba1aca5d05bfea90e
 workflow-type: tm+mt
-source-wordcount: '3415'
-ht-degree: 36%
+source-wordcount: '3664'
+ht-degree: 34%
 
 ---
 
@@ -26,6 +26,50 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en diciembre de 2025
 
++++**Actualizaciones de mantenimiento de planeación de Workfront realizadas del 21 al 27 de diciembre de 2025**
+
+### Workfront Planificación de actualizaciones de mantenimiento semana del 21 al 27 de diciembre de 2025
+
+#### Error al eliminar el campo conectado
+
+Cuando un usuario intenta eliminar un campo conectado en Workfront Planning, no puede eliminar el campo y ve el mensaje &quot;No se puede eliminar el campo. Inténtelo de nuevo&quot;.
+
++++
+
++++**Actualizaciones de mantenimiento la semana del 21 al 27 de diciembre de 2025**
+
+### Actualizaciones de mantenimiento semana del 21 al 27 de diciembre de 2025
+
+#### Formularios personalizados
+
+**No se pueden editar los campos de texto enriquecido**
+
+Cuando un usuario intenta editar un campo de texto enriquecido en un formulario personalizado, los cambios no se guardan y el campo no se actualiza para reflejar los cambios.
+
+#### Tareas
+
+**No se puede seleccionar el rol de usuario al crear una tarea**
+
+Cuando un usuario está creando una tarea e intenta asignar una función de usuario, la opción no está presente y el usuario no puede asignar una función de usuario.
+
++++
+
++++**Actualizaciones de mantenimiento de planeación de Workfront realizadas del 14 al 20 de diciembre de 2025**
+
+### Workfront Planificación de actualizaciones de mantenimiento semana del 14 al 20 de diciembre de 2025
+
+#### No se puede agregar un campo a una vista
+
+>[!NOTE]
+>
+>* Este problema se ha notificado en la zona protegida de actualización personalizada.
+
+Cuando un usuario intenta agregar un campo a una vista en Workfront Planning, el campo no se agrega y el usuario ve el siguiente mensaje:
+
+&quot;No se puede crear la columna de campo. Inténtelo de nuevo&quot;.
+
++++
+
 +++**Actualizaciones de mantenimiento realizadas entre el 14 y el 20 de diciembre de 2025**
 
 ### Actualizaciones de mantenimiento semana del 14 al 20 de diciembre de 2025
@@ -41,6 +85,12 @@ Cuando se asigna a un usuario como aprobador de un objeto, el vínculo a ese obj
 **Las asignaciones de equipo no se han guardado**
 
 Cuando un usuario asigna un equipo a un elemento de trabajo en Workfront, la asignación del equipo no se guarda y no se notifica al equipo el trabajo.
+
+#### Solicitudes
+
+**Permisos no heredados al crear una solicitud**
+
+Cuando un usuario crea una solicitud, esta no hereda permisos. Esto significa que es posible que los usuarios no puedan acceder a la solicitud.
 
 #### Horarios
 

@@ -3,15 +3,19 @@ title: 'Formularios personalizados: no se pueden editar los campos de texto enri
 description: Cuando un usuario intenta editar un campo de texto enriquecido en un formulario personalizado, los cambios no se guardan y el campo no se actualiza para reflejar los cambios.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '82'
+ht-degree: 12%
 
 ---
 
 
 # Formularios personalizados: no se pueden editar los campos de texto enriquecido
+
+>[!NOTE]
+>
+>Este problema se corrigió el martes, 22 de diciembre de 2025.
 
 Cuando un usuario intenta editar un campo de texto enriquecido en un formulario personalizado, los cambios no se guardan y el campo no se actualiza para reflejar los cambios.
 

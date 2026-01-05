@@ -3,15 +3,19 @@ title: 'Solicitudes: Permisos no heredados al crear una solicitud'
 description: Cuando un usuario crea una solicitud, esta no hereda permisos. Esto significa que es posible que los usuarios no puedan acceder a la solicitud.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
 
 # Solicitudes: Permisos no heredados al crear una solicitud
+
+>[!NOTE]
+>
+>Este problema se corrigió el sábado, 19 de diciembre de 2025.
 
 Cuando un usuario crea una solicitud, esta no hereda permisos. Esto significa que es posible que los usuarios no puedan acceder a la solicitud.
 
