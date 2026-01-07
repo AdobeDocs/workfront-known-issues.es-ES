@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
+source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
 workflow-type: tm+mt
-source-wordcount: '1561'
-ht-degree: 74%
+source-wordcount: '1581'
+ht-degree: 73%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 74%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Usuarios: Los usuarios no se aprovisionan correctamente en Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [Solicitudes: Problemas con los borradores en la nueva experiencia solicitante](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [Solicitudes: Las colas de solicitudes aparecen varias veces](known-issues-workfront/wf-requests-queues-duplicated.md)
       + [Usuarios: No se puede actualizar el acceso de usuario](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
       + [Informes: la consulta del lago de datos no devuelve los resultados esperados](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
@@ -208,7 +210,7 @@ ht-degree: 74%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
