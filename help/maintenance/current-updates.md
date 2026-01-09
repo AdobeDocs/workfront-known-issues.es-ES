@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 63%
+source-wordcount: '217'
+ht-degree: 52%
 
 ---
 
@@ -25,6 +25,18 @@ Para ver las actualizaciones de mantenimiento anteriores a 2026, consulte [Actua
 En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en enero de 2026
+
++++**Actualizaciones de mantenimiento de Workfront Fusion realizadas del 4 al 10 de enero de 2026**
+
+### Actualizaciones de mantenimiento semana del 4 al 10 de enero de 202
+
+**Falta el error de encabezado en los módulos de AWS**
+
+Los módulos de AWS producen el siguiente error:
+
+&quot;Falta el encabezado obligatorio para esta solicitud&quot;
+
++++
 
 +++**Actualizaciones de mantenimiento realizadas entre el 4 y el 10 de enero de 2026**
 

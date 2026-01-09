@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Fusion
 keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 79%
+source-wordcount: '224'
+ht-degree: 82%
 
 ---
 
@@ -25,7 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion: falta un error de encabezado en los módulos AWS](known-issues-workfront-fusion/fusion-missing-header-aws.md) | miércoles, 06 de enero de 2026 |
+| Ninguno | |
 
 {style="table-layout:auto"}
 
