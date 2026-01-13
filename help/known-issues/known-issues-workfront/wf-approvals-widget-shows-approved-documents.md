@@ -3,15 +3,19 @@ title: 'Aprobaciones: el widget Mis aprobaciones muestra las aprobaciones comple
 description: Cuando un usuario está viendo su widget de Mis aprobaciones en Inicio, el widget incluye pruebas que ya se han aprobado.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 6%
+source-wordcount: '64'
+ht-degree: 15%
 
 ---
 
 
 # Aprobaciones: el widget Mis aprobaciones muestra las aprobaciones completadas
+
+>[!NOTE]
+>
+>Este problema se corrigió el viernes, 08 de enero de 2026.
 
 Cuando un usuario está viendo su widget de Mis aprobaciones en Inicio, el widget incluye pruebas que ya se han aprobado.
 

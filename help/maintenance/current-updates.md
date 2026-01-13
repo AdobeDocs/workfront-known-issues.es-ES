@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 52%
+source-wordcount: '274'
+ht-degree: 41%
 
 ---
 
@@ -28,7 +28,7 @@ En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 
 +++**Actualizaciones de mantenimiento de Workfront Fusion realizadas del 4 al 10 de enero de 2026**
 
-### Actualizaciones de mantenimiento semana del 4 al 10 de enero de 202
+### Actualizaciones de mantenimiento semana del 4 al 10 de enero de 2026
 
 **Falta el error de encabezado en los módulos de AWS**
 
@@ -40,13 +40,26 @@ Los módulos de AWS producen el siguiente error:
 
 +++**Actualizaciones de mantenimiento realizadas entre el 4 y el 10 de enero de 2026**
 
-### Actualizaciones de mantenimiento semana del 4 al 10 de enero de 202
+### Actualizaciones de mantenimiento semana del 4 al 10 de enero de 2026
+
+#### Rutas de aprobación
+
+**El widget Mis aprobaciones muestra las aprobaciones completadas**
+
+Cuando un usuario está viendo su widget de Mis aprobaciones en Inicio, el widget incluye pruebas que ya se han aprobado.
 
 #### Pruebas
 
 **Los cambios de estado de la revisión se han retrasado**
 
 Cuando se toma una decisión sobre una prueba, esa decisión no se muestra en el área de Documentos de un proyecto durante un máximo de 24 horas. Esto puede causar confusión, ya que el estado sigue mostrándose como Pendiente u otro estado obsoleto, aunque se haya tomado una decisión.
+
+#### Solicitudes
+
+**Las colas de solicitudes aparecen varias veces**
+
+Cuando un usuario comienza a crear una solicitud y selecciona una cola de solicitudes, esta aparece varias veces en la lista desplegable.
+
 
 +++
 

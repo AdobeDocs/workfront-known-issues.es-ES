@@ -3,10 +3,10 @@ title: 'Solicitudes: Las colas de solicitudes aparecen varias veces'
 description: Cuando un usuario comienza a crear una solicitud y selecciona una cola de solicitudes, esta aparece varias veces en la lista desplegable.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Se ha informado de este problema en la experiencia heredada de creación de informes.
+>* Este problema se corrigió el viernes, 08 de enero de 2026.
+>* Se ha informado de este problema en la experiencia heredada de creación de informes.
 
 Cuando un usuario comienza a crear una solicitud y selecciona una cola de solicitudes, esta aparece varias veces en la lista desplegable.
 
