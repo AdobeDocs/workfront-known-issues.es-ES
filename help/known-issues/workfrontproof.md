@@ -4,7 +4,7 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Proof]
 keywords: nuevo archivo, añadir archivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 89%
@@ -24,7 +24,7 @@ Esta página contiene los problemas conocidos actualmente en [!DNL Adobe Workfro
 Actualmente, se están examinando estos problemas que se han notificado recientemente.
 
 | **Problema** | **Última modificación** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Revisiones: no se pueden etiquetar a determinados usuarios](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de febrero de 2025 |
 | [Integraciones: al vincular una carpeta desde [!DNL Google Drive] no se vinculan los recursos de la carpeta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 de junio de 2024 |
 
@@ -35,8 +35,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 Las soluciones para estos problemas están actualmente en curso o están programadas para un futuro próximo.
 
 | **Problema** | **Última modificación** |
-| -----------------------------------------------------------------| ----------------- |
-| [Aprobaciones: el widget Mis aprobaciones muestra las aprobaciones completadas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | martes, 15 de diciembre de 2025 |
+| ----------------------------------------------------------------- | ----------------- |
+| [Aprobaciones: el widget Mis aprobaciones muestra las aprobaciones completadas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | viernes, 15 de enero de 2026 |
 | [Documentos: no se muestran las miniaturas de documento](known-issues-workfront/wf-documents-thumbnails-not-display.md) | viernes, 17 de abril de 2025 |
 | [Notificaciones: las miniaturas no están visibles en las notificaciones por correo electrónico](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 08 de julio de 2024 |
 | [Inicio: el widget de aprobaciones no es preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de mayo de 2024 |
@@ -48,7 +48,7 @@ Las soluciones para estos problemas están actualmente en curso o están program
 Las soluciones para estos problemas no están actualmente en la hoja de ruta. En algunos casos, estos problemas se solucionarán con nuevas funciones o actualizaciones de características.
 
 | **Problema** | **Última modificación** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Aprobaciones: los botones de decisión de aprobación no se muestran en el Visor de pruebas](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | miércoles, 30 de septiembre de 2025 |
 | [Pruebas: no se pueden agregar usuarios a una prueba por su nombre en el entorno de vista previa](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | martes, 16 de junio de 2025 |
 | [Pruebas: al cerrar la prueba, se redirige a la lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | jueves, 14 de mayo de 2025 |
@@ -70,7 +70,7 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [[!DNL Workfront Proof]: el área de [!UICONTROL Informes] ya no es compatible](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 de marzo de 2023 |
 | [Pruebas: se ha creado una nueva etapa porque el plazo no puede coincidir con el de la etapa existente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 de febrero de 2023 |
 | [[!UICONTROL Inicio]: las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |
-| [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
+| [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
 | [Pruebas: la prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de septiembre de 2022 |
 | [Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 de septiembre de 2022 |
 | [[!DNL Workfront Proof]: No se puede añadir un usuario a la prueba al etiquetarlo en un comentario](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 de marzo de 2022 |

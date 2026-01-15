@@ -3,10 +3,10 @@ title: Las ediciones realizadas en el cuadro de diálogo Editar de una tarea no 
 description: Cuando un usuario realiza cambios en la sección Ediciones de una tarea en el cuadro de diálogo de tareas heredadas y los guarda, los cambios no se guardan.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 27%
 
 ---
 
@@ -15,11 +15,12 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Este problema se aplica a la experiencia de tareas heredadas.
+>* Este problema se aplica a la experiencia de tareas heredadas.
+>* El equipo de productos está evaluando actualmente la resolución de este problema, que podría requerir mejoras en el producto. Las mejoras del producto no se comunican en las actualizaciones de mantenimiento, sino en los anuncios del producto.
 
 Cuando un usuario realiza cambios en la sección Ediciones de una tarea en el cuadro de diálogo de tareas heredadas y los guarda, los cambios no se guardan.
 
-**Solución**
+**Solución alternativa**
 
 Para realizar algunos cambios, puede utilizar la nueva experiencia de tarea.
 

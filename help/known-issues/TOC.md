@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '1581'
-ht-degree: 73%
+source-wordcount: '1600'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 73%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitudes: el borrador creado junto con la solicitud causa problemas](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [Solicitudes: Error &quot;Debe ser administrador del sistema&quot; al copiar solicitudes](known-issues-workfront/wf-requests-error-when-copying.md)
       + [Usuarios: Los usuarios no se aprovisionan correctamente en Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
       + [Solicitudes: Problemas con los borradores en la nueva experiencia solicitante](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [Solicitudes: Las colas de solicitudes aparecen varias veces](known-issues-workfront/wf-requests-queues-duplicated.md)
@@ -141,7 +143,7 @@ ht-degree: 73%
       + [Documentos: error 404 al acceder al documento vinculado desde [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [[!UICONTROL Distribuidor de cargas de trabajo]: las horas no se ajustan para tener en cuenta los días libres](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Actualizaciones]: no se puede registrar la hora del día actual en el área [!UICONTROL Actualizaciones]](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [Documentos: los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
+      + [Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + [Documentos: error al cargar un archivo grande](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
       + [Documentos: no se pueden agregar documentos desde  [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos]](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
@@ -210,7 +212,7 @@ ht-degree: 73%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
