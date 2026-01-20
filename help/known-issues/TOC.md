@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
+source-git-commit: 2a8b9279bcffd316c9c4f2242633270ea076b1a4
 workflow-type: tm+mt
-source-wordcount: '1625'
+source-wordcount: '1632'
 ht-degree: 71%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 71%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Programas: No se pueden ver excepciones de años anteriores](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [Solicitudes: La vista &quot;Todas&quot; no muestra todas las solicitudes](known-issues-workfront/wf-requests-not-showing-all.md)
       + [Formularios personalizados: los campos calculados no muestran datos para los usuarios que no son administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [Solicitudes: el borrador creado junto con la solicitud causa problemas](known-issues-workfront/wf-requests-draft-created-with-request.md)
@@ -215,7 +216,7 @@ ht-degree: 71%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
