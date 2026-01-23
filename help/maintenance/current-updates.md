@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 41%
+source-wordcount: '406'
+ht-degree: 34%
 
 ---
 
@@ -25,6 +25,35 @@ Para ver las actualizaciones de mantenimiento anteriores a 2026, consulte [Actua
 En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en enero de 2026
+
++++**Actualización de mantenimiento realizada del 18 al 24 de enero de 2026**
+
+### Semana de actualización de mantenimiento del 18 al 24 de enero de 2026
+
+#### Solicitudes
+
+**Problemas con borradores en la nueva experiencia de solicitud**
+
+Se han comunicado los siguientes problemas en relación con los borradores de la nueva experiencia solicitante:
+
+* Las solicitudes creadas como borrador y luego enviadas solo muestran la primera letra del asunto en la lista de solicitudes.
+* Los borradores descartados no se eliminan de la lista de solicitudes.
+
+#### Horarios
+
+**No se pueden ver las excepciones de años anteriores**
+
+Cuando un usuario está viendo el calendario de excepciones e intenta ver los años anteriores, no puede ver los años anteriores.
+
++++
+
++++**Actualización de mantenimiento realizada del 11 al 17 de enero de 2026**
+
+### Semana de actualización de mantenimiento del 11 al 17 de enero de 2026
+
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+
++++
 
 +++**Actualizaciones de mantenimiento de Workfront Fusion realizadas del 4 al 10 de enero de 2026**
 
