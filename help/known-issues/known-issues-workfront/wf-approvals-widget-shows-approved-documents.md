@@ -6,7 +6,7 @@ feature: Digital Content and Documents
 source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 6%
 
 Cuando un usuario está viendo su widget de Mis aprobaciones en Inicio, el widget incluye pruebas que ya se han aprobado.
 
-_Notificado por primera vez el martes, 01 de diciembre de 2025._
+_Informado por primera vez el 1 de diciembre de 2025._

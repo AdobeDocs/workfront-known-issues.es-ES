@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 34%
+ht-degree: 81%
 
 ---
 
@@ -34,7 +34,7 @@ En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 
 **Problemas con borradores en la nueva experiencia de solicitud**
 
-Se han comunicado los siguientes problemas en relación con los borradores de la nueva experiencia solicitante:
+Se han notificado los siguientes problemas sobre los borradores en la nueva experiencia de solicitud:
 
 * Las solicitudes creadas como borrador y luego enviadas solo muestran la primera letra del asunto en la lista de solicitudes.
 * Los borradores descartados no se eliminan de la lista de solicitudes.
@@ -51,27 +51,27 @@ Cuando un usuario está viendo el calendario de excepciones e intenta ver los a�
 
 ### Semana de actualización de mantenimiento del 11 al 17 de enero de 2026
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualizaciones de mantenimiento de Workfront Fusion realizadas del 4 al 10 de enero de 2026**
++++**Actualizaciones de mantenimiento de Workfront Fusion de la semana del 4 al 10 de enero de 2026**
 
-### Actualizaciones de mantenimiento semana del 4 al 10 de enero de 2026
+### Actualizaciones de mantenimiento de la semana del 4 al 10 de enero de 2026
 
 **Falta el error de encabezado en los módulos de AWS**
 
 Los módulos de AWS producen el siguiente error:
 
-&quot;Falta el encabezado obligatorio para esta solicitud&quot;
+“Falta el encabezado obligatorio para esta solicitud”
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 4 y el 10 de enero de 2026**
++++**Actualizaciones de mantenimiento de la semana del 4 al 10 de enero de 2026**
 
-### Actualizaciones de mantenimiento semana del 4 al 10 de enero de 2026
+### Actualizaciones de mantenimiento de la semana del 4 al 10 de enero de 2026
 
-#### Rutas de aprobación
+#### Aprobaciones
 
 **El widget Mis aprobaciones muestra las aprobaciones completadas**
 
@@ -79,9 +79,9 @@ Cuando un usuario está viendo su widget de Mis aprobaciones en Inicio, el widge
 
 #### Pruebas
 
-**Los cambios de estado de la revisión se han retrasado**
+**Los cambios de estado de la prueba se han retrasado**
 
-Cuando se toma una decisión sobre una prueba, esa decisión no se muestra en el área de Documentos de un proyecto durante un máximo de 24 horas. Esto puede causar confusión, ya que el estado sigue mostrándose como Pendiente u otro estado obsoleto, aunque se haya tomado una decisión.
+Cuando se toma una decisión sobre una prueba, dicha decisión no se muestra en el área de Documentos de un proyecto durante un máximo de 24 horas. Esto puede causar confusión, ya que el estado sigue mostrándose como Pendiente u otro estado obsoleto, aunque se haya tomado una decisión.
 
 #### Solicitudes
 
