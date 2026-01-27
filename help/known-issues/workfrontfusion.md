@@ -5,9 +5,9 @@ keywords: nuevo archivo, añadir archivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -45,9 +45,9 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta, pe
 
 | **Problema** | **Última modificación** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion: el módulo de búsqueda Jira devuelve un error](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | miércoles, 16 de septiembre de 2025 |
+| [Workfront Fusion: el módulo de búsqueda Jira devuelve un error](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 16 de septiembre de 2025 |
 | [Workfront Fusion: Falta el campo en el módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | martes, 05 de febrero de 2024 |
-| [Workfront Fusion: Las actualizaciones del webhook no se guardan automáticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | jueves, 06 de agosto de 2025 |
+| [Workfront Fusion: las actualizaciones del webhook no se guardan automáticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 6 de agosto de 2025 |
 
 ## Sin solución
 

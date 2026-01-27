@@ -4,9 +4,9 @@ description: Lista de problemas conocidos de [!DNL Adobe Workfront]
 exl-id: 3825d425-06dc-409e-892c-300b389ddc73
 feature: Get Started with Workfront
 source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

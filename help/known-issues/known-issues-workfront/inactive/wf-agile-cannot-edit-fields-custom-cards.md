@@ -5,7 +5,7 @@ exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
 hidefromtoc: true
 source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Cuando un campo de una tarjeta de la tabla Kanban se extrae de un formulario personalizado, los usuarios no pueden editarlo directamente desde la tarjeta.
 
-**Solución alternativa**
+**Solución**
 
 Abra la tarea y edite el campo desde la ventana [!UICONTROL Editar tarea].
 

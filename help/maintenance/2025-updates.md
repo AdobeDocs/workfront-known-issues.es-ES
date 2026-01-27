@@ -3,9 +3,9 @@ title: Actualizaciones de mantenimiento de Workfont en 2025
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 source-git-commit: 28cc4e22ad9c05b1a3e2ecac5bca62ff8d6f4e49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3668'
-ht-degree: 34%
+ht-degree: 100%
 
 ---
 
@@ -25,17 +25,17 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en diciembre de 2025
 
-+++**Actualizaciones de mantenimiento de planeación de Workfront realizadas del 21 al 27 de diciembre de 2025**
++++**Actualizaciones de mantenimiento de Workfront Planning realizadas del 21 al 27 de diciembre de 2025**
 
-### Workfront Planificación de actualizaciones de mantenimiento semana del 21 al 27 de diciembre de 2025
+### Actualizaciones de mantenimiento de Workfront Planning, semana del 21 al 27 de diciembre de 2025
 
 #### Error al eliminar el campo conectado
 
-Cuando un usuario intenta eliminar un campo conectado en Workfront Planning, no puede eliminar el campo y ve el mensaje &quot;No se puede eliminar el campo. Inténtelo de nuevo&quot;.
+Cuando un usuario intenta eliminar un campo conectado en Workfront Planning, no puede eliminarlo y ve el mensaje “No se puede eliminar el campo. Vuelva a intentarlo”.
 
 +++
 
-+++**Actualizaciones de mantenimiento la semana del 21 al 27 de diciembre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 21 al 27 de diciembre de 2025**
 
 ### Actualizaciones de mantenimiento semana del 21 al 27 de diciembre de 2025
 
@@ -47,37 +47,37 @@ Cuando un usuario intenta editar un campo de texto enriquecido en un formulario 
 
 #### Tareas
 
-**No se puede seleccionar el rol de usuario al crear una tarea**
+**No se puede seleccionar la función de usuario al crear una tarea**
 
-Cuando un usuario está creando una tarea e intenta asignar una función de usuario, la opción no está presente y el usuario no puede asignar una función de usuario.
+Cuando un usuario está creando una tarea e intenta asignar una función de usuario, la opción no está presente y el usuario no puede asignarla.
 
 +++
 
-+++**Actualizaciones de mantenimiento de planeación de Workfront realizadas del 14 al 20 de diciembre de 2025**
++++**Actualizaciones de mantenimiento de Workfront Planning de la semana del 14 al 20 de diciembre de 2025**
 
-### Workfront Planificación de actualizaciones de mantenimiento semana del 14 al 20 de diciembre de 2025
+### Actualizaciones de mantenimiento de Workfront Planning semana del 14 al 20 de diciembre de 2025
 
-#### No se puede agregar un campo a una vista
+#### No se puede añadir un campo a una vista
 
 >[!NOTE]
 >
->* Este problema se ha notificado en la zona protegida de actualización personalizada.
+>* Se ha informado de este problema en la zona protegida de actualización personalizada.
 
-Cuando un usuario intenta agregar un campo a una vista en Workfront Planning, el campo no se agrega y el usuario ve el siguiente mensaje:
+Cuando un usuario intenta añadir un campo a una vista en Workfront Planning, el campo no se agrega y el usuario ve el siguiente mensaje de error:
 
-&quot;No se puede crear la columna de campo. Inténtelo de nuevo&quot;.
+“No se puede crear la columna de campo. Vuelva a intentarlo”.
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 14 y el 20 de diciembre de 2025**
++++**Actualizaciones de mantenimiento semana del 14 al 20 de diciembre de 2025**
 
 ### Actualizaciones de mantenimiento semana del 14 al 20 de diciembre de 2025
 
-#### Rutas de aprobación
+#### Aprobaciones
 
 **Vínculos a aprobaciones no disponibles**
 
-Cuando se asigna a un usuario como aprobador de un objeto, el vínculo a ese objeto no aparece en el área de Mis actualizaciones ni en el widget de Mis aprobaciones de Inicio.
+Cuando se asigna a un usuario como aprobador de un objeto, el vínculo a dicho objeto no aparece en el área de Mis actualizaciones ni en el widget de Mis aprobaciones de Inicio.
 
 #### Asignaciones
 
@@ -89,18 +89,18 @@ Cuando un usuario asigna un equipo a un elemento de trabajo en Workfront, la asi
 
 **Permisos no heredados al crear una solicitud**
 
-Cuando un usuario crea una solicitud, esta no hereda permisos. Esto significa que es posible que los usuarios no puedan acceder a la solicitud.
+Cuando un usuario crea una solicitud, esta no hereda los permisos. Esto significa que es posible que los usuarios no puedan acceder a la solicitud.
 
 #### Horarios
 
 **Permisos para programar revocados para un grupo**
 
-Cuando un administrador de grupo de Workfront agrega una excepción de fecha a una programación y guarda los cambios, los permisos para esa programación se eliminan del grupo y el administrador de Workfront debe conceder acceso al grupo.
+Cuando un administrador de grupos de Workfront añade una excepción de fecha a una programación y guarda los cambios, los permisos para dicha programación se eliminan del grupo, y el administrador de Workfront debe conceder acceso al grupo.
 
 
 #### Tareas
 
-**Las ediciones en línea realizadas en una tarea no guardan**
+**Las ediciones en línea realizadas en una tarea no se guardan**
 
 Cuando un usuario realiza cambios en línea en una tarea en la experiencia de tareas heredadas y guarda, los cambios no se guardan.
 
@@ -108,25 +108,25 @@ Cuando un usuario realiza cambios en línea en una tarea en la experiencia de ta
 
 **No se generaron hojas de horas**
 
-Las plantillas de horas no se generan automáticamente como se espera. Esto puede ocurrir aunque los perfiles de las plantillas de horas sean precisos y las de otras semanas se generen correctamente.
+Las hojas de horas no se generan automáticamente como se espera. Esto puede ocurrir aunque los perfiles de las hojas de horas sean precisos y las de otras semanas se generen correctamente.
 
 #### Usuarios
 
-**Problemas con los cambios en el perfil de revisión**
+**Problemas con los cambios en el Perfil de pruebas**
 
-Se ha informado de los siguientes problemas con respecto a los cambios realizados en el perfil de prueba de un usuario:
+Se ha informado de los siguientes problemas con respecto a la realización de cambios en el perfil de prueba de un usuario:
 
 * Cuando un usuario asigna un perfil de prueba diferente a un usuario y lo guarda, el cambio no se guarda y el usuario conserva el perfil de prueba anterior.
 * El perfil de prueba de un usuario puede mostrarse como un perfil de prueba incorrecto, incluso si se ha asignado el perfil de prueba correcto.
-* Cuando se realizan otros cambios en un usuario, los permisos de Proof también pueden cambiar.
+* Al realizar otros cambios en un usuario, los permisos de prueba también pueden cambiar.
 
-**Falta la opción para generar automáticamente revisiones en el perfil de usuario**
+**Falta la opción para generar automáticamente pruebas en el perfil de usuario**
 
-Cuando un usuario está viendo un perfil de usuario, la opción &quot;Generar pruebas automáticamente al cargar documentos&quot; no está disponible. Esto puede ocurrir aunque se hayan cumplido todos los requisitos previos para la opción.
+Cuando un usuario está viendo un perfil de usuario, no está disponible la opción “Generar pruebas automáticamente al cargar documentos”. Esto puede ocurrir aunque se hayan cumplido todos los requisitos previos para la opción.
 
 +++
 
-+++**Actualizaciones de mantenimiento la semana del 7 al 13 de diciembre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 7 al 13 de diciembre de 2025**
 
 ### Actualizaciones de mantenimiento semana del 7 al 13 de diciembre de 2025
 
@@ -141,45 +141,45 @@ Cuando un usuario está creando una solicitud en la nueva experiencia de solicit
 
 **La edición masiva de usuarios elimina los conjuntos de recursos y los informes directos**
 
-Cuando un usuario edita usuarios por lotes, hace clic en el campo Grupos de recursos y no introduce ningún valor, se eliminan los Grupos de recursos de todos los usuarios editados.
+Cuando un usuario edita usuarios de forma masiva, hace clic en el campo Conjuntos de recursos y no introduce ningún valor, se eliminan los Conjuntos de recursos de todos los usuarios editados.
 
 La edición masiva también puede eliminar informes directos de los usuarios editados.
 
-**Error al abrir la página de usuarios**
+**Error al abrir la página Usuarios**
 
-Cuando un usuario intenta abrir la página de Usuarios desde el menú principal, la página no se abre y el usuario ve el siguiente mensaje:
+Cuando un usuario intenta abrir la página Usuarios del menú principal, esta no se carga y el usuario ve el siguiente mensaje:
 
 “Se ha producido un error y estamos tratando de resolver el problema. Para continuar con su trabajo, intente actualizar esta página del explorador.”
 
 +++
 
-+++**Actualizaciones de mantenimiento la semana del 30 de noviembre al 6 de diciembre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 30 de noviembre al 6 de diciembre de 2025**
 
 ### Semana de actualizaciones de mantenimiento del 30 de noviembre al 6 de diciembre de 2025
 
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-## Actualizaciones en noviembre de 2025
+## Actualizaciones de noviembre de 2025
 
-+++**Actualizaciones semanales de mantenimiento de Workfront Planning del 16 al 22 de noviembre de 2025**
++++**Actualizaciones de mantenimiento de Workfront Planning de la semana del 16 al 22 de noviembre de 2025**
 
-### Workfront Planificación de actualizaciones de mantenimiento semana del 16 al 22 de noviembre de 2025
+### Actualizaciones de mantenimiento de Workfront Planning semana del 16 al 22 de noviembre de 2025
 
 #### Formularios personalizados
 
-**Se agregó el indicador activo/inactivo a la lista de formularios personalizados donde se usa un campo**
+**Se añadió el indicador activo/inactivo a la lista de formularios personalizados donde se usa un campo**
 
-En el diseñador de formularios personalizados, puede seleccionar un campo y hacer clic en **Ver Forms relacionado** para ver una lista de todos los demás formularios en los que se usa el campo. Esto muestra a qué otros formularios se verán afectados si edita el campo.
+En el diseñador de formularios personalizados, puede seleccionar un campo y hacer clic en **Ver formularios relacionados** para ver una lista de todos los demás formularios en los que se usa el campo. Esto le muestra qué otros formularios se verán afectados si edita el campo.
 
-Una mejora de esta lista es un indicador activo/inactivo para cada formulario. De un vistazo, puede ver si el campo se utiliza actualmente en formularios activos o inactivos.
+Una mejora de esta lista es un indicador de activo/inactivo para cada formulario. De un vistazo, puede ver si el campo se utiliza actualmente en formularios activos o inactivos.
 
 +++
 
-+++**Actualizaciones semanales de mantenimiento de Workfront Planning del 9 al 15 de noviembre de 2025**
++++**Actualizaciones de mantenimiento de Workfront Planning de la semana del 9 al 15 de noviembre de 2025**
 
-### Workfront Planificación Actualizaciones de mantenimiento semana del 9 al 15 de noviembre de 2025
+### Actualizaciones de mantenimiento de Workfront Planning de la semana del 9 al 15 de noviembre de 2025
 
 #### Tipos de registro
 
@@ -189,35 +189,35 @@ Se han eliminado las opciones Editar y Configuración del menú Más de un tipo 
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 9 y el 15 de noviembre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 9 al 15 de noviembre de 2025**
 
-### Actualizaciones de mantenimiento semana del 9 al 15 de noviembre de 2025
+### Actualizaciones de mantenimiento de la semana del 9 al 15 de noviembre de 2025
 
 #### Tareas
 
 **Agregar predecesoras ya no depende de la subconfiguración Editar tareas en el nivel de acceso**
 
-Los usuarios pueden agregar predecesoras a las tareas cuando el acceso de edición está habilitado para Tareas en su nivel de acceso, independientemente de la subconfiguración que haya seleccionado. Esto ahora es coherente con la funcionalidad de API existente.
+Los usuarios pueden añadir predecesoras a las tareas cuando el acceso de edición está habilitado para Tareas en su nivel de acceso, independientemente de la subconfiguración que haya seleccionado. Esto ahora es coherente con la funcionalidad de API existente.
 
 +++
 
-+++**Actualizaciones de mantenimiento la semana del 2 al 8 de noviembre de 2025**
++++**Actualizaciones de mantenimiento  de la semana del 2 al 8 de noviembre de 2025**
 
-### Semana de actualizaciones de mantenimiento del 2 al 8 de noviembre de 2025
+### Actualizaciones de mantenimiento  de la semana del 2 al 8 de noviembre de 2025
 
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 26 de octubre y el 1 de noviembre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 26 de octubre al 1 de noviembre de 2025**
 
-### Actualizaciones de mantenimiento semana del 26 de octubre al 1 de noviembre de 2025
+### Actualizaciones de mantenimiento de la semana del 26 de octubre al 1 de noviembre de 2025
 
 #### Informes
 
 **Problemas relacionados con los desplegables en los gráficos**
 
-Se han notificado los siguientes problemas con respecto a los desplegables en gráficos:
+Se han comunicado los siguientes problemas relacionados con los menús desplegables en gráficos:
 
 * Cuando un usuario está viendo un informe con una columna desplegable y utiliza la función de gráfico, la lista desplegable de la ventana de gráfico no funciona.
 * Cuando un usuario intenta asignar usuarios desde un informe mediante un menú desplegable, la asignación no se guarda.
@@ -226,7 +226,7 @@ Se han notificado los siguientes problemas con respecto a los desplegables en gr
 
 **No se pueden usar las opciones avanzadas al crear usuarios**
 
-Cuando un administrador de Workfront está creando un usuario e intenta utilizar la opción avanzada, no puede utilizar las opciones y ve el siguiente mensaje:
+Cuando un administrador de Workfront está creando un usuario e intenta utilizar la opción avanzada, no puede utilizar las opciones y aparece el siguiente mensaje:
 
 ```
 Cannot read properties of undefined (reading 'sections')
@@ -240,43 +240,43 @@ Error fetching object details
 
 ## Actualizaciones en octubre de 2025
 
-+++**Actualizaciones de mantenimiento realizadas entre el 19 y el 25 de octubre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 19 al 25 de octubre de 2025**
 
-### Actualizaciones de mantenimiento semana del 19 al 25 de octubre de 2025
+### Actualizaciones de mantenimiento de la semana del 19 al 25 de octubre de 2025
 
 #### Formularios personalizados
 
 **La lógica de visualización de campos no se sigue correctamente**
 
-Cuando un usuario rellena un formulario personalizado que incluye lógica de visualización (donde algunos campos se muestran o no en función de los valores de otros campos), los campos no se muestran de una manera que siga esa lógica de campo.
+Cuando un usuario rellena un formulario personalizado que incluye lógica de visualización (donde algunos campos se muestran o no en función de los valores de otros campos), los campos no se muestran de una manera que siga dicha lógica de campo.
 
 #### Pruebas
 
 **No se puede cerrar el visualizador de pruebas**
 
-Cuando un usuario está viendo una revisión en el visualizador de revisiones e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la revisión no se cierra.
+Cuando un usuario está viendo una prueba en el visor de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 12 y el 18 de octubre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 12 al 18 de octubre de 2025**
 
 ### Semana de actualización de mantenimiento del 12 al 18 de octubre de 2025
 
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
 +++**Actualizaciones de mantenimiento realizadas del 5 al 11 de octubre de 2025**
 
-### Semana de actualización de mantenimiento del 5 al 11 de octubre de 2025
+### Actualizaciones de mantenimiento realizadas del 5 al 11 de octubre de 2025
 
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualizaciones de mantenimiento la semana del 28 de septiembre al 4 de octubre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 28 de septiembre al 4 de octubre de 2025**
 
-### Actualizaciones de mantenimiento semana del 28 de septiembre al 4 de octubre de 2025
+### Actualizaciones de mantenimiento de la semana del 28 de septiembre al 4 de octubre de 2025
 
 #### Programas
 
@@ -288,9 +288,9 @@ Cuando un usuario está editando un programa e intenta guardar los cambios, esto
 
 ## Actualizaciones en septiembre de 2025
 
-+++**Actualizaciones de mantenimiento realizadas entre el 21 y el 27 de septiembre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 21 al 27 de septiembre de 2025**
 
-### Actualizaciones de mantenimiento semana del 21 al 27 de septiembre de 2025
+### Actualizaciones de mantenimiento de la semana del 21 al 27 de septiembre de 2025
 
 #### Usuarios
 
@@ -298,66 +298,66 @@ Cuando un usuario está editando un programa e intenta guardar los cambios, esto
 
 Cuando un usuario intenta editar la configuración de notificaciones de otro usuario, no puede editar la configuración y ve el siguiente mensaje:
 
-&quot;No cuenta con acceso suficiente para editar los datos financieros.&quot;
+“No tiene el acceso necesario para editar datos financieros”.
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 14 y el 20 de septiembre de 2025**
++++**Actualizaciones de mantenimiento de la semana del 14 al 20 de septiembre de 2025**
 
-### Actualizaciones de mantenimiento semana del 14 al 20 de septiembre de 2025
+### Actualizaciones de mantenimiento de la semana del 14 al 20 de septiembre de 2025
 
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
-
-+++
-
-+++**Actualizaciones de mantenimiento realizadas entre el 7 y el 13 de septiembre de 2025**
-
-### Actualizaciones de mantenimiento semana del 7 al 13 de septiembre de 2025
-
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
++++**Actualizaciones de mantenimiento de la semana del 7 al 13 de septiembre de 2025**
 
-+++**Actualizaciones de mantenimiento realizadas entre el 31 de agosto y el 6 de septiembre de 2025**
+### Actualizaciones de mantenimiento de la semana del 7 al 13 de septiembre de 2025
 
-### Semana de actualización de mantenimiento del 31 de agosto al 6 de septiembre de 2025
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
+
++++
+
+
++++**Actualizaciones de mantenimiento de la semana del 31 de agosto al 6 de septiembre de 2025**
+
+### Actualización de mantenimiento de la semana del 31 de agosto al 6 de septiembre de 2025
 
 #### API
 
-**Nuevas protecciones para evitar sobrecargar suscripciones a eventos**
+**Nuevas protecciones para evitar sobrecargar Suscripciones a eventos**
 
-Suscripciones de eventos está diseñado para proporcionar un envío fiable de eventos para todos los usuarios. Para garantizar esto, se han implementado salvaguardas para evitar una producción de eventos excesiva por parte de un solo usuario que podría causar posibles problemas de calidad del servicio para todos los usuarios. Como resultado, un usuario que produce demasiados eventos a una tasa alta en un corto periodo de tiempo puede experimentar interferencias y retrasos en la entrega de eventos.
+Suscripciones a eventos está diseñado para proporcionar una entrega fiable de eventos para todos los usuarios. Para garantizar esto, se han implementado protecciones para evitar una producción de eventos excesiva por parte de un solo usuario, lo que podría causar problemas de calidad del servicio para todos los usuarios. Como resultado, un usuario que genere demasiados eventos a un ritmo elevado en un breve periodo de tiempo puede experimentar interferencias y retrasos en la entrega de eventos.
 
 #### Documentos
 
-**No se notifica a los usuarios agregados como aprobadores una vez completada la aprobación**
+**No se notifica a los usuarios añadidos como aprobadores una vez completada la aprobación**
 
-Cuando un usuario ha aprobado un documento y, después, se agregan más usuarios como aprobadores, los aprobadores recién agregados no reciben notificaciones en la aplicación o por correo electrónico de la solicitud de aprobación.
-
-+++
-
-## Actualizaciones de agosto de 2025
-
-+++**Actualizaciones de mantenimiento realizadas entre el 24 y el 30 de agosto de 2025**
-
-### Semana de actualización de mantenimiento del 24 al 30 de agosto de 2025
-
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Cuando un usuario ha aprobado un documento y, después, se añaden más usuarios como aprobadores, los aprobadores recién agregados no reciben notificaciones in-app o por correo electrónico de la solicitud de aprobación.
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 17 y el 23 de agosto de 2025**
+## Actualizaciones en agosto de 2025
 
-### Semana de actualización de mantenimiento del 17 al 23 de agosto de 2025
++++**Actualizaciones de mantenimiento de la semana del 24 al 30 de agosto de 2025**
+
+### Actualización de mantenimiento de la semana del 24 al 30 de agosto de 2025
+
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
+
++++
+
++++**Actualizaciones de mantenimiento de la semana del 17 al 23 de agosto de 2025**
+
+### Actualización de mantenimiento de la semana del 17 al 23 de agosto de 2025
 
 #### Proyectos
 
-**Error al agregar un proyecto a un programa**
+**Error al añadir un proyecto a un programa**
 
-Cuando un usuario intenta agregar un proyecto existente a un programa, el proyecto no se agrega y el usuario ve el siguiente mensaje de error:
+Cuando un usuario intenta añadir un proyecto existente a un programa, el proyecto no se añade y el usuario ve el siguiente mensaje de error:
 
-&quot;Error al cargar el contenido secundario...&quot;
+“Error al cargar el contenido secundario...&quot;
 
 **Los proyectos exportados contienen horas reales inexactas**
 
@@ -365,69 +365,69 @@ Cuando un usuario exporta un proyecto a Excel, la columna Horas reales no muestr
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 10 y el 16 de agosto de 2025**
++++**Actualizaciones de mantenimiento de la semana del 10 al 16 de agosto de 2025**
 
-### Semana de actualización de mantenimiento del 10 al 16 de agosto de 2025
+### Actualización de mantenimiento de la semana del 10 al 16 de agosto de 2025
 
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
-
-+++
-
-+++**Actualizaciones de mantenimiento realizadas entre el 3 y el 9 de agosto de 2025**
-
-### Semana de actualización de mantenimiento del 3 al 9 de agosto de 2025
-
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualizaciones de mantenimiento la semana del 27 de julio al 2 de agosto de 2025**
++++**Actualizaciones de mantenimiento de la semana del 3 al 9 de agosto de 2025**
 
-### Actualizaciones de mantenimiento semana del 27 de julio al 2 de agosto de 2025
+### Actualización de mantenimiento de la semana del 3 al 9 de agosto de 2025
+
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
+
++++
+
++++**Actualizaciones de mantenimiento de la semana del 27 de julio al 2 de agosto de 2025**
+
+### Actualizaciones de mantenimiento de la semana del 27 de julio al 2 de agosto de 2025
 
 #### Proyectos
 
-**Ahora se muestra una advertencia cuando no se ha recalculado la escala de tiempo**
+**Ahora se muestra una advertencia cuando no se ha recalculado la cronología**
 
-Los usuarios verán un icono de advertencia cuando no se haya recalculado la escala de tiempo del proyecto. Al pasar el ratón por encima de este icono, el usuario ve el siguiente mensaje:
+Los usuarios verán un icono de advertencia cuando no se haya recalculado la cronología del proyecto. Al pasar el ratón por encima de este icono, el usuario ve el siguiente mensaje:
 
-&quot;La cronología del proyecto es incorrecta. Es posible que los jefes de proyecto tengan que recalcular manualmente la cronología&quot;.
+“La cronología del proyecto es incorrecta. Es posible que los gestores de proyecto necesiten volver a calcularla manualmente”.
 
-En ocasiones, es posible que las escalas de tiempo no se recalculen porque un proyecto es extremadamente complejo. Por ejemplo, un proyecto que tiene varias dependencias, un gran número de tareas, varias tareas predecesoras entre proyectos o varias sangrías de tareas puede verse afectado.
+En ocasiones, es posible que las cronologías no se recalculen porque un proyecto es extremadamente complejo. Por ejemplo, un proyecto que tiene varias dependencias, un gran número de tareas, varias tareas predecesoras entre proyectos o varias sangrías de tareas puede verse afectado.
 
-Anteriormente, no había indicios de que no se hubiera recalculado una cronología.
+Antes, no había ninguna indicación de que no se hubiera vuelto a calcular la cronología.
 
 #### Tareas
 
-**El área de aprobaciones desaparece de la navegación izquierda**
+**El área Aprobaciones desaparece de la navegación izquierda**
 
-Cuando un usuario está viendo una tarea, el área de Aprobaciones puede desaparecer de la navegación izquierda. Eliminar y agregar el área de Aprobaciones a la plantilla de diseño resuelve el problema, pero este puede volver a producirse.
+Cuando un usuario está viendo una tarea, el área Aprobaciones puede desaparecer de la navegación izquierda. Eliminar y añadir el área Aprobaciones a la plantilla de diseño resuelve el problema, pero este puede volver a producirse.
 
 +++
 
 ## Actualizaciones en julio de 2025
 
-+++**Actualizaciones de mantenimiento la semana del 20 al 26 de julio de 2025**
++++**Actualizaciones de mantenimiento de la semana del 20 al 26 de julio de 2025**
 
-### Actualizaciones de mantenimiento semana del 20 al 26 de julio de 2025
+### Actualizaciones de mantenimiento de la semana del 20 al 26 de julio de 2025
 
 #### Pruebas
 
-**No se pueden etiquetar usuarios en los comentarios de revisión**
+**No se pueden etiquetar usuarios en los comentarios de la prueba**
 
-Cuando un usuario intenta etiquetar a otro usuario en un comentario de prueba y empieza a escribir el nombre del usuario, este no aparece en la lista y no se puede seleccionar para que se le etiquete.
+Cuando un usuario intenta etiquetar a otro en un comentario de la prueba y empieza a escribir el nombre del usuario, este no aparece en la lista y no puede seleccionarlo para etiquetar.
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 13 y el 19 de julio de 2025**
++++**Actualizaciones de mantenimiento de la semana del 13 al 19 de julio de 2025**
 
-### Semana de actualizaciones de mantenimiento del 13 al 192 de julio
+### Actualizaciones de mantenimiento de la semana del 13 al 19 de julio de 2025
 
 ### Integraciones
 
 **Problemas con la integración de Workfront para Slack**
 
-Se ha informado de los siguientes problemas relacionados con la integración de Workfront para Slack:
+Se han notificado los siguientes problemas con respecto a la integración de Slack para Workfront:
 
 * No se notifica a los usuarios en Slack cuando se realizan actualizaciones en Workfront.
 * Los usuarios no pueden iniciar sesión en Workfront desde Slack.
@@ -435,69 +435,69 @@ Se ha informado de los siguientes problemas relacionados con la integración de 
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 6 y el 12 de julio de 2025**
++++**Actualizaciones de mantenimiento de la semana del 6 al 12 de julio de 2025**
 
-### Semana de actualizaciones de mantenimiento del 6 al 12 de julio
+### Actualizaciones de mantenimiento de la semana del 6 al 12 de julio
 
 ### Proyectos
 
 **No se puede mover el proyecto al programa especificado**
 
-Cuando un usuario intenta mover un proyecto a un programa, no se mueve. Esto puede ocurrir aunque el usuario haya recibido un mensaje que indica que el proyecto se movió correctamente.
+Cuando un usuario intenta mover un proyecto a un programa, el proyecto no se mueve. Esto puede ocurrir aunque el usuario haya recibido un mensaje que indica que el proyecto se movió correctamente.
 
 +++
 
 ## Actualizaciones en junio de 2025
 
-+++**Actualizaciones de mantenimiento la semana del 22 al 27 de junio de 2025**
++++**Actualizaciones de mantenimiento de la semana del 22 al 27 de junio de 2025**
 
-### Semana de actualización de mantenimiento del 22 al 27 de junio de 2025
+### Actualización de mantenimiento de la semana del 22 al 27 de junio de 2025
 
 #### Pruebas
 
-**No se puede abrir la revisión desde el vínculo directo**
+**No se puede abrir la prueba desde el vínculo directo**
 
-Cuando un usuario intenta abrir una prueba desde un vínculo directo, la prueba no se abre. Esto puede ocurrir aunque el usuario esté en un flujo de trabajo para la prueba o sea administrador de Workfront.
+Cuando un usuario intenta abrir una prueba desde un vínculo directo, esta no se abre. Esto puede ocurrir aunque el usuario esté en un flujo de trabajo para la prueba o sea administrador de Workfront.
 
 #### Informes
 
-**El desglose de gráficos incluye resultados inexactos**
+**La navegación por jerarquía de los gráficos incluye resultados inexactos**
 
-Cuando un usuario está viendo un informe de gráfico e intenta explorar en profundidad una agrupación específica, los detalles incluyen resultados que no están en la agrupación seleccionada.
+Cuando un usuario está viendo un informe de gráfico e intenta explorar en profundidad una navegación por jerarquía específica, los detalles incluyen resultados que no están en la agrupación seleccionada.
 
-Se ha informado de este problema en informes agrupados por fecha.
-
-+++
-
-+++**Actualizaciones de mantenimiento realizadas entre el 15 y el 21 de junio de 2025**
-
-### Semana de actualización de mantenimiento del 15 al 21 de junio de 2025
-
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esto se ha notificado en los informes agrupados por fecha.
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas entre el 8 y el 14 de junio de 2025**
++++**Actualizaciones de mantenimiento de la semana del 15 al 21 de junio de 2025**
 
-### Semana de la actualización de mantenimiento del 8 al 14 de junio de 2025
+### Actualización de mantenimiento de la semana del 15 al 21 de junio de 2025
+
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
+
++++
+
++++**Actualizaciones de mantenimiento de la semana del 8 al 14 de junio de 2025**
+
+### Actualización de mantenimiento de la semana del 8 al 14 de junio de 2025
 
 #### Planificador de recursos
 
-**Botón de exportación desactivado**
+**El botón de exportación está desactivado**
 
-Cuando un usuario intenta exportar desde el Planificador de recursos, el botón está desactivado (atenuado) y el usuario no puede exportar.
+Cuando un usuario intenta exportar desde el Planificador de recursos, el botón está desactivado (atenuado) y el usuario no puede hacerlo.
 
 #### Hojas de horas
 
-**Plantillas de horas no generadas correctamente**
+**Las plantillas de horas no se generan correctamente**
 
-Cuando un usuario intenta generar plantillas de horas y la generación se establece en &quot;Semanas alternas&quot;, solo se genera una semana.
+Cuando un usuario intenta generar plantillas de horas y la generación se establece en “Semanas alternas”, solo se genera una semana.
 
 +++
 
-+++**Actualizaciones de mantenimiento realizadas del 1 al 7 de junio de 2025**
++++**Actualizaciones de mantenimiento de la semana del 1 al 7 de junio de 2025**
 
-### Semana de la actualización de mantenimiento del 1 al 7 de junio de 2025
+### Actualización de mantenimiento de la semana del 1 al 7 de junio de 2025
 
 ### Buscar
 
@@ -509,121 +509,121 @@ Cuando un usuario utiliza la búsqueda avanzada, no se devuelven los resultados 
 
 ## Actualizaciones en mayo de 2025
 
-+++**Actualizaciones de mantenimiento realizadas entre el 25 y el 31 de mayo de 2025**
++++**Actualizaciones de mantenimiento de la semana del 25 al 31 de mayo de 2025**
 
-### Semana de la actualización de mantenimiento del 25 al 31 de mayo de 2025
+### Actualización de mantenimiento de la semana del 25 al 31 de mayo
 
-Las actualizaciones de esta semana incluyen solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
-
-+++
-
-+++**Actualización de mantenimiento el viernes, 22 de mayo de 2025**
-
-### Actualización de mantenimiento el viernes, 22 de mayo de 2025
-
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Las actualizaciones de esta semana solo incluyen correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualización de mantenimiento el viernes, 15 de mayo de 2025**
++++**Actualización de mantenimiento el 22 de mayo de 2025**
 
-### Actualización de mantenimiento el viernes, 15 de mayo de 2025
+### Actualización de mantenimiento el 22 de mayo de 2025
+
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
+
++++
+
++++**Actualización de mantenimiento el 15 de mayo de 2025**
+
+### Actualización de mantenimiento el 15 de mayo de 2025
 
 #### Informes
 
 **Error al ver un informe con una vista de hito**
 
-Cuando un usuario intenta ver un informe que tiene una vista de hito disponible para habilitar, el informe no se carga y muestra un error.
+Cuando un usuario intenta ver un informe que tiene una vista de hito disponible para habilitarse, este no se carga y muestra un error.
 
 +++
 
-+++**Actualización de mantenimiento el viernes, 08 de mayo de 2025**
++++**Actualización de mantenimiento el 8 de mayo de 2025**
 
-### Actualización de mantenimiento el viernes, 08 de mayo de 2025
+### Actualización de mantenimiento el 8 de mayo de 2025
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualización de mantenimiento el viernes, 01 de mayo de 2025**
++++**Actualización de mantenimiento el 1 de mayo de 2025**
 
-### Actualización de mantenimiento el viernes, 01 de mayo de 2025
+### Actualización de mantenimiento el 1 de mayo de 2025
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
 ## Actualizaciones en abril de 2025
 
-+++**Actualización de mantenimiento el viernes, 24 de abril de 2025**
++++**Actualización de mantenimiento el 24 de abril de 2025**
 
-### Actualización de mantenimiento el viernes, 24 de abril de 2025
+### Actualización de mantenimiento el 24 de abril de 2025
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
-
-+++
-
-+++**Actualización de mantenimiento el viernes, 17 de abril de 2025**
-
-### Actualización de mantenimiento el viernes, 17 de abril de 2025
-
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualización de mantenimiento el viernes, 10 de abril de 2025**
++++**Actualización de mantenimiento el 17 de abril de 2025**
 
-### **Actualización de mantenimiento el viernes, 10 de abril de 2025**
+### Actualización de mantenimiento el 17 de abril de 2025
+
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
+
++++
+
++++**Actualización de mantenimiento el 10 de abril de 2025**
+
+### **Actualización de mantenimiento el 10 de abril de 2025**
 
 #### Paneles de control
 
-**El tablero personalizado no se abre**
+**El panel personalizado no se abre**
 
-Cuando un usuario está viendo un objeto e intenta abrir un panel personalizado adjunto al objeto, el panel no se abre.
+Cuando un usuario está viendo un objeto e intenta abrir un panel personalizado adjunto a este, el panel no se abre.
 
 #### Informes
 
-**Los usuarios de diferentes zonas horarias obtienen resultados de informes diferentes**
+**Los usuarios de diferentes zonas horarias obtienen distintos resultados de informes**
 
-Los usuarios de diferentes zonas horarias que utilizan el selector de fechas para obtener un informe de una fecha determinada obtienen resultados diferentes para ese informe.
+Los usuarios de diferentes zonas horarias que utilizan el selector de fecha para obtener un informe de una fecha determinada obtienen resultados diferentes para ese informe.
 
 +++
 
-+++**Actualización de mantenimiento el viernes, 03 de abril de 2025**
++++**Actualización de mantenimiento el 3 de abril de 2025**
 
-### Actualización de mantenimiento el viernes, 03 de abril de 2025
+### Actualización de mantenimiento el 3 de abril de 2025
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
 ## Actualizaciones en marzo de 2025
 
-+++**Actualización de mantenimiento el viernes, 27 de marzo de 2025**
++++**Actualización de mantenimiento el 27 de marzo de 2025**
 
-### Actualización de mantenimiento el viernes, 27 de marzo de 2025
+### Actualización de mantenimiento el 27 de marzo de 2025
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
-
-+++
-
-+++**Actualización de mantenimiento el viernes, 20 de marzo de 2025**
-
-### Actualización de mantenimiento el viernes, 20 de marzo de 2025
-
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualización de mantenimiento el viernes, 13 de marzo de 2025**
++++**Actualización de mantenimiento el 20 de marzo de 2025**
 
-### Actualización de mantenimiento el viernes, 13 de marzo de 2025
+### Actualización de mantenimiento el 20 de marzo de 2025
+
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
+
++++
+
++++**Actualización de mantenimiento el 13 de marzo de 2025**
+
+### Actualización de mantenimiento el 13 de marzo de 2025
 
 #### Informes
 
 **El recuento de elementos en el gráfico es inexacto**
 
-En un informe de panel, hacer clic en un resultado de gráfico con más de 15 elementos y seleccionar para mostrar solo 15 funciona según lo esperado. Sin embargo, si abre el mismo informe fuera del panel y hace clic en el mismo resultado del gráfico, indica que se están mostrando todos los elementos, pero que solo aparecen 15.
+En un informe de panel, hacer clic en un resultado de gráfico con más de 15 elementos y seleccionar para mostrar solo 15 funciona según lo esperado. Sin embargo, si se abre el mismo informe fuera del panel y se hace clic en el mismo resultado del gráfico, indica que se están mostrando todos los elementos, pero solo aparecen 15.
 
 +++
 
@@ -631,7 +631,7 @@ En un informe de panel, hacer clic en un resultado de gráfico con más de 15 el
 
 ### Actualización de mantenimiento el 6 de marzo de 2025
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 

@@ -1,22 +1,22 @@
 ---
-title: 'Workfront Planning: Error al eliminar el campo conectado'
-description: Cuando un usuario intenta quitar un campo conectado en Workfront Planning, no puede quitar el campo y ve el mensaje No se puede eliminar el campo. Inténtelo de nuevo.
+title: 'Workfront Planning: error al eliminar un campo conectado'
+description: Cuando un usuario intenta quitar un campo conectado en Workfront Planning, no puede eliminarlo y ve el mensaje “No se puede eliminar el campo. Vuelve a intentarlo”.
 hidefromtoc: true
 feature: Workfront Planning
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 
-# Workfront Planning: Error al eliminar el campo conectado
+# Workfront Planning: error al eliminar un campo conectado
 
 >[!NOTE]
 >
->Este problema se corrigió el martes, 22 de diciembre de 2025.
+>Este problema se corrigió el 22 de diciembre de 2025.
 
-Cuando un usuario intenta eliminar un campo conectado en Workfront Planning, no puede eliminar el campo y ve el mensaje &quot;No se puede eliminar el campo. Inténtelo de nuevo&quot;.
+Cuando un usuario intenta eliminar un campo conectado en Workfront Planning, no puede eliminarlo y ve el mensaje “No se puede eliminar el campo. Vuelva a intentarlo”.
 
-_Informado por primera vez el jueves, 10 de diciembre de 2025._
+_Notificado por primera vez el 10 de diciembre de 2025._

@@ -1,17 +1,17 @@
 ---
-title: 'Workfront Fusion: Las actualizaciones del webhook no se guardan automáticamente'
+title: 'Workfront Fusion: las actualizaciones del webhook no se guardan automáticamente'
 description: Cuando un usuario realiza un cambio en un webhook, como en el módulo Workfront > Ver evento, los cambios no se guardan automáticamente. El usuario debe guardar el escenario para conservar los cambios en el webhook.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
-workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 8%
+exl-id: 7e9eb4d2-1a6f-4612-a29e-6947557b4195
+source-git-commit: 99a10c3dff69e6a1cbab89da65a0f3a078be93ef
+workflow-type: ht
+source-wordcount: '98'
+ht-degree: 100%
 
 ---
 
-
-# Workfront Fusion: Las actualizaciones del webhook no se guardan automáticamente
+# Workfront Fusion: las actualizaciones del webhook no se guardan automáticamente
 
 Cuando un usuario realiza un cambio en un webhook, como en el módulo Workfront > Ver evento, los cambios no se guardan automáticamente.
 
@@ -21,4 +21,4 @@ El usuario **debe guardar el escenario** para conservar los cambios en el webhoo
 
 Guarde el escenario.
 
-_Notificado por primera vez el viernes, 17 de julio de 2025._
+_Notificado por primera vez el 17 de julio de 2025._

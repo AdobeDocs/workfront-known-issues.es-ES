@@ -1,22 +1,22 @@
 ---
-title: 'Usuarios: solo se pueden buscar roles por primera palabra'
-description: Cuando un administrador crea o edita un usuario y busca roles, la búsqueda devuelve solo los roles que comienzan con el término de búsqueda, no todos los roles que incluyen el término de búsqueda.
+title: 'Usuarios: solo se pueden buscar puestos de trabajo por la primera palabra'
+description: Cuando un administrador crea o edita un usuario y busca puestos de trabajo, la búsqueda devuelve solo los que comienzan con el término de búsqueda, no todos los que incluyen el término de búsqueda.
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Usuarios: solo se pueden buscar roles por primera palabra
+# Usuarios: solo se pueden buscar puestos de trabajo por la primera palabra
 
 >[!NOTE]
 >
->Este problema se corrigió el martes, 17 de noviembre de 2025.
+>Este problema se corrigió el 17 de noviembre de 2025.
 
-Cuando un administrador crea o edita un usuario y busca roles, la búsqueda devuelve solo los roles que comienzan con el término de búsqueda, no todos los roles que incluyen el término de búsqueda.
+Cuando un administrador crea o edita un usuario y busca puestos de trabajo, la búsqueda devuelve solo los que comienzan con el término de búsqueda, no todos los que incluyen el término de búsqueda.
 
-_Notificado por primera vez el miércoles, 21 de octubre de 2025._
+_Notificado por primera vez el 21 de octubre de 2025._

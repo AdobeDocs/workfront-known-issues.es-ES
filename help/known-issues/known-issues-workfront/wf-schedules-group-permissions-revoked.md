@@ -1,22 +1,22 @@
 ---
-title: 'Programaciones: Permisos para programar revocados para un grupo'
-description: Cuando un administrador de grupo de Workfront agrega una excepción de fecha a una programación y guarda los cambios, los permisos para esa programación se eliminan del grupo y el administrador de Workfront debe conceder acceso al grupo.
+title: 'Programaciones: permisos para programar revocados para un grupo'
+description: Cuando un administrador de grupos de Workfront añade una excepción de fecha a una programación y guarda los cambios, los permisos para dicha programación se eliminan del grupo, y el administrador de Workfront debe conceder acceso al grupo.
 hidefromtoc: true
 feature: Timesheets
 source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Programaciones: Permisos para programar revocados para un grupo
+# Programaciones: permisos para programar revocados para un grupo
 
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 18 de diciembre de 2025.
+>Este problema se corrigió el 18 de diciembre de 2025.
 
-Cuando un administrador de grupo de Workfront agrega una excepción de fecha a una programación y guarda los cambios, los permisos para esa programación se eliminan del grupo y el administrador de Workfront debe conceder acceso al grupo.
+Cuando un administrador de grupos de Workfront añade una excepción de fecha a una programación y guarda los cambios, los permisos para dicha programación se eliminan del grupo, y el administrador de Workfront debe conceder acceso al grupo.
 
-_Notificado por primera vez el martes, 10 de noviembre de 2025._
+_Notificado por primera vez el 10 de noviembre de 2025._

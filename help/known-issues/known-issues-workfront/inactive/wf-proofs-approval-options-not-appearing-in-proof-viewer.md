@@ -1,13 +1,13 @@
 ---
-title: 'Pruebas: Las opciones de aprobación no aparecen en el Visor de pruebas'
+title: 'Pruebas: las opciones de aprobación no aparecen en el visor de pruebas'
 description: Cuando un usuario intenta aprobar una prueba en el visualizador de revisión de escritorio, poco después de solicitarse la aprobación, las opciones de aprobación no están visibles y no puede. Aparecen varias horas después de solicitarse la aprobación.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

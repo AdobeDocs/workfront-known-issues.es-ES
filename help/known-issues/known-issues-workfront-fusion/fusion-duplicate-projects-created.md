@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 95cb41ab-aa1c-41a8-ad3d-bdc99f54e241
 source-git-commit: 1e1528b2fc0c2ffd8ec62eeb2ba3bedb5693ada9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
