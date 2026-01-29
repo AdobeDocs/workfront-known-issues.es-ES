@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 81%
+source-wordcount: '449'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,18 @@ Para ver las actualizaciones de mantenimiento anteriores a 2026, consulte [Actua
 En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en enero de 2026
+
++++**Actualización de mantenimiento realizada del 25 al 31 de enero de 2026**
+
+### Semana de la actualización de mantenimiento del 25 al 31 de enero de 2026
+
+#### Aprobaciones
+
+**El widget Mis aprobaciones muestra las aprobaciones completadas**
+
+Cuando un usuario está viendo su widget de Mis aprobaciones en Inicio, el widget incluye pruebas que ya se han aprobado.
+
++++
 
 +++**Actualización de mantenimiento realizada del 18 al 24 de enero de 2026**
 

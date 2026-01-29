@@ -4,10 +4,10 @@ description: 'Problemas conocidos e informados de la nueva experiencia de [!DNL 
 keywords: nuevo archivo, añadir archivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
 source-wordcount: '1124'
-ht-degree: 94%
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | --- | --- |
+| [Inicio de sesión: Workfront no se carga después del inicio de sesión](known-issues-workfront/wf-login-wf-does-not-load.md) | viernes, 29 de enero de 2026 |
 | [Distribuidor de cargas de trabajo: las horas por usuario no se calculan correctamente](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | viernes, 29 de enero de 2026 |
 | [Usuarios: los usuarios no se han aprovisionado correctamente en Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 7 de enero de 2026 |
 | [Usuarios: no se puede actualizar el acceso de usuario](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 5 de enero de 2026 |
@@ -45,7 +46,6 @@ Las soluciones para estos problemas están actualmente en curso o están program
 | [Solicitudes: la vista &quot;Todas&quot; no muestra todas las solicitudes](known-issues-workfront/wf-requests-not-showing-all.md) | sábado, 16 de enero de 2026 |
 | [Formularios personalizados: los campos calculados no muestran los datos de los usuarios que no son administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de enero de 2026 |
 | [Solicitudes: error &quot;Debe ser administrador del sistema&quot; al copiar solicitudes](known-issues-workfront/wf-requests-error-when-copying.md) | viernes, 15 de enero de 2026 |
-| [Aprobaciones: el widget Mis aprobaciones muestra las aprobaciones completadas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | viernes, 15 de enero de 2026 |
 | [Solicitudes: problemas con borradores en la nueva experiencia de solicitud](known-issues-workfront/wf-requests-issues-with-drafts.md) | 7 de enero de 2026 |
 | [Informes: los usuarios pueden ver datos financieros en las visualizaciones del panel de lienzo](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 19 de diciembre de 2025 |
 | [Aprobaciones: la aprobación se muestra como “Sin fecha límite” cuando el tiempo no se incluye en la fecha límite](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 de septiembre de 2025 |
@@ -136,12 +136,12 @@ Las soluciones para estos problemas no están actualmente en la hoja de ruta. En
 | [Pruebas: las pruebas se crean lentamente en el entorno de Vista previa](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junio de 2023 |
 | [Pruebas: la herramienta de medición no acepta decimales](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de marzo de 2023 |
 | [[!UICONTROL Inicio]: las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de enero de 2023 |
-| [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
+| [Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 de diciembre de 2022 |
 | [API: no se puede ordenar por campos dinámicos](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de octubre de 2022 |
 | [[!UICONTROL Configuración]: las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) | 28 de octubre de 2022 |
 | [Paneles de control: los gráficos de informes que se ven en un panel de control utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 de agosto de 2022 |
-| [Agile: problemas al mover tarjetas en el panel [!UICONTROL Agile] &#x200B;](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
-| [[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 de octubre de 2021 |
+| [Agile: problemas al mover tarjetas en el panel [!UICONTROL Agile] ](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
+| [[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 de octubre de 2021 |
 | [Actualizaciones: el nombre del equipo no aparece en @mención](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 de octubre de 2021 |
 | [Agile: discrepancia en los [!UICONTROL puntos completados] para una iteración](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 de junio de 2021 |
 | [Notificaciones por correo electrónico: aparece el ajuste “[!UICONTROL Estoy asignado a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 de junio de 2021 |
