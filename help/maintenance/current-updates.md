@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 65%
+source-wordcount: '761'
+ht-degree: 52%
 
 ---
 
@@ -30,7 +30,21 @@ En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ### Actualización de mantenimiento realizada del 1 al 7 de febrero de 2026
 
+#### Documentos
+
+**El panel de resumen está en blanco**
+
+Cuando un usuario está viendo una lista de documentos y hace clic en un documento, se abre el Panel de resumen, pero permanece en blanco. El usuario no puede cerrar el Panel de resumen.
+
+Si el usuario vuelve a cargar la página, es posible que el Panel de resumen se rellene según lo esperado. Sin embargo, si el usuario hace clic en un documento diferente, el panel de resumen de ese documento está en blanco.
+
 #### Solicitudes
+
+**&quot;Ningún asunto&quot; aparece en la lista de solicitudes**
+
+Cuando un usuario está viendo la lista de solicitudes en la nueva experiencia de solicitud, algunas de las solicitudes muestran &quot;Sin asunto&quot; en la columna Asunto.
+
+Si el usuario abre una de estas solicitudes, verá que la solicitud no tiene asunto.
 
 **Error &quot;No cuenta con acceso suficiente&quot; al copiar las solicitudes**
 
@@ -49,6 +63,12 @@ Cuando un usuario está copiando una solicitud e intenta guardarla, esta no se g
 **Los usuarios no se han aprovisionado correctamente en Adobe Admin Console**
 
 Si ya existe un usuario enAdobe Admin Console y, a continuación, se aprovisiona automáticamente en una consola que incluye Workfront, ese usuario no se aprovisiona correctamente en la nueva consola.
+
+#### Distribuidor de cargas de trabajo
+
+**Las horas por usuario no se han calculado correctamente**
+
+Cuando un usuario está viendo las horas de un usuario en el Distribuidor de cargas de trabajo, esas horas pueden calcularse incorrectamente. Por ejemplo, la vista Semana puede mostrar un cálculo de horas, pero la vista 4 semanas muestra un número diferente de horas para esa semana.
 
 +++
 
