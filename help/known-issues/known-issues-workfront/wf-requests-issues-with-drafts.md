@@ -3,15 +3,19 @@ title: 'Solicitudes: problemas con los borradores en la nueva experiencia de sol
 description: Se han notificado varios sobre los borradores en la nueva experiencia de solicitud.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+exl-id: 951ea13c-774d-484d-99fd-ca119d258870
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
-
 # Solicitudes: problemas con los borradores en la nueva experiencia de solicitud
+
+>[!NOTE]
+>
+>Este problema se corrigió el martes, 09 de febrero de 2026.
 
 Se han notificado los siguientes problemas sobre los borradores en la nueva experiencia de solicitud:
 

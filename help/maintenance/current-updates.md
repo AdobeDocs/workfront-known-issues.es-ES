@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 51%
+source-wordcount: '859'
+ht-degree: 53%
 
 ---
 
@@ -35,6 +35,15 @@ En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 **La consulta del lago de datos no devuelve los resultados esperados**
 
 Cuando se consulta el lago de datos, no se devuelven todos los resultados esperados.
+
+#### Solicitudes
+
+**Problemas con borradores en la nueva experiencia de solicitud**
+
+Se han notificado los siguientes problemas sobre los borradores en la nueva experiencia de solicitud:
+
+* Las solicitudes creadas como borrador y luego enviadas solo muestran la primera letra del asunto en la lista de solicitudes.
+* Los borradores descartados no se eliminan de la lista de solicitudes, por lo que se produce el error “Error al recuperar el borrador”.
 
 +++
 
