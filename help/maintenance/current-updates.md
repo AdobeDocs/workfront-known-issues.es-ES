@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 53%
+source-wordcount: '951'
+ht-degree: 48%
 
 ---
 
@@ -37,6 +37,12 @@ En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 Cuando se consulta el lago de datos, no se devuelven todos los resultados esperados.
 
 #### Solicitudes
+
+**El borrador creado junto con la solicitud causa problemas**
+
+Cuando un usuario crea y envía una nueva solicitud en la nueva experiencia solicitante, también se crea un borrador. El borrador solo muestra la primera letra del nombre de la solicitud enviada e intentar abrirla provoca el error &quot;No se pudo recuperar&quot;.
+
+Además, si se elimina la solicitud enviada, parece eliminarse, pero permanece visible en el área de Solicitudes de Workfront. Si el usuario intenta volver a abrir la solicitud, verá un mensaje que indica que la solicitud no existe.
 
 **Problemas con borradores en la nueva experiencia de solicitud**
 
