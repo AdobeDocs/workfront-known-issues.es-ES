@@ -2,10 +2,10 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '1718'
-ht-degree: 92%
+source-wordcount: '1758'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conocidos de  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas actuales en [!DNL Adobe Workfront] {#wf-current}
+      + [Inicio: Las menciones de las pruebas no aparecen en el widget Menciones](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
+      + [Integraciones: Las notificaciones de Slack desde Workfront no se activan](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
+      + [Aprobaciones: no se puede aprobar el documento del widget Mis aprobaciones en Inicio](known-issues-workfront/wf-approval-not-work-from-widget.md)
+      + [Workfront Planning: error de tipo &quot;No se pudo enviar la solicitud&quot;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
+      + [Aprobaciones: las aprobaciones se bloquean automáticamente](known-issues-workfront/wf-approvals-are-locked.md)
       + [Asignaciones: No se puede guardar el cambio de asignación avanzado de un informe](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [Creación de informes: Los campos de Workfront Planning no aparecen en el Report Builder de los paneles de lienzo](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [Usuarios: No se pueden eliminar los informes directos](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
@@ -226,7 +231,7 @@ ht-degree: 92%
       + [Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: error de memoria baja](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL &#x200B; Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: El módulo  [!DNL Workfront] >[!UICONTROL  Llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Error de tipo “No se pudo verificar la conexión”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
