@@ -4,10 +4,10 @@ description: Cuando un usuario está viendo la lista de solicitudes en la nueva 
 hidefromtoc: true
 feature: Requests
 exl-id: 38251fcd-4f6f-4e11-af09-cf21b287cd52
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 10%
 >[!NOTE]
 >
 >* Este problema se ha notificado en la nueva experiencia de solicitud.
->* Este problema se corrigió el jueves, 18 de febrero de 2026.
+
 
 Cuando un usuario está viendo la lista de solicitudes en la nueva experiencia de solicitud y la vista está configurada para mostrar todas las solicitudes, solo se muestran algunas de ellas.
 

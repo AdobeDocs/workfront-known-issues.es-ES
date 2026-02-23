@@ -3,10 +3,10 @@ title: Actualizaciones de mantenimiento de Workfront
 description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 44%
+source-wordcount: '1265'
+ht-degree: 37%
 
 ---
 
@@ -26,15 +26,53 @@ En 2026 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en febrero de 2026
 
++++**Actualización de mantenimiento realizada del 22 al 28 de febrero de 2026**
+
+### Semana de actualización de mantenimiento del 22 al 28 de febrero de 2026
+
+#### Solicitudes
+
+**No se puede cargar un documento al rellenar una solicitud**
+
+Cuando un usuario está rellenando una solicitud e intenta cargar un documento, este no se carga y aparece el siguiente error:
+
+&quot;Error de carga: pruebe con un archivo más pequeño o adjunte el archivo después de crearlo&quot;.
+
++++
+
 +++**Actualización de mantenimiento realizada del 15 al 21 de febrero de 2026**
 
 ### Semana de actualización de mantenimiento del 15 al 21 de febrero de 2026
 
 #### Formularios personalizados
 
+**Los campos calculados no muestran los datos de los usuarios que no son administradores**
+
+Cuando un usuario que no es administrador de Workfront ve un formulario personalizado con campos que extraen datos en una sección de solo administración del formulario, ese campo no muestra el valor calculado. Si el usuario ejecuta Volver a calcular expresiones, el valor se muestra pero se pierde al actualizar.
+
+Los administradores de Workfront pueden ver los valores de campo según lo esperado.
+
 **La lógica de visualización no se muestra correctamente en el formulario de solicitud**
 
 Cuando un usuario rellena un formulario personalizado conectado a una solicitud, no se sigue la lógica de visualización y es posible que algunos campos no se muestren según lo esperado.
+
+#### Inicio
+
+**Las menciones de las pruebas no aparecen en el widget de menciones**
+
+Cuando se menciona a un usuario en un comentario sobre una prueba, esa mención no se incluye en el widget Menciones de Inicio.
+
+#### Inicio de sesión
+
+**Workfront no se carga después de iniciar sesión**
+
+Cuando un usuario inicia sesión en Workfront, Workfront no se carga. Si el usuario actualiza la página, Workfront se carga según lo esperado.
+
+#### Creación de informes
+
+Los campos de Workfront Planning no aparecen en el Report Builder de los paneles de lienzo
+
+Cuando un usuario utiliza el generador en paneles de lienzo e intenta hacer referencia a campos de Workfront Planning, esos campos no se muestran dentro del generador.
 
 #### Solicitudes
 
@@ -110,7 +148,7 @@ Cuando un usuario está copiando una solicitud e intenta guardarla, esta no se g
 
 Si ya existe un usuario enAdobe Admin Console y, a continuación, se aprovisiona automáticamente en una consola que incluye Workfront, ese usuario no se aprovisiona correctamente en la nueva consola.
 
-#### Distribuidor de cargas de trabajo
+#### Equilibrador de carga
 
 **Las horas por usuario no se han calculado correctamente**
 
