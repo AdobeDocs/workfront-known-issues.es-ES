@@ -4,10 +4,10 @@ description: Problemas conocidos notificados para  [!DNL Adobe Workfront Planni
 keywords: nuevo archivo, añadir archivo
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,8 @@ Actualmente, se están examinando estos problemas que se han notificado reciente
 
 | **Problema** | **Última modificación** |
 | --- | --- |
-| [Planificación de Workfront: error &#x200B;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) de &quot;No se pudo enviar la solicitud&quot; | miércoles, 17 de febrero de 2026 |
+| [Workfront Planning: el estado de la solicitud se muestra como &quot;En curso&quot; después de que se apruebe la solicitud](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | miércoles, 24 de febrero de 2026 |
+| [Planificación de Workfront: error ](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) de &quot;No se pudo enviar la solicitud&quot; | miércoles, 17 de febrero de 2026 |
 
 {style="table-layout:auto"}
 
