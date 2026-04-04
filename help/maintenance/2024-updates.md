@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Para obtener información sobre las interrupciones de mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/).
+>Para obtener información sobre las interrupciones de mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/es-es/).
 
 En esta página se describen los problemas corregidos en las actualizaciones semanales de Workfront.
 
