@@ -1,13 +1,12 @@
 ---
-title: "Prueba: no se puede añadir un usuario a la prueba al etiquetarlo en un comentario"
+title: 'Prueba: no se puede añadir un usuario a la prueba al etiquetarlo en un comentario'
 description: Cuando un usuario etiqueta en un comentario a otro que no está actualmente en la prueba, no tiene la opción de seleccionar un rol de trabajo o un correo electrónico para el usuario, y por lo tanto no puede añadirlo a la prueba.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
-hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 90%
 
 ---
 

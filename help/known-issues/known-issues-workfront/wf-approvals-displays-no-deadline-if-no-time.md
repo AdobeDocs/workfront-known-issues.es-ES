@@ -1,15 +1,14 @@
 ---
 title: 'Aprobaciones: la aprobación se muestra como Sin fecha límite cuando el tiempo no se incluye en la fecha límite'
 description: Cuando una fecha límite de aprobación incluye solo una fecha y no una hora, se muestra en el widget de inicio de aprobaciones como una fecha límite de Sin fecha límite.
-hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
-workflow-type: ht
-source-wordcount: '87'
+exl-id: 87841fa7-1663-4a81-a94d-bd754a9ecb9d
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
-
 
 # Aprobaciones: la aprobación se muestra como “Sin fecha límite” cuando el tiempo no se incluye en la fecha límite
 

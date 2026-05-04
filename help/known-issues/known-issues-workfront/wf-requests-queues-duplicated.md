@@ -1,15 +1,14 @@
 ---
 title: 'Solicitudes: las colas de solicitudes aparecen varias veces'
 description: Cuando un usuario comienza a crear una solicitud y selecciona una cola de solicitudes, esta aparece varias veces en la lista desplegable.
-hidefromtoc: true
 feature: Requests
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
-workflow-type: ht
-source-wordcount: '80'
+exl-id: 3b88f48d-3a9c-4bfe-9de9-b02cdc5daa70
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
-
 
 # Solicitudes: las colas de solicitudes aparecen varias veces
 

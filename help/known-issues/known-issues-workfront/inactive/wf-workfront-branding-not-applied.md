@@ -1,12 +1,11 @@
 ---
 title: 'Workfront: la promoción de la marca no está disponible'
 description: La promoción de la marca no está disponible para las organizaciones que han migrado a Adobe Admin Console, Adobe Unified Shell o Adobe IMS (sistema de administración de identidades).
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: ht
-source-wordcount: '181'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '183'
 ht-degree: 100%
 
 ---

@@ -1,15 +1,14 @@
 ---
 title: Las ediciones en línea de una tarea no se guardan
 description: Cuando un usuario realiza cambios en la sección Ediciones de una tarea en el cuadro de diálogo de tareas heredadas y los quiere guardar, estos no se guardan.
-hidefromtoc: true
 feature: Tasks
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
-workflow-type: ht
-source-wordcount: '91'
+exl-id: ebc1fec3-a0d8-4623-8e84-7e3878f9b716
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
-
 
 # Tareas: las ediciones en línea de una tarea no se guardan
 

@@ -1,12 +1,11 @@
 ---
-title: "Actualizaciones: el nombre del equipo no aparece en @mención"
+title: 'Actualizaciones: el nombre del equipo no aparece en @mención'
 description: Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] intenta etiquetar a un equipo en una actualización y el nombre tiene varias palabras (por ejemplo, "Nombre del equipo"), no se le notifica y no aparece en el campo Para. Si se introduce el nombre del equipo en el campo [!UICONTROL Notificar], se les notifica como es debido, pero solo una parte del nombre se enlaza en la actualización.
 exl-id: 3e06e1aa-f98d-45dd-b467-ac30dbfa4ede
-hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: e21428ea574bbe10779cf2a348e01917af0a2640
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '148'
 ht-degree: 100%
 
 ---
@@ -17,4 +16,4 @@ ht-degree: 100%
 
 Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] intenta etiquetar un equipo en una actualización y el nombre tiene varias palabras (por ejemplo, &quot;Nombre del equipo&quot;), no se le notifica y no aparecen en el campo Para. Si se introduce el nombre del equipo en el campo [!UICONTROL Notificar], se les notifica como es debido, pero solo una parte del nombre se enlaza en la actualización.
 
-_Informado por primera vez el 3 de junio de 2021._
+_Notificado por primera vez el viernes, 03 de junio de 2021._

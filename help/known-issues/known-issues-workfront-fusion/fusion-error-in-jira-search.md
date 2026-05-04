@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Fusion: el módulo de búsqueda de Jira devuelve un error'
 description: El módulo de búsqueda utilizado por el conector Jira heredado puede provocar un error. Hay una solución alternativa disponible
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 9502ffb3-f287-47b2-9b35-1a906345e924
-source-git-commit: 8c2968464f1a7c8347a21367b940b8c298fde727
-workflow-type: ht
-source-wordcount: '186'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '188'
 ht-degree: 100%
 
 ---

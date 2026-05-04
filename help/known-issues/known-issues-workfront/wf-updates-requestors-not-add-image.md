@@ -1,13 +1,12 @@
 ---
-title: "Actualizaciones: Los usuarios solicitantes no pueden añadir imágenes a las actualizaciones"
+title: 'Actualizaciones: los usuarios solicitantes no pueden añadir las imágenes a las actualizaciones'
 description: Cuando un usuario que tiene una licencia de solicitante está viendo el área de actualizaciones e intenta añadir una imagen, falta el icono para añadir una imagen y la opción para añadir una imagen no está disponible para el usuario.
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 4e914f5d-828d-4a6e-9fa1-1917675d3616
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 93%
+source-wordcount: '131'
+ht-degree: 100%
 
 ---
 

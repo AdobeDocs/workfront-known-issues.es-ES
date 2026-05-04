@@ -1,13 +1,12 @@
 ---
 title: 'Nueva página de inicio: el filtro de widget y los valores predeterminados de agrupación no siguen la plantilla de diseño'
 description: Cuando un usuario ve el widget Mis proyectos, Mis tareas, o Mis problemas en la nueva experiencia de inicio, el filtro y la agrupación predeterminados para ese widget no son los valores predeterminados de la plantilla de diseño asignada a ese usuario.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: d7038535-98ff-405b-9c2b-d6474dc568c9
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se ha cerrado porque funciona como se diseñó.
+>Este problema se ha cerrado porque funciona según lo previsto.
 
 Cuando un usuario ve el [!UICONTROL Mis proyectos], [!UICONTROL Mis tareas], o [!UICONTROL Mis problemas] widget en la nueva experiencia de [!UICONTROL Inicio], el filtro y la agrupación predeterminados para ese widget no son los valores predeterminados en la plantilla de diseño asignada a ese usuario.
 

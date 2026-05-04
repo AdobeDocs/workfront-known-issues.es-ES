@@ -1,13 +1,12 @@
 ---
 title: 'Documentos: El panel de resumen está en blanco'
 description: Cuando un usuario está viendo una lista de documentos y hace clic en un documento, se abre el Panel de resumen, pero permanece en blanco. El usuario no puede cerrar el Panel de resumen.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 9%
+source-wordcount: '121'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 05 de febrero de 2026.
+>Este problema se corrigió el 5 de febrero de 2026.
 
 Cuando un usuario está viendo una lista de documentos y hace clic en un documento, se abre el Panel de resumen, pero permanece en blanco. El usuario no puede cerrar el Panel de resumen.
 

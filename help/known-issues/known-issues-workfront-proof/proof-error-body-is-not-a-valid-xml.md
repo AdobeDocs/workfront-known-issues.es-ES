@@ -1,13 +1,12 @@
 ---
-title: 'API de prueba de Workfront: el cuerpo no es un error XML válido'
+title: 'API de Workfront Proof: el cuerpo no es un error XML válido'
 description: Una llamada a la API de prueba de Workfront devuelve un error.
-hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 86%
 
 ---
 
@@ -25,4 +24,4 @@ Una llamada a la API [!DNL Workfront Proof] devuelve el siguiente error:
 
 Esto puede ocurrir al acceder a la API [!DNL Workfront Proof] directamente o al acceder a través de [!DNL Workfront Fusion].
 
-_Notificado por primera vez el 15 de septiembre de 2022._
+_Notificado por primera vez el viernes, 15 de septiembre de 2022._

@@ -1,15 +1,14 @@
 ---
 title: 'Programas: no se puede guardar al editar un programa'
 description: Cuando un usuario está editando un programa e intenta guardar los cambios, estos no se guardan.
-hidefromtoc: true
 feature: Work Management
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: ht
-source-wordcount: '60'
+exl-id: 8c00751a-c706-4248-8266-87c457ce367f
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
-
 
 # Programas: no se puede guardar al editar un programa
 

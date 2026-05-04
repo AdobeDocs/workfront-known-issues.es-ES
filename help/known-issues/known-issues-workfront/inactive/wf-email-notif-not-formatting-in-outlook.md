@@ -3,10 +3,9 @@ title: 'Notificaciones por correo electrónico: los correos electrónicos no tie
 description: Cuando un usuario con una dirección de correo electrónico de Outlook tiene el correo electrónico configurado para no permitir la descarga automática de una imagen y recibe una notificación por correo electrónico de [!DNL Workfront], la imagen de perfil del usuario en la notificación no se muestra correctamente, y el nombre de la imagen a veces aparece en vertical. La descarga manual de estas imágenes no soluciona el problema del formato.
 feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
-hidefromtoc: true
-source-git-commit: 69f143e6b764eb8e6aebef92abc9c2ba3dc53770
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '164'
 ht-degree: 100%
 
 ---

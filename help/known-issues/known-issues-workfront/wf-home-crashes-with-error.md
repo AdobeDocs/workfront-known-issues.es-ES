@@ -1,13 +1,12 @@
 ---
-title: '“Inicio: el inicio se bloquea con un error de memoria insuficiente”'
+title: 'Inicio: El inicio se bloquea con un error de falta de memoria'
 description: Cuando un usuario intenta ver la nueva página de inicio, el sitio se bloquea y se muestra un mensaje de error. Hay una solución disponible.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 93%
 
 ---
 
@@ -21,7 +20,7 @@ Cuando un usuario intenta ver la nueva página de inicio, el sitio se bloquea y 
 
 “Ha ocurrido un error al presentar esta página. Código de error: Memoria insuficiente”
 
-**Solución alternativa**
+**Solución**
 
 Esto puede deberse a que hay demasiados elementos en un widget. Recomendamos lo siguiente:
 

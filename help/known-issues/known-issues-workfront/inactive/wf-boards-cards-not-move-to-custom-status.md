@@ -1,12 +1,11 @@
 ---
 title: 'Tableros: las tarjetas trasladadas a una columna vuelven a la columna original después de actualizarse'
 description: Cuando un usuario mueve una tarjeta a una columna diferente y luego la actualiza o regresa al tablero, la tarjeta vuelve a su columna original.
-hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: ht
-source-wordcount: '117'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---

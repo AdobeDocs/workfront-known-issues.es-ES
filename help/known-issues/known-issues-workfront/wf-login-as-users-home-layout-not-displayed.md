@@ -1,12 +1,11 @@
 ---
 title: 'Iniciar sesión como: aparece la plantilla de diseño de inicio del administrador'
 description: Cuando un administrador inicia sesión como otro usuario y navega a las plantillas de diseño en la Configuración, se muestra su propia plantilla de diseño de Inicio en lugar del usuario con el que ha iniciado sesión.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1276dd02-2399-4284-997e-8bdf3c2ce411
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Cuando un administrador inicia sesión como otro usuario y navega a las plantillas de diseño en la Configuración, se muestra su propia plantilla de diseño de Inicio en lugar del usuario con el que ha iniciado sesión.
 
-_Notificado por primera vez el sábado, 10 de enero de 2025._
+_Notificado por primera vez el 10 de enero de 2025._

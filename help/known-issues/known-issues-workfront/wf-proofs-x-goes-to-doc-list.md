@@ -1,12 +1,11 @@
 ---
 title: 'Pruebas: al cerrar la prueba, se redirige a la lista de documentos'
 description: Cuando un usuario está viendo una prueba y hace clic en el icono X para cerrarla, se redirige al usuario a la lista de documentos en lugar de a los detalles del documento.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 53c2c273-0677-4b31-8e19-6688505a085e
-source-git-commit: 460b7358b7d4ed77bc38f5b62fe961c7ea4d265e
-workflow-type: ht
-source-wordcount: '131'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---

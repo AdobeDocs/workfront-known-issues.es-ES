@@ -1,13 +1,12 @@
 ---
-title: '“Tableros: el tablero no se muestra como tablero del usuario al utilizar Iniciar sesión como”'
+title: 'Tableros: El tablero no se muestra como usuario cuando se utiliza Iniciar sesión como'
 description: Cuando un administrador o un administrador de grupo inicia sesión como otro usuario y visualiza los tableros, los tableros que se muestran son los tableros del administrador, no los del usuario.
-hidefromtoc: true
 feature: Agile
 exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 89%
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Proof: marca de tiempo inexacta en el resumen de Proof'
 description: Cuando un usuario hace clic en la opción Imprimir resumen de las pruebas, se añade una marca de tiempo de 30 minutos.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
-source-wordcount: '67'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---

@@ -3,10 +3,9 @@ title: 'Agile: no se pueden editar campos de formularios personalizados en tarje
 description: Cuando un campo de una tarjeta de la tabla Kanban se extrae de un formulario personalizado, los usuarios no pueden editarlo directamente desde la tarjeta.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
-hidefromtoc: true
-source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
-workflow-type: ht
-source-wordcount: '117'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---

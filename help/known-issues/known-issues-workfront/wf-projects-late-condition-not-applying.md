@@ -1,12 +1,11 @@
 ---
 title: 'Proyectos: la condición de retraso no se aplica según lo esperado'
 description: Los proyectos que cumplen los criterios para ser que el sistema los marque como “Retrasados” no tienen la condición aplicada según lo esperado.
-hidefromtoc: true
 feature: Projects
 exl-id: 61a366bc-b2dc-49e1-86f2-e159312e8567
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '72'
 ht-degree: 100%
 
 ---

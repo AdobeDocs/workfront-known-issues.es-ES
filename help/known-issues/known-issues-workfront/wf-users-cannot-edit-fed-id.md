@@ -1,12 +1,11 @@
 ---
 title: 'Usuarios: no se puede editar el identificador de federación de un usuario'
 description: Cuando un administrador intenta actualizar el identificador de federación de un usuario, el campo de dicha información no está disponible y el administrador no puede actualizarlo.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: cfb26af4-92ae-4f1c-a233-a626ce2b107e
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---

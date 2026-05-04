@@ -1,12 +1,11 @@
 ---
 title: Los moderadores de pruebas no pueden editar los permisos
 description: Si un usuario que sea moderador de pruebas intenta editar los permisos de usuario en un flujo de trabajo, se deshabilita la capacidad de seleccionar o deseleccionar los permisos.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -24,8 +23,8 @@ Se ha informado esto en los siguientes permisos:
 * Resolver comentarios y aplicar acciones
 * Compartir la revisión mediante etiquetado
 
-**Solución alternativa**
+**Solución**
 
 Cambiar la función del moderador a Revisor y Aprobador.
 
-_Notificado por primera vez el jueves, 24 de abril de 2024._
+_Informado por primera vez el jueves, 24 de abril de 2024._
