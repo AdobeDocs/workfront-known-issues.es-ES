@@ -1,21 +1,20 @@
 ---
 title: 'Solicitudes: Error ''No cuenta con acceso suficiente'' al copiar solicitudes'
 description: Cuando un usuario intenta copiar una solicitud a través de la página de solicitud, la solicitud no se copia y el usuario ve un error.
-hidefromtoc: true
 feature: Requests
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+exl-id: e4cd4aff-a39d-4d45-81f9-f32da3fa471f
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 11%
+source-wordcount: '103'
+ht-degree: 6%
 
 ---
-
 
 # Solicitudes: Error &quot;No cuenta con acceso suficiente&quot; al copiar solicitudes
 
 >[!NOTE]
 >
->Este problema se corrigió el martes, 02 de febrero de 2026.
+>Este problema se corrigió el 2 de febrero de 2026.
 
 Cuando un usuario intenta copiar una solicitud a través de la página de solicitud, la solicitud no se copia y el usuario ve el siguiente error:
 

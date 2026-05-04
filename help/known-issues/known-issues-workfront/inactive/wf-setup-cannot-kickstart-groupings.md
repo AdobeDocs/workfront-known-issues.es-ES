@@ -1,17 +1,16 @@
 ---
-title: 'Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar agrupaciones'
+title: 'Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar las agrupaciones'
 description: Cuando un usuario intenta realizar los [!UICONTROL Primeros pasos] en una agrupación, la importación no se realiza correctamente y aparece un mensaje de error.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
-source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
 
-# Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar agrupaciones
+# Configuración: no se puede utilizar [!UICONTROL Kick-Starts] para configurar las agrupaciones
 
 >[!NOTE]
 >
@@ -24,4 +23,4 @@ Cuando un usuario intenta realizar [!UICONTROL Primeros pasos] en una agrupació
 
 Esto puede ocurrir aunque los filtros y las vistas se hayan [!UICONTROL iniciado].
 
-_Notificado por primera vez el 1 de junio de 2023._
+_Notificado por primera vez el viernes, 01 de junio de 2023._

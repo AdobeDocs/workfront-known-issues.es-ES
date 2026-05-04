@@ -1,12 +1,11 @@
 ---
-title: '“Proyectos: el proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla”'
+title: 'Proyectos: el proyecto creado a partir de un problema mediante una plantilla no refleja la prioridad establecida en la plantilla'
 description: Cuando un usuario convierte un problema en un proyecto utilizando una plantilla, la prioridad del proyecto recién creado no coincide con la prioridad establecida en la plantilla.
-hidefromtoc: true
 feature: Projects
 exl-id: 431a94ee-c73f-4536-b7ff-33f5b3870892
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 100%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Este problema se ha cerrado porque funciona como se diseñó.
+>Este problema se ha cerrado porque funciona según lo previsto.
 
 Cuando un usuario convierte un problema en un proyecto utilizando una plantilla, la prioridad del proyecto recién creado no coincide con la prioridad establecida en la plantilla.
 

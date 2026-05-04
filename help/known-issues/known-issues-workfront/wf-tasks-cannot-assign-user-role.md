@@ -1,15 +1,14 @@
 ---
 title: 'Tareas: No se puede seleccionar la función de usuario al crear una tarea'
 description: Cuando un usuario está creando una tarea e intenta asignar una función de usuario, la opción no está presente y el usuario no puede asignarla. Hay una solución disponible.
-hidefromtoc: true
 feature: Tasks
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: ht
-source-wordcount: '110'
+exl-id: 11cb6538-708d-4004-9f8e-4bfd1053bb47
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
-
 
 # Tareas: No se puede seleccionar la función de usuario al crear una tarea
 

@@ -1,12 +1,11 @@
 ---
-title: "Documentos: El icono de Flujo de trabajo de prueba no se muestra"
+title: 'Documentos: no aparece el icono del flujo de trabajo de pruebas'
 description: Cuando un usuario que está en la nueva experiencia de [!DNL Workfront]  crea una prueba, el icono de estado de prueba "SOCD" a veces no se muestra en la Lista de documentos hasta que el usuario actualiza la página.
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
-hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---

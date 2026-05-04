@@ -1,15 +1,14 @@
 ---
-title: "Tareas: al buscar el nombre en la asignación de tareas no se muestran usuarios"
-description: '"Cuando un usuario realiza una asignación de tarea e intenta buscar al usuario asignado por su nombre, la búsqueda no devuelve ningún usuario y el usuario ve el mensaje No se encontraron resultados. Hay una solución disponible”.'
-hidefromtoc: true
+title: 'Tareas: al buscar el nombre en la asignación de tareas, no se muestran usuarios'
+description: Cuando un usuario realiza una asignación de tarea e intenta buscar al usuario asignado por su nombre, la búsqueda no devuelve ningún usuario y aparece el mensaje No se encontraron resultados. Hay una solución disponible.
 feature: Tasks, People Teams and Groups
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+exl-id: 0c31d1e4-7025-45a7-96ed-a7f9a4447eca
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
-
 
 # Tareas: al buscar el nombre en la asignación de tareas, no se muestran usuarios
 
@@ -19,7 +18,7 @@ ht-degree: 100%
 
 Cuando un usuario realiza una asignación de tarea e intenta buscar al usuario asignado por su nombre, la búsqueda no devuelve ningún usuario y el usuario ve el mensaje &quot;No se encontraron resultados&quot;.
 
-**Solución alternativa**
+**Solución**
 
 La búsqueda por el nombre completo muestra usuarios según lo esperado.
 

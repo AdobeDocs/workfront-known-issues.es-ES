@@ -1,12 +1,11 @@
 ---
-title: '“Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto”'
+title: 'Pruebas: la prueba evita la conversión de la tarea o el problema al proyecto'
 description: Cuando un usuario intenta convertir una tarea o un problema que incluye una prueba generada por la web en un proyecto, el proyecto no se crea y el usuario ve un mensaje. Hay una solución disponible.
-hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 100%
 
 ---
@@ -29,5 +28,5 @@ Realice el siguiente procedimiento:
 2. Convertir la tarea o el problema en un proyecto.
 3. Utilice la función Mover documento para mover la prueba al nuevo proyecto.
 
-_Notificado por primera vez el 28 de marzo de 2024._
+_Notificado por primera vez el viernes, 28 de marzo de 2024._
 

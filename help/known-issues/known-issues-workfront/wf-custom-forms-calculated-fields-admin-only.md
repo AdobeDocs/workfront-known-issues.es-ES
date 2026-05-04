@@ -1,13 +1,12 @@
 ---
 title: 'Formularios personalizados: los campos calculados no muestran datos para los usuarios que no son administradores'
 description: Cuando un usuario que no es administrador de Workfront ve un formulario personalizado con campos que extraen datos en una sección de solo administración del formulario, ese campo no muestra el valor calculado. Si el usuario ejecuta Volver a calcular expresiones, el valor se muestra pero se pierde al actualizar.
-hidefromtoc: true
 feature: Custom Forms
 exl-id: 74a06df6-2ff2-4df5-8f27-e86316af9f3c
-source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Este problema se corrigió el viernes, 19 de febrero de 2026.
+>Este problema se corrigió el 19 de febrero de 2026.
 
 Cuando un usuario que no es administrador de Workfront ve un formulario personalizado con campos que extraen datos en una sección de solo administración del formulario, ese campo no muestra el valor calculado. Si el usuario ejecuta Volver a calcular expresiones, el valor se muestra pero se pierde al actualizar.
 

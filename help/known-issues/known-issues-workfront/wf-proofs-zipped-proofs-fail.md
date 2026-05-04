@@ -1,12 +1,11 @@
 ---
-title: '“Pruebas: las pruebas comprimidas no se generan”'
+title: 'Pruebas: las pruebas comprimidas no se generan'
 description: Cuando un usuario intenta crear una prueba comprimida y dos o más archivos de la prueba tienen el mismo nombre, la prueba no se genera.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
@@ -21,8 +20,8 @@ ht-degree: 100%
 
 Cuando un usuario intenta crear una prueba comprimida y dos o más archivos de la prueba tienen el mismo nombre, la prueba no se genera.
 
-**Solución alternativa**
+**Solución**
 
 Cambia el nombre de los archivos para que ningún archivo tenga el mismo nombre que otro archivo.
 
-_Informado por primera vez el 28 de diciembre de 2023._
+_Informado por primera vez el viernes, 28 de diciembre de 2023._

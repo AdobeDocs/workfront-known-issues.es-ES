@@ -1,12 +1,11 @@
 ---
-title: "Calendario: Tareas que no se muestran"
+title: 'Calendario: algunas tareas no se muestran'
 description: Cuando un usuario tiene un informe de lista y un informe de calendario que tienen los mismos filtros, ve que algunas tareas se muestran en el informe de lista pero no en el informe de calendario.
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
 feature: Reports and Dashboards
-hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Cuando un usuario tiene un informe de lista y un informe de calendario que tienen los mismos filtros, ve que algunas tareas se muestran en el informe de lista pero no en el informe de calendario.
 
-_Informado por primera vez el 31 de octubre de 2019._
+_Notificado por primera vez el viernes, 31 de octubre de 2019._

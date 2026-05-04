@@ -1,15 +1,14 @@
 ---
 title: 'Tareas: Mensaje de acceso insuficiente al editar en línea las tareas'
 description: Cuando un usuario intenta editar en línea una tarea de una lista o informe, no puede editar la tarea y ve el mensaje “No cuenta con acceso suficiente para realizar asignaciones a esta tarea”.
-hidefromtoc: true
 feature: Tasks
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
-workflow-type: ht
-source-wordcount: '127'
+exl-id: 9da566ea-b765-4212-8ec4-a2a795a9c037
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
-
 
 # Tareas: Mensaje “Acceso insuficiente” al editar en línea las tareas
 

@@ -1,15 +1,14 @@
 ---
 title: 'Creación de informes: los usuarios pueden ver los datos financieros en las visualizaciones del panel de lienzo'
 description: Los usuarios con acceso de Vista o Edición a Datos financieros en su nivel de acceso pueden ver datos financieros en las visualizaciones del Panel de lienzo, incluso si el permiso Ver finanzas se elimina en el nivel de tarea o proyecto.
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
-workflow-type: ht
+exl-id: 603d12f4-152e-45b9-aa7b-4dd42ad87c69
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
 ---
-
 
 # Creación de informes: los usuarios pueden ver los datos financieros en las visualizaciones del panel de lienzo
 

@@ -1,12 +1,11 @@
 ---
-title: '“Informes: error al exportar un informe”'
+title: 'Informes: error al exportar un informe'
 description: Cuando un usuario intenta exportar un informe, el informe no se exporta y el usuario ve un error.
-hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 864081d8-177c-422f-a46c-10ebac5c9fa1
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
-source-wordcount: '90'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---

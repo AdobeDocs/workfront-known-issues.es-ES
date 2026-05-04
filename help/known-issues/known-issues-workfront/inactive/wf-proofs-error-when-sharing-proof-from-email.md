@@ -1,12 +1,11 @@
 ---
-title: "Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico"
+title: 'Pruebas: Error al compartir la prueba desde el vínculo de correo electrónico'
 description: Cuando se comparte una prueba con un invitado y ese invitado intenta usar la opción Compartir esta prueba con otra persona en el correo electrónico, recibe un error al intentar enviar una dirección de correo electrónico con la que compartir la prueba. El campo de correo electrónico se vuelve rojo y el usuario ve un error.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 0ab7a42f-f87e-49d1-b5e5-3d05f7764eab
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '173'
 ht-degree: 100%
 
 ---

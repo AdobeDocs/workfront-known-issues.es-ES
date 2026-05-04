@@ -1,13 +1,12 @@
 ---
-title: "Equipos: No se puede ver el propietario del equipo ni eliminarlo"
+title: 'Equipos: no se puede ver el propietario del equipo ni eliminar el equipo'
 description: Estas acciones no están disponibles para los administradores de grupo.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 87%
+source-wordcount: '118'
+ht-degree: 94%
 
 ---
 

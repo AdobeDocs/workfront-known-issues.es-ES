@@ -1,15 +1,14 @@
 ---
 title: 'Solicitudes: el creador del formulario de solicitud no tiene acceso a este'
 description: Cuando un usuario crea un formulario de solicitud en Workfront Planning y luego intenta acceder al formulario, no puede acceder y aparece el mensaje “No tiene acceso a este formulario”.
-hidefromtoc: true
 feature: Requests
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
-workflow-type: ht
-source-wordcount: '106'
+exl-id: 52c8ab6b-a950-4e13-b30b-8199e7c89223
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
-
 
 # Solicitudes: el creador del formulario de solicitud no tiene acceso a este
 

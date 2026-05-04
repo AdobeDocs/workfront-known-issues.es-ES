@@ -1,12 +1,11 @@
 ---
 title: 'Documentos: Los permisos no se heredan cuando se mueve un documento a un nuevo proyecto'
 description: 'Cuando un usuario mueve un documento a un proyecto distinto, el documento no hereda los permisos de uso compartido del nuevo proyecto. El documento no se comparte con los usuarios con quienes se comparte el proyecto. '
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: ht
-source-wordcount: '179'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '182'
 ht-degree: 100%
 
 ---

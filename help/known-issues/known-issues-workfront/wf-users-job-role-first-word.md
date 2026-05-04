@@ -1,15 +1,14 @@
 ---
 title: 'Usuarios: solo se pueden buscar puestos de trabajo por la primera palabra'
 description: Cuando un administrador crea o edita un usuario y busca puestos de trabajo, la búsqueda devuelve solo los que comienzan con el término de búsqueda, no todos los que incluyen el término de búsqueda.
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
-workflow-type: ht
-source-wordcount: '94'
+exl-id: e79f8710-8315-4028-95f8-7cbce0f8aa6a
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
-
 
 # Usuarios: solo se pueden buscar puestos de trabajo por la primera palabra
 

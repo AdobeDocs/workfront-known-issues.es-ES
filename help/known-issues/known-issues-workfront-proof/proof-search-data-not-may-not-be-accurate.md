@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Proof: los datos de búsqueda no siempre son precisos'
 description: Los datos que se muestran en la página de resultados dentro de una prueba no siempre muestran la información más actualizada. Se recomienda crear una vista personalizada y utilizarla para obtener la información más actualizada sobre sus datos.
-hidefromtoc: true
 feature: Workfront Proof
 exl-id: 088c5f38-01cf-44a6-a619-3ca895950003
-source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
@@ -17,4 +16,4 @@ Los datos que se muestran en la página de resultados dentro de una prueba no si
 
 Recomendamos crear una vista personalizada y utilizarla para obtener la información más actualizada sobre los datos.
 
-_Notificado por primera vez el 1 de marzo de 2023._
+_Notificado por primera vez el jueves, 01 de marzo de 2023._
