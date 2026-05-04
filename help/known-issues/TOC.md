@@ -27,7 +27,7 @@ ht-degree: 52%
       + {hide-from-toc}[Inicio: las menciones de las pruebas no aparecen en el widget de menciones](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
       + {hide-from-toc}[Integraciones: las notificaciones de Slack desde Workfront no se activan](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
       + {hide-from-toc}[Aprobaciones: no se puede aprobar el documento del widget Mis aprobaciones en Inicio](known-issues-workfront/wf-approval-not-work-from-widget.md)
-      + {hide-from-toc}[Planificación de Workfront: error ](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) de &quot;No se pudo enviar la solicitud&quot;
+      + {hide-from-toc}[Planificación de Workfront: error  de &quot;No se pudo enviar la solicitud&quot;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
       + {hide-from-toc}[Aprobaciones: las aprobaciones se bloquean automáticamente](known-issues-workfront/wf-approvals-are-locked.md)
       + {hide-from-toc}[Asignaciones: no se puede guardar el cambio de asignación avanzado de un informe](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + {hide-from-toc}[Informes: los campos de Workfront Planning no aparecen en el generador de informes de paneles de lienzo](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
@@ -171,13 +171,13 @@ ht-degree: 52%
       + {hide-from-toc}[Documentos: los permisos no se heredan cuando se mueve un documento a un nuevo proyecto](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + {hide-from-toc}[Documentos: Error al cargar un archivo grande](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
       + {hide-from-toc}[Documentos: no se pueden agregar documentos desde [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + {hide-from-toc}[Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
+      + {hide-from-toc}[Pruebas: el estado de la prueba no se actualiza en las listas de [!UICONTROL documentos] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
       + {hide-from-toc}[Formularios personalizados: los formularios personalizados de objetos cruzados requieren el acceso [!UICONTROL Administrar] o [!UICONTROL Editar] para editar los campos](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md)
       + {hide-from-toc}[Pruebas: no se muestra la miniatura de imagen del resumen de impresión](known-issues-workfront/inactive/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + {hide-from-toc}[Tareas: no se puede cambiar [!UICONTROL Fecha planificada de finalización] de una tarea](known-issues-workfront/inactive/wf-tasks-cannot-change-planned-completion-date.md)
       + {hide-from-toc}[API: no se puede ordenar por campos dinámicos](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + {hide-from-toc}[[!UICONTROL Configuración]: las listas se cargan lentamente en [!UICONTROL Configuración]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)
-      + {hide-from-toc}[Tareas: las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md) de la tarea
+      + {hide-from-toc}[Tareas: las horas no se guardan al introducir horas en el [!UICONTROL Panel de resumen] de la tarea](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + {hide-from-toc}[Pruebas: el campo [!UICONTROL Etapas de prueba activas] está en blanco](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + {hide-from-toc}[[!DNL Workfront]: Problemas al enviar un caso de soporte de [!DNL Workfront] en Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + {hide-from-toc}[Paneles de control: los gráficos de informes que se ven en un panel de control utilizan colores diferentes a los que se ven en el informe](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
@@ -185,7 +185,7 @@ ht-degree: 52%
       + {hide-from-toc}[Agile: no se pueden editar campos de formularios personalizados en tarjetas](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + {hide-from-toc}[Aprobaciones: la delegación de aprobaciones está fijada para un número incorrecto de días](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
       + {hide-from-toc}[[!UICONTROL Inicio]: Problemas en el resumen del [!UICONTROL Inicio] al usar navegadores distintos de  [!DNL Chrome]](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
-      + {hide-from-toc}[[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
+      + {hide-from-toc}[[!UICONTROL Inicio]: nueva opción de tarea que muestra los usuarios desactivados en el campo [!UICONTROL Asignar a] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + {hide-from-toc}[Actualizaciones: el nombre del equipo no aparece en @mención](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + {hide-from-toc}[Agile: discrepancia en los [!UICONTROL puntos completados] para una iteración](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + {hide-from-toc}[Notificaciones por correo electrónico: aparece el ajuste “[!UICONTROL Estoy asignado a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
@@ -217,7 +217,7 @@ ht-degree: 52%
       + {hide-from-toc}[[!DNL Workfront Proof] API: &quot;[!UICONTROL El cuerpo no es un XML válido]&quot; error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + {hide-from-toc}[Pruebas: la prueba no se comparte con los usuarios en el flujo de trabajo de prueba](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + {hide-from-toc}[No se puede agregar un usuario a la prueba al etiquetarlo en un comentario](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + El informe {hide-from-toc}[[!UICONTROL Aprobación de revisión] no puede determinar los plazos con precisión](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
+      + {hide-from-toc}[El informe [!UICONTROL Aprobación de revisión] no puede determinar los plazos con precisión](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + {hide-from-toc}[[!UICONTROL Inicio]: las pruebas completadas permanecen en la [!UICONTROL Lista de trabajos]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + {hide-from-toc}[Documentos: No aparece el icono del flujo de trabajo de pruebas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + Problemas resueltos en [!DNL Workfront] Proof {#proof-resolved}
@@ -238,8 +238,8 @@ ht-degree: 52%
       + {hide-from-toc}[Workfront Fusion: formato de salida para fechas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + {hide-from-toc}[Workfront Fusion: error de poca memoria](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + {hide-from-toc}[Workfront Fusion: duplicar proyectos creados a partir de un solo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  El módulo de llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
-      + {hide-from-toc}[[!DNL Workfront Fusion]: Error ](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) &quot;No se pudo verificar la conexión&quot;
+      + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; El módulo de llamada de API personalizada] devuelve errores 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + {hide-from-toc}[[!DNL Workfront Fusion]: Error  &quot;No se pudo verificar la conexión&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: El módulo  [!DNL Fusion] devuelve un error 404 sin más información](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + {hide-from-toc}[[!DNL Workfront Fusion] los vínculos de ayuda en la aplicación no conducen a páginas de ayuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
