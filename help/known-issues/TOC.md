@@ -2,9 +2,9 @@
 user-guide-title: Problemas conocidos
 user-guide-description: Problemas conocidos de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+source-git-commit: 654ef2b12b254f34cf8943847873ec4d89c59965
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1823'
 ht-degree: 52%
 
 ---
@@ -117,7 +117,6 @@ ht-degree: 52%
       + {hide-from-toc}[Prioridades: las agrupaciones impiden la ordenación y la edición en línea](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + {hide-from-toc}[Informes: no se puede desplazar para ver el informe de gráfico completo](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + {hide-from-toc}[Grupos: vuelve a aparecer el estado de grupo eliminado](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + {hide-from-toc}[Documentos: los comentarios de prueba no se muestran en las actualizaciones del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + {hide-from-toc}[Inicio: “Sin acceso” se muestra como nombre de proyecto](known-issues-workfront/wf-home-no-access-project-name.md)
       + {hide-from-toc}[Inicio: el inicio se bloquea con el error “Memoria insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md)
       + {hide-from-toc}[Workfront: tener varias pestañas del explorador abiertas hace que Workfront cierre la sesión](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
