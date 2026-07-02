@@ -5,8 +5,8 @@ exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
-source-wordcount: '10060'
-ht-degree: 100%
+source-wordcount: '10226'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ En 2021 se realizaron las siguientes actualizaciones de mantenimiento:
 
 ## Actualizaciones en diciembre de 2021
 
-+++**Actualización de mantenimiento el 23 de diciembre de 2021**
++++**Actualización de mantenimiento el viernes, 23 de diciembre de 2021**
 
 **Las nuevas tareas tienen por defecto una restricción de tareas incorrecta**
 
@@ -46,7 +46,7 @@ Cuando un usuario recibe una solicitud de envío de un documento y hace clic en 
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Cuando un usuario está viendo el [!UICONTROL Distribuidor de cargas de trabajo] y tiene activado el ajuste “[!UICONTROL Mostrar fechas proyectadas]”, cualquier fecha en el futuro muestra 0 horas asignadas.
+Cuando un usuario está viendo el [!UICONTROL Distribuidor de cargas de trabajo] y tiene habilitado el ajuste “[!UICONTROL Mostrar fechas proyectadas]”, cualquier fecha en el futuro muestra 0 horas asignadas.
 
 **Las pruebas desaparecen intermitentemente de las carpetas**
 
@@ -56,7 +56,7 @@ Cuando un usuario que ha iniciado sesión en [!DNL Workfront Proof] ve una carpe
 
 +++
 
-+++**Actualización de mantenimiento el 16 de diciembre de 2021**
++++**Actualización de mantenimiento el viernes, 16 de diciembre de 2021**
 
 **Si se hace clic en el anuncio de la lista de notificaciones se acaba en una página en blanco**
 
@@ -78,7 +78,7 @@ El mensaje menciona los documentos aunque el usuario esté en la lista de tareas
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] crea un filtro con el campo [!UICONTROL Asignación:ID de rol], el área de [!UICONTROL trabajo no asignado] no se carga.
+Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] crea un filtro con el campo [!UICONTROL Asignación:Role ID], el área [!UICONTROL Trabajo sin asignar] no se carga.
 
 **Al adjuntar una plantilla con la opción “[!UICONTROL Personalizar y adjuntar]” se borran los valores de los campos personalizados**
 
@@ -100,7 +100,7 @@ Cuando un usuario intenta adjuntar una plantilla a un proyecto existente, esta n
 
 +++
 
-+++**Actualización de mantenimiento el 9 de diciembre de 2021**
++++**Actualización de mantenimiento el viernes, 09 de diciembre de 2021**
 
 
 **Si el panel de navegación izquierdo está colapsado, se expande al cargar la página**
@@ -113,17 +113,17 @@ Cuando un usuario ha configurado su navegación izquierda para que esté colapsa
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Cuando un usuario está viendo el [!UICONTROL Distribuidor de cargas de trabajo] y tiene activado el ajuste “[!UICONTROL Mostrar fechas proyectadas]”, cualquier fecha en el futuro muestra 0 horas asignadas.
+Cuando un usuario está viendo el [!UICONTROL Distribuidor de cargas de trabajo] y tiene habilitado el ajuste “[!UICONTROL Mostrar fechas proyectadas]”, cualquier fecha en el futuro muestra 0 horas asignadas.
 
 +++
 
-+++**Actualización de mantenimiento el 8 de diciembre de 2021**
++++**Actualización de mantenimiento el jueves, 08 de diciembre de 2021**
 
 **La aprobación se restablece cuando se realiza una actualización**
 
 _Rutas de aprobación_
 
-Si un usuario toma una decisión sobre una aprobación con la cabecera del objeto e inmediatamente lo actualiza, los iconos de aprobación vuelven a aparecer en la cabecera y la decisión de aprobación no se guarda.
+Si un usuario toma una decisión sobre una aprobación con el encabezado del objeto e inmediatamente lo actualiza, los iconos de aprobación vuelven a aparecer en el encabezado y la decisión de aprobación no se guarda.
 
 **[!UICONTROL No se puede editar en línea una asignación en un informe]**
 
@@ -134,7 +134,7 @@ Cuando un usuario intenta editar en línea una asignación en un informe, el val
 
 +++
 
-+++**Actualización de mantenimiento el 2 de diciembre de 2021**
++++**Actualización de mantenimiento el viernes, 02 de diciembre de 2021**
 
 **Se añade una barra extra al escribir manualmente la URL**
 
@@ -152,7 +152,7 @@ Cuando un usuario intenta eliminar una sección personalizada del panel de naveg
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] crea un filtro con el campo [!UICONTROL Asignación:ID de rol], el área de [!UICONTROL trabajo no asignado] no se carga.
+Cuando un usuario del [!UICONTROL Distribuidor de cargas de trabajo] crea un filtro con el campo [!UICONTROL Asignación:Role ID], el área [!UICONTROL Trabajo sin asignar] no se carga.
 
 **Las páginas no se cargan en ciertos navegadores**
 
@@ -172,9 +172,9 @@ Este error se produce de forma aleatoria y puede afectar a cualquier zona de [!D
 +++
 
 
-## Actualizaciones en noviembre de 2021
+## Actualizaciones de noviembre de 2021
 
-+++**Actualización de mantenimiento el 18 de noviembre de 2021**
++++**Actualización de mantenimiento el viernes, 18 de noviembre de 2021**
 
 **[!DNL Workfront]para [!DNL Jira] el error “[!UICONTROL clientID o clientSecret inválidos]” al inicio de sesión**
 
@@ -225,7 +225,7 @@ Este error se produce de forma aleatoria y puede afectar a cualquier zona de Wor
 
 +++
 
-+++**Actualización de mantenimiento el 11 de noviembre de 2021**
++++**Actualización de mantenimiento el viernes, 11 de noviembre de 2021**
 
 **Problema con las integraciones de documentos, página en blanco en la ventana emergente de carga de documentos desde[!DNL Google Drive*]*
 
@@ -242,7 +242,7 @@ Cuando un usuario intenta usar más de un filtro en el [!UICONTROL Distribuidor 
 * Si el usuario selecciona dos filtros, solo se aplica el filtro inferior.
 * Si el usuario selecciona más de dos filtros, no se muestra ningún resultado.
 
-**La cabecera del documento “[!UICONTROL Carpetas del proyecto]” no se encuentra en el área de documentos del proyecto**
+**El encabezado del documento “[!UICONTROL Carpetas del proyecto]” no se encuentra en el área de documentos del proyecto**
 
 _Proyectos_
 
@@ -262,7 +262,7 @@ Ahora la creación de equipos es más intuitiva con nuevas indicaciones visuales
 
 +++
 
-+++**Actualización de mantenimiento el 4 de noviembre de 2021**
++++**Actualización de mantenimiento el viernes, 04 de noviembre de 2021**
 
 **Las nuevas tareas tienen por defecto una restricción de tareas incorrecta**
 
@@ -336,14 +336,14 @@ Ahora, los filtros del [!UICONTROL Distribuidor de cargas de trabajo] admiten tr
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Hemos actualizado los operadores de filtro cuando se filtran las áreas del[!UICONTROL  Distribuidor de cargas de trabajo] por [!UICONTROL Duración].
+Hemos actualizado los operadores de filtro cuando se filtran las áreas del[!UICONTROL &#x200B; Distribuidor de cargas de trabajo] por [!UICONTROL Duración].
 
 +++
 
 
 ## Actualizaciones en octubre de 2021
 
-+++**Actualización de mantenimiento el 28 de octubre de 2021**
++++**Actualización de mantenimiento el viernes, 28 de octubre de 2021**
 
 **[!UICONTROL Inicio] y [!UICONTROL Mi trabajo] muestran una página en blanco**
 
@@ -355,7 +355,7 @@ Cuando un usuario navega a [!UICONTROL Inicio] o a Mi trabajo, la página se mue
 
 _Solicitudes_
 
-Cuando un usuario intenta ver o editar los detalles de un Grupo de temas, la página que se abre muestra “[!UICONTROL Detalle del grupo de temas]” en la cabecera pero por lo demás está en blanco
+Cuando un usuario intenta ver o editar los detalles de un Grupo de temas, la página que se abre muestra “[!UICONTROL Detalle del grupo de temas]” en el encabezado pero por lo demás está en blanco
 
 **Los botones de opción requeridos en blanco se rellenan automáticamente**
 
@@ -365,7 +365,7 @@ Cuando un usuario envía una solicitud con un campo de botón de opción obligat
 
 +++
 
-+++**Actualización de mantenimiento el 21 de octubre de 2021**
++++**Actualización de mantenimiento el viernes, 21 de octubre de 2021**
 
 **No se puede añadir un filtro en el [!UICONTROL Distribuidor de cargas de trabajo]**
 
@@ -409,7 +409,7 @@ Cuando un usuario navega a [!UICONTROL Inicio] o a [!UICONTROL Mi trabajo], la p
 
 +++
 
-+++**Actualización de mantenimiento el 20 de octubre de 2021**
++++**Actualización de mantenimiento el jueves, 20 de octubre de 2021**
 
 **[!UICONTROL Distribuidor de cargas de trabajo] establecido como opción de programación por defecto**
 
@@ -435,7 +435,7 @@ Cuando un usuario intenta ver un guion gráfico de Scrum usando cualquier filtro
 
 +++
 
-+++**Actualización de mantenimiento el 14 de octubre de 2021**
++++**Actualización de mantenimiento el viernes, 14 de octubre de 2021**
 
 **Las plantillas que se comparten en todo el sistema no son visibles**
 
@@ -469,7 +469,7 @@ Anteriormente, [!DNL Workfront] buscaba las funciones en las primeras 2000 por o
 
 +++
 
-+++**Actualización de mantenimiento el 7 de octubre de 2021**
++++**Actualización de mantenimiento el viernes, 07 de octubre de 2021**
 
 **[!UICONTROL Las notificaciones en la aplicación desaparecen del] centro de notificaciones**
 
@@ -501,7 +501,7 @@ Cuando un usuario intenta realizar una asignación desde el [!UICONTROL Distribu
 
 ## Actualizaciones en septiembre de 2021
 
-+++**Actualización de mantenimiento el 30 de septiembre de 2021**
++++**Actualización de mantenimiento el viernes, 30 de septiembre de 2021**
 
 **Error al navegar rápidamente hacia o desde [!UICONTROL Inicio]**
 
@@ -515,7 +515,7 @@ Esto también puede ocurrir cuando se navega a [!UICONTROL Inicio] a través de 
 
 +++
 
-+++**Actualización de mantenimiento el 23 de septiembre de 2021**
++++**Actualización de mantenimiento el viernes, 23 de septiembre de 2021**
 
 Error de **[!UICONTROL acceso denegado] al ver los tickets enviados a[!DNL Workfront]**
 
@@ -531,7 +531,7 @@ _Proyectos_
 
 Cuando un usuario ve el panel de resumen del [!UICONTROL caso empresarial], los valores mostrados no reflejan los valores de las secciones individuales del [!UICONTROL caso].
 
-**Las cabeceras de las columnas no se alinean con las columnas en las listas**
+**Los encabezados de las columnas no se alinean con las columnas en las listas**
 
 _Configurar_
 
@@ -545,7 +545,7 @@ Cuando un formulario personalizado de la nueva experiencia [!DNL Adobe Workfront
 
 +++
 
-+++**Actualización de mantenimiento el 16 de septiembre de 2021**
++++**Actualización de mantenimiento el viernes, 16 de septiembre de 2021**
 
 **No se pueden editar los grupos**
 
@@ -579,7 +579,7 @@ Cuando un usuario ve un informe con un formato condicional que altera el color d
 
 +++
 
-+++**Actualización de mantenimiento el 9 de septiembre de 2021**
++++**Actualización de mantenimiento el viernes, 09 de septiembre de 2021**
 
 **Los problema no muestran los detalles**
 
@@ -631,11 +631,11 @@ _Campos personalizados_
 
 Cuando un usuario modifica datos personalizados que desencadenan cambios en otros datos visualizados, estos se cargan lentamente.
 
-**No aparece el icono de agrupación “[!UICONTROL Contraer o expandir todo]”**
+**No se visualiza el icono de agrupación “[!UICONTROL Contraer o expandir todo]”**
 
 _Informes_
 
-No aparece el icono “[!UICONTROL Contraer o expandir todo]” en la cabecera de una lista o informe cuando se le aplican agrupaciones.
+No se visualiza el icono “[!UICONTROL Contraer o expandir todo]” en el encabezado de una lista o informe cuando se le aplican agrupaciones.
 
 Las opciones **[!UICONTROL Verificar] y [!UICONTROL Cancelar] no son visibles al cambiar las asignaciones de tareas**
 
@@ -657,13 +657,13 @@ Si un administrador intentaba ver los elementos vinculados de un proveedor exter
 
 +++
 
-+++**Actualización de mantenimiento el 2 de septiembre de 2021**
++++**Actualización de mantenimiento el viernes, 02 de septiembre de 2021**
 
-**No se puede fijar el panel personalizado**
+**No se puede fijar el panel de control personalizado**
 
-_Paneles_
+_Paneles de control_
 
-Cuando un usuario intenta fijar un panel personalizado, este no se fija y aparece el siguiente error:
+Cuando un usuario intenta fijar un panel de control personalizado, este no se fija y aparece el siguiente error:
 
 “[!UICONTROL Se ha producido un error al fijar el panel. Póngase en contacto con [!DNL Workfront]para solucionarlo]”.
 
@@ -671,20 +671,20 @@ El resumen de impresión **[!DNL Workfront Proof]está en blanco**
 
 [!DNL Workfront Proof]
 
-Cuando un usuario abre el resumen de impresión para imprimir una prueba, aparece la cabecera pero el propio resumen está en blanco.
+Cuando un usuario abre el resumen de impresión para imprimir una prueba, aparece el encabezado pero el propio resumen está en blanco.
 
 +++
 
 
 ## Actualizaciones en agosto de 2021
 
-+++**Actualización de mantenimiento el 26 de agosto de 2021**
++++**Actualización de mantenimiento el viernes, 26 de agosto de 2021**
 
-**En [!DNL Safari] hay un fondo gris oscuro en el texto de las cabeceras de las columnas**
+**En [!DNL Safari] hay un fondo gris oscuro en el texto de los encabezados de las columnas**
 
 _Listas_
 
-En el navegador [!DNL Safari], hay un fondo gris oscuro en las cabeceras de las columnas que resalta el texto. Esto no es un problema con otros navegadores compatibles.
+En el navegador [!DNL Safari], hay un fondo gris oscuro en los encabezados de las columnas que resalta el texto. Esto no es un problema con otros navegadores compatibles.
 
 **Error inesperado al establecer predecesores**
 
@@ -696,7 +696,7 @@ Cuando un usuario intenta establecer una tarea como predecesora mediante la edic
 
 +++
 
-+++**Actualización de mantenimiento el 19 de agosto de 2021**
++++**Actualización de mantenimiento el viernes, 19 de agosto de 2021**
 
 **Faltan los filtros guardados después de seleccionar un filtro que no muestra problemas**
 
@@ -712,7 +712,7 @@ Cuando un usuario en [!DNL Adobe Workfront Classic] selecciona un problema de la
 
 +++
 
-+++**Actualización de mantenimiento el 12 de agosto de 2021**
++++**Actualización de mantenimiento el viernes, 12 de agosto de 2021**
 
 **No se puede personalizar la vista Agile en el proyecto**
 
@@ -752,7 +752,7 @@ Los usuarios de [!DNL Adobe Workfront Fusion] con escenarios que se conectan a [
 
 +++
 
-+++**Actualización de mantenimiento el 5 de agosto de 2021**
++++**Actualización de mantenimiento el viernes, 05 de agosto de 2021**
 
 **No se puede interactuar con el documento en el [!UICONTROL panel de resumen] o en el menú [!UICONTROL Más]**
 
@@ -799,7 +799,7 @@ Cuando un usuario intenta subir una nueva prueba o versión en la experiencia cl
 
 +++
 
-+++**Actualización de mantenimiento el 29 de julio de 2021**
++++**Actualización de mantenimiento el viernes, 29 de julio de 2021**
 
 Las páginas de **[!UICONTROL actividad de pruebas] y de [!UICONTROL configuración del visor de pruebas] siempre están disponibles**
 
@@ -819,7 +819,7 @@ Cuando un usuario selecciona la opción [!UICONTROL porcentaje] para las [!UICON
 
 +++
 
-+++**Actualización de mantenimiento el 22 de julio de 2021**
++++**Actualización de mantenimiento el viernes, 22 de julio de 2021**
 
 **Los nombres de la nueva versión de prueba aparecen cortados**
 
@@ -837,7 +837,7 @@ En la nueva experiencia [!DNL Adobe Workfront], cuando un usuario intenta navega
 
 +++
 
-+++**Actualización de mantenimiento el 15 de julio de 2021**
++++**Actualización de mantenimiento el viernes, 15 de julio de 2021**
 
 **La prioridad por defecto en las nuevas solicitudes es incorrecta**
 
@@ -891,9 +891,9 @@ Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] abre un informe
 
 **Al hacer clic en [!UICONTROL Ver más] en el informe no se carga nada**
 
-_Paneles_
+_Paneles de control_
 
-Cuando un usuario en la nueva experiencia [!DNL Adobe Workfront] está viendo un informe en un panel y hace clic en el botón [!UICONTROL Ver más], no ocurre nada y no puede ver todos los elementos del informe.
+Cuando un usuario en la nueva experiencia [!DNL Adobe Workfront] está viendo un informe en un panel de control y hace clic en el botón [!UICONTROL Ver más], no ocurre nada y no puede ver todos los elementos del informe.
 
 +++
 
@@ -907,7 +907,7 @@ Cuando un usuario selecciona varios módulos e intenta copiarlos y pegarlos, no 
 
 +++
 
-+++**Actualización de mantenimiento el 1 de julio de 2021**
++++**Actualización de mantenimiento el viernes, 01 de julio de 2021**
 
 **No se respetan los conjuntos de colores para las tarjetas**
 
@@ -919,7 +919,7 @@ Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] establece color
 
 _[!DNL Workfront Proof]_
 
-Cuando un usuario está creando una nueva prueba en el [!UICONTROL Visor de pruebas web] e intenta pegar un texto en el campo [!UICONTROL Mensaje] de la sección de [!UICONTROL notificación por correo electrónico], no puede pegar el texto. Esto solo parece ocurrir cuando el texto tiene formato de párrafo y hay un salto de párrafo.
+Cuando un usuario está creando una nueva revisión en el [!UICONTROL Visor de revisiones web] e intenta pegar un texto en el campo [!UICONTROL Mensaje] de la sección de [!UICONTROL notificación por correo electrónico], no puede pegar el texto. Esto solo parece ocurrir cuando el texto tiene formato de párrafo y hay un salto de párrafo.
 
 **Las solicitudes se presentan con los campos obligatorios en blanco**
 
@@ -937,7 +937,7 @@ Cuando un usuario en la nueva experiencia [!DNL Adobe Workfront] va a la página
 
 _Proyectos_
 
-Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] intenta ampliar un formulario personalizado adjunto a un proyecto, no puede abrir el formulario personalizado y ve el mensaje de error “[!UICONTROL Se ha producido un error. Estamos trabajando para resolverlo. Para continuar con su trabajo, intente actualizar esta página del explorador.]” Al actualizar la página, el problema no se resuelve.
+Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] intenta ampliar un formulario personalizado adjunto a un proyecto, no puede abrir el formulario personalizado y ve el mensaje de error “[!UICONTROL Se ha producido un error. Estamos trabajando para resolverlo. Para continuar con su trabajo, intente actualizar esta página del explorador]”. Al actualizar la página, el problema no se resuelve.
 
 Ahora la marca **[!DNL Adobe Workfront]aparece en los correos electrónicos del centro de anuncios**
 
@@ -955,7 +955,7 @@ En el futuro, esta marca se mostrará en otros tipos de correos electrónicos de
 
 ## Actualizaciones en junio de 2021
 
-+++**Actualización de mantenimiento el 24 de junio de 2021**
++++**Actualización de mantenimiento el viernes, 24 de junio de 2021**
 
 **No se puede editar un equipo**
 
@@ -973,7 +973,7 @@ Cuando un usuario en la nueva experiencia [!DNL Adobe Workfront] rellena una sol
 
 _Kanban_
 
-Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] añade una columna de [!UICONTROL Campos adicionales] personalizada a un panel Kanban, todas las cabeceras de las columnas dejan de mostrarse en el panel.
+Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] añade una columna de [!UICONTROL Campos adicionales] personalizada a un panel Kanban, todos los encabezados de las columnas dejan de mostrarse en el panel.
 
 +++
 
@@ -983,12 +983,11 @@ Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] añade una colu
 
 _[!DNL Adobe Workfront Fusion]_
 
-Hemos eliminado el enlace a la configuración de las notificaciones de los correos electrónicos de notificación de [!DNL Adobe Workfront Fusion].
-Para más información sobre cómo cambiar la configuración de las notificaciones, consulte organizaciones y equipos de [!DNL Adobe Workfront Fusion].
+Hemos eliminado el enlace a la configuración de las notificaciones de los correos electrónicos de notificación de [!DNL Adobe Workfront Fusion].Para más información sobre cómo cambiar la configuración de las notificaciones, consulte organizaciones y equipos de [!DNL Adobe Workfront Fusion].
 
 +++
 
-+++**Actualización de mantenimiento el 17 de junio de 2021**
++++**Actualización de mantenimiento el viernes, 17 de junio de 2021**
 
 La vista del **[!UICONTROL gráfico Gantt] no está disponible para el informe de tareas**
 
@@ -1004,7 +1003,7 @@ Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] intenta enviar 
 
 +++
 
-+++**Actualización de mantenimiento el 10 de junio de 2021**
++++**Actualización de mantenimiento el viernes, 10 de junio de 2021**
 
 **Las tareas de plantilla reordenadas no se mueven**
 
@@ -1026,7 +1025,7 @@ Cuando un proyecto tiene una ruta de hitos añadida y un usuario de la nueva exp
 
 +++
 
-+++**Actualización de mantenimiento el 3 de junio de 2021**
++++**Actualización de mantenimiento el viernes, 03 de junio de 2021**
 
 **El aviso hace que la página se sacuda**
 
@@ -1047,9 +1046,9 @@ _[!DNL Workfront Proof]_
 Se han añadido etiquetas de usuario [!UICONTROL desactivado] y [!UICONTROL eliminado] a las siguientes áreas en [!DNL Workfront] Proof:
 
 * Página de [!UICONTROL detalles de la prueba]
-* [!UICONTROL Vistas de prueba]
-* [!UICONTROL Visor de pruebas]
-* [!UICONTROL Flujos de trabajo de prueba]
+* [!UICONTROL Vistas de revisión]
+* [!UICONTROL Visor de revisiones]
+* [!UICONTROL Flujos de trabajo de revisión]
 * Página de [!UICONTROL imprimir comentarios]
 * Página de [!UICONTROL usuario]
 
@@ -1058,7 +1057,7 @@ Se han añadido etiquetas de usuario [!UICONTROL desactivado] y [!UICONTROL elim
 
 ## Actualizaciones en mayo de 2021
 
-+++**Actualización de mantenimiento el 27 de mayo de 2021**
++++**Actualización de mantenimiento el viernes, 27 de mayo de 2021**
 
 Visualización del calendario de **[!UICONTROL fechas de compromiso] para las actualizaciones**
 
@@ -1082,25 +1081,25 @@ Los correos electrónicos de **[!UICONTROL resumen diario] se envían cuando est
 
 _Notificaciones por correo electrónico_
 
-Algunos usuarios están recibiendo notificaciones por correo electrónico de [!UICONTROL resumen diario] aunque no los hayan activado en su configuración de usuario.
+Algunos usuarios están recibiendo notificaciones por correo electrónico de [!UICONTROL resumen diario] aunque no los hayan habilitado en su configuración de usuario.
 
 **Error “El objeto ya no existe”**
 
 _Objetos_
 
-Cuando un usuario en la nueva experiencia [!DNL Workfront] intenta abrir ciertos objetos, ve el mensaje de error “[!UICONTROL El (objeto) ya no existe: es posible que haya escrito mal la dirección web. Vuelva a comprobarlo e introduzca la dirección de nuevo.]” El enlace del objeto sigue apareciendo en las listas, en los recientes, en los favoritos, en los resultados de las búsquedas, etc., pero no pueden acceder a él y no aparece en la papelera de reciclaje con los objetos eliminados.
+Cuando un usuario en la nueva experiencia [!DNL Workfront] intenta abrir ciertos objetos, ve el mensaje de error “[!UICONTROL El (objeto) ya no existe: es posible que haya escrito mal la dirección web. Compruébela e intente introducir de nuevo la dirección.]” El vínculo del objeto sigue apareciendo en las listas, en los recientes, en los favoritos, en los resultados de las búsquedas, etc., pero no pueden acceder a él y no aparece en la papelera de reciclaje con los objetos eliminados.
 
 
 
 +++
 
-+++**Actualización de mantenimiento el 20 de mayo de 2021**
++++**Actualización de mantenimiento el viernes, 20 de mayo de 2021**
 
 **No aparecen las opciones de prueba**
 
 _Pruebas_
 
-Cuando un usuario sube otra versión de una prueba en [!DNL Workfront], no aparecen los enlaces [!UICONTROL Abrir prueba] y [!UICONTROL Flujo de trabajo de pruebas], lo que hace que parezca que es un documento en lugar de una prueba. Cuando faltan estos enlaces, también aparece la etiqueta [!UICONTROL Pendiente] y los demás usuarios no pueden generar la prueba mientras esté [!UICONTROL Pendiente].
+Cuando un usuario sube otra versión de una revisión en [!DNL Workfront], no aparecen los enlaces [!UICONTROL Abrir revisión] y [!UICONTROL Flujo de trabajo de revisiones], lo que hace que parezca que es un documento en lugar de una revisión. Cuando faltan estos enlaces, también aparece la etiqueta [!UICONTROL Pendiente] y los demás usuarios no pueden generar la prueba mientras esté [!UICONTROL Pendiente].
 
 **Los usuarios no reciben las entregas de informes programadas**
 
@@ -1110,37 +1109,37 @@ Cuando algunos informes están programados para su entrega, los usuarios a veces
 
 **No se puede eliminar el acceso para la plantilla de diseño**
 
-_Paneles_
+_Paneles de control_
 
-Cuando un usuario abre las opciones de [!UICONTROL acceso compartido] de un panel para eliminar el acceso a una plantilla de diseño, no aparece el icono [!UICONTROL Eliminar] junto a la plantilla y no puede eliminar el acceso.
+Cuando un usuario abre las opciones de [!UICONTROL acceso compartido] de un panel de control para eliminar el acceso a una plantilla de diseño, no aparece el icono [!UICONTROL Eliminar] junto a la plantilla y no puede eliminar el acceso.
 
 +++
 
 +++**[!DNL Workfront Fusion]Actualización de mantenimiento el 17 de mayo de 2021**
 
-**Ahora, el panel de organización muestra correctamente el número de escenarios activos**
+**Ahora, el panel de control de organización muestra correctamente el número de escenarios activos**
 
 _[!DNL Workfront Fusion]_
 
-Anteriormente, el panel de [!UICONTROL organización] mostraba un campo en blanco en lugar del número de escenarios en uso.
+Anteriormente, el panel de control de [!UICONTROL organización] mostraba un campo en blanco en lugar del número de escenarios en uso.
 
 **Ahora, la navegación por el almacén de datos muestra las etiquetas de las columnas**
 
 _[!DNL Workfront Fusion]_
 
-Antes, las estructuras de datos que empleaban etiquetas de columna mostraban el nombre en la vista de [!UICONTROL exploración del almacén de datos]. Ahora, se muestra la etiqueta de columna. Si no se identifica ninguna etiqueta para la columna, se muestra su nombre.
+Antes, las estructuras de datos que empleaban etiquetas de columna mostraban el nombre en la vista de [!UICONTROL exploración del almacén de datos].  Ahora, se muestra la etiqueta de columna.  Si no se identifica ninguna etiqueta para la columna, se muestra su nombre.
 
 **El error de inicialización del escenario ya no afecta a los datos del gancho web**
 
 _[!DNL Workfront Fusion]_
 
-Anteriormente, un escenario iniciado por un gancho web (incluidos los que están usando un evento en tiempo real como activador) que se encontraba con un error durante la inicialización podría resultar en la pérdida de acceso a los datos. Ahora, si se produce un error durante la inicialización del escenario (como no la imposibilidad de verificar una conexión), los datos del gancho web se mantendrán en la cola y la ejecución se reintentará automáticamente. Después de tres intentos fallidos, el escenario se desactiva y la información seguirá en la cola.
+Anteriormente, un escenario iniciado por un gancho web (incluidos los que están usando un evento en tiempo real como activador) que se encontraba con un error durante la inicialización podría resultar en la pérdida de acceso a los datos.  Ahora, si se produce un error durante la inicialización del escenario (como no la imposibilidad de verificar una conexión), los datos del gancho web se mantendrán en la cola y la ejecución se reintentará automáticamente.  Después de tres intentos fallidos, el escenario se desactiva y la información seguirá en la cola.
 
 **Ahora los registros en las colas de los ganchos web se procesan en lotes más pequeños**
 
 _[!DNL Workfront Fusion]_
 
-Anteriormente, si un usuario activaba un escenario inactivo que tenía una cola de ganchos web asociada de muchos registros, [!DNL Workfront Fusion] intentaba procesar toda la cola en una sola ejecución (aunque con varios ciclos). En función, de la cantidad de registros procesados, esto puede hacer que la ejecución única supere el tiempo máximo de ejecución (40 minutos). Ahora, cuando active un escenario inactivo con una cola de registros asociada al gancho web, Workfront Fusion procesará hasta el número máximo de registros identificados en una sola ejecución (normalmente 2 registros por ejecución).
+Anteriormente, si un usuario activaba un escenario inactivo que tenía una cola de ganchos web asociada de muchos registros, [!DNL Workfront Fusion] intentaba procesar toda la cola en una sola ejecución (aunque con varios ciclos).  En función, de la cantidad de registros procesados, esto puede hacer que la ejecución única supere el tiempo máximo de ejecución (40 minutos).  Ahora, cuando active un escenario inactivo con una cola de registros asociada al gancho web, Workfront Fusion procesará hasta el número máximo de registros identificados en una sola ejecución (normalmente 2 registros por ejecución).
 
 **Ahora, los almacenes de datos muestran los valores “0” correctamente**
 
@@ -1150,13 +1149,13 @@ Anteriormente, los valores del almacén de datos de 0 se mostraban como vacíos.
 
 +++
 
-+++**Actualización de mantenimiento el 13 de mayo de 2021**
++++**Actualización de mantenimiento el viernes, 13 de mayo de 2021**
 
-**El calendario desplegable aparece detrás de la cabecera de [!UICONTROL Trabajo no asignado]**
+**El calendario desplegable aparece detrás del encabezado de [!UICONTROL Trabajo no asignado]**
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Cuando un usuario navega al [!UICONTROL Distribuidor de cargas de trabajo] en [!DNL Workfront Classic], la parte superior del selector de fechas se oculta tras la cabecera de [!UICONTROL Trabajo no asignado], lo que impide al usuario navegar a diferentes meses.
+Cuando un usuario navega al [!UICONTROL Distribuidor de cargas de trabajo] en [!DNL Workfront Classic], la parte superior del selector de fechas se oculta tras el encabezado de [!UICONTROL Trabajo no asignado], lo que impide al usuario navegar a diferentes meses.
 
 **No se puede pegar el texto en el campo de mensaje personalizado**
 
@@ -1197,7 +1196,7 @@ Cuando un usuario actualiza un campo de texto enriquecido con la integración [!
 
 +++
 
-+++**Actualización de mantenimiento el 6 de mayo de 2021**
++++**Actualización de mantenimiento el viernes, 06 de mayo de 2021**
 
 El campo **[!UICONTROL Moneda] no funciona como se esperaba**
 
@@ -1225,7 +1224,7 @@ Cuando se crea un proyecto en la nueva experiencia [!DNL Workfront] a partir de 
 
 _Pruebas_
 
-Cuando un usuario ve su Lista de trabajos en [!UICONTROL Inicio] o en [!UICONTROL Mi trabajo], las pruebas que ya se han archivado aparecen en la lista. Las pruebas archivadas también aparecen en los informes y paneles.
+Cuando un usuario ve su Lista de trabajos en [!UICONTROL Inicio] o en [!UICONTROL Mi trabajo], las pruebas que ya se han archivado aparecen en la lista. Las pruebas archivadas también aparecen en los informes y paneles de control.
 
 **El proyecto creado a partir de una plantilla tiene una configuración de acceso incorrecta**
 
@@ -1244,7 +1243,7 @@ Cuando un usuario hace clic en un objeto de la [!UICONTROL Lista de trabajos en 
 
 ## Actualizaciones en abril de 2021
 
-+++**Actualización de mantenimiento el 29 de abril de 2021**
++++**Actualización de mantenimiento el viernes, 29 de abril de 2021**
 
 La integración **[!DNL SharePoint] se autentifica usando credenciales de una integración separada**
 
@@ -1266,7 +1265,7 @@ Cuando un usuario con un navegador [!DNL Internet Explorer] navega al área de [
 
 +++
 
-+++**Actualización de mantenimiento el 22 de abril de 2021**
++++**Actualización de mantenimiento el viernes, 22 de abril de 2021**
 
 **Tareas agregadas en el orden incorrecto**
 
@@ -1291,7 +1290,7 @@ Cuando un usuario intenta ejecutar un escenario, este no se ejecuta y el usuario
 
 +++
 
-+++**Actualización de mantenimiento el 15 de abril de 2021**
++++**Actualización de mantenimiento el viernes, 15 de abril de 2021**
 
 El **[!UICONTROL Distribuidor de cargas de trabajo] muestra horas planificadas incorrectas**
 
@@ -1303,7 +1302,7 @@ Cuando un usuario ve las horas planificadas de una tarea en el [!UICONTROL Distr
 
 _[!DNL Workfront Proof]_
 
-Cuando un usuario navega a cualquier página de [!DNL Workfront Proof] que no sea la del panel, la barra de navegación superior desaparece. El usuario no puede acceder a las funciones de la barra de navegación, como la configuración de su cuenta o su perfil.
+Cuando un usuario navega a cualquier página de [!DNL Workfront Proof] que no sea la del panel de control, la barra de navegación superior desaparece. El usuario no puede acceder a las funciones de la barra de navegación, como la configuración de su cuenta o su perfil.
 
 **Mejora de los formularios personalizados**
 
@@ -1313,7 +1312,7 @@ Para una mejor experiencia al rellenar un formulario personalizado, hemos mejora
 
 +++
 
-+++**Actualización de mantenimiento el 8 de abril de 2021**
++++**Actualización de mantenimiento el viernes, 08 de abril de 2021**
 
 **No se pueden crear pruebas en la [!DNL Adobe Creative Cloud] integración**
 
@@ -1323,7 +1322,7 @@ Cuando un usuario intenta crear una prueba directamente desde el [!DNL Adobe Cre
 
 +++
 
-+++**Actualización de mantenimiento el 1 de abril de 2021**
++++**Actualización de mantenimiento el viernes, 01 de abril de 2021**
 
 **Problemas de visualización del panel de resumen en [!DNL Chrome]**
 
@@ -1350,7 +1349,7 @@ No se puede editar un proyecto con un estado “[!DNL Pending Approval]”. Pued
 
 ## Actualizaciones en marzo de 2021
 
-+++**Actualización de mantenimiento el 26 de marzo de 2021**
++++**Actualización de mantenimiento el sábado, 26 de marzo de 2021**
 
 **Los botones de un caso empresarial se muestran incorrectamente**
 
@@ -1368,7 +1367,7 @@ Cuando un usuario intenta cambiar la ordenación de un informe en la nueva exper
 
 _[!DNL Workfront Proof]_
 
-Cuando un usuario que tiene activado el [!UICONTROL uso compartido público] en su configuración de pruebas por defecto crea una prueba, esta se crea con el uso compartido desactivado. Los demás usuarios no pueden ver el botón [!UICONTROL Compartir] ni compartir la prueba.
+Cuando un usuario que tiene habilitado el [!UICONTROL uso compartido público] en su configuración de pruebas por defecto crea una prueba, esta se crea con el uso compartido deshabilitado. Los demás usuarios no pueden ver el botón [!UICONTROL Compartir] ni compartir la prueba.
 
 **Error “[!UICONTROL No se ha podido generar la prueba]” al crearla**
 
@@ -1386,7 +1385,7 @@ Cuando un usuario intenta crear una prueba, esta no se crea y aparece el siguien
 
 _[!DNL Workfront Fusion]2.0_
 
-Cuando un usuario usa un término de la API [!DNL Workfront] para seleccionar un campo de colección o de referencia para incluirlo en la salida de un módulo [!DNL Workfront], la salida muestra ese campo con dos puntos (como [!UICONTROL owner:name]), y también en los atributos (name es un campo bajo owner). El campo etiquetado con dos puntos no contiene datos, y proporciona datos incorrectos si se asigna a un módulo más adelante en el escenario.
+Cuando un usuario usa un término de la API [!DNL Workfront] para seleccionar un campo de colección o referencia para incluirlo en la salida de un módulo [!DNL Workfront], la salida de ese módulo muestra ese campo con dos puntos (como [!UICONTROL propietario:name]) y también en los atributos (el nombre es un campo bajo propietario). El campo etiquetado con dos puntos no contiene datos, y proporciona datos incorrectos si se asigna a un módulo más adelante en el escenario.
 
 +++
 
@@ -1400,7 +1399,7 @@ Al crear un proyecto a partir de una plantilla mediante [!DNL Workfront Fusion] 
 
 +++
 
-+++**Actualización de mantenimiento el 18 de marzo de 2021**
++++**Actualización de mantenimiento el viernes, 18 de marzo de 2021**
 
 **Ahora, los ajustes de las plantillas de proyectos se aplican a los proyectos creados a través de la API**
 
@@ -1425,7 +1424,7 @@ Si las cuentas independientes de [!DNL Workfront Proof] se trasladan a un compon
 
 _Documentos_
 
-Cuando un usuario activa el uso compartido de enlaces públicos en una prueba y luego sube una nueva versión de la prueba, el uso compartido de enlaces públicos no se activa automáticamente.
+Cuando un usuario habilita el uso compartido de enlaces públicos en una prueba y luego sube una nueva versión de la prueba, el uso compartido de enlaces públicos no se habilita automáticamente.
 
 No aparecen los botones **[!UICONTROL Aprobar], [!UICONTROL Cambios] y [!UICONTROL Rechazar] en la prueba**
 
@@ -1471,7 +1470,7 @@ Cuando un usuario hace clic en un enlace compartido para descargar un documento,
 
 +++
 
-+++**Actualización de mantenimiento el 11 de marzo de 2021**
++++**Actualización de mantenimiento el viernes, 11 de marzo de 2021**
 
 **Sección del formulario personalizado que no se exporta para los no administradores**
 
@@ -1487,7 +1486,7 @@ Cuando un usuario descarga un documento del [!UICONTROL Visor de pruebas], el do
 
 +++
 
-+++**Actualización de mantenimiento el 4 de marzo de 2021**
++++**Actualización de mantenimiento el viernes, 04 de marzo de 2021**
 
 **Error al acceder a la plantilla de diseño**
 
@@ -1525,7 +1524,7 @@ Cuando un usuario que no está en el flujo de trabajo abre una prueba desde [!DN
 
 _Documentos_
 
-Cuando un usuario está en una página de documento y pasa el ratón por encima del panel de resumen del documento, el panel oscurece y puede mostrar otros botones. El usuario no puede hacer clic en las acciones del panel de resumen.
+Cuando un usuario está en una página de documento y pasa el puntero por encima del panel de resumen del documento, el panel oscurece y puede mostrar otros botones. El usuario no puede hacer clic en las acciones del panel de resumen.
 
 **Actualización de los cambios de rendimiento del flujo**
 
@@ -1541,17 +1540,16 @@ Hemos reducido el número máximo de actualizaciones que aparecen en la pestaña
 
 _[!DNL Workfront Proof]_
 
-NOTA: Este problema se solucionó en la nueva experiencia [!DNL Workfront] el 26 de febrero de 2021.
-Se solucionó en la experiencia [!DNL Classic] el 1 de marzo de 2021.
+NOTA: Este problema se solucionó en la nueva experiencia [!DNL Workfront] el 26 de febrero de 2021.Se solucionó en la experiencia [!DNL Classic] el 1 de marzo de 2021.
 
-Cuando un usuario crea una nueva prueba y activa la opción [!UICONTROL Notificar a los destinatarios sobre esta prueba], no se envía ningún correo electrónico para notificarlos.
+Cuando un usuario crea una nueva prueba y habilita la opción [!UICONTROL Notificar a los destinatarios sobre esta prueba], no se envía ningún correo electrónico para notificarlos.
 
 +++
 
 
 ## Actualizaciones en febrero de 2021
 
-+++**Actualización de mantenimiento el 25 de febrero de 2021**
++++**Actualización de mantenimiento el viernes, 25 de febrero de 2021**
 
 La herramienta **[!UICONTROL Programación] no se carga en ninguna zona**
 
@@ -1569,7 +1567,7 @@ Error en el **[!UICONTROL uso compartido de documentos] al eliminar proyectos**
 
 _Proyectos_
 
-Cuando un usuario administrador del sistema tiene acceso a un proyecto que se ha copiado y trata de eliminarlo o de borrar un documento del proyecto, no puede eliminar el objeto y ve el error “[!UICONTROL Documento compartido con valor(es) de clave primaria no encontrado(s)]”.
+Cuando un usuario administrador del sistema tiene acceso a un proyecto que se ha copiado y trata de eliminarlo o de borrar un documento del proyecto, no puede eliminar el objeto y ve el error “[!UICONTROL Documento compartido con valores de clave principal no encontrados]”.
 
 **El informe del usuario no está aplicando todos los filtros**
 
@@ -1591,7 +1589,7 @@ Cuando un usuario de la nueva experiencia [!DNL Workfront] elimina el formulario
 
 +++
 
-+++**Actualización de mantenimiento el 18 de febrero de 2021**
++++**Actualización de mantenimiento el viernes, 18 de febrero de 2021**
 
 **Casilla de verificación innecesaria eliminada del área de [!UICONTROL Solicitudes]**
 
@@ -1603,7 +1601,7 @@ Hemos eliminado la casilla de verificación a la izquierda de los nombres de las
 
 _Documentos_
 
-Cuando un usuario en la nueva experiencia [!DNL Workfront] hace clic en algunos enlaces de documentos, no puede acceder al documento y ve el mensaje de error “[!UICONTROL El documento ya no existe: es posible que haya escrito mal la dirección web. Vuelva a comprobarlo e introduzca la dirección de nuevo.]” Este mismo error se produce con el enlace [!UICONTROL Ver detalles] en las notificaciones de correo electrónico de prueba.
+Cuando un usuario en la nueva experiencia [!DNL Workfront] hace clic en algunos enlaces de documentos, no puede acceder al documento y ve el mensaje de error “[!UICONTROL El documento ya no existe: es posible que haya escrito mal la dirección web. Compruébela e intente introducir de nuevo la dirección.]” Este mismo error se produce con el vínculo [!UICONTROL Ver detalles] en las notificaciones de correo electrónico de prueba.
 
 +++
 
@@ -1617,7 +1615,7 @@ Esta actualización ha solucionado un problema por el [!DNL Fusion] 2.0 mostraba
 
 +++
 
-+++**Actualización de mantenimiento el 11 de febrero de 2021**
++++**Actualización de mantenimiento el viernes, 11 de febrero de 2021**
 
 **Las pruebas no se cargan en la carpeta seleccionada**
 
@@ -1639,7 +1637,7 @@ Cuando un usuario intenta editar en línea un campo de texto enriquecido, solo p
 
 +++
 
-+++**Actualización de mantenimiento el 4 de febrero de 2021**
++++**Actualización de mantenimiento el viernes, 04 de febrero de 2021**
 
 **El informe exportado muestra la [!DNL Workfront Classic] marca**
 
@@ -1652,13 +1650,13 @@ Cuando un usuario de la nueva experiencia de Workfront exporta un informe, el lo
 
 ## Actualizaciones en enero de 2021
 
-+++**Actualización de mantenimiento el 28 de enero de 2021**
++++**Actualización de mantenimiento el viernes, 28 de enero de 2021**
 
 **Los comentarios no muestran “[!UICONTROL en nombre de]”**
 
 _Actualizaciones_
 
-Cuando un administrador de [!DNL Workfront] se conecta como otro usuario y responde a un comentario en el área de [!UICONTROL Actualizaciones] de un objeto, no aparece el texto “[!UICONTROL en nombre de]” antes del nombre de usuario.
+Cuando un administrador de [!DNL Workfront] se conecta como otro usuario y responde a un comentario en el área de [!UICONTROL Actualizaciones] de un objeto, no se visualiza el texto “[!UICONTROL en nombre de]” antes del nombre de usuario.
 
 **No se puede adjuntar un documento**
 
@@ -1698,13 +1696,13 @@ Cuando un usuario navega al área de [!UICONTROL Plantillas de horas], solo ve l
 
 +++
 
-+++**Actualización de mantenimiento el 21 de enero de 2021**
++++**Actualización de mantenimiento el viernes, 21 de enero de 2021**
 
 **Al ordenar manualmente por una columna, se muestran todos los resultados**
 
 _Informes_
 
-Cuando un usuario de la nueva experiencia [!DNL Workfront] hace clic en una barra del gráfico de un informe y, a continuación, hace clic en la cabecera de una columna para ordenar manualmente los resultados de esa agrupación, se muestran todos los resultados del informe, no solo los de la agrupación originalmente seleccionada.
+Cuando un usuario de la nueva experiencia [!DNL Workfront] hace clic en una barra del gráfico de un informe y, a continuación, hace clic en el encabezado de una columna para ordenar manualmente los resultados de esa agrupación, se muestran todos los resultados del informe, no solo los de la agrupación originalmente seleccionada.
 
 **Cambios en la configuración de “[!UICONTROL Permitir el uso compartido de la prueba a través de una URL o un código incrustado]”**
 
@@ -1720,7 +1718,7 @@ Cuando un usuario intenta pegar texto en ciertos campos del visor de pruebas, el
 
 +++
 
-+++**Actualización de mantenimiento el 14 de enero de 2021**
++++**Actualización de mantenimiento el viernes, 14 de enero de 2021**
 
 **No se puede actualizar la configuración de las notificaciones por correo electrónico**
 
@@ -1742,7 +1740,7 @@ Cuando un usuario de la nueva experiencia [!DNL Workfront] intenta enviar un doc
 
 +++
 
-+++**Actualización de mantenimiento el 7 de enero de 2021**
++++**Actualización de mantenimiento el viernes, 07 de enero de 2021**
 
 **Se cierra el cuadro de diálogo Delegar aprobaciones**
 

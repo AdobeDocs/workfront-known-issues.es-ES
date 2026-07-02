@@ -5,8 +5,8 @@ feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
-source-wordcount: '7701'
-ht-degree: 100%
+source-wordcount: '7893'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
 
 >[!NOTE]
 >
->Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado el problema enviado por usted.
+>Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. [!DNL Workfront] El servicio de asistencia técnica de le avisará cuando haya solucionado un problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2023, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
@@ -97,17 +97,17 @@ Se ha informado de que esto ocurre cuando se selecciona un área en la navegaci�
 
 +++
 
-## Actualizaciones en noviembre de 2023
+## Actualizaciones de noviembre de 2023
 
-+++**Actualización de mantenimiento del viernes, 30 de noviembre de 2023**
++++**Actualización de mantenimiento el viernes, 30 de noviembre de 2023**
 
 **Tareas que no aparecen en el widget [!UICONTROL Mi trabajo]**
 
 _[!UICONTROL Inicio]_
 
-Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo ] del usuario.
+Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo &#x200B;] del usuario.
 
-**La página de inicio de sesión redirige a la página de aterrizaje de cierre de sesión**
+**La página de inicio de sesión redirige a la página de destino de cierre de sesión**
 
 _Inicio de sesión_
 
@@ -127,7 +127,7 @@ Se ha informado de este problema en informes que utilizan un `valueexpression` p
 
 +++
 
-+++**Actualización de mantenimiento del 16 de noviembre de 2023**
++++**Actualización de mantenimiento el viernes, 16 de noviembre de 2023**
 
 **Informes: las horas presupuestadas en el informe de utilización no coinciden con las horas presupuestadas notificadas a través de la API**
 
@@ -153,7 +153,7 @@ Se ha informado de este problema en la nueva experiencia de comentarios.
 
 +++
 
-+++**Actualización de mantenimiento del 9 de noviembre de 2023**
++++**Actualización de mantenimiento el viernes, 09 de noviembre de 2023**
 
 **Al widget Mi trabajo le faltan objetos cuando no está en la parte superior de la página**
 
@@ -195,7 +195,7 @@ Cuando un usuario crea tareas en una plantilla y, a continuación, mueve esas ta
 
 +++
 
-+++**Actualización de mantenimiento del 2 de noviembre de 2023**
++++**Actualización de mantenimiento el viernes, 02 de noviembre de 2023**
 
 **Las actualizaciones privadas se muestran en los campos de expresión de valor**
 
@@ -207,7 +207,7 @@ Cuando un campo de un informe incluye una expresión de valor que hace referenci
 
 _Distribuidor de cargas de trabajo_
 
-Un usuario puede mostrarse en el Distribuidor de cargas de trabajo con exceso de asignaciones. Si un usuario pasa el ratón sobre la sobreasignación, verá que la capacidad del usuario está configurada en 0.
+Un usuario puede mostrarse en el Distribuidor de cargas de trabajo con exceso de asignaciones. Si un usuario pasa el puntero por encima de la sobreasignación, verá que la capacidad del usuario está configurada en 0.
 
 Si el usuario cambia el intervalo de fechas, la asignación es precisa. Sin embargo, si el usuario actualiza la página, la capacidad puede volver a ser inexacta.
 
@@ -215,7 +215,7 @@ Si el usuario cambia el intervalo de fechas, la asignación es precisa. Sin emba
 
 ## Actualizaciones en octubre de 2023
 
-+++**Actualización de mantenimiento del 26 de octubre de 2023**
++++**Actualización de mantenimiento el viernes, 26 de octubre de 2023**
 
 **La búsqueda no funciona**
 
@@ -257,7 +257,7 @@ Cuando un usuario ve una tarea, su encabezado no contiene información. En su lu
 
 +++
 
-+++**Actualización de mantenimiento del 19 de octubre de 2023**
++++**Actualización de mantenimiento el viernes, 19 de octubre de 2023**
 
 A los usuarios no se les notifican las respuestas en un hilo de comentarios
 
@@ -293,13 +293,13 @@ Cuando un usuario que ha iniciado sesión como otro usuario convierte un problem
 
 +++
 
-+++**Actualización de mantenimiento del 12 de octubre de 2023**
++++**Actualización de mantenimiento el viernes, 12 de octubre de 2023**
 
 **Secuencias de trabajo eliminados para las cuentas que no se utilizan**
 
 _Tableros_
 
-En el caso de las cuentas que nunca han creado una secuencia de trabajo en la aplicación Tableros, el área Secuencias de trabajo se ha eliminado del panel Tableros. Las cuentas que sí utilizan secuencias de trabajo siguen teniendo acceso a ellas.
+En el caso de las cuentas que nunca han creado una secuencia de trabajo en la aplicación Tableros, el área Secuencias de trabajo se ha eliminado del panel de control Tableros. Las cuentas que sí utilizan secuencias de trabajo siguen teniendo acceso a ellas.
 
 **Los campos calculados no conservan el valor cuando el problema se convierte en tarea**
 
@@ -319,7 +319,7 @@ Cuando un usuario cambia los filtros en [!UICONTROL Inicio], el área [!UICONTRO
 
 +++
 
-+++**Actualización de mantenimiento del 5 de octubre de 2023**
++++**Actualización de mantenimiento el viernes, 05 de octubre de 2023**
 
 **El tablero se carga lentamente**
 
@@ -361,7 +361,7 @@ Los recordatorios automáticos por correo electrónico no se envían. Esto comen
 
 ## Actualizaciones en septiembre de 2023
 
-+++**Actualización de mantenimiento del 28 de septiembre de 2023**
++++**Actualización de mantenimiento el viernes, 28 de septiembre de 2023**
 
 **No se puede eliminar el campo personalizado**
 
@@ -387,7 +387,7 @@ Cuando un usuario navega a una sección personalizada en un objeto en [!DNL Work
 
 +++
 
-+++**Actualización de mantenimiento del 21 de septiembre de 2023**
++++**Actualización de mantenimiento el viernes, 21 de septiembre de 2023**
 
 **No se puede asignar un usuario en un tablero de una secuencia de trabajo**
 
@@ -450,7 +450,7 @@ Cuando un usuario intenta generar una prueba, esta tarda demasiado. La generaci�
 
 +++
 
-+++**Actualización de mantenimiento del 14 de septiembre de 2023**
++++**Actualización de mantenimiento el viernes, 14 de septiembre de 2023**
 
 Error **“[!UICONTROL No hay fábrica]” al añadir un documento**
 
@@ -472,7 +472,7 @@ Esto ocurre al agrupar un informe por intervalos de fechas.
 
 +++
 
-+++**Actualización de mantenimiento del 11 de septiembre de 2023**
++++**Actualización de mantenimiento el martes, 11 de septiembre de 2023**
 
 **Las tareas personales no se muestran en las plantillas de horas**
 
@@ -482,7 +482,7 @@ Las tareas personales ya no se muestran en la plantilla de horas de forma predet
 
 +++
 
-+++**Actualización de mantenimiento del 7 de septiembre de 2023**
++++**Actualización de mantenimiento el viernes, 07 de septiembre de 2023**
 
 **El proyecto está en blanco cuando se carga desde la nueva experiencia de [!UICONTROL Inicio]**
 
@@ -494,9 +494,9 @@ Esto ocurre cuando el usuario ha iniciado sesión y ha cerrado la sesión como o
 
 +++
 
-## Actualizaciones de agosto de 2023
+## Actualizaciones en agosto de 2023
 
-+++**Actualización de mantenimiento del 31 de agosto de 2023**
++++**Actualización de mantenimiento el viernes, 31 de agosto de 2023**
 
 **Los filtros no se aplican a los widgets en la nueva experiencia de [!UICONTROL Inicio]**
 
@@ -553,7 +553,7 @@ Cuando un usuario intenta navegar a un proyecto mediante una dirección URL que 
 
 _Pruebas_
 
-Cuando un usuario está viendo la configuración de prueba en [!DNL Workfront], la casilla de verificación “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” no muestra con precisión la configuración actual correcta. Cuando se marca la casilla, lo que indica que las notificaciones de prueba por correo electrónico están desactivadas, las notificaciones están activadas. Lo contrario también es cierto.
+Cuando un usuario está viendo la configuración de prueba en [!DNL Workfront], la casilla de verificación “[!UICONTROL Deshabilitar notificaciones de correo electrónico de prueba]” no muestra con precisión la configuración actual correcta. Cuando se marca la casilla, lo que indica que las notificaciones de prueba por correo electrónico están deshabilitadas, las notificaciones están habilitadas. Lo contrario también es cierto.
 
 **No se pueden ajustar las marcas de la prueba**
 
@@ -589,7 +589,7 @@ El módulo [!UICONTROL Herramientas] > [!UICONTROL Suspensión] en un escenario 
 
 +++
 
-+++**Actualización de mantenimiento del 3 de agosto de 2023**
++++**Actualización de mantenimiento el viernes, 03 de agosto de 2023**
 
 **Dificultad para localizar elementos en la columna de entrada**
 
@@ -629,7 +629,7 @@ Se ha informado de este problema a los usuarios de EMEA.
 
 ## Actualizaciones en julio de 2023
 
-+++**Actualización de mantenimiento del 27 de julio de 2023**
++++**Actualización de mantenimiento el viernes, 27 de julio de 2023**
 
 **Las etiquetas y los elementos de la lista de comprobación no funcionan correctamente en la vista del tablero del proyecto**
 
@@ -645,13 +645,13 @@ Si un usuario comparte un filtro y habilita la opción “[!UICONTROL Ver en tod
 
 +++
 
-+++**Actualización de mantenimiento del 20 de julio de 2023**
++++**Actualización de mantenimiento el viernes, 20 de julio de 2023**
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización incluye solo correcciones de errores menores o menos importantes. [!DNL Workfront] El servicio de asistencia técnica de le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 
-+++**Actualización de mantenimiento del 13 de julio de 2023**
++++**Actualización de mantenimiento el viernes, 13 de julio de 2023**
 
 **La cronología no se recalcula**
 
@@ -683,13 +683,13 @@ Cuando se intenta editar otro usuario o usuaria, la página Editar usuario se qu
 
 ## Actualizaciones en junio de 2023
 
-+++**Actualización de mantenimiento del 29 de junio de 2023**
++++**Actualización de mantenimiento el viernes, 29 de junio de 2023**
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización incluye solo correcciones de errores menores o menos importantes. [!DNL Workfront] El servicio de asistencia técnica de le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 
-+++**Actualización de mantenimiento del 22 de junio de 2023**
++++**Actualización de mantenimiento el viernes, 22 de junio de 2023**
 
 **Error “[!UICONTROL ¡Uy!]” al ver el informe de matriz**
 
@@ -699,7 +699,7 @@ Cuando un usuario ve un informe de matriz, ve el siguiente error:
 
 “[!UICONTROL ¡Uy! Se ha producido un error. Póngase en contacto con Workfront para que podamos averiguar qué ha fallado y solucionarlo]”.
 
-Esto se ha notificado cuando el informe se ordena por fecha y la opción “[!UICONTROL Mostrar semanas sin resultados]” está activada.
+Esto se ha notificado cuando el informe se ordena por fecha y la opción “[!UICONTROL Mostrar semanas sin resultados]” está habilitada.
 
 **Las fechas no se muestran correctamente en los informes de matriz**
 
@@ -709,15 +709,15 @@ Cuando un gráfico o informe de matriz se agrupa por fecha, las fechas cerca de 
 
 +++
 
-+++**Actualización de mantenimiento del 15 de junio de 2023**
++++**Actualización de mantenimiento el viernes, 15 de junio de 2023**
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización incluye solo correcciones de errores menores o menos importantes. [!DNL Workfront] El servicio de asistencia técnica de le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 
-+++**Actualización de mantenimiento del 8 de junio de 2023**
++++**Actualización de mantenimiento el viernes, 08 de junio de 2023**
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización incluye solo correcciones de errores menores o menos importantes. [!DNL Workfront] El servicio de asistencia técnica de le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 
@@ -729,7 +729,7 @@ Los administradores de equipo de [!DNL Fusion] siguen pudiendo quitar conexiones
 
 +++
 
-+++**Actualización de mantenimiento del 1 de junio de 2023**
++++**Actualización de mantenimiento el viernes, 01 de junio de 2023**
 
 **No hay ningún mensaje de error al reordenar la tarea en el estado [!UICONTROL Pendiente de aprobación]**
 
@@ -747,7 +747,7 @@ Cuando un usuario intenta reordenar una tarea en una lista de tareas y la tarea 
 
 ## Actualizaciones en mayo de 2023
 
-+++**Actualización de mantenimiento del 25 de mayo de 2023**
++++**Actualización de mantenimiento el viernes, 25 de mayo de 2023**
 
 El tablero **[!UICONTROL Kanban] se queda en blanco al editar tarjetas**
 
@@ -763,7 +763,7 @@ Se ha informado de esto en las siguientes circunstancias:
 
 +++
 
-+++**Actualización de mantenimiento del 22 de mayo de 2023**
++++**Actualización de mantenimiento el martes, 22 de mayo de 2023**
 
 **No se puede ajustar el tamaño del texto descriptivo**
 
@@ -773,12 +773,12 @@ Cuando se lanzó el diseñador de formularios personalizado en la versión beta,
 
 +++
 
-+++**Actualización de mantenimiento del 18 de mayo de 2023**
++++**Actualización de mantenimiento el viernes, 18 de mayo de 2023**
 
 **El informe no se ordena correctamente al ordenar por campo personalizado**
 
 _Informes_
-Cuando un usuario ejecuta un informe de tareas, este parece ordenarse correctamente cuando se está cargando, pero cuando termina se ve que no está bien ordenado.
+Cuando un usuario ejecuta un informe de tareas, el informe parece ordenarse correctamente cuando se está cargando, pero cuando termina de cargarse, el usuario ve que el informe no se ordena correctamente.
 
 Esto parece ocurrir si se cumplen todas las siguientes circunstancias:
 
@@ -788,7 +788,7 @@ Esto parece ocurrir si se cumplen todas las siguientes circunstancias:
 
 +++
 
-+++**Actualización de mantenimiento del 11 de mayo de 2023**
++++**Actualización de mantenimiento el viernes, 11 de mayo de 2023**
 
 **No se puede cambiar de versión de prueba al ver la prueba**
 
@@ -824,7 +824,7 @@ Este problema también afecta a la funcionalidad del [!DNL Workfront Fusion] > [
 
 +++
 
-+++**Actualización de mantenimiento del 9 de mayo de 2023**
++++**Actualización de mantenimiento el miércoles, 09 de mayo de 2023**
 
 **Filtros guardados disponibles en la columna de entrada del tablero**
 
@@ -834,7 +834,7 @@ Ahora puede utilizar los filtros de problemas y tareas de Workfront existentes a
 
 +++
 
-+++**Actualización de mantenimiento del 4 de mayo de 2023**
++++**Actualización de mantenimiento el viernes, 04 de mayo de 2023**
 
 **No se puede seleccionar la plantilla de [!UICONTROL Favoritas]**
 
@@ -846,19 +846,19 @@ Cuando un usuario intenta seleccionar una plantilla del menú Acciones (tres pun
 
 ## Actualizaciones en abril de 2023
 
-+++**Actualización de mantenimiento del 27 de abril de 2023**
++++**Actualización de mantenimiento el viernes, 27 de abril de 2023**
 
 **No se puede cambiar entre pruebas en el [!UICONTROL visualizador de pruebas]**
 
 _Pruebas_
 
-Cuando un usuario está viendo una prueba en el [!UICONTROL Visualizador de pruebas] y cambia a otra, el botón de conmutar pruebas deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra.
+Cuando un usuario está viendo una revisión en el [!UICONTROL Visualizador de revisiones] y cambia a otra, el botón de conmutar revisiones deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra.
 
 **Editar imágenes adjuntas al editar un comentario**
 
 _Actualizaciones_
 
-Ahora puede editar la imagen adjunta a un comentario cuando edita un comentario. Esto está disponible en la sección de Workfront para objetivos y en la de problemas al habilitar la experiencia de comentarios beta.
+Ahora puede editar la imagen adjunta a un comentario cuando edita un comentario. Esto está disponible en la sección Actualizaciones de Workfront para objetivos y en la de problemas al habilitar la experiencia de comentarios beta.
 
 +++
 
@@ -868,11 +868,11 @@ Los vínculos de ayuda en la aplicación de **[!DNL Fusion]no conducen a págin
 
 _[!DNL Workfront Fusion]_
 
-Cuando un usuario está viendo una prueba en el [!UICONTROL Visualizador de pruebas] y cambia a otra, el botón de conmutar pruebas deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra.
+Cuando un usuario está viendo una revisión en el [!UICONTROL Visualizador de revisiones] y cambia a otra, el botón de conmutar revisiones deja de responder. El usuario no puede volver a la prueba original que estaba viendo ni a otra.
 
 +++
 
-+++**Actualización de mantenimiento del 20 de abril de 2023**
++++**Actualización de mantenimiento el viernes, 20 de abril de 2023**
 
 **Problemas en los campos desplegables personalizados**
 
@@ -923,7 +923,7 @@ El sistema puede cambiar impredeciblemente el nivel de acceso de un usuario. Cua
 
 +++
 
-+++**Actualización de mantenimiento del 17 de abril de 2023**
++++**Actualización de mantenimiento el martes, 17 de abril de 2023**
 
 **Mostrar nuevos comentarios fuera del área de la pantalla visible en la sección [!UICONTROL Actualizaciones] de problemas (nueva experiencia beta de comentarios) y [!UICONTROL Objetivos]**
 
@@ -933,7 +933,7 @@ Se ha añadido un banner de notificación en la sección [!UICONTROL Actualizaci
 
 +++
 
-+++**Actualización de mantenimiento del 13 de abril de 2023**
++++**Actualización de mantenimiento el viernes, 13 de abril de 2023**
 
 **Los filtros no se aplican a la lista de solicitudes**
 
@@ -949,7 +949,7 @@ Cuando un administrador está editando un usuario e intenta seleccionar un [!UIC
 
 +++
 
-+++**Actualización de mantenimiento del 6 de abril de 2023**
++++**Actualización de mantenimiento el viernes, 06 de abril de 2023**
 
 **Los desplegables no se abren cuando se añade a un usuario a una prueba**
 
@@ -961,7 +961,7 @@ Cuando un usuario añade a otro usuario a una prueba en el [!UICONTROL Visor de 
 
 ## Actualizaciones en marzo de 2023
 
-+++**Actualización de mantenimiento del 30 de marzo de 2023**
++++**Actualización de mantenimiento el viernes, 30 de marzo de 2023**
 
 **No se puede cambiar de versión de prueba al ver la prueba**
 
@@ -983,7 +983,7 @@ Cuando un rol de administrador ha iniciado sesión como usuario y realiza un com
 
 +++
 
-+++**Actualización de mantenimiento del 23 de marzo de 2023**
++++**Actualización de mantenimiento el viernes, 23 de marzo de 2023**
 
 El contenido del panel **[!UICONTROL Resumen] es demasiado ancho para el panel**
 
@@ -991,7 +991,7 @@ _Documentos_
 
 Cuando se ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y hay que desplazarse horizontalmente para ver el contenido del panel [!UICONTROL Resumen]. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
 
-**Nueva versión de**[!UICONTROL Desktop Proofing Viewer]
+**Nueva versión de**&#x200B;[!UICONTROL Desktop Proofing Viewer]
 
 _Revisión_
 
@@ -1006,7 +1006,7 @@ También es posible descargar manualmente la versión más reciente. Para obtene
 
 +++
 
-+++**Actualización de mantenimiento del 16 de marzo de 2023**
++++**Actualización de mantenimiento el viernes, 16 de marzo de 2023**
 
 **Elementos de la lista de comprobación no copiados al copiar una tarjeta**
 
@@ -1028,7 +1028,7 @@ Cuando un usuario comparte una prueba y añade un mensaje personalizado, ese men
 
 +++
 
-+++**Actualización de mantenimiento del 9 de marzo de 2023**
++++**Actualización de mantenimiento el viernes, 09 de marzo de 2023**
 
 **El nivel de acceso no está asignado al reactivar el usuario**
 
@@ -1044,7 +1044,7 @@ Así, si se abandona la página [!UICONTROL Actualizaciones] de una meta mientra
 
 +++
 
-+++**Actualización de mantenimiento del 2 de marzo de 2023**
++++**Actualización de mantenimiento el viernes, 02 de marzo de 2023**
 
 **No se pueden agregar tarjetas al aplicar la agrupación**
 
@@ -1079,7 +1079,7 @@ Cuando un usuario intenta cargar la página Imprimir resumen, la página parece 
 
 ## Actualizaciones en febrero de 2023
 
-+++**Actualización de mantenimiento del 23 de febrero de 2023**
++++**Actualización de mantenimiento el viernes, 23 de febrero de 2023**
 
 **El vínculo a un comentario redirige a la página [!UICONTROL detalles]**
 
@@ -1097,7 +1097,7 @@ Cuando un usuario con una licencia de [!UICONTROL Trabajador] intenta editar su 
 
 +++
 
-+++**Actualización de mantenimiento del 16 de febrero de 2023**
++++**Actualización de mantenimiento el viernes, 16 de febrero de 2023**
 
 **Múltiples asignaciones de equipo en tableros**
 
@@ -1119,7 +1119,7 @@ Cuando se programa la desactivación de un usuario y la fecha y hora programadas
 
 +++
 
-+++**Actualización de mantenimiento del 9 de febrero de 2023**
++++**Actualización de mantenimiento el viernes, 09 de febrero de 2023**
 
 Se ha agregado el campo **[!UICONTROL Puntos de caso] a los informes y a las listas de tareas y problemas**
 
@@ -1129,7 +1129,7 @@ El campo [!UICONTROL Puntos de caso] ahora está disponible para agregarlo a las
 
 +++
 
-+++**Actualización de mantenimiento del 8 de febrero de 2023**
++++**Actualización de mantenimiento el jueves, 08 de febrero de 2023**
 
 **Botón Filtro en la columna de admisión**
 
@@ -1139,7 +1139,7 @@ La columna de admisión de un tablero ahora incluye un botón **[!UICONTROL Agre
 
 +++
 
-+++**Actualización de mantenimiento del 2 de febrero de 2023**
++++**Actualización de mantenimiento el viernes, 02 de febrero de 2023**
 
 El icono de **[!UICONTROL Tableros] aparece en el [!UICONTROL Menú principal] de forma predeterminada**
 
@@ -1157,7 +1157,7 @@ Cuando un usuario intenta crear o editar una plantilla de correo electrónico, e
 
 ## Actualizaciones en enero de 2023
 
-+++**Actualización de mantenimiento del 30 de enero de 2023**
++++**Actualización de mantenimiento el martes, 30 de enero de 2023**
 
 **Métodos abreviados de teclado agregados para acciones comunes de las plantillas de horas**
 
@@ -1185,14 +1185,14 @@ _Plantillas de horas_
 
 Hemos añadido varios iconos de información a las siguientes opciones de configuración:
 
-* Casilla de verificación “[!UICONTROL Puede editar las horas]” al crear o editar una plantilla de horas o un perfil de plantilla de horas, para indicar que, cuando está activada, los aprobadores también pueden enviar, volver a abrir o editar la plantilla de horas, a menos que el administrador restrinja estas acciones en el área [!UICONTROL Preferencias de plantilla de horas] de [!UICONTROL Configuración].
+* Casilla de verificación “[!UICONTROL Puede editar las horas]” al crear o editar una plantilla de horas o un perfil de plantilla de horas, para indicar que, cuando está habilitada, los aprobadores también pueden enviar, volver a abrir o editar la plantilla de horas, a menos que el administrador restrinja estas acciones en el área [!UICONTROL Preferencias de plantilla de horas] de [!UICONTROL Configuración].
 * “[!UICONTROL Restringir la edición de la plantilla de horas a propietarios y administradores]” en el área [!UICONTROL Preferencias de plantilla de horas y horas] de [!UICONTROL Configuración], para indicar que, cuando está desactivada, los siguientes usuarios también pueden editar las plantillas de horas: usuarios con acceso administrativo a plantillas de horas y horas, aprobadores de plantillas de horas que tienen permiso para editar las horas y administradores de propietarios de plantilla de horas.
 
 Tenga en cuenta que la funcionalidad de estas opciones de configuración no ha cambiado y que solo se han añadido los iconos de información para aclarar el ámbito de la configuración.
 
 +++
 
-+++**Actualización de mantenimiento del 26 de enero de 2023**
++++**Actualización de mantenimiento el viernes, 26 de enero de 2023**
 
 **Error al enviar la solicitud desde [!DNL Outlook]**
 
@@ -1223,7 +1223,7 @@ Cuando un usuario con una licencia de Trabajo, Revisión o Solicitud intenta edi
 
 +++
 
-+++**Actualización de mantenimiento del 19 de enero de 2023**
++++**Actualización de mantenimiento el viernes, 19 de enero de 2023**
 
 **Los filtros de columnas de admisión ahora se pueden compartir**
 
@@ -1243,7 +1243,7 @@ Las siguientes funciones ya están disponibles en el menú [!UICONTROL Más] par
 
 +++
 
-+++**Actualización de mantenimiento del 18 de enero de 2023**
++++**Actualización de mantenimiento el jueves, 18 de enero de 2023**
 
 **Las expresiones con caracteres comodín no son válidas en los campos personalizados**
 
@@ -1293,7 +1293,7 @@ Cuando un usuario intenta cambiar el nivel de acceso de otro usuario, los nivele
 
 +++
 
-+++**Actualización de mantenimiento del 12 de enero de 2023**
++++**Actualización de mantenimiento el viernes, 12 de enero de 2023**
 
 **Ctrl+F o Cmd+F no funcionan como se espera en los campos desplegables**
 
@@ -1315,7 +1315,7 @@ Cuando un usuario está viendo una lista de tareas y aplica sangría a una tarea
 
 +++
 
-+++**Actualización de mantenimiento del 5 de enero de 2023**
++++**Actualización de mantenimiento el viernes, 05 de enero de 2023**
 
 **Funcionalidad de pines disponible en el menú [!UICONTROL Más]**
 
@@ -1343,7 +1343,7 @@ _Workfront_
 
 Hemos añadido varios iconos de información a las siguientes opciones de configuración:
 
-* Casilla de verificación “Puede editar las horas”: al crear o editar una plantilla de horas o un perfil de plantilla de horas, para indicar que, cuando está activada, los aprobadores también pueden enviar, volver a abrir o editar la plantilla de horas, a menos que el administrador restrinja estas acciones en el área Preferencias de plantilla de horas de Configuración.
+* Casilla de verificación “Puede editar las horas”: al crear o editar una plantilla de horas o un perfil de plantilla de horas, para indicar que, cuando está habilitada, los aprobadores también pueden enviar, volver a abrir o editar la plantilla de horas, a menos que el administrador restrinja estas acciones en el área Preferencias de plantilla de horas de Configuración.
 * “Restringir la edición de la plantilla de horas a propietarios y administradores”: en el área Preferencias de plantilla de horas y horas de Configuración, para indicar que, cuando está desactivada, los siguientes usuarios también pueden editar las plantillas de horas: usuarios con acceso administrativo a plantillas de horas y horas, aprobadores de plantillas de horas que tienen permiso para editar las horas y administradores de propietarios de plantilla de horas.
 
 Tenga en cuenta que la funcionalidad de estas opciones de configuración no ha cambiado y que solo se han añadido los iconos de información para aclarar el ámbito de la configuración.
