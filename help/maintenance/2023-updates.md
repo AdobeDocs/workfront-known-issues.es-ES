@@ -999,7 +999,7 @@ Para solucionar un problema de comentarios en [!UICONTROL Desktop Proofing Viewe
 
 Cuando [!UICONTROL Desktop Proofing Viewer] ya está instalado, esta actualización se obtiene automáticamente.
 
-También es posible descargar manualmente la versión más reciente. Para obtener más información, consulte la [[!UICONTROL Instalación de Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+También es posible descargar manualmente la versión más reciente. Para obtener más información, consulte la [[!UICONTROL Instalación de Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=es).
 
 * Versión anterior: 2.1.22
 * Nueva versión: 2.1.23
