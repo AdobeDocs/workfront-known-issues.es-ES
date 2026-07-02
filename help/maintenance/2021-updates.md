@@ -336,7 +336,7 @@ Ahora, los filtros del [!UICONTROL Distribuidor de cargas de trabajo] admiten tr
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Hemos actualizado los operadores de filtro cuando se filtran las áreas del[!UICONTROL  Distribuidor de cargas de trabajo] por [!UICONTROL Duración].
+Hemos actualizado los operadores de filtro cuando se filtran las áreas del[!UICONTROL &#x200B; Distribuidor de cargas de trabajo] por [!UICONTROL Duración].
 
 +++
 
