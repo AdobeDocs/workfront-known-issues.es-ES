@@ -5,7 +5,7 @@ exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '17045'
+source-wordcount: '17047'
 ht-degree: 98%
 
 ---
@@ -980,7 +980,8 @@ Antes de esta actualización, el objeto omitió el proceso de aprobación para e
 
 *[!UICONTROL Menú principal]*
 
-Si su organización tiene un sitio de ayuda interno personalizado, puede configurar el icono de [!UICONTROL Menú principal] [!UICONTROL Ayuda] para ir a ese sitio. Esto resulta útil si el sitio de ayuda contiene información sobre cómo su organización utiliza [!DNL Workfront].Esta dirección URL personalizada no afecta al vínculo de Ayuda principal del área superior de [!DNL Workfront], ni tampoco a los vínculos de ayuda contextual por todo [!DNL Workfront] que llevan a los usuarios al [!DNL Workfront] sitio de Ayuda.
+Si su organización tiene un sitio de ayuda interno personalizado, puede configurar el icono de [!UICONTROL Menú principal] [!UICONTROL Ayuda] para ir a ese sitio. Esto resulta útil si el sitio de ayuda contiene información sobre cómo su organización utiliza [!DNL Workfront].
+Esta dirección URL personalizada no afecta al vínculo de Ayuda principal del área superior de [!DNL Workfront], ni tampoco a los vínculos de ayuda contextual por todo [!DNL Workfront] que llevan a los usuarios al [!DNL Workfront] sitio de Ayuda.
 
 **No se puede seleccionar el tiempo transcurrido al editar en línea la [!UICONTROL Duración de la tarea]**
 
@@ -1083,7 +1084,7 @@ Ahora, la identificación de direcciones de correo electrónico ya no contiene u
 Como resultado, le recomendamos que realice las siguientes acciones si aún no lo ha hecho:
 
 * Actualice los filtros de correo no deseado para aceptar correos electrónicos de `notification@my.workfront.com`
-* Actualizar las listas de permitidos para aceptar correos electrónicos de 
+* Actualizar las listas de permitidos para aceptar correos electrónicos de `notification@my.workfront.com`
   **Las opciones de usuario no se pueden modificar después de la configuración inicial en las Plantillas de flujo de trabajo**
 
 *[!DNL Workfront Proof]*
@@ -1377,7 +1378,8 @@ Cuando un usuario intenta editar un formulario personalizado que tiene un salto 
 *Paneles de control*
 
 Se han notificado los siguientes problemas al imprimir un panel en una PDF:
-PDF no imprime todas las filas del informe. Cuando faltan líneas, solo se muestra espacio en blanco.El PDF incluye espacios en blanco entre los encabezados de columna y la primera fila del informe.
+PDF no imprime todas las filas del informe. Cuando faltan líneas, solo se muestra espacio en blanco.
+El PDF incluye espacios en blanco entre los encabezados de columna y la primera fila del informe.
 
 **[!DNL Portfolio Optimizer] muestra una puntuación de 0 cuando se usa un idioma distinto del inglés**
 
@@ -1861,7 +1863,8 @@ Cuando el perfil de un usuario está establecido en una zona horaria específica
 
 *Proyectos*
 
-Al adjuntar una plantilla con campos personalizados requeridos a un proyecto en el que el campo ya existe y está rellenado, los usuarios ven el siguiente error: “[!UICONTROL Hay campos incompletos. Escriba valores para los campos obligatorios antes de continuar.]&quot;Si hace clic en &quot;[!UICONTROL Llévame allí]&quot;, podrá ver que los campos están rellenados y que la plantilla se puede adjuntar correctamente.
+Al adjuntar una plantilla con campos personalizados requeridos a un proyecto en el que el campo ya existe y está rellenado, los usuarios ven el siguiente error: “[!UICONTROL Hay campos incompletos. Escriba valores para los campos obligatorios antes de continuar.]&quot;
+Si hace clic en &quot;[!UICONTROL Llévame allí]&quot;, podrá ver que los campos están rellenados y que la plantilla se puede adjuntar correctamente.
 
 **El [!UICONTROL Distribuidor de cargas de trabajo] parpadea al alternar entre fechas**
 
