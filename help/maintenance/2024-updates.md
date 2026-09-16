@@ -1,24 +1,23 @@
 ---
 title: Actualizaciones de mantenimiento de Workfont en 2024
-description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
+description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
-source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
-workflow-type: ht
-source-wordcount: '7353'
-ht-degree: 100%
-
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+workflow-type: tm+mt
+source-wordcount: '7587'
+ht-degree: 99%
 ---
-
 # Actualizaciones de mantenimiento de [!DNL Workfront]
 
 >[!NOTE]
 >
->Para obtener información sobre las interrupciones de mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/es-es/).
+>Para obtener información sobre las interrupciones de mantenimiento de todos los productos de Adobe, incluido Workfront, consulte la [página Estado de Adobe](https://status.adobe.com/es/).
 
 En esta página se describen los problemas corregidos en las actualizaciones semanales de Workfront.
 
-Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado el problema enviado por usted.
+Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. [!DNL Workfront] El servicio de asistencia técnica de le avisará cuando haya solucionado un problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2024, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
@@ -30,7 +29,7 @@ En 2024 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ### Actualización de mantenimiento el viernes, 19 de diciembre de 2024
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
@@ -38,11 +37,11 @@ Esta actualización contiene solo correcciones de errores menores o menos import
 
 ### Actualización de mantenimiento el viernes, 12 de diciembre de 2024
 
-#### Paneles
+#### Paneles de control
 
-**La columna desaparece cuando se usa para ordenar en un informe de panel**
+**La columna desaparece cuando se usa para ordenar en un informe de panel de control**
 
-Al ordenar un informe colocado en un panel por una columna, la columna desaparece y el contenido no se ordena.
+Al ordenar un informe colocado en un panel de control por una columna, la columna desaparece y el contenido no se ordena.
 
 #### Informes
 
@@ -64,7 +63,7 @@ Como parte de la corrección de este problema, los proyectos incluidos en este t
 
 +++**Actualización de mantenimiento el viernes, 05 de diciembre de 2024**
 
-### Actualización de mantenimiento el 5 de diciembre de 2024
+### Actualización de mantenimiento el viernes, 05 de diciembre de 2024
 
 #### Formularios personalizados
 
@@ -90,11 +89,11 @@ Cuando un usuario está ejecutando un informe con una solicitud basada en fechas
 
 +++
 
-## Actualizaciones en noviembre de 2024
+## Actualizaciones de noviembre de 2024
 
-+++**Actualización de mantenimiento del viernes, 28 de noviembre de 2024**
++++**Actualización de mantenimiento el viernes, 28 de noviembre de 2024**
 
-### Actualización de mantenimiento del viernes, 28 de noviembre de 2024
+### Actualización de mantenimiento el viernes, 28 de noviembre de 2024
 
 #### Proyectos
 
@@ -132,11 +131,11 @@ A pesar de no poder introducir horas en las hojas de horas, los usuarios con niv
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 21 de noviembre de 2024**
++++**Actualización de mantenimiento el viernes, 21 de noviembre de 2024**
 
-### Actualización de mantenimiento del viernes, 21 de noviembre de 2024
+### Actualización de mantenimiento el viernes, 21 de noviembre de 2024
 
-#### Paneles
+#### Paneles de control
 
 **No se puede interactuar con las barras de informes del gráfico de barras en los paneles de control**
 
@@ -164,9 +163,9 @@ Al abrir un informe que contiene campos de escritura anticipada personalizados, 
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 14 de noviembre de 2024**
++++**Actualización de mantenimiento el viernes, 14 de noviembre de 2024**
 
-### Actualización de mantenimiento del viernes, 14 de noviembre de 2024
+### Actualización de mantenimiento el viernes, 14 de noviembre de 2024
 
 #### Inicio
 
@@ -182,27 +181,27 @@ Al importar nuevos usuarios a Workfront, la casilla “Enviar invitación por co
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 07 de noviembre de 2024**
++++**Actualización de mantenimiento el viernes, 07 de noviembre de 2024**
 
-### Actualización de mantenimiento del 7 de noviembre de 2024
+### Actualización de mantenimiento el viernes, 07 de noviembre de 2024
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
 ## Actualizaciones en octubre de 2024
 
-+++**Actualización de mantenimiento del viernes, 31 de octubre de 2024**
++++**Actualización de mantenimiento el viernes, 31 de octubre de 2024**
 
-### Actualización de mantenimiento del viernes, 31 de octubre de 2024
+### Actualización de mantenimiento el viernes, 31 de octubre de 2024
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de atención al cliente de Workfront le avisará cuando haya solucionado el problema que haya enviado.
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 24 de octubre de 2024**
++++**Actualización de mantenimiento el viernes, 24 de octubre de 2024**
 
-### Actualización de mantenimiento del viernes, 24 de octubre de 2024
+### Actualización de mantenimiento el viernes, 24 de octubre de 2024
 
 #### Asignaciones
 
@@ -230,9 +229,9 @@ Cuando un usuario ve el gráfico Gantt y cambia de vista, el gráfico no muestra
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 17 de octubre de 2024**
++++**Actualización de mantenimiento el viernes, 17 de octubre de 2024**
 
-### Actualización de mantenimiento del viernes, 17 de octubre de 2024
+### Actualización de mantenimiento el viernes, 17 de octubre de 2024
 
 #### Pruebas
 
@@ -250,9 +249,9 @@ Anteriormente, los usuarios podían registrar el tiempo en las hojas de horas en
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 10 de octubre de 2024**
++++**Actualización de mantenimiento el viernes, 10 de octubre de 2024**
 
-### Actualización de mantenimiento del viernes, 10 de octubre de 2024
+### Actualización de mantenimiento el viernes, 10 de octubre de 2024
 
 #### Tableros
 
@@ -282,10 +281,10 @@ Al seleccionar un campo para añadirlo a un widget mediante la configuración de
 
 **Problemas con el recálculo de la cronología**
 
-Se ha informado de los siguientes problemas acerca del recálculo de la línea de tiempo:
+Se ha informado de los siguientes problemas acerca del recálculo de la cronología:
 
-* Cuando se actualiza la duración de una tarea de la línea de tiempo, el sistema tarda un tiempo considerable en volver a calcularla.
-* Una vez finalizado el recálculo, las fechas pueden permanecer desactivadas o desactivarse, como si la línea de tiempo siguiera recalculándose.
+* Cuando se actualiza la duración de una tarea de la cronología, el sistema tarda un tiempo considerable en volver a calcularla.
+* Una vez finalizado el recálculo, las fechas pueden permanecer desactivadas o desactivarse, como si la cronología siguiera recalculándose.
 
 **No se muestran los gastos de la tarea**
 
@@ -293,9 +292,9 @@ Después de añadir un gasto a una tarea, el gasto no aparece en la información
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 03 de octubre de 2024**
++++**Actualización de mantenimiento el viernes, 03 de octubre de 2024**
 
-### Actualización de mantenimiento del 3 de octubre de 2024
+### Actualización de mantenimiento el viernes, 03 de octubre de 2024
 
 #### Tableros
 
@@ -334,9 +333,9 @@ Al utilizar SSO para iniciar sesión en Prueba, los usuarios no pueden establece
 
 ## Actualizaciones en septiembre de 2024
 
-+++**Actualización de mantenimiento del viernes, 26 de septiembre de 2024**
++++**Actualización de mantenimiento el viernes, 26 de septiembre de 2024**
 
-### Actualización de mantenimiento del viernes, 26 de septiembre de 2024
+### Actualización de mantenimiento el viernes, 26 de septiembre de 2024
 
 #### Agile
 
@@ -358,21 +357,21 @@ Los informes con entregas programadas no se están entregando como se esperaba. 
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 19 de septiembre de 2024**
++++**Actualización de mantenimiento el viernes, 19 de septiembre de 2024**
 
-### Actualización de mantenimiento del viernes, 19 de septiembre de 2024
+### Actualización de mantenimiento el viernes, 19 de septiembre de 2024
 
-#### Paneles
+#### Paneles de control
 
 **Al seleccionar el botón Exportar en un informe, se desplaza a la parte superior de la página**
 
-Al hacer clic en el botón Exportar para un informe en un panel, la ventana se desplaza hasta la parte superior de la página y requiere desplazarse hacia abajo para encontrar el menú de opciones de exportación abierto.
+Al hacer clic en el botón Exportar para un informe en un panel de control, la ventana se desplaza hasta la parte superior de la página y requiere desplazarse hacia abajo para encontrar el menú de opciones de exportación abierto.
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 12 de septiembre de 2024**
++++**Actualización de mantenimiento el viernes, 12 de septiembre de 2024**
 
-### Actualización de mantenimiento del viernes, 12 de septiembre de 2024
+### Actualización de mantenimiento el viernes, 12 de septiembre de 2024
 
 #### Integraciones
 
@@ -384,9 +383,9 @@ La solicitud se crea y hay una carpeta para los archivos adjuntos del correo ele
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 05 de septiembre de 2024**
++++**Actualización de mantenimiento el viernes, 05 de septiembre de 2024**
 
-### Actualización de mantenimiento del 5 de septiembre de 2024
+### Actualización de mantenimiento el viernes, 05 de septiembre de 2024
 
 #### Grupos
 
@@ -406,11 +405,11 @@ Cuando un usuario intenta reactivar a un usuario mediante la opción “Reactiva
 
 +++
 
-## Actualizaciones de agosto de 2024
+## Actualizaciones en agosto de 2024
 
-+++**Actualización de mantenimiento del viernes, 29 de agosto de 2024**
++++**Actualización de mantenimiento el viernes, 29 de agosto de 2024**
 
-### Actualización de mantenimiento del viernes, 29 de agosto de 2024
+### Actualización de mantenimiento el viernes, 29 de agosto de 2024
 
 #### Formularios personalizados
 
@@ -440,9 +439,9 @@ Esto tiene que ver con el problema de cuando un administrador intenta cambiar la
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 22 de agosto de 2024**
++++**Actualización de mantenimiento el viernes, 22 de agosto de 2024**
 
-### Actualización de mantenimiento del viernes, 22 de agosto de 2024
+### Actualización de mantenimiento el viernes, 22 de agosto de 2024
 
 #### Informes
 
@@ -452,9 +451,9 @@ Cuando un usuario visualiza el área de configuración Formularios personalizado
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 15 de agosto de 2024**
++++**Actualización de mantenimiento el viernes, 15 de agosto de 2024**
 
-### Actualización de mantenimiento del viernes, 15 de agosto de 2024
+### Actualización de mantenimiento el viernes, 15 de agosto de 2024
 
 #### Tableros
 
@@ -493,9 +492,9 @@ Las marcas de prueba están desalineadas en las impresiones en PDF recibidas por
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 08 de agosto de 2024**
++++**Actualización de mantenimiento el viernes, 08 de agosto de 2024**
 
-### Actualización de mantenimiento del viernes, 08 de agosto de 2024
+### Actualización de mantenimiento el viernes, 08 de agosto de 2024
 
 #### Tableros
 
@@ -517,9 +516,9 @@ Cuando un administrador inicia sesión como otro usuario, en lugar de ver la cue
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 01 de agosto de 2024**
++++**Actualización de mantenimiento el viernes, 01 de agosto de 2024**
 
-### Actualización de mantenimiento del 1 de agosto de 2024
+### Actualización de mantenimiento el viernes, 01 de agosto de 2024
 
 #### Documentos
 
@@ -544,7 +543,7 @@ Estos problemas se deben a problemas con Dropbox, no con Workfront.
 
 ## Actualizaciones en julio de 2024
 
-+++**Actualización de mantenimiento del viernes, 25 de julio de 2024**
++++**Actualización de mantenimiento el viernes, 25 de julio de 2024**
 
 ### Actualización de mantenimiento el viernes, 25 de julio de 2024
 
@@ -566,7 +565,7 @@ Se ha informado de este problema en Gmail.
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 18 de julio de 2024**
++++**Actualización de mantenimiento el viernes, 18 de julio de 2024**
 
 ### Actualización de mantenimiento el viernes, 18 de julio de 2024
 
@@ -607,9 +606,9 @@ Se ha informado de este problema en las siguientes áreas:
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 11 de julio de 2024**
++++**Actualización de mantenimiento el viernes, 11 de julio de 2024**
 
-### Actualización de mantenimiento el 11 de julio de 2024
+### Actualización de mantenimiento el viernes, 11 de julio de 2024
 
 #### Problemas
 
@@ -630,9 +629,9 @@ Cuando se intenta establecer la configuración de la matriz en un informe de hor
 
 +++
 
-+++**Actualización de mantenimiento del viernes, 04 de julio de 2024**
++++**Actualización de mantenimiento el viernes, 04 de julio de 2024**
 
-### Actualización de mantenimiento el 4 de julio de 2024
+### Actualización de mantenimiento el viernes, 04 de julio de 2024
 
 #### Inicio
 
@@ -694,13 +693,13 @@ Copiar el vínculo mediante un método distinto de &quot;[!UICONTROL Copiar dire
 Cuando un usuario de Workfront hace clic en el botón Atrás del explorador, puede producirse una de las siguientes situaciones.
 
 * El nombre de la pestaña del explorador cambia, pero la página no cambia. Si vuelve a hacer clic en el botón Atrás, se puede resolver el problema.
-* El usuario vuelve a la página de aterrizaje del explorador.
+* El usuario vuelve a la página de destino del explorador.
 
 #### Pruebas
 
 **No se puede cerrar el visualizador de pruebas**
 
-Cuando un usuario está viendo una prueba en el visualizador de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
+Cuando un usuario está viendo una prueba en el visor de pruebas e intenta cerrarla haciendo clic en la X de la esquina superior derecha, la prueba no se cierra.
 
 +++
 
@@ -716,9 +715,9 @@ Cuando un usuario intenta añadir un subgrupo existente a un grupo, el botón Gu
 
 +++
 
-+++ **Actualización de mantenimiento el 6 de junio de 2024**
++++ **Actualización de mantenimiento el viernes, 06 de junio de 2024**
 
-### Actualización de mantenimiento el 6 de junio de 2024
+### Actualización de mantenimiento el viernes, 06 de junio de 2024
 
 #### Formularios personalizados
 
@@ -730,9 +729,9 @@ Ahora se admiten varios campos nativos en los formularios personalizados creados
 
 ## Actualizaciones en mayo de 2024
 
-+++ **Actualización de mantenimiento el 30 de mayo de 2024**
++++ **Actualización de mantenimiento el viernes, 30 de mayo de 2024**
 
-### Actualización de mantenimiento el 30 de mayo de 2024
+### Actualización de mantenimiento el viernes, 30 de mayo de 2024
 
 #### Formularios personalizados
 
@@ -752,16 +751,16 @@ Cuando un usuario copia un comentario que incluye una mención en formato @ y lu
 
 +++
 
-+++ **Actualización de mantenimiento el 23 de mayo de 2024**
++++ **Actualización de mantenimiento el viernes, 23 de mayo de 2024**
 
-### Actualización de mantenimiento el 23 de mayo de 2024
+### Actualización de mantenimiento el viernes, 23 de mayo de 2024
 
 #### Informes
 
 Cuando un usuario está viendo un informe y hace clic en el botón Atrás del explorador, puede producirse una de las siguientes situaciones:
 
 * El usuario permanece en la página Informe.
-* Se dirige al usuario a la página de aterrizaje del explorador.
+* Se dirige al usuario a la página de destino del explorador.
 * Se dirige al usuario a la página Inicio de sesión.
 
 Se ha informado al respecto con el explorador Chrome.
@@ -770,7 +769,7 @@ Se ha informado al respecto con el explorador Chrome.
 
 **El usuario etiquetado no puede ver quién lo ha etiquetado**
 
-Cuando se etiqueta a un usuario en una actualización, no puede ver quién lo ha etiquetado. Esto ocurre cuando la opción &quot;Las personas de otras compañías solo deben ver a los usuarios desde...&quot; está establecida en &quot;Su compañía&quot;.
+Cuando se etiqueta a un usuario en una actualización, no puede ver quién lo ha etiquetado. Esto ocurre cuando el ajuste &quot;Las personas de otras empresas solo deben ver a los usuarios desde...&quot; se establece en &quot;Su compañía&quot;.
 
 **Actualizaciones: etiquetar a un usuario con @ en el panel Resumen no funciona**
 
@@ -778,9 +777,9 @@ Cuando un usuario intenta etiquetar a otro utilizando @ en el área Actualizacio
 
 +++
 
-+++**Actualización de mantenimiento el 16 de mayo de 2024**
++++**Actualización de mantenimiento el viernes, 16 de mayo de 2024**
 
-### Actualización de mantenimiento el 16 de mayo de 2024
+### Actualización de mantenimiento el viernes, 16 de mayo de 2024
 
 #### Configurar
 
@@ -796,17 +795,17 @@ Cuando un usuario intenta eliminar usuarios, estos no se eliminan. Se ha informa
 
 +++
 
-+++**Actualización de mantenimiento el 9 de mayo de 2024**
++++**Actualización de mantenimiento el viernes, 09 de mayo de 2024**
 
-### Actualización de mantenimiento el 9 de mayo de 2024
+### Actualización de mantenimiento el viernes, 09 de mayo de 2024
 
-Esta actualización contiene solo correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado un problema enviado por usted.
+Esta actualización incluye solo correcciones de errores menores o menos importantes. [!DNL Workfront] El servicio de asistencia técnica de le avisará cuando haya solucionado un problema enviado por usted.
 
 +++
 
-+++**Actualización de mantenimiento el 2 de mayo de 2024**
++++**Actualización de mantenimiento el viernes, 02 de mayo de 2024**
 
-### Actualización de mantenimiento el 2 de mayo de 2024
+### Actualización de mantenimiento el viernes, 02 de mayo de 2024
 
 #### Registrar la hora
 
@@ -818,9 +817,9 @@ Cuando un usuario intenta editar horas en una tarea o un problema, los cambios n
 
 ## Actualizaciones en abril de 2024
 
-+++**Actualización de mantenimiento el 25 de abril de 2024**
++++**Actualización de mantenimiento el viernes, 25 de abril de 2024**
 
-### Actualización de mantenimiento el 25 de abril de 2024
+### Actualización de mantenimiento el viernes, 25 de abril de 2024
 
 #### Actualizaciones
 
@@ -838,9 +837,9 @@ Se ha informado de este problema en la nueva experiencia de comentarios.
 
 +++
 
-+++**Actualización de mantenimiento el 18 de abril de 2024**
++++**Actualización de mantenimiento el viernes, 18 de abril de 2024**
 
-### Actualización de mantenimiento el 18 de abril de 2024
+### Actualización de mantenimiento el viernes, 18 de abril de 2024
 
 #### Agile
 
@@ -872,35 +871,9 @@ Cuando un problema tiene adjunta una prueba web (una prueba de URL que utiliza u
 
 +++
 
-+++**Actualización de mantenimiento el 11 de abril de 2024**
++++**Actualización de mantenimiento el viernes, 11 de abril de 2024**
 
-### Actualización de mantenimiento el 11 de abril de 2024
-
-#### Buscar
-
-**No se puede editar desde la búsqueda**
-
-Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde.
-
-#### Actualizaciones
-
-**Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa**
-
-Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa.
-
-Si el usuario descarga la imagen, esta aparece con la resolución esperada.
-
-**Mensaje “[!UICONTROL No podemos publicar su comentario]” al responder**
-
-Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
-
-“[!UICONTROL No podemos publicar su comentario en este momento. Espere un momento e inténtelo de nuevo.]”
-
-+++
-
-+++**Actualización de mantenimiento el 04 de abril de 2024**
-
-### Actualización de mantenimiento el 4 de abril de 2024
+### Actualización de mantenimiento el viernes, 11 de abril de 2024
 
 #### Buscar
 
@@ -924,9 +897,35 @@ Cuando un usuario intenta responder a un mensaje en la nueva experiencia de come
 
 +++
 
-+++**Actualización de mantenimiento el 04 de abril de 2024**
++++**Actualización de mantenimiento el viernes, 04 de abril de 2024**
 
-### Actualización de mantenimiento el 4 de abril de 2024
+### Actualización de mantenimiento el viernes, 04 de abril de 2024
+
+#### Buscar
+
+**No se puede editar desde la búsqueda**
+
+Cuando un usuario utiliza la búsqueda avanzada e intenta editar o editar por lotes los resultados de la búsqueda, el icono Editar no responde.
+
+#### Actualizaciones
+
+**Actualizaciones: la vista previa de la imagen en las actualizaciones es borrosa**
+
+Cuando un usuario está viendo actualizaciones y hace clic en la lupa de una imagen para previsualizar la imagen, la previsualización que se abre es extremadamente pixelada y borrosa.
+
+Si el usuario descarga la imagen, esta aparece con la resolución esperada.
+
+**Mensaje “[!UICONTROL No podemos publicar su comentario]” al responder**
+
+Cuando un usuario intenta responder a un mensaje en la nueva experiencia de comentarios, la respuesta no se guarda y el usuario ve el siguiente mensaje:
+
+“[!UICONTROL No podemos publicar su comentario en este momento. Espere un momento e inténtelo de nuevo.]”
+
++++
+
++++**Actualización de mantenimiento el viernes, 04 de abril de 2024**
+
+### Actualización de mantenimiento el viernes, 04 de abril de 2024
 
 #### Integraciones
 
@@ -961,9 +960,9 @@ La experiencia de comentarios heredada funciona según lo esperado.
 
 ## Actualizaciones en marzo de 2024
 
-+++**Actualización de mantenimiento el 28 de marzo de 2024**
++++**Actualización de mantenimiento el viernes, 28 de marzo de 2024**
 
-### Actualización de mantenimiento el 28 de marzo de 2024
+### Actualización de mantenimiento el viernes, 28 de marzo de 2024
 
 #### Integraciones
 
@@ -996,7 +995,7 @@ Es posible que las horas presupuestadas mostradas en una de las siguientes área
 
 **La información sobre herramientas de la predecesora no muestra el nombre de la tarea**
 
-Cuando un usuario está viendo una lista de tareas y pasa el ratón sobre un icono de predecesora para obtener más información, la información del objeto que aparece no muestra el nombre de la tarea predecesora.
+Cuando un usuario está viendo una lista de tareas y pasa el puntero por encima de un icono de predecesora para obtener más información, la información del objeto que aparece no muestra el nombre de la tarea predecesora.
 
 #### Actualizaciones
 
@@ -1026,9 +1025,9 @@ Esto puede ocurrir si la respuesta es extremadamente larga. Los datos se devuelv
 
 +++
 
-+++**Actualización de mantenimiento el 21 de marzo de 2024**
++++**Actualización de mantenimiento el viernes, 21 de marzo de 2024**
 
-### Actualización de mantenimiento el 21 de marzo de 2024
+### Actualización de mantenimiento el viernes, 21 de marzo de 2024
 
 #### Actualizaciones
 
@@ -1046,9 +1045,9 @@ Esta corrección solo se aplica a la nueva experiencia de comentarios.
 
 +++
 
-+++**Actualización de mantenimiento el 14 de marzo de 2024**
++++**Actualización de mantenimiento el viernes, 14 de marzo de 2024**
 
-### Actualización de mantenimiento el 14 de marzo de 2024
+### Actualización de mantenimiento el viernes, 14 de marzo de 2024
 
 #### Pruebas
 
@@ -1066,9 +1065,9 @@ Cuando un usuario está creando otro usuario, solo el primer nivel de acceso del
 
 +++
 
-+++**Actualización de mantenimiento el 07 de marzo de 2024**
++++**Actualización de mantenimiento el viernes, 07 de marzo de 2024**
 
-### Actualización de mantenimiento el 7 de marzo de 2024
+### Actualización de mantenimiento el viernes, 07 de marzo de 2024
 
 #### Tableros
 
@@ -1095,7 +1094,7 @@ Cuando se actualizan las horas planificadas de un proyecto, no se actualizan en 
 
 +++
 
-+++**Actualización de mantenimiento de Workfront Fusion el 7 de marzo de 2024
++++**Actualización de mantenimiento de Workfront Fusion del 7 de marzo de 2024
 
 **El módulo Prueba de Workfront Fusion > Ver prueba excede el tiempo de espera**
 
@@ -1105,9 +1104,9 @@ Los escenarios que utilizan el módulo Prueba de Workfront > Ver prueba pueden d
 
 ## Actualizaciones en febrero de 2024
 
-+++**Actualización de mantenimiento el 29 de febrero de 2024**
++++**Actualización de mantenimiento el viernes, 29 de febrero de 2024**
 
-### Actualización de mantenimiento el 29 de febrero de 2024
+### Actualización de mantenimiento el viernes, 29 de febrero de 2024
 
 #### Actualizaciones
 
@@ -1119,9 +1118,9 @@ Esto se debe a que el usuario no tiene permiso para ver usuarios de otras compa�
 
 +++
 
-+++**Actualización de mantenimiento el 22 de febrero de 2024**
++++**Actualización de mantenimiento el viernes, 22 de febrero de 2024**
 
-### Actualización de mantenimiento el 22 de febrero de 2024
+### Actualización de mantenimiento el viernes, 22 de febrero de 2024
 
 #### Inicio
 
@@ -1151,9 +1150,9 @@ El distribuidor de cargas de trabajo y el calendario personal de días libres ah
 
 +++
 
-+++**Actualización de mantenimiento el 15 de febrero de 2024**
++++**Actualización de mantenimiento el viernes, 15 de febrero de 2024**
 
-### Actualización de mantenimiento el 15 de febrero de 2024
+### Actualización de mantenimiento el viernes, 15 de febrero de 2024
 
 #### Problemas
 
@@ -1175,9 +1174,9 @@ Después de que un [!DNL Workfront] administrador ha desactivado la opción para
 
 +++
 
-+++**Actualización de mantenimiento el 08 de febrero de 2024**
++++**Actualización de mantenimiento el viernes, 08 de febrero de 2024**
 
-### Actualización de mantenimiento el 8 de febrero de 2024
+### Actualización de mantenimiento el viernes, 08 de febrero de 2024
 
 #### Tableros
 
@@ -1205,9 +1204,9 @@ Esto se debe a que las funciones están creando automáticamente tasas duplicada
 
 +++
 
-+++**Actualización de mantenimiento el 1 de febrero de 2024**
++++**Actualización de mantenimiento el viernes, 01 de febrero de 2024**
 
-### Actualización de mantenimiento el 1 de febrero de 2024
+### Actualización de mantenimiento el viernes, 01 de febrero de 2024
 
 #### Inicio de sesión
 
@@ -1241,9 +1240,9 @@ Ahora, cuando se utiliza un campo personalizado de búsqueda externa en una list
 
 +++
 
-+++**Actualización de mantenimiento el 25 de enero de 2024**
++++**Actualización de mantenimiento el viernes, 25 de enero de 2024**
 
-### Actualización de mantenimiento el 25 de enero de 2024
+### Actualización de mantenimiento el viernes, 25 de enero de 2024
 
 #### Tableros
 
@@ -1272,9 +1271,9 @@ El usuario recibe una notificación por correo electrónico con respecto a la et
 
 +++
 
-+++**Actualización de mantenimiento el 18 de enero de 2024**
++++**Actualización de mantenimiento el viernes, 18 de enero de 2024**
 
-### Actualización de mantenimiento el 18 de enero de 2024
+### Actualización de mantenimiento el viernes, 18 de enero de 2024
 
 #### Tableros
 
@@ -1374,9 +1373,9 @@ Es posible que un comentario realizado en la experiencia de comentarios anterior
 
 +++
 
-+++**Actualización de mantenimiento el 11 de enero de 2024**
++++**Actualización de mantenimiento el viernes, 11 de enero de 2024**
 
-### Actualización de mantenimiento el 11 de enero de 2024
+### Actualización de mantenimiento el viernes, 11 de enero de 2024
 
 #### Tableros
 

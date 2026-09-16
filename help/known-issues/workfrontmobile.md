@@ -1,16 +1,15 @@
 ---
-title: Problemas conocidos de  [!DNL Adobe Workfront] Mobile App
-description: Problemas conocidos notificados para  [!DNL Adobe Workfront]  Mobile App
+title: Problemas conocidos de [!DNL Adobe Workfront] Mobile App
+description: Problemas conocidos notificados para [!DNL Adobe Workfront] aplicación móvil
 keywords: nuevo archivo, añadir archivo
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 100%
-
+source-wordcount: '64'
+ht-degree: 90%
 ---
-
 # Problemas conocidos de [!DNL Adobe Workfront] Mobile App
 
 Esta página contiene problemas identificados actualmente en [!DNL Adobe Workfront] Mobile App.

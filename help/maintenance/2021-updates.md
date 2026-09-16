@@ -3,13 +3,12 @@ title: Actualizaciones de mantenimiento de Workfront para 2021
 description: Historial de actualizaciones de mantenimiento de 2021 para [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '10226'
 ht-degree: 98%
-
 ---
-
 # Actualizaciones de mantenimiento de [!DNL Workfront] para 2021
 
 En 2021 se realizaron las siguientes actualizaciones de mantenimiento:
@@ -336,7 +335,7 @@ Ahora, los filtros del [!UICONTROL Distribuidor de cargas de trabajo] admiten tr
 
 _[!UICONTROL Distribuidor de cargas de trabajo]_
 
-Hemos actualizado los operadores de filtro cuando se filtran las áreas del[!UICONTROL &#x200B; Distribuidor de cargas de trabajo] por [!UICONTROL Duración].
+Hemos actualizado los operadores de filtro cuando se filtran las áreas del[!UICONTROL  Distribuidor de cargas de trabajo] por [!UICONTROL Duración].
 
 +++
 
@@ -983,7 +982,8 @@ Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] añade una colu
 
 _[!DNL Adobe Workfront Fusion]_
 
-Hemos eliminado el enlace a la configuración de las notificaciones de los correos electrónicos de notificación de [!DNL Adobe Workfront Fusion].Para más información sobre cómo cambiar la configuración de las notificaciones, consulte organizaciones y equipos de [!DNL Adobe Workfront Fusion].
+Hemos eliminado el enlace a la configuración de las notificaciones de los correos electrónicos de notificación de [!DNL Adobe Workfront Fusion].
+Para más información sobre cómo cambiar la configuración de las notificaciones, consulte organizaciones y equipos de [!DNL Adobe Workfront Fusion].
 
 +++
 
@@ -1011,7 +1011,7 @@ _Plantillas_
 
 Cuando un usuario de la nueva experiencia [!DNL Adobe Workfront] arrastra una tarea de plantilla a una nueva ubicación en una lista, el número de la tarea de plantilla se actualiza, pero no se reordena.
 
-**Tareas hijas no seleccionadas con las tareas principales**
+**Tareas secundarias no seleccionadas con las tareas principales**
 
 _Plantillas_
 
@@ -1540,7 +1540,8 @@ Hemos reducido el número máximo de actualizaciones que aparecen en la pestaña
 
 _[!DNL Workfront Proof]_
 
-NOTA: Este problema se solucionó en la nueva experiencia [!DNL Workfront] el 26 de febrero de 2021.Se solucionó en la experiencia [!DNL Classic] el 1 de marzo de 2021.
+NOTA: Este problema se solucionó en la nueva experiencia [!DNL Workfront] el 26 de febrero de 2021.
+Se solucionó en la experiencia [!DNL Classic] el 1 de marzo de 2021.
 
 Cuando un usuario crea una nueva prueba y habilita la opción [!UICONTROL Notificar a los destinatarios sobre esta prueba], no se envía ningún correo electrónico para notificarlos.
 

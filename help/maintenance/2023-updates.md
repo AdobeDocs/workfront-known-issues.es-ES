@@ -1,15 +1,14 @@
 ---
 title: Actualizaciones de mantenimiento de Workfont en 2023
-description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
+description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '7893'
 ht-degree: 98%
-
 ---
-
 # [!DNL Workfront]Actualizaciones de mantenimiento en 2023
 
 En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
@@ -105,7 +104,7 @@ Se ha informado de que esto ocurre cuando se selecciona un área en la navegaci�
 
 _[!UICONTROL Inicio]_
 
-Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo &#x200B;] del usuario.
+Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo ] del usuario.
 
 **La página de inicio de sesión redirige a la página de destino de cierre de sesión**
 
@@ -991,7 +990,7 @@ _Documentos_
 
 Cuando se ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y hay que desplazarse horizontalmente para ver el contenido del panel [!UICONTROL Resumen]. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
 
-**Nueva versión de**&#x200B;[!UICONTROL Desktop Proofing Viewer]
+**Nueva versión de**[!UICONTROL Desktop Proofing Viewer]
 
 _Revisión_
 
@@ -999,7 +998,7 @@ Para solucionar un problema de comentarios en [!UICONTROL Desktop Proofing Viewe
 
 Cuando [!UICONTROL Desktop Proofing Viewer] ya está instalado, esta actualización se obtiene automáticamente.
 
-También es posible descargar manualmente la versión más reciente. Para obtener más información, consulte la [[!UICONTROL Instalación de Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=es).
+También es posible descargar manualmente la versión más reciente. Para obtener más información, consulte la [[!UICONTROL Instalación de Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 
 * Versión anterior: 2.1.22
 * Nueva versión: 2.1.23
