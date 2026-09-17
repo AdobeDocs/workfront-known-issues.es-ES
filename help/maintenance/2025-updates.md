@@ -1,14 +1,14 @@
 ---
 title: Actualizaciones de mantenimiento de Workfont en 2025
-description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
+description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 28cc4e22ad9c05b1a3e2ecac5bca62ff8d6f4e49
-workflow-type: ht
-source-wordcount: '3668'
-ht-degree: 100%
-
+exl-id: 4bab940b-382b-41da-b134-7a956c679a26
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+workflow-type: tm+mt
+source-wordcount: '3762'
+ht-degree: 99%
 ---
-
 # [!DNL Workfront]Actualizaciones de mantenimiento en 2025
 
 >[!NOTE]
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 En esta página se describen los problemas corregidos en las actualizaciones semanales de Workfront.
 
-Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. El servicio de asistencia técnica de [!DNL Workfront] le avisará cuando haya solucionado el problema enviado por usted.
+Estas actualizaciones también incluyen otras correcciones de errores menores o menos importantes. [!DNL Workfront] El servicio de asistencia técnica de le avisará cuando haya solucionado un problema enviado por usted.
 
 Para ver las actualizaciones de mantenimiento anteriores a 2025, consulte [Actualizaciones de mantenimiento anteriores](#previous-maintenance-updates)
 
@@ -25,13 +25,13 @@ En 2025 se realizaron las siguientes actualizaciones de mantenimiento.
 
 ## Actualizaciones en diciembre de 2025
 
-+++**Actualizaciones de mantenimiento de Workfront Planning realizadas del 21 al 27 de diciembre de 2025**
++++**Actualizaciones de mantenimiento de Planificación de Workfront realizadas del 21 al 27 de diciembre de 2025**
 
-### Actualizaciones de mantenimiento de Workfront Planning, semana del 21 al 27 de diciembre de 2025
+### Actualizaciones de mantenimiento de Planificación de Workfront, semana del 21 al 27 de diciembre de 2025
 
 #### Error al eliminar el campo conectado
 
-Cuando un usuario intenta eliminar un campo conectado en Workfront Planning, no puede eliminarlo y ve el mensaje “No se puede eliminar el campo. Vuelva a intentarlo”.
+Cuando un usuario intenta eliminar un campo conectado en Planificación de Workfront, no puede eliminarlo y ve el mensaje “No se puede eliminar el campo. Vuelva a intentarlo”.
 
 +++
 
@@ -53,9 +53,9 @@ Cuando un usuario está creando una tarea e intenta asignar una función de usua
 
 +++
 
-+++**Actualizaciones de mantenimiento de Workfront Planning de la semana del 14 al 20 de diciembre de 2025**
++++**Actualizaciones de mantenimiento de Planificación de Workfront de la semana del 14 al 20 de diciembre de 2025**
 
-### Actualizaciones de mantenimiento de Workfront Planning semana del 14 al 20 de diciembre de 2025
+### Actualizaciones de mantenimiento de Planificación de Workfront semana del 14 al 20 de diciembre de 2025
 
 #### No se puede añadir un campo a una vista
 
@@ -63,7 +63,7 @@ Cuando un usuario está creando una tarea e intenta asignar una función de usua
 >
 >* Se ha informado de este problema en la zona protegida de actualización personalizada.
 
-Cuando un usuario intenta añadir un campo a una vista en Workfront Planning, el campo no se agrega y el usuario ve el siguiente mensaje de error:
+Cuando un usuario intenta añadir un campo a una vista en Planificación de Workfront, el campo no se agrega y el usuario ve el siguiente mensaje de error:
 
 “No se puede crear la columna de campo. Vuelva a intentarlo”.
 
@@ -163,9 +163,9 @@ Las actualizaciones de esta semana solo incluyen correcciones de errores menores
 
 ## Actualizaciones de noviembre de 2025
 
-+++**Actualizaciones de mantenimiento de Workfront Planning de la semana del 16 al 22 de noviembre de 2025**
++++**Actualizaciones de mantenimiento de Planificación de Workfront de la semana del 16 al 22 de noviembre de 2025**
 
-### Actualizaciones de mantenimiento de Workfront Planning semana del 16 al 22 de noviembre de 2025
+### Actualizaciones de mantenimiento de Planificación de Workfront semana del 16 al 22 de noviembre de 2025
 
 #### Formularios personalizados
 
@@ -177,9 +177,9 @@ Una mejora de esta lista es un indicador de activo/inactivo para cada formulario
 
 +++
 
-+++**Actualizaciones de mantenimiento de Workfront Planning de la semana del 9 al 15 de noviembre de 2025**
++++**Actualizaciones de mantenimiento de Planificación de Workfront de la semana del 9 al 15 de noviembre de 2025**
 
-### Actualizaciones de mantenimiento de Workfront Planning de la semana del 9 al 15 de noviembre de 2025
+### Actualizaciones de mantenimiento de Planificación de Workfront de la semana del 9 al 15 de noviembre de 2025
 
 #### Tipos de registro
 

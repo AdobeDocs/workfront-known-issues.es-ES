@@ -1,15 +1,14 @@
 ---
 title: Actualizaciones de mantenimiento de Workfont en 2023
-description: Actualizaciones de mantenimiento para  [!DNL Adobe Workfront]
+description: Actualizaciones de mantenimiento para [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '7893'
 ht-degree: 98%
-
 ---
-
 # [!DNL Workfront]Actualizaciones de mantenimiento en 2023
 
 En 2023 se realizaron las siguientes actualizaciones de mantenimiento.
