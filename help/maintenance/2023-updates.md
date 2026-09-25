@@ -113,7 +113,7 @@ Se ha informado de que esto ocurre cuando se selecciona un área en la navegaci�
 
 _[!UICONTROL Inicio]_
 
-Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo ] del usuario.
+Cuando un usuario ve su widget [!UICONTROL Mi trabajo] en [!UICONTROL Inicio], algunas de las tareas que tiene asignadas no se muestran en el widget. Por ejemplo, un usuario puede acceder a un proyecto y ver que tiene tareas asignadas, pero estas tareas no aparecen en el widget [!UICONTROL Mi trabajo &#x200B;] del usuario.
 
 **La página de inicio de sesión redirige a la página de destino de cierre de sesión**
 
@@ -999,7 +999,7 @@ _Documentos_
 
 Cuando se ve el panel [!UICONTROL Resumen] de un documento, el contenido es demasiado ancho para verlo en el panel. El panel ahora tiene una barra de desplazamiento horizontal y hay que desplazarse horizontalmente para ver el contenido del panel [!UICONTROL Resumen]. Esto ocurre porque el nombre de archivo del documento no se ajusta. Este problema se limita al archivo donde el nombre del archivo tiene una extensión de archivo HTML.
 
-**Nueva versión de**[!UICONTROL Desktop Proofing Viewer]
+**Nueva versión de**&#x200B;[!UICONTROL Desktop Proofing Viewer]
 
 _Revisión_
 

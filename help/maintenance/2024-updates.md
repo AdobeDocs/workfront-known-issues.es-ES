@@ -586,7 +586,7 @@ Cuando se intenta añadir una subtarea a un panel de historias mientras hay un f
 
 #### Inicio
 
-**No se pueden abrir elementos desde [!UICONTROL  Calendario de inicio] o [!UICONTROL Lista de trabajos]**
+**No se pueden abrir elementos desde [!UICONTROL &#x200B; Calendario de inicio] o [!UICONTROL Lista de trabajos]**
 
 Cuando se intenta abrir un elemento de trabajo o una prueba desde [!UICONTROL Calendario de inicio] o [!UICONTROL Lista de trabajos de inicio], el elemento no se abre.
 

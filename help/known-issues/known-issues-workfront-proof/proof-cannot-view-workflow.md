@@ -1,6 +1,6 @@
 ---
 title: 'Workfront Proof: No se puede expandir el flujo de trabajo'
-description: Mientras están en la página [!DNL ProofHQ][!UICONTROL Tablero], los usuarios no pueden expandir el flujo de trabajo de Prueba desde la lista Prueba en la página del tablero. Cuando un usuario hace clic en el botón de expansión, el botón no responde.
+description: Mientras están en la página [!DNL ProofHQ]&#x200B;[!UICONTROL Tablero], los usuarios no pueden expandir el flujo de trabajo de Prueba desde la lista Prueba en la página del tablero. Cuando un usuario hace clic en el botón de expansión, el botón no responde.
 feature: Digital Content and Documents
 exl-id: 8b5b5847-9cc8-4336-ac1a-5bc876120073
 product_v2:
@@ -24,6 +24,6 @@ ht-degree: 93%
 
 <!--Won't fix, live until Proof deprecated-->
 
-Mientras están en la página [!DNL ProofHQ][!UICONTROL Tablero], los usuarios no pueden expandir el flujo de trabajo de Prueba desde la lista Prueba en la página del tablero. Cuando un usuario hace clic en el botón de expansión, el botón no responde.
+Mientras están en la página [!DNL ProofHQ]&#x200B;[!UICONTROL Tablero], los usuarios no pueden expandir el flujo de trabajo de Prueba desde la lista Prueba en la página del tablero. Cuando un usuario hace clic en el botón de expansión, el botón no responde.
 
 _Notificado por primera vez el jueves, 04 de octubre de 2023._
