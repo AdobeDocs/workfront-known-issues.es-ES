@@ -3,13 +3,20 @@ title: 'Distribuidor de cargas de trabajo: las horas no se ajustan para tener en
 description: Si una persona programa los días libres y tiene tareas asignadas, el Distribuidor de cargas de trabajo no actualiza la cronología para tenerlos en cuenta. En su lugar, el Distribuidor de cargas de trabajo muestra que la persona tiene un exceso de asignaciones para dichos días. Para ajustar las horas, el rol de administrador debe ir al proyecto y volver a calcular la cronología.
 exl-id: 0b3c75c4-43cf-4de2-a2ab-e67c24db6930
 feature: Resource Management
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 92%
-
 ---
-
 # [!UICONTROL Distribuidor de cargas de trabajo]: las horas no se ajustan para tener en cuenta los días libres
 
 >[!NOTE]

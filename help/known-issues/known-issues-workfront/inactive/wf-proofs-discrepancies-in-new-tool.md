@@ -1,16 +1,23 @@
 ---
 title: 'Pruebas: problemas al procesar archivos estáticos'
 description: Workfront ha cambiado recientemente su herramienta de procesamiento de pruebas de proveedor externo a una solución interna y ha descubierto algunas discrepancias en las funcionalidades de ambos sistemas. Estas discrepancias pueden causar problemas con el procesamiento de archivos estáticos, especialmente archivos de PDF, Word y PPT. Hay una solución disponible.
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
-source-wordcount: '151'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
+workflow-type: tm+mt
+source-wordcount: '155'
 ht-degree: 100%
-
 ---
-
 # Pruebas: problemas al procesar archivos estáticos
 
 <!--WF and WFP TOCs-->

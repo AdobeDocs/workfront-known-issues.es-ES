@@ -3,13 +3,25 @@ title: 'Tareas: al buscar el nombre en la asignación de tareas, no se muestran 
 description: Cuando un usuario realiza una asignación de tarea e intenta buscar al usuario asignado por su nombre, la búsqueda no devuelve ningún usuario y aparece el mensaje No se encontraron resultados. Hay una solución disponible.
 feature: Tasks, People Teams and Groups
 exl-id: 0c31d1e4-7025-45a7-96ed-a7f9a4447eca
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+    internal-label: Tasks
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
-
 ---
-
 # Tareas: al buscar el nombre en la asignación de tareas, no se muestran usuarios
 
 >[!NOTE]

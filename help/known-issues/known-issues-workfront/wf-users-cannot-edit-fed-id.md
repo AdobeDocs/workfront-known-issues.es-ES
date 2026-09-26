@@ -3,13 +3,17 @@ title: 'Usuarios: no se puede editar el identificador de federación de un usuar
 description: Cuando un administrador intenta actualizar el identificador de federación de un usuario, el campo de dicha información no está disponible y el administrador no puede actualizarlo.
 feature: People Teams and Groups
 exl-id: cfb26af4-92ae-4f1c-a233-a626ce2b107e
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
-
 ---
-
 # Usuarios: no se puede editar el identificador de federación de un usuario
 
 >[!NOTE]

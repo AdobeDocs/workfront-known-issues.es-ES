@@ -1,23 +1,33 @@
 ---
-title: 'Workfront Planning: no se puede añadir un campo a una vista'
-description: Cuando un usuario intenta añadir un campo a una vista en Workfront Planning, el campo no se añade y el usuario ve un mensaje.
+title: 'Planificación de Workfront: no se puede añadir un campo a una vista'
+description: Cuando un usuario intenta añadir un campo a una vista en Planificación de Workfront, el campo no se añade y el usuario ve un mensaje.
 feature: Workfront Planning
 exl-id: 6c0dac0b-b294-491d-973a-88e0ff8d3aef
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: eb361af2-3e4f-4a79-b5f3-7a344ac5794c
+    internal-label: Workfront Planning
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
-
 ---
-
-# Workfront Planning: no se puede añadir un campo a una vista
+# Planificación de Workfront: no se puede añadir un campo a una vista
 
 >[!NOTE]
 >
 >* Este problema se corrigió el 19 de diciembre de 2025.
 >* Se ha informado de este problema en la zona protegida de actualización personalizada.
 
-Cuando un usuario intenta añadir un campo a una vista en Workfront Planning, el campo no se agrega y el usuario ve el siguiente mensaje de error:
+Cuando un usuario intenta añadir un campo a una vista en Planificación de Workfront, el campo no se agrega y el usuario ve el siguiente mensaje de error:
 
 “No se puede crear la columna de campo. Vuelva a intentarlo”.
 
